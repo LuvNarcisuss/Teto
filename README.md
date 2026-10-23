@@ -58,6 +58,14 @@ git lfs pull
 
 Open `Teto.xcodeproj` after the media download finishes. This repository contains source code, Xcode metadata, runtime resources, design originals and documentation. It does not contain a signed IPA. Local signing credentials, build output and Xcode user state are excluded from Git.
 
+## Codemagic distribution
+
+Select the `teto-ios-app-store` workflow in `codemagic.yaml`. It uses Xcode 26.5, the root `Teto.xcodeproj`, scheme `teto`, bundle ID `com.teto.dance`, and App Store Connect app ID `6826151569`.
+
+The Codemagic App Store Connect integration must be named `Teto`, with access to this app. Its signing identities must include a valid Apple Distribution certificate and matching App Store profile. The workflow downloads bundled Git LFS media, applies signing profiles, assigns a new build number, exports the Release IPA and uploads it using `publishing.app_store_connect.auth: integration`. The `submit_to_testflight` and `submit_to_app_store` flags remain false: upload is enabled; automatic beta review and App Store review submission are disabled. Apple must process the uploaded build before it becomes available in App Store Connect.
+
+The workflow is manually started; no repository push trigger is declared. Configuration has been inspected statically. Signing, archive creation and delivery have not been executed or verified.
+
 ## Project identity
 
 The project is `Teto.xcodeproj`; its target, shared scheme and executable are `teto`. The app display name is `Teto` and the bundle identifier is `com.teto.dance`. Source types, resource filenames and component APIs use the new brand throughout.

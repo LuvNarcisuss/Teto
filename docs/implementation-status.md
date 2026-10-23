@@ -1,5 +1,11 @@
 > Current UI architecture (2026-10-20): UIKit + Swift. See [UIKit migration](uikit-migration.md) for current source entry points, generated icons, service boundaries and unverified items. Earlier SwiftUI file inventories below are historical and have been superseded.
 
+## 2026-10-23 — Teto Codemagic App Store configuration
+
+The root `codemagic.yaml` now targets `Teto.xcodeproj` / `teto`, bundle ID `com.teto.dance`, Apple app ID `6826151569`, the `Teto` App Store Connect integration and Xcode `26.5`. The earlier Unison/Runner identifiers and `ios/` working directories were template values and are superseded. The user-supplied notification recipient is preserved.
+
+The workflow fetches runtime Git LFS videos, applies App Store signing profiles, queries the highest TestFlight build number across versions, and supplies the next number as `CURRENT_PROJECT_VERSION` during archive. Authentication/query failures stop the workflow instead of silently choosing a potentially duplicate number. Exported IPA artifacts are uploaded by `publishing.app_store_connect.auth: integration`; automatic TestFlight beta review and App Store review remain disabled. The Codemagic integration and matching distribution signing identities must already be configured in the service. No workflow was started, no signing was attempted, and no IPA upload was performed during this change. Validation is limited to YAML parsing, shell syntax, source paths and project metadata.
+
 ## 2026-10-23 — Teto agreement contact email
 
 At the user’s request, every email address in both bundled agreements and their existing Google Docs copies now uses `18781461148@163.com` (three occurrences in Terms of Service and one in Privacy Policy). Document IDs and application URLs are unchanged. The existing content-hash acceptance version reflects the updated local text; prior acceptance receipts are preserved. Local source inspection and cloud readback only; no build, typecheck, tests, app launch, or simulator.

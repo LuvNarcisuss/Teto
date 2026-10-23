@@ -1,65 +1,85 @@
 workflows:
-  unison-ios-app-store:
-    name: Unison iOS App Store
+  teto-ios-app-store:
+    name: Teto iOS App Store
     max_build_duration: 120
     instance_type: mac_mini_m2
 
     integrations:
-      app_store_connect: Unison
+      app_store_connect: Teto
 
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.unisonvocal.community
+        bundle_identifier: com.teto.dance
 
       vars:
-        BUNDLE_ID: "com.unisonvocal.community"
-        XCODE_WORKSPACE: "ios/Runner.xcworkspace"
-        XCODE_SCHEME: "Runner"
-        APP_STORE_APPLE_ID: "6802950506"
+        BUNDLE_ID: "com.teto.dance"
+        XCODE_PROJECT: "Teto.xcodeproj"
+        XCODE_SCHEME: "teto"
+        APP_STORE_APPLE_ID: "6826151569"
+        GIT_LFS_SKIP_SMUDGE: "1"
 
-      xcode: latest
+      xcode: "26.5"
 
     scripts:
       - name: Verify native iOS project configuration
         script: |
-          set -e
-          test -d "$CM_BUILD_DIR/$XCODE_WORKSPACE"
-          test -f "$CM_BUILD_DIR/ios/Runner.xcodeproj/xcshareddata/xcschemes/$XCODE_SCHEME.xcscheme"
-          grep -q "PRODUCT_BUNDLE_IDENTIFIER = $BUNDLE_ID;" \
-            "$CM_BUILD_DIR/ios/Runner.xcodeproj/project.pbxproj"
+          set -euo pipefail
+          cd "$CM_BUILD_DIR"
+          test -d "$XCODE_PROJECT"
+          test -f "$XCODE_PROJECT/xcshareddata/xcschemes/$XCODE_SCHEME.xcscheme"
+          grep -Fq "PRODUCT_BUNDLE_IDENTIFIER = \"$BUNDLE_ID\";" \
+            "$XCODE_PROJECT/project.pbxproj"
+
+      - name: Download bundled dance videos
+        script: |
+          set -euo pipefail
+          cd "$CM_BUILD_DIR"
+          git lfs install --local
+          git lfs pull --include="Teto/Resources/**" --exclude=""
+          if grep -rl '^version https://git-lfs.github.com/spec/v1$' Teto/Resources; then
+            echo "Bundled resources still contain Git LFS pointers."
+            exit 1
+          fi
 
       - name: Set up App Store signing
         script: |
-          set -e
-          cd "$CM_BUILD_DIR/ios"
+          set -euo pipefail
+          cd "$CM_BUILD_DIR"
           xcode-project use-profiles
 
       - name: Set next App Store build number
         script: |
-          set -e
-          cd "$CM_BUILD_DIR/ios"
+          set -euo pipefail
+          cd "$CM_BUILD_DIR"
 
           LATEST_BUILD_NUMBER="$(
             app-store-connect get-latest-testflight-build-number \
-              "$APP_STORE_APPLE_ID" 2>/dev/null || true
+              "$APP_STORE_APPLE_ID" --all-versions
           )"
 
-          if echo "$LATEST_BUILD_NUMBER" | grep -Eq '^[0-9]+$'; then
-            NEXT_BUILD_NUMBER=$((LATEST_BUILD_NUMBER + 1))
-          else
-            NEXT_BUILD_NUMBER="${BUILD_NUMBER:-1}"
+          LATEST_BUILD_NUMBER="${LATEST_BUILD_NUMBER:-0}"
+          [[ "$LATEST_BUILD_NUMBER" =~ ^[0-9]+$ ]] || { echo "Invalid App Store build number."; exit 1; }
+          NEXT_BUILD_NUMBER=$((10#$LATEST_BUILD_NUMBER + 1))
+          CI_BUILD_NUMBER="${BUILD_NUMBER:-1}"
+          [[ "$CI_BUILD_NUMBER" =~ ^[0-9]+$ ]] || { echo "Invalid CI build number."; exit 1; }
+          if (( 10#$CI_BUILD_NUMBER > NEXT_BUILD_NUMBER )); then
+            NEXT_BUILD_NUMBER=$((10#$CI_BUILD_NUMBER))
           fi
 
           echo "Using build number: $NEXT_BUILD_NUMBER"
-          agvtool new-version -all "$NEXT_BUILD_NUMBER"
+          echo "TETO_BUILD_NUMBER=$NEXT_BUILD_NUMBER" >> "$CM_ENV"
 
       - name: Build signed IPA
         script: |
-          set -e
+          set -euo pipefail
+          cd "$CM_BUILD_DIR"
           xcode-project build-ipa \
-            --workspace "$CM_BUILD_DIR/$XCODE_WORKSPACE" \
-            --scheme "$XCODE_SCHEME"
+            --project "$CM_BUILD_DIR/$XCODE_PROJECT" \
+            --scheme "$XCODE_SCHEME" \
+            --config Release \
+            --archive-xcargs "CURRENT_PROJECT_VERSION=$TETO_BUILD_NUMBER" \
+            --ipa-directory "$CM_BUILD_DIR/build/ios/ipa"
 
     artifacts:
       - build/ios/ipa/*.ipa
@@ -70,12 +90,13 @@ workflows:
     publishing:
       email:
         recipients:
-          - aelm102100@gmail.com
+          - 2758057680@qq.com
         notify:
           success: true
           failure: true
 
       app_store_connect:
+        # Upload the IPA using the Teto integration; review submission is separate.
         auth: integration
         submit_to_testflight: false
         submit_to_app_store: false
