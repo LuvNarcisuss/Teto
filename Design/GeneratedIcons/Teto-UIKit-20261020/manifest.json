@@ -1,0 +1,432 @@
+[
+  {
+    "name": "search",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single production iOS button icon for Teto dance social app. Subject: magnifying glass, thick evergreen circular rim and short lime handle. The lens is an empty hole, not an ivory disc. Style: premium playful soft satin 3D clay, simple chunky silhouette readable at 24 points, subtle studio highlights, no heavy shadow. Palette evergreen #126B58, lime #DDF4A6. Centered single isolated object, front view, square canvas, 14 percent clear margin. Actual transparent background, including the lens. No lettering, no surrounding panel, no duplicate objects, no watermark.",
+    "revised": "2026-10-22 hollow lens. The ivory disc was removed from the generated ring so the center alpha is clear.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-fe186d90-9498-448d-bca6-62b732ccffe3.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/search.png",
+    "runtime_asset": "TetoIcon-search",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "live",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single production iOS button icon for Teto dance social app. Subject: rounded evergreen live video camera with small lime dancing figure inside. Style: premium playful soft satin 3D clay, simple chunky silhouette readable at 24 points, subtle studio highlights, no heavy shadow. Palette evergreen #126B58, lime #DDF4A6, warm ivory #FAFBF7. Centered single isolated object, front view, square canvas, 14 percent clear margin. Actual transparent background. No lettering, no surrounding panel, no duplicate objects, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-e8fed3cb-6bb2-41a0-a140-d460cb1c6b98.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/live.png",
+    "runtime_asset": "TetoIcon-live",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "settings",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single production iOS button icon for Teto dance social app. Subject: six-tooth evergreen gear with ivory center and tiny lime inset. Style: premium playful soft satin 3D clay, simple chunky silhouette readable at 24 points, subtle studio highlights, no heavy shadow. Palette evergreen #126B58, lime #DDF4A6, warm ivory #FAFBF7. Centered single isolated object, front view, square canvas, 14 percent clear margin. Actual transparent background. No lettering, no surrounding panel, no duplicate objects, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-2ec06a67-74b8-4bc1-a072-b4af47ad94dd.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/settings.png",
+    "runtime_asset": "TetoIcon-settings",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "voice",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single production iOS button icon for Teto dance social app. Subject: evergreen studio microphone with lime grille and rounded stand. Style: premium playful soft satin 3D clay, simple chunky silhouette readable at 24 points, subtle studio highlights, no heavy shadow. Palette evergreen #126B58, lime #DDF4A6, warm ivory #FAFBF7. Centered single isolated object, front view, square canvas, 14 percent clear margin. Actual transparent background. No lettering, no surrounding panel, no duplicate objects, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-d47f65b9-95db-4dc6-ad2b-0dbfa1f1c377.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/voice.png",
+    "runtime_asset": "TetoIcon-voice",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "chats",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single production iOS button icon for Teto dance social app. Subject: two overlapping evergreen and lime speech bubbles with three ivory dots. Style: premium playful soft satin 3D clay, simple chunky silhouette readable at 24 points, subtle studio highlights, no heavy shadow. Palette evergreen #126B58, lime #DDF4A6, warm ivory #FAFBF7. Centered single isolated object, front view, square canvas, 14 percent clear margin. Actual transparent background. No lettering, no surrounding panel, no duplicate objects, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-17046427-28be-451c-8a78-8ea0befcddbf.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/chats.png",
+    "runtime_asset": "TetoIcon-chats",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "me",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single production iOS button icon for Teto dance social app. Subject: rounded abstract person bust in evergreen with ivory face and lime shoulder accent. Style: premium playful soft satin 3D clay, simple chunky silhouette readable at 24 points, subtle studio highlights, no heavy shadow. Palette evergreen #126B58, lime #DDF4A6, warm ivory #FAFBF7. Centered single isolated object, front view, square canvas, 14 percent clear margin. Actual transparent background. No lettering, no surrounding panel, no duplicate objects, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-c6065888-c4c3-486e-be8e-4b64a6945f4d.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/me.png",
+    "runtime_asset": "TetoIcon-me",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "shorts",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single production iOS button icon for Teto dance social app. Subject: evergreen rounded vertical video tile containing a lime play triangle. Style: premium playful soft satin 3D clay, simple chunky silhouette readable at 24 points, subtle studio highlights, no heavy shadow. Palette evergreen #126B58, lime #DDF4A6, warm ivory #FAFBF7. Centered single isolated object, front view, square canvas, 14 percent clear margin. Actual transparent background. No lettering, no surrounding panel, no duplicate objects, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-8dea0ae0-5add-4ba3-b3dd-59d2bf03c9ab.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/shorts.png",
+    "runtime_asset": "TetoIcon-shorts",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "plus",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single production iOS button icon for Teto dance social app. Subject: chunky rounded evergreen plus sign with small lime bevel. Style: premium playful soft satin 3D clay, simple chunky silhouette readable at 24 points, subtle studio highlights, no heavy shadow. Palette evergreen #126B58, lime #DDF4A6, warm ivory #FAFBF7. Centered single isolated object, front view, square canvas, 14 percent clear margin. Actual transparent background. No lettering, no surrounding panel, no duplicate objects, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-17d02e04-1b31-4fe4-b7c1-4b97f7be197b.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/plus.png",
+    "runtime_asset": "TetoIcon-plus",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "close",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: rounded X cross. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-60adbf2c-3bfe-46a9-abba-cd5069b86a56.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/close.png",
+    "runtime_asset": "TetoIcon-close",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "back",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: single chevron pointing left. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-01f88263-5c03-4676-9554-2ae705916426.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/back.png",
+    "runtime_asset": "TetoIcon-back",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "heart",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: a coral heart with a small evergreen base. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-dc9ef130-0de0-4b30-aef6-751c02ec5510.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/heart.png",
+    "runtime_asset": "TetoIcon-heart",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "bookmark",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: bookmark ribbon with a lime folded corner. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-8a73593c-ab26-4934-9bd0-ee6a3e0bbcc6.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/bookmark.png",
+    "runtime_asset": "TetoIcon-bookmark",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "comment",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: evergreen speech bubble with three ivory dots. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-5aa02572-f654-4078-9bd9-9b25aa880a2c.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/comment.png",
+    "runtime_asset": "TetoIcon-comment",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "share",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: curved arrow pointing up and right. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-61fd42ad-dc0b-4114-b134-3536e92def51.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/share.png",
+    "runtime_asset": "TetoIcon-share",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "send",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: paper airplane. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-cbfc4fa0-2273-436a-87ce-4c5f98157606.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/send.png",
+    "runtime_asset": "TetoIcon-send",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "play",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: rounded triangle pointing right. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-1f6e8d1e-b65a-4627-bf01-0bb686c0aede.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/play.png",
+    "runtime_asset": "TetoIcon-play",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "pause",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: two rounded parallel vertical bars. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-6d7a4f02-0370-4774-b301-7878b45f5275.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/pause.png",
+    "runtime_asset": "TetoIcon-pause",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "flag",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: a waving report flag. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-144c8e92-6bbd-4c18-9690-50d350c7f39d.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/flag.png",
+    "runtime_asset": "TetoIcon-flag",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "block",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: a circle with a diagonal slash. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-5876ce91-84c5-42c3-a566-767602cd6a73.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/block.png",
+    "runtime_asset": "TetoIcon-block",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "trash",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: lidded waste bin. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-52c008d1-ced5-4e50-900d-0d559d899665.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/trash.png",
+    "runtime_asset": "TetoIcon-trash",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "logout",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: doorway with an outward arrow. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-46a205c3-e136-4810-8223-75988461cc07.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/logout.png",
+    "runtime_asset": "TetoIcon-logout",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "check",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: rounded check mark. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-9d135300-0715-40af-a2eb-6d2f8e6057a4.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/check.png",
+    "runtime_asset": "TetoIcon-check",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "clock",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: round clock with two hands. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-50073184-2fbb-445c-a540-0ad8da53bdb1.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/clock.png",
+    "runtime_asset": "TetoIcon-clock",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "filter",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: three horizontal sliders. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-724cc9de-b09c-4443-8769-2fcbdf1d7c5c.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/filter.png",
+    "runtime_asset": "TetoIcon-filter",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "refresh",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: two curved arrows forming a circle. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-aa3d37b1-55a3-4f28-83d4-0744e337ce5b.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/refresh.png",
+    "runtime_asset": "TetoIcon-refresh",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "microphone",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: studio microphone with stand. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-e1ce671b-b095-4ade-9c77-2d6c259765bd.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/microphone.png",
+    "runtime_asset": "TetoIcon-microphone",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "speaker",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: loudspeaker with two sound waves. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-0d2b5f13-004b-42af-851b-97524b667e65.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/speaker.png",
+    "runtime_asset": "TetoIcon-speaker",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "muted",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: loudspeaker with a diagonal slash. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-a6a86ebe-4834-48dc-8b6d-15aedc986b46.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/muted.png",
+    "runtime_asset": "TetoIcon-muted",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "flip",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: camera with two circular arrows. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-e1646f13-b7e8-44b6-89b9-9162902a14eb.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/flip.png",
+    "runtime_asset": "TetoIcon-flip",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "phone",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: coral telephone receiver, horizontal hang-up shape. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-5c2df7b1-1846-446d-acc4-44855a7a7348.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/phone.png",
+    "runtime_asset": "TetoIcon-phone",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "gift",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: lime gift box with evergreen ribbon and small coral bow. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-bf291cf6-3c78-4da2-b7cd-c37c1aa6d2f0.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/gift.png",
+    "runtime_asset": "TetoIcon-gift",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "diamond",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: a faceted emerald gemstone. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-6c30bf47-c641-4928-a944-c010e9b3cccf.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/diamond.png",
+    "runtime_asset": "TetoIcon-diamond",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "flower",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: coral rose with green leaves. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-b668ed34-be48-480a-a599-06864c7ef792.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/flower.png",
+    "runtime_asset": "TetoIcon-flower",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "balloon",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: two balloons in lime and coral with evergreen ribbons. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-fb466f44-0327-493c-a40f-e0f908915169.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/balloon.png",
+    "runtime_asset": "TetoIcon-balloon",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "music",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: a pair of connected musical notes. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-02c72b4e-e8f5-4842-9804-b40b3d5939be.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/music.png",
+    "runtime_asset": "TetoIcon-music",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "crown",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: lime three-point crown with emerald jewels. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-6978b59e-019e-400c-9b44-97f6099a6325.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/crown.png",
+    "runtime_asset": "TetoIcon-crown",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "sparkle",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: a four-point lime star. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-464d7712-4fe8-4f8c-a913-ec21527e1708.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/sparkle.png",
+    "runtime_asset": "TetoIcon-sparkle",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "photo",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: rounded photograph frame with lime mountain and ivory sun. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-cf34dbe2-7b83-45a8-9aef-fd1703cf1c2a.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/photo.png",
+    "runtime_asset": "TetoIcon-photo",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "info",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: round evergreen information sign with ivory lowercase i. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-fb12fd6f-01ac-4a8b-9077-3b82da34dcda.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/info.png",
+    "runtime_asset": "TetoIcon-info",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "more",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: three evenly spaced evergreen spheres in a horizontal row. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-728eec37-ae5a-4cd1-aa19-74d8560bf769.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/more.png",
+    "runtime_asset": "TetoIcon-more",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "grid",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: four rounded squares in a two-by-two arrangement. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-d1d7bab9-eda2-481d-9b7e-fda7c382531b.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/grid.png",
+    "runtime_asset": "TetoIcon-grid",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "eye",
+    "generator": "OpenAI image_gen.imagegen",
+    "transparent_background": true,
+    "prompt": "Use case: stylized-concept. Asset type: a single small iOS button icon for Teto dance app. Subject: stylized eye with lime iris. A consistent premium soft satin 3D clay design, simple bold silhouette readable at 24 points, gentle highlights, minimal detail. Evergreen #126B58, lime #DDF4A6, ivory #FAFBF7 palette, tiny coral accents where specified. Centered single object, front view, square composition, 15 percent clear margin, genuine transparent background. No text except the specified information glyph, no enclosing button panel, no watermark.",
+    "generated_source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-95e2c7c1-7c70-44a8-81d2-8bb445e77816.png",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/eye.png",
+    "runtime_asset": "TetoIcon-eye",
+    "packaging": "sips resize only; 64pt at 1x, 2x, 3x; original alpha retained"
+  },
+  {
+    "name": "handset",
+    "generator": "image_gen",
+    "transparent_background": true,
+    "prompt": "A single production iOS button icon of a classic telephone handset in the calling pose, tilted diagonally with the earpiece toward the upper left and the mouthpiece toward the lower right. The handset is a chunky rounded evergreen shape with warm ivory ear and mouth caps and a small spring-lime highlight. Premium playful soft satin 3D clay, simple bold silhouette readable at a small size, gentle studio highlights, no cast shadow. Centered on a square canvas with a generous empty margin. Isolated object only, genuine transparent background, no text, no button plate, no watermark.",
+    "preserved_original": "Design/GeneratedIcons/Teto-UIKit-20261020/handset.png",
+    "runtime_asset": "TetoIcon-handset",
+    "packaging": "white background removed by edge flood fill; sips resize only to 64/128/192; alpha retained. The horizontal coral receiver remains TetoIcon-phone for ending a call."
+  }
+]

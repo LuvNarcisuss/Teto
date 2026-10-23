@@ -1,0 +1,1078 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		010C8792F106A1432BBB97FE /* ProfileControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47A34B0DCDE8C7D630AD6285 /* ProfileControllers.swift */; };
+		0375FCEEE6A692C9421A593F /* LiveRoomPlayback.swift in Sources */ = {isa = PBXBuildFile; fileRef = F70DEB2A84702AD05AD510F8 /* LiveRoomPlayback.swift */; };
+		04B0FCD597EAFE50E5116D44 /* DancerPortraits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66CD7F8EB0E7CF2E36F7E718 /* DancerPortraits.swift */; };
+		05522E6BDFF1E59C674D28FC /* PhraseFigure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CD1B972E6BE4658396F5D7 /* PhraseFigure.swift */; };
+		06C720F171DC73C20D809530 /* LocalLibraryRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13E43BDA17ED5EA52833B10C /* LocalLibraryRepository.swift */; };
+		0C74C3F0B9430E7AF2322E35 /* dance-expressive-arms.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9FC06FBB1C38910D877A0E37 /* dance-expressive-arms.mp4 */; };
+		0CB7737931A6647A36D4F292 /* phrase-film-ballet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F950DD819FB7BB0B17A5EC34 /* phrase-film-ballet.jpg */; };
+		0E3F39C5DF572439A4BD4485 /* DancePhrase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91404684BB2E45D9C9CB1C5F /* DancePhrase.swift */; };
+		0E924C100EA21AB285EDFEBB /* dance-studio.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2CB38B347E4457CA48E00CB0 /* dance-studio.mp4 */; };
+		0F428AECBB095FA7F6B47875 /* CallCameraController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3DE6B9AFDEE8A4E794ADE3 /* CallCameraController.swift */; };
+		126A118BA01D8798DAB89083 /* PhraseDetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 188F0AF36CF76D6C90A00D63 /* PhraseDetailController.swift */; };
+		132B7D241FCA3BDA649EBA82 /* phrase-film-rehearsal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D2A105EAE95FA168075669D /* phrase-film-rehearsal.jpg */; };
+		1613E2EF80FCC8F8AA8562C5 /* CreationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1946F4C7858424657FDBE3F /* CreationController.swift */; };
+		16F0995A2ECA5B431CA3D9B8 /* WalletStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB722A322A7ED8612B88FEA9 /* WalletStore.swift */; };
+		194AFA79AF60D2E627454BE2 /* Agreements in Resources */ = {isa = PBXBuildFile; fileRef = B5EBE3920AB8602AFD307003 /* Agreements */; };
+		1983FD68BF6E72906BC50975 /* dance-crosswalk-duet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6C1A4EE86941881A060827F8 /* dance-crosswalk-duet.jpg */; };
+		1D7B598E76560ADF89A54A19 /* dance-ballet-practice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 32D6A802BFA75B459889CBAC /* dance-ballet-practice.jpg */; };
+		1DD71D347B64C90DD99ACF1E /* dance-studio-chemistry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B800B6D8C00C52EEB24C0C8B /* dance-studio-chemistry.jpg */; };
+		1E514D920E9E278D58282D30 /* dance-bridge-freestyle.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0D05202EDCE02A6A3DC2C1EF /* dance-bridge-freestyle.mp4 */; };
+		1F3568BCFB0DD1F37B27B312 /* dance-mosaic-steps.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C05044934774BF2A81C69795 /* dance-mosaic-steps.jpg */; };
+		230259A6261E398C8409FA7D /* dance-urban-footwork.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E19A86B0D83B8BCB881AF6A5 /* dance-urban-footwork.mp4 */; };
+		23975BBE6AF1D7297121B6E3 /* DancePhraseCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 806C89708B621109342E7A89 /* DancePhraseCatalog.swift */; };
+		24BF22968F9B12193FA7843B /* UserAgreement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 282BBD0D9125825E185B5D12 /* UserAgreement.swift */; };
+		24F6F964F583740AC083AF9A /* dance-shared-rhythm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84CF168FBB37D837DEC8DE82 /* dance-shared-rhythm.jpg */; };
+		25100BA8E545D6E101C429D0 /* dance-hoodie-phrase.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = EE97A20B083225B43807A3F4 /* dance-hoodie-phrase.mp4 */; };
+		28A767D1BC5F28AFB67270C1 /* dance-seaside.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F62E03BF74232D59F7755102 /* dance-seaside.jpg */; };
+		2A0941FC9521F31CC511EAEF /* phrase-film-jazz.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BEB6E336E97EED66A63A98F6 /* phrase-film-jazz.mp4 */; };
+		2A09ADF72836C961B4DB77B5 /* dance-night-crew.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B18DA04F57F5DCD9880A6FB6 /* dance-night-crew.jpg */; };
+		2C8FFCFBFCFFF68A9400D986 /* PartyControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1603416BA6ADF4AFDE2AECEA /* PartyControllers.swift */; };
+		2D76B0482A1D8F6867DF1DC4 /* dance-hiphop-solo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 29B1B2A6AD44861541397758 /* dance-hiphop-solo.jpg */; };
+		2EBD67586CCFEF84B84B4E60 /* WalletModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FC2E24444F9AD16176143AF /* WalletModels.swift */; };
+		30507B6B064A4921B06252C9 /* dance-rooftop-freestyle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3CE91C2EC82B0B9F187A760 /* dance-rooftop-freestyle.jpg */; };
+		308334797AD861EBC6D7FF19 /* dance-sunny-salsa.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 883CAF937BBE0C23DA34EDB4 /* dance-sunny-salsa.mp4 */; };
+		30D512CB8DF25B2CB15F1A94 /* dance-contemporary-flow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E07DF831C5A3FCD66DD5A226 /* dance-contemporary-flow.jpg */; };
+		30F0D2FE134C74E30D477D1B /* dance-expressive-arms.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 832CC56FA28D7326E153E25B /* dance-expressive-arms.jpg */; };
+		313233DFF829E0875F93CCBE /* phrase-film-street.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 630067B9BE6BCD872A102A97 /* phrase-film-street.jpg */; };
+		33178449571489435312F040 /* ShortsInteractionRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5BFD92FD6A62E97D381E10 /* ShortsInteractionRepository.swift */; };
+		33451BD26A626513C6E5FF4A /* phrase-film-reach.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DF635C3E115BBAC64162D029 /* phrase-film-reach.jpg */; };
+		396762EF63D7F6517F870467 /* dance-cypher-night.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E80A65E3AAB070FF14E62D37 /* dance-cypher-night.mp4 */; };
+		3CEF6B2E4DCB6BA1C0DC27EA /* dance-practice-partners.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 881927254E8C0AA590989C33 /* dance-practice-partners.jpg */; };
+		3F21E905124650DC1986ADD4 /* dance-trio-count.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 01D7F2C46EF1B8CAED968C23 /* dance-trio-count.jpg */; };
+		41F709B51A981DC52BDDD239 /* dance-glitter-groove.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 710FC1017520A03075120F6D /* dance-glitter-groove.jpg */; };
+		44F04624D50242D7B087E273 /* TetoIcons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96214B9384215B37DE45D098 /* TetoIcons.swift */; };
+		45CE7760838B0337C1DCDE87 /* phrase-film-groove.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CA15B765D21BD0AAD54D4022 /* phrase-film-groove.mp4 */; };
+		471F53BE04A8C13B3A0B996F /* ContentSafety.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20EDD2D2BDE6D8B70AC05092 /* ContentSafety.swift */; };
+		479F0638DCC44B9FE4DBB308 /* dance-night-crew.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2A5036D5BFFBFBB817E99D5C /* dance-night-crew.mp4 */; };
+		4987BE76EED312B3AAFAB339 /* CallController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF505F8B6BE85209CD50E62C /* CallController.swift */; };
+		4DA84056F5A029CB5D094C8E /* dance-street-tango.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 0850CA341549D0BC1EA7897C /* dance-street-tango.mp4 */; };
+		4DE4D538B5A1575A02FE6CC8 /* dance-group-rehearsal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12363AC8E4E276342E5B6572 /* dance-group-rehearsal.jpg */; };
+		4DEDEA8CA3A7904214170478 /* phrase-film-jazz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E158F1A0575A3DA7C3B19D4 /* phrase-film-jazz.jpg */; };
+		4EE88547DBD822CA05890D0A /* phrase-film-groove.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AD0A37579D394585533BF40 /* phrase-film-groove.jpg */; };
+		515CF1F0483244124D8C3C6E /* VoiceRoomChatScript.swift in Sources */ = {isa = PBXBuildFile; fileRef = 878E00258CD56169E5A6D4FD /* VoiceRoomChatScript.swift */; };
+		54C41DAEA3908FE07B7E9541 /* LiveRoomModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A80F49FD7BCEE03753202D /* LiveRoomModels.swift */; };
+		5784763DA07CCA23A62CFF5B /* PhrasePulse.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7A0AC192AD395E24B9C339A /* PhrasePulse.swift */; };
+		5A9A5E3D79839F70238A382F /* DanceVideoCatalog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6501C59B85C818A82F6A0FAA /* DanceVideoCatalog.swift */; };
+		5B78AFF297E07FCC70A174EF /* dance-ballet-class.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71D1C8B9E96DF35A3E79E344 /* dance-ballet-class.jpg */; };
+		5E15604BFA1DFF32E8D8A9D1 /* dance-hiphop-solo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 37E39CCDA48FC3CF40952159 /* dance-hiphop-solo.mp4 */; };
+		5F75A61DFD610EF5D94F5D58 /* dance-court-session.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3BB93F6B872EBF7935F9C84D /* dance-court-session.jpg */; };
+		61BE411AD7D210F6019728E7 /* dance-contemporary-flow.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A4443038BBB070DEE60029E3 /* dance-contemporary-flow.mp4 */; };
+		61D09177C47AA272EF8C54B3 /* ShortsPlayback.swift in Sources */ = {isa = PBXBuildFile; fileRef = A76A01AA5D1E2E1834A3F85B /* ShortsPlayback.swift */; };
+		65447A8195A8B4C70CCFE592 /* dance-street-power.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD715A7F872CB3E3B9471A47 /* dance-street-power.jpg */; };
+		65C9C7FB049E22AF3FDB7B16 /* PartyDiscoveryStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAE0EF9C0D4F9BF262ACD89 /* PartyDiscoveryStore.swift */; };
+		6A85098D1D284389AA96060C /* VideoViewingHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0632512F69AB7DF7EFF60350 /* VideoViewingHistory.swift */; };
+		6AC2A83923F8C7F1DB3C5822 /* LocalLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF748E9476287BB117AF10E0 /* LocalLibrary.swift */; };
+		6EA8C0BACD30E787BE1C98BA /* dance-bridge-freestyle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84AA9A1157875EBCDE01CE59 /* dance-bridge-freestyle.jpg */; };
+		713CCAAD7CE2670815CE484C /* phrase-film-hiphop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C68965F2C21024172BA67BE /* phrase-film-hiphop.jpg */; };
+		722590424481E8869C7BC32C /* dance-lifted-arms.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D7BA309B0670D70AC08A4F4A /* dance-lifted-arms.mp4 */; };
+		73F20987D580924287828691 /* dance-studio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C0BFBE4D708B43CB1C6B2DB9 /* dance-studio.jpg */; };
+		7899D7779F29C2C33936C671 /* PhraseEditorController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C850C48777C41A8390A847ED /* PhraseEditorController.swift */; };
+		7AC45F7A1C147BDAD8EAEBD6 /* dance-ballet-duet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3A6ECBD875A24006F5962BF /* dance-ballet-duet.jpg */; };
+		7B14A0F5FC158C412532CEE0 /* dance-salsa-floor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B4A73BE74DC7C71A72A50505 /* dance-salsa-floor.jpg */; };
+		7CF060DA43F89E3796BDB4E2 /* dance-purple-groove.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7708A15E61677082AE13B1D5 /* dance-purple-groove.mp4 */; };
+		80033903DC438D5DB23CACC0 /* LiveRoomStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1304F2F292FB184CDC29683C /* LiveRoomStore.swift */; };
+		809048A84972636B5F4F740B /* CommunityControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9936D8CADA70C5A192A0F3BB /* CommunityControllers.swift */; };
+		8147F8D7EC07205AFB488A36 /* ShortsInteractionStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5EEAAAE060E18F6F0AB8FBC /* ShortsInteractionStore.swift */; };
+		8349D232282C72949FCC1C9A /* dance-rooftop-freestyle.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 6C7BA238568C692A8D85FB49 /* dance-rooftop-freestyle.mp4 */; };
+		84EC3901D87EEDEADF65CCFF /* FreshStudioPhotos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A287255366E79770AC45C76 /* FreshStudioPhotos.swift */; };
+		88A1DF1E649D1638855E542C /* dance-trio-count.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8067D5689EECDEC9C9CF2AD1 /* dance-trio-count.mp4 */; };
+		8D3047E1011189D9E4979F06 /* dance-loft-partners.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 90B9CE00515C2376A6DA061E /* dance-loft-partners.mp4 */; };
+		8D767CAAC9151A6EEC2B0441 /* TetoRhythm-Text.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 08789487A57BD17435D6F7EC /* TetoRhythm-Text.ttf */; };
+		8F4DBB3AA7038F5442805735 /* dance-street-tango.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D8BF2D5E126D203DBD78FCC3 /* dance-street-tango.jpg */; };
+		90564249A66D65F532DBA7AE /* phrase-film-rehearsal.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 3AA103A426848EED68561882 /* phrase-film-rehearsal.mp4 */; };
+		9233FBD57014131B3874D42D /* dance-ballet-practice.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 47F443786E396D3A4B0DBDC9 /* dance-ballet-practice.mp4 */; };
+		92D952E27B4BF2A4607122E3 /* TetoApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC219AA748F51677A60ECD3E /* TetoApplication.swift */; };
+		96418FEB0DA54A021575DDD4 /* CallCameraSurface.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3704A2CBF4641E674DBAC4C3 /* CallCameraSurface.swift */; };
+		96EAAD029EFF29794048953D /* dance-purple-groove.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B84C636ABE1503DE32303DE9 /* dance-purple-groove.jpg */; };
+		9E13028AC1E02669F105DF9B /* dance-warm-room.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3ECAA80433D5D479E5EDDD2 /* dance-warm-room.jpg */; };
+		A13EE58DC9A833FDB1F974E2 /* dance-street-power.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4DECFD2D8842DAC5D877E81A /* dance-street-power.mp4 */; };
+		A236DBCAE5000F56D9730E38 /* phrase-film-street.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 63171653806571B97351AA30 /* phrase-film-street.mp4 */; };
+		A49EA30037AE4996BEB29C2F /* dance-bucket-groove.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 5ADCF51097D70BE9C6272E60 /* dance-bucket-groove.mp4 */; };
+		A5AAAF5C3A1F5EC076743426 /* dance-mural-phrase.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 3C0CAD7E4271251FC3AEFC5D /* dance-mural-phrase.mp4 */; };
+		A72CB2B9074D95CA39FEDB00 /* AppStore+Phrases.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF125B107F8BE17D6E4ACA31 /* AppStore+Phrases.swift */; };
+		A76C1EB1ED3870B238D8741A /* dance-seaside.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 71ADB7929B38CD2785CAF645 /* dance-seaside.mp4 */; };
+		ABEA932A428BFAAD0FDA3016 /* dance-group-rehearsal.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 04A050872465173AA15DE453 /* dance-group-rehearsal.mp4 */; };
+		ABFB4AEF9551E0486409973A /* dance-street-crew.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AD03B1020BFA883B0A4C5193 /* dance-street-crew.mp4 */; };
+		ACD4E0ED8B0DAA293F75D119 /* dance-bucket-groove.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5FEDE9C334913BBAB657121E /* dance-bucket-groove.jpg */; };
+		AD30423628DB4A6DF96851C0 /* dance-hiphop-duet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AE5C06438E5F6116CC26A807 /* dance-hiphop-duet.jpg */; };
+		AD8264F823B6A77DD2203E6E /* PhraseListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6B3950D0A99DD7E8901099C /* PhraseListController.swift */; };
+		B1A34F288EF5490C4384778A /* VideoRecommendations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B39975DD54829176648C6DF /* VideoRecommendations.swift */; };
+		B22786F0BE50B1CB149EA754 /* dance-studio-joy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 6EBBF088663690C29F0FED31 /* dance-studio-joy.mp4 */; };
+		B26A84EEF627054CFCD58459 /* dance-crosswalk-duet.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E2AD4AC7E0613EAB423E933E /* dance-crosswalk-duet.mp4 */; };
+		B5A5FAC4370D7B06011BC22E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE06C9ABE5B0BA110E3C2389 /* Assets.xcassets */; };
+		B6F53354E344DA2510939B9B /* dance-loft-session.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6FC7AB0B5C9F85706851AFD3 /* dance-loft-session.jpg */; };
+		B82E59EDC45674E49A57566E /* dance-urban-footwork.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36A4466AB7FBEC698B239F9C /* dance-urban-footwork.jpg */; };
+		BAE11945342C2C759AB089F4 /* dance-hiphop-duet.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 8CF79865123206562A53D618 /* dance-hiphop-duet.mp4 */; };
+		BB7B2CF0571B2B97F53620BC /* dance-ballet-class.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E9AA6582B5C9A04776C434EC /* dance-ballet-class.mp4 */; };
+		BDB7B7F4EB8C90909EC42A32 /* StoreKit1Purchasing.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EB17B7FFA249E4DDAC095D /* StoreKit1Purchasing.swift */; };
+		C07AE7EB4EFD57088E403B3E /* dance-white-studio.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 658963C1EE85EBFD6BEF8283 /* dance-white-studio.mp4 */; };
+		C4564745853960B48355877C /* dance-hoodie-phrase.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6E98B3BA24B2928C3858AFAC /* dance-hoodie-phrase.jpg */; };
+		C55BF7A346DA11B41B2B0922 /* LocalVideoPlayback.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2193D54E4F517042D7CDBB0E /* LocalVideoPlayback.swift */; };
+		C728DDAD46285443B072F083 /* dance-mural-phrase.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 025B2E3A645B1B7333A59A1D /* dance-mural-phrase.jpg */; };
+		C94CF6FF115A2E18EC06877A /* dance-studio-joy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 21D66D52BBAFA25CB0ABDC92 /* dance-studio-joy.jpg */; };
+		C9BAC3C4EEB7B1E0C1FEA2C1 /* VideoFeedController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3690E4180DEFC792D01E0A /* VideoFeedController.swift */; };
+		CA336A40C02F31B50AF7C612 /* ChatControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = C34ABBD70F09BA1E69493ED1 /* ChatControllers.swift */; };
+		CDEEF9723E052B347998854C /* dance-street-crew.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 59FEA2D41DB236BA62C838DB /* dance-street-crew.jpg */; };
+		CE1469998635630031F9A201 /* TetoRhythm-Display.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FDE0BA451379E4DD389188C3 /* TetoRhythm-Display.ttf */; };
+		CE45505095031D3EDED2244D /* dance-court-session.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 47953BBE839E87746FE6C982 /* dance-court-session.mp4 */; };
+		D07C0AB6D62C64FF29FD1397 /* dance-practice-partners.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = EBEADC6CC353A1DEEA34C9F9 /* dance-practice-partners.mp4 */; };
+		D3BA202F4831E4773A5765C4 /* dance-crew-rhythm.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E2CC9B2C7ED4E5E7EF14CB /* dance-crew-rhythm.mp4 */; };
+		D5D56E177BD51887FEED5349 /* AppStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2D7C374A7CF017DC3949727 /* AppStore.swift */; };
+		D5F51D9611114F36E090BE62 /* dance-warm-room.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E71A2D98CE6318EE8859A0CA /* dance-warm-room.mp4 */; };
+		D72D0446976F986E866D547A /* ChatModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F91F5DC9BA2E9F2F784C40 /* ChatModels.swift */; };
+		D8134FC87882E62CC24A7959 /* dance-crew-rhythm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9F80EFD8C6C02B0CDED6BEE /* dance-crew-rhythm.jpg */; };
+		D8E1AE0AE57C8C2C50E68041 /* CreationSubmission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C45B22210F567C373762523 /* CreationSubmission.swift */; };
+		DB5F08052F7A7A03C97F641F /* dance-salsa-floor.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B62E0E2DA8AFF1F146A4FC9E /* dance-salsa-floor.mp4 */; };
+		DCB748BFD3FB7890E5F0F75B /* phrase-film-ballet.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A6A55AA20B8BF8932E200CE7 /* phrase-film-ballet.mp4 */; };
+		DEF35718AE7BD070584584CA /* dance-sunny-salsa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 763340C138BDCDE27DFE529B /* dance-sunny-salsa.jpg */; };
+		E10DFC7070829FEC6C991395 /* dance-loft-partners.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 78C8AC7F6F4634A6E6C293B8 /* dance-loft-partners.jpg */; };
+		E8B8C37F461D56F89D802ECF /* PartyModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 217E84610779DFF7123725C4 /* PartyModels.swift */; };
+		E9350855A7409CF1B655E48E /* dance-glitter-groove.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = AB4BC086991D3EEB1334BF50 /* dance-glitter-groove.mp4 */; };
+		EB4521B7D8EA031B8161B2F2 /* dance-lifted-arms.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB4013E6585824BC220395F0 /* dance-lifted-arms.jpg */; };
+		EB99BA8606E3BAE5B19926BA /* DanceDiscussionContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE9F9F23517CF12BA76C3A8B /* DanceDiscussionContent.swift */; };
+		EBE20E9DE1AED3C5756A3A60 /* CreatorProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E72E0BFEDFA6D5BC30E753 /* CreatorProfile.swift */; };
+		EE3B269E5946B9199A62A057 /* phrase-film-reach.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 28D2BD83F4FEE94FF8E4B404 /* phrase-film-reach.mp4 */; };
+		EECB8805FC0301900C0614A0 /* dance-white-studio.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5CC6554A0F9C87966D5673C4 /* dance-white-studio.jpg */; };
+		EFA50CD180386AFDCBDAFC20 /* dance-studio-chemistry.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 839BE9DB8188374EF7145184 /* dance-studio-chemistry.mp4 */; };
+		EFEA81E72499A1AC89546DB7 /* dance-mosaic-steps.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B8A128CA33F9764D88938239 /* dance-mosaic-steps.mp4 */; };
+		F00D148283C8BCECE42077B9 /* dance-loft-session.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = FD3F5143E82247F6638FF43F /* dance-loft-session.mp4 */; };
+		F667B3716CE04C29CB716562 /* dance-ballet-duet.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4DD975028FD26A4D5BD50432 /* dance-ballet-duet.mp4 */; };
+		F799A85DF6EB07A38E44C261 /* dance-cypher-night.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A55B88B1EB66AB700ABAD3D5 /* dance-cypher-night.jpg */; };
+		F7BBD157EF68E82A6A58D053 /* dance-shared-rhythm.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = ECD2AE6B738CABAD92854F28 /* dance-shared-rhythm.mp4 */; };
+		F88CCFDAA7AE168243F9D003 /* phrase-film-hiphop.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E73CB585DFFC672EB2AC94F3 /* phrase-film-hiphop.mp4 */; };
+		F9AC311D7594648588C1BF4D /* VideoDiscoveryController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 348368DB4CD56A0C67C2FE61 /* VideoDiscoveryController.swift */; };
+		FCBAA20189E5115A786A8BBB /* TetoUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6D61AD1A9CC6C8CAC90EE40 /* TetoUIKit.swift */; };
+		FEE1DD5905F7786A9CC8762A /* PhraseBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD62E36CC4FBADB89A0D3BFD /* PhraseBook.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		01D7F2C46EF1B8CAED968C23 /* dance-trio-count.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-trio-count.jpg"; sourceTree = "<group>"; };
+		025B2E3A645B1B7333A59A1D /* dance-mural-phrase.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-mural-phrase.jpg"; sourceTree = "<group>"; };
+		04A050872465173AA15DE453 /* dance-group-rehearsal.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-group-rehearsal.mp4"; sourceTree = "<group>"; };
+		04CD1B972E6BE4658396F5D7 /* PhraseFigure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhraseFigure.swift; sourceTree = "<group>"; };
+		0632512F69AB7DF7EFF60350 /* VideoViewingHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoViewingHistory.swift; sourceTree = "<group>"; };
+		0850CA341549D0BC1EA7897C /* dance-street-tango.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-street-tango.mp4"; sourceTree = "<group>"; };
+		08789487A57BD17435D6F7EC /* TetoRhythm-Text.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TetoRhythm-Text.ttf"; sourceTree = "<group>"; };
+		0A287255366E79770AC45C76 /* FreshStudioPhotos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreshStudioPhotos.swift; sourceTree = "<group>"; };
+		0D05202EDCE02A6A3DC2C1EF /* dance-bridge-freestyle.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-bridge-freestyle.mp4"; sourceTree = "<group>"; };
+		12363AC8E4E276342E5B6572 /* dance-group-rehearsal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-group-rehearsal.jpg"; sourceTree = "<group>"; };
+		1304F2F292FB184CDC29683C /* LiveRoomStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveRoomStore.swift; sourceTree = "<group>"; };
+		13E43BDA17ED5EA52833B10C /* LocalLibraryRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalLibraryRepository.swift; sourceTree = "<group>"; };
+		1603416BA6ADF4AFDE2AECEA /* PartyControllers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyControllers.swift; sourceTree = "<group>"; };
+		188F0AF36CF76D6C90A00D63 /* PhraseDetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhraseDetailController.swift; sourceTree = "<group>"; };
+		20EDD2D2BDE6D8B70AC05092 /* ContentSafety.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentSafety.swift; sourceTree = "<group>"; };
+		217E84610779DFF7123725C4 /* PartyModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyModels.swift; sourceTree = "<group>"; };
+		2193D54E4F517042D7CDBB0E /* LocalVideoPlayback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalVideoPlayback.swift; sourceTree = "<group>"; };
+		21D66D52BBAFA25CB0ABDC92 /* dance-studio-joy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-studio-joy.jpg"; sourceTree = "<group>"; };
+		282BBD0D9125825E185B5D12 /* UserAgreement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserAgreement.swift; sourceTree = "<group>"; };
+		28D2BD83F4FEE94FF8E4B404 /* phrase-film-reach.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "phrase-film-reach.mp4"; sourceTree = "<group>"; };
+		29B1B2A6AD44861541397758 /* dance-hiphop-solo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-hiphop-solo.jpg"; sourceTree = "<group>"; };
+		2A5036D5BFFBFBB817E99D5C /* dance-night-crew.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-night-crew.mp4"; sourceTree = "<group>"; };
+		2C68965F2C21024172BA67BE /* phrase-film-hiphop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "phrase-film-hiphop.jpg"; sourceTree = "<group>"; };
+		2CB38B347E4457CA48E00CB0 /* dance-studio.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-studio.mp4"; sourceTree = "<group>"; };
+		2FC2E24444F9AD16176143AF /* WalletModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletModels.swift; sourceTree = "<group>"; };
+		32D6A802BFA75B459889CBAC /* dance-ballet-practice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-ballet-practice.jpg"; sourceTree = "<group>"; };
+		348368DB4CD56A0C67C2FE61 /* VideoDiscoveryController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoDiscoveryController.swift; sourceTree = "<group>"; };
+		36A4466AB7FBEC698B239F9C /* dance-urban-footwork.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-urban-footwork.jpg"; sourceTree = "<group>"; };
+		3704A2CBF4641E674DBAC4C3 /* CallCameraSurface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallCameraSurface.swift; sourceTree = "<group>"; };
+		37E39CCDA48FC3CF40952159 /* dance-hiphop-solo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-hiphop-solo.mp4"; sourceTree = "<group>"; };
+		3AA103A426848EED68561882 /* phrase-film-rehearsal.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "phrase-film-rehearsal.mp4"; sourceTree = "<group>"; };
+		3BB93F6B872EBF7935F9C84D /* dance-court-session.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-court-session.jpg"; sourceTree = "<group>"; };
+		3C0CAD7E4271251FC3AEFC5D /* dance-mural-phrase.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-mural-phrase.mp4"; sourceTree = "<group>"; };
+		43CF051BD5E35A6CAE0C02E2 /* teto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = teto.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		47953BBE839E87746FE6C982 /* dance-court-session.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-court-session.mp4"; sourceTree = "<group>"; };
+		47A34B0DCDE8C7D630AD6285 /* ProfileControllers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileControllers.swift; sourceTree = "<group>"; };
+		47F443786E396D3A4B0DBDC9 /* dance-ballet-practice.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-ballet-practice.mp4"; sourceTree = "<group>"; };
+		4B39975DD54829176648C6DF /* VideoRecommendations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoRecommendations.swift; sourceTree = "<group>"; };
+		4D2A105EAE95FA168075669D /* phrase-film-rehearsal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "phrase-film-rehearsal.jpg"; sourceTree = "<group>"; };
+		4DD975028FD26A4D5BD50432 /* dance-ballet-duet.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-ballet-duet.mp4"; sourceTree = "<group>"; };
+		4DECFD2D8842DAC5D877E81A /* dance-street-power.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-street-power.mp4"; sourceTree = "<group>"; };
+		4E158F1A0575A3DA7C3B19D4 /* phrase-film-jazz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "phrase-film-jazz.jpg"; sourceTree = "<group>"; };
+		59FEA2D41DB236BA62C838DB /* dance-street-crew.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-street-crew.jpg"; sourceTree = "<group>"; };
+		5ADCF51097D70BE9C6272E60 /* dance-bucket-groove.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-bucket-groove.mp4"; sourceTree = "<group>"; };
+		5CC6554A0F9C87966D5673C4 /* dance-white-studio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-white-studio.jpg"; sourceTree = "<group>"; };
+		5FEDE9C334913BBAB657121E /* dance-bucket-groove.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-bucket-groove.jpg"; sourceTree = "<group>"; };
+		630067B9BE6BCD872A102A97 /* phrase-film-street.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "phrase-film-street.jpg"; sourceTree = "<group>"; };
+		63171653806571B97351AA30 /* phrase-film-street.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "phrase-film-street.mp4"; sourceTree = "<group>"; };
+		6501C59B85C818A82F6A0FAA /* DanceVideoCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DanceVideoCatalog.swift; sourceTree = "<group>"; };
+		658963C1EE85EBFD6BEF8283 /* dance-white-studio.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-white-studio.mp4"; sourceTree = "<group>"; };
+		66CD7F8EB0E7CF2E36F7E718 /* DancerPortraits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DancerPortraits.swift; sourceTree = "<group>"; };
+		6C1A4EE86941881A060827F8 /* dance-crosswalk-duet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-crosswalk-duet.jpg"; sourceTree = "<group>"; };
+		6C7BA238568C692A8D85FB49 /* dance-rooftop-freestyle.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-rooftop-freestyle.mp4"; sourceTree = "<group>"; };
+		6E98B3BA24B2928C3858AFAC /* dance-hoodie-phrase.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-hoodie-phrase.jpg"; sourceTree = "<group>"; };
+		6EBBF088663690C29F0FED31 /* dance-studio-joy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-studio-joy.mp4"; sourceTree = "<group>"; };
+		6FC7AB0B5C9F85706851AFD3 /* dance-loft-session.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-loft-session.jpg"; sourceTree = "<group>"; };
+		710FC1017520A03075120F6D /* dance-glitter-groove.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-glitter-groove.jpg"; sourceTree = "<group>"; };
+		71ADB7929B38CD2785CAF645 /* dance-seaside.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-seaside.mp4"; sourceTree = "<group>"; };
+		71D1C8B9E96DF35A3E79E344 /* dance-ballet-class.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-ballet-class.jpg"; sourceTree = "<group>"; };
+		763340C138BDCDE27DFE529B /* dance-sunny-salsa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-sunny-salsa.jpg"; sourceTree = "<group>"; };
+		7708A15E61677082AE13B1D5 /* dance-purple-groove.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-purple-groove.mp4"; sourceTree = "<group>"; };
+		78C8AC7F6F4634A6E6C293B8 /* dance-loft-partners.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-loft-partners.jpg"; sourceTree = "<group>"; };
+		7C45B22210F567C373762523 /* CreationSubmission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationSubmission.swift; sourceTree = "<group>"; };
+		8067D5689EECDEC9C9CF2AD1 /* dance-trio-count.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-trio-count.mp4"; sourceTree = "<group>"; };
+		806C89708B621109342E7A89 /* DancePhraseCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DancePhraseCatalog.swift; sourceTree = "<group>"; };
+		832CC56FA28D7326E153E25B /* dance-expressive-arms.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-expressive-arms.jpg"; sourceTree = "<group>"; };
+		839BE9DB8188374EF7145184 /* dance-studio-chemistry.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-studio-chemistry.mp4"; sourceTree = "<group>"; };
+		84AA9A1157875EBCDE01CE59 /* dance-bridge-freestyle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-bridge-freestyle.jpg"; sourceTree = "<group>"; };
+		84CF168FBB37D837DEC8DE82 /* dance-shared-rhythm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-shared-rhythm.jpg"; sourceTree = "<group>"; };
+		878E00258CD56169E5A6D4FD /* VoiceRoomChatScript.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceRoomChatScript.swift; sourceTree = "<group>"; };
+		881927254E8C0AA590989C33 /* dance-practice-partners.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-practice-partners.jpg"; sourceTree = "<group>"; };
+		883CAF937BBE0C23DA34EDB4 /* dance-sunny-salsa.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-sunny-salsa.mp4"; sourceTree = "<group>"; };
+		8AD0A37579D394585533BF40 /* phrase-film-groove.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "phrase-film-groove.jpg"; sourceTree = "<group>"; };
+		8CF79865123206562A53D618 /* dance-hiphop-duet.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-hiphop-duet.mp4"; sourceTree = "<group>"; };
+		8F3690E4180DEFC792D01E0A /* VideoFeedController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoFeedController.swift; sourceTree = "<group>"; };
+		90B9CE00515C2376A6DA061E /* dance-loft-partners.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-loft-partners.mp4"; sourceTree = "<group>"; };
+		91404684BB2E45D9C9CB1C5F /* DancePhrase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DancePhrase.swift; sourceTree = "<group>"; };
+		96214B9384215B37DE45D098 /* TetoIcons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TetoIcons.swift; sourceTree = "<group>"; };
+		9936D8CADA70C5A192A0F3BB /* CommunityControllers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityControllers.swift; sourceTree = "<group>"; };
+		9FC06FBB1C38910D877A0E37 /* dance-expressive-arms.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-expressive-arms.mp4"; sourceTree = "<group>"; };
+		A1946F4C7858424657FDBE3F /* CreationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationController.swift; sourceTree = "<group>"; };
+		A2F91F5DC9BA2E9F2F784C40 /* ChatModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatModels.swift; sourceTree = "<group>"; };
+		A4443038BBB070DEE60029E3 /* dance-contemporary-flow.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-contemporary-flow.mp4"; sourceTree = "<group>"; };
+		A55B88B1EB66AB700ABAD3D5 /* dance-cypher-night.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-cypher-night.jpg"; sourceTree = "<group>"; };
+		A6A55AA20B8BF8932E200CE7 /* phrase-film-ballet.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "phrase-film-ballet.mp4"; sourceTree = "<group>"; };
+		A6D61AD1A9CC6C8CAC90EE40 /* TetoUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TetoUIKit.swift; sourceTree = "<group>"; };
+		A76A01AA5D1E2E1834A3F85B /* ShortsPlayback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortsPlayback.swift; sourceTree = "<group>"; };
+		A7A0AC192AD395E24B9C339A /* PhrasePulse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhrasePulse.swift; sourceTree = "<group>"; };
+		AB4BC086991D3EEB1334BF50 /* dance-glitter-groove.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-glitter-groove.mp4"; sourceTree = "<group>"; };
+		AD03B1020BFA883B0A4C5193 /* dance-street-crew.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-street-crew.mp4"; sourceTree = "<group>"; };
+		AE5C06438E5F6116CC26A807 /* dance-hiphop-duet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-hiphop-duet.jpg"; sourceTree = "<group>"; };
+		AF748E9476287BB117AF10E0 /* LocalLibrary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalLibrary.swift; sourceTree = "<group>"; };
+		B18DA04F57F5DCD9880A6FB6 /* dance-night-crew.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-night-crew.jpg"; sourceTree = "<group>"; };
+		B4A73BE74DC7C71A72A50505 /* dance-salsa-floor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-salsa-floor.jpg"; sourceTree = "<group>"; };
+		B5EBE3920AB8602AFD307003 /* Agreements */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Agreements; sourceTree = SOURCE_ROOT; };
+		B62E0E2DA8AFF1F146A4FC9E /* dance-salsa-floor.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-salsa-floor.mp4"; sourceTree = "<group>"; };
+		B800B6D8C00C52EEB24C0C8B /* dance-studio-chemistry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-studio-chemistry.jpg"; sourceTree = "<group>"; };
+		B84C636ABE1503DE32303DE9 /* dance-purple-groove.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-purple-groove.jpg"; sourceTree = "<group>"; };
+		B8A128CA33F9764D88938239 /* dance-mosaic-steps.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-mosaic-steps.mp4"; sourceTree = "<group>"; };
+		B9F80EFD8C6C02B0CDED6BEE /* dance-crew-rhythm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-crew-rhythm.jpg"; sourceTree = "<group>"; };
+		BD3DE6B9AFDEE8A4E794ADE3 /* CallCameraController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallCameraController.swift; sourceTree = "<group>"; };
+		BD62E36CC4FBADB89A0D3BFD /* PhraseBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhraseBook.swift; sourceTree = "<group>"; };
+		BEB6E336E97EED66A63A98F6 /* phrase-film-jazz.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "phrase-film-jazz.mp4"; sourceTree = "<group>"; };
+		BF505F8B6BE85209CD50E62C /* CallController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallController.swift; sourceTree = "<group>"; };
+		C05044934774BF2A81C69795 /* dance-mosaic-steps.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-mosaic-steps.jpg"; sourceTree = "<group>"; };
+		C0BFBE4D708B43CB1C6B2DB9 /* dance-studio.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-studio.jpg"; sourceTree = "<group>"; };
+		C34ABBD70F09BA1E69493ED1 /* ChatControllers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatControllers.swift; sourceTree = "<group>"; };
+		C6B3950D0A99DD7E8901099C /* PhraseListController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhraseListController.swift; sourceTree = "<group>"; };
+		C850C48777C41A8390A847ED /* PhraseEditorController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhraseEditorController.swift; sourceTree = "<group>"; };
+		CA15B765D21BD0AAD54D4022 /* phrase-film-groove.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "phrase-film-groove.mp4"; sourceTree = "<group>"; };
+		CAAE0EF9C0D4F9BF262ACD89 /* PartyDiscoveryStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PartyDiscoveryStore.swift; sourceTree = "<group>"; };
+		CE9F9F23517CF12BA76C3A8B /* DanceDiscussionContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DanceDiscussionContent.swift; sourceTree = "<group>"; };
+		D0A80F49FD7BCEE03753202D /* LiveRoomModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveRoomModels.swift; sourceTree = "<group>"; };
+		D3A6ECBD875A24006F5962BF /* dance-ballet-duet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-ballet-duet.jpg"; sourceTree = "<group>"; };
+		D3ECAA80433D5D479E5EDDD2 /* dance-warm-room.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-warm-room.jpg"; sourceTree = "<group>"; };
+		D7BA309B0670D70AC08A4F4A /* dance-lifted-arms.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-lifted-arms.mp4"; sourceTree = "<group>"; };
+		D8BF2D5E126D203DBD78FCC3 /* dance-street-tango.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-street-tango.jpg"; sourceTree = "<group>"; };
+		DB722A322A7ED8612B88FEA9 /* WalletStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletStore.swift; sourceTree = "<group>"; };
+		DD715A7F872CB3E3B9471A47 /* dance-street-power.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-street-power.jpg"; sourceTree = "<group>"; };
+		DF635C3E115BBAC64162D029 /* phrase-film-reach.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "phrase-film-reach.jpg"; sourceTree = "<group>"; };
+		E07DF831C5A3FCD66DD5A226 /* dance-contemporary-flow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-contemporary-flow.jpg"; sourceTree = "<group>"; };
+		E19A86B0D83B8BCB881AF6A5 /* dance-urban-footwork.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-urban-footwork.mp4"; sourceTree = "<group>"; };
+		E2AD4AC7E0613EAB423E933E /* dance-crosswalk-duet.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-crosswalk-duet.mp4"; sourceTree = "<group>"; };
+		E2D7C374A7CF017DC3949727 /* AppStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStore.swift; sourceTree = "<group>"; };
+		E5EEAAAE060E18F6F0AB8FBC /* ShortsInteractionStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortsInteractionStore.swift; sourceTree = "<group>"; };
+		E71A2D98CE6318EE8859A0CA /* dance-warm-room.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-warm-room.mp4"; sourceTree = "<group>"; };
+		E73CB585DFFC672EB2AC94F3 /* phrase-film-hiphop.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "phrase-film-hiphop.mp4"; sourceTree = "<group>"; };
+		E7E2CC9B2C7ED4E5E7EF14CB /* dance-crew-rhythm.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-crew-rhythm.mp4"; sourceTree = "<group>"; };
+		E80A65E3AAB070FF14E62D37 /* dance-cypher-night.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-cypher-night.mp4"; sourceTree = "<group>"; };
+		E9AA6582B5C9A04776C434EC /* dance-ballet-class.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-ballet-class.mp4"; sourceTree = "<group>"; };
+		EBEADC6CC353A1DEEA34C9F9 /* dance-practice-partners.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-practice-partners.mp4"; sourceTree = "<group>"; };
+		EC219AA748F51677A60ECD3E /* TetoApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TetoApplication.swift; sourceTree = "<group>"; };
+		ECD2AE6B738CABAD92854F28 /* dance-shared-rhythm.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-shared-rhythm.mp4"; sourceTree = "<group>"; };
+		EE06C9ABE5B0BA110E3C2389 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EE97A20B083225B43807A3F4 /* dance-hoodie-phrase.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-hoodie-phrase.mp4"; sourceTree = "<group>"; };
+		EF125B107F8BE17D6E4ACA31 /* AppStore+Phrases.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AppStore+Phrases.swift"; sourceTree = "<group>"; };
+		F2E72E0BFEDFA6D5BC30E753 /* CreatorProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatorProfile.swift; sourceTree = "<group>"; };
+		F3CE91C2EC82B0B9F187A760 /* dance-rooftop-freestyle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-rooftop-freestyle.jpg"; sourceTree = "<group>"; };
+		F62E03BF74232D59F7755102 /* dance-seaside.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-seaside.jpg"; sourceTree = "<group>"; };
+		F6EB17B7FFA249E4DDAC095D /* StoreKit1Purchasing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreKit1Purchasing.swift; sourceTree = "<group>"; };
+		F70DEB2A84702AD05AD510F8 /* LiveRoomPlayback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveRoomPlayback.swift; sourceTree = "<group>"; };
+		F950DD819FB7BB0B17A5EC34 /* phrase-film-ballet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "phrase-film-ballet.jpg"; sourceTree = "<group>"; };
+		FA5BFD92FD6A62E97D381E10 /* ShortsInteractionRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortsInteractionRepository.swift; sourceTree = "<group>"; };
+		FB4013E6585824BC220395F0 /* dance-lifted-arms.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "dance-lifted-arms.jpg"; sourceTree = "<group>"; };
+		FD3F5143E82247F6638FF43F /* dance-loft-session.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "dance-loft-session.mp4"; sourceTree = "<group>"; };
+		FDE0BA451379E4DD389188C3 /* TetoRhythm-Display.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TetoRhythm-Display.ttf"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		05E0C6C916767FA0B95A3392 /* Parties */ = {
+			isa = PBXGroup;
+			children = (
+				1603416BA6ADF4AFDE2AECEA /* PartyControllers.swift */,
+				CAAE0EF9C0D4F9BF262ACD89 /* PartyDiscoveryStore.swift */,
+				217E84610779DFF7123725C4 /* PartyModels.swift */,
+				878E00258CD56169E5A6D4FD /* VoiceRoomChatScript.swift */,
+			);
+			path = Parties;
+			sourceTree = "<group>";
+		};
+		0D7CD1F4B1E9BA8C103D6C78 /* Creation */ = {
+			isa = PBXGroup;
+			children = (
+				A1946F4C7858424657FDBE3F /* CreationController.swift */,
+				7C45B22210F567C373762523 /* CreationSubmission.swift */,
+			);
+			path = Creation;
+			sourceTree = "<group>";
+		};
+		103937742E96B2770366CB2F /* Live */ = {
+			isa = PBXGroup;
+			children = (
+				348368DB4CD56A0C67C2FE61 /* VideoDiscoveryController.swift */,
+			);
+			path = Live;
+			sourceTree = "<group>";
+		};
+		10A048C1F8224F489C01A7D3 /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+				282BBD0D9125825E185B5D12 /* UserAgreement.swift */,
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		175EC3FE77B7D9C937410123 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				13E43BDA17ED5EA52833B10C /* LocalLibraryRepository.swift */,
+				FA5BFD92FD6A62E97D381E10 /* ShortsInteractionRepository.swift */,
+				0632512F69AB7DF7EFF60350 /* VideoViewingHistory.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		37D93F9D21E7AE34EE9DE0E2 = {
+			isa = PBXGroup;
+			children = (
+				B5EBE3920AB8602AFD307003 /* Agreements */,
+				B864B351203C92E51830D7CA /* Teto */,
+				65243C50C00758D043E93D34 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3AEBE2CD892B4F6F117E5556 /* DesignSystem */ = {
+			isa = PBXGroup;
+			children = (
+				0A287255366E79770AC45C76 /* FreshStudioPhotos.swift */,
+				96214B9384215B37DE45D098 /* TetoIcons.swift */,
+				A6D61AD1A9CC6C8CAC90EE40 /* TetoUIKit.swift */,
+			);
+			path = DesignSystem;
+			sourceTree = "<group>";
+		};
+		4D0A6CC8AA61A6D1411363FB /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				10A048C1F8224F489C01A7D3 /* Authentication */,
+				6D47C61C116C9244AF8F4899 /* Calls */,
+				7D9973CEBC7C2AB43931819A /* Chats */,
+				8186BA58F7E1D476889A875A /* Community */,
+				0D7CD1F4B1E9BA8C103D6C78 /* Creation */,
+				81467C9C53D9AD79719B1E44 /* Creators */,
+				103937742E96B2770366CB2F /* Live */,
+				51EE02F0951C6F3D63190E0F /* LiveRoom */,
+				05E0C6C916767FA0B95A3392 /* Parties */,
+				A77DC0C6F3ED1BDCE6786EB9 /* Phrases */,
+				A5D5C53B872893E5FCCF7508 /* Profile */,
+				985E2C88738EE4C4534DD031 /* Safety */,
+				E38CF02C405C85A66588257C /* Shorts */,
+				99B1E836DBD94C7C21122DAD /* Wallet */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		51EE02F0951C6F3D63190E0F /* LiveRoom */ = {
+			isa = PBXGroup;
+			children = (
+				D0A80F49FD7BCEE03753202D /* LiveRoomModels.swift */,
+				1304F2F292FB184CDC29683C /* LiveRoomStore.swift */,
+			);
+			path = LiveRoom;
+			sourceTree = "<group>";
+		};
+		65243C50C00758D043E93D34 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				43CF051BD5E35A6CAE0C02E2 /* teto.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6D47C61C116C9244AF8F4899 /* Calls */ = {
+			isa = PBXGroup;
+			children = (
+				BD3DE6B9AFDEE8A4E794ADE3 /* CallCameraController.swift */,
+				3704A2CBF4641E674DBAC4C3 /* CallCameraSurface.swift */,
+				BF505F8B6BE85209CD50E62C /* CallController.swift */,
+			);
+			path = Calls;
+			sourceTree = "<group>";
+		};
+		7AC7E1EFDD921502C64D5872 /* DanceMedia */ = {
+			isa = PBXGroup;
+			children = (
+				71D1C8B9E96DF35A3E79E344 /* dance-ballet-class.jpg */,
+				E9AA6582B5C9A04776C434EC /* dance-ballet-class.mp4 */,
+				D3A6ECBD875A24006F5962BF /* dance-ballet-duet.jpg */,
+				4DD975028FD26A4D5BD50432 /* dance-ballet-duet.mp4 */,
+				32D6A802BFA75B459889CBAC /* dance-ballet-practice.jpg */,
+				47F443786E396D3A4B0DBDC9 /* dance-ballet-practice.mp4 */,
+				84AA9A1157875EBCDE01CE59 /* dance-bridge-freestyle.jpg */,
+				0D05202EDCE02A6A3DC2C1EF /* dance-bridge-freestyle.mp4 */,
+				5FEDE9C334913BBAB657121E /* dance-bucket-groove.jpg */,
+				5ADCF51097D70BE9C6272E60 /* dance-bucket-groove.mp4 */,
+				E07DF831C5A3FCD66DD5A226 /* dance-contemporary-flow.jpg */,
+				A4443038BBB070DEE60029E3 /* dance-contemporary-flow.mp4 */,
+				3BB93F6B872EBF7935F9C84D /* dance-court-session.jpg */,
+				47953BBE839E87746FE6C982 /* dance-court-session.mp4 */,
+				B9F80EFD8C6C02B0CDED6BEE /* dance-crew-rhythm.jpg */,
+				E7E2CC9B2C7ED4E5E7EF14CB /* dance-crew-rhythm.mp4 */,
+				6C1A4EE86941881A060827F8 /* dance-crosswalk-duet.jpg */,
+				E2AD4AC7E0613EAB423E933E /* dance-crosswalk-duet.mp4 */,
+				A55B88B1EB66AB700ABAD3D5 /* dance-cypher-night.jpg */,
+				E80A65E3AAB070FF14E62D37 /* dance-cypher-night.mp4 */,
+				832CC56FA28D7326E153E25B /* dance-expressive-arms.jpg */,
+				9FC06FBB1C38910D877A0E37 /* dance-expressive-arms.mp4 */,
+				710FC1017520A03075120F6D /* dance-glitter-groove.jpg */,
+				AB4BC086991D3EEB1334BF50 /* dance-glitter-groove.mp4 */,
+				12363AC8E4E276342E5B6572 /* dance-group-rehearsal.jpg */,
+				04A050872465173AA15DE453 /* dance-group-rehearsal.mp4 */,
+				AE5C06438E5F6116CC26A807 /* dance-hiphop-duet.jpg */,
+				8CF79865123206562A53D618 /* dance-hiphop-duet.mp4 */,
+				29B1B2A6AD44861541397758 /* dance-hiphop-solo.jpg */,
+				37E39CCDA48FC3CF40952159 /* dance-hiphop-solo.mp4 */,
+				6E98B3BA24B2928C3858AFAC /* dance-hoodie-phrase.jpg */,
+				EE97A20B083225B43807A3F4 /* dance-hoodie-phrase.mp4 */,
+				FB4013E6585824BC220395F0 /* dance-lifted-arms.jpg */,
+				D7BA309B0670D70AC08A4F4A /* dance-lifted-arms.mp4 */,
+				78C8AC7F6F4634A6E6C293B8 /* dance-loft-partners.jpg */,
+				90B9CE00515C2376A6DA061E /* dance-loft-partners.mp4 */,
+				6FC7AB0B5C9F85706851AFD3 /* dance-loft-session.jpg */,
+				FD3F5143E82247F6638FF43F /* dance-loft-session.mp4 */,
+				C05044934774BF2A81C69795 /* dance-mosaic-steps.jpg */,
+				B8A128CA33F9764D88938239 /* dance-mosaic-steps.mp4 */,
+				025B2E3A645B1B7333A59A1D /* dance-mural-phrase.jpg */,
+				3C0CAD7E4271251FC3AEFC5D /* dance-mural-phrase.mp4 */,
+				B18DA04F57F5DCD9880A6FB6 /* dance-night-crew.jpg */,
+				2A5036D5BFFBFBB817E99D5C /* dance-night-crew.mp4 */,
+				881927254E8C0AA590989C33 /* dance-practice-partners.jpg */,
+				EBEADC6CC353A1DEEA34C9F9 /* dance-practice-partners.mp4 */,
+				B84C636ABE1503DE32303DE9 /* dance-purple-groove.jpg */,
+				7708A15E61677082AE13B1D5 /* dance-purple-groove.mp4 */,
+				F3CE91C2EC82B0B9F187A760 /* dance-rooftop-freestyle.jpg */,
+				6C7BA238568C692A8D85FB49 /* dance-rooftop-freestyle.mp4 */,
+				B4A73BE74DC7C71A72A50505 /* dance-salsa-floor.jpg */,
+				B62E0E2DA8AFF1F146A4FC9E /* dance-salsa-floor.mp4 */,
+				F62E03BF74232D59F7755102 /* dance-seaside.jpg */,
+				71ADB7929B38CD2785CAF645 /* dance-seaside.mp4 */,
+				84CF168FBB37D837DEC8DE82 /* dance-shared-rhythm.jpg */,
+				ECD2AE6B738CABAD92854F28 /* dance-shared-rhythm.mp4 */,
+				59FEA2D41DB236BA62C838DB /* dance-street-crew.jpg */,
+				AD03B1020BFA883B0A4C5193 /* dance-street-crew.mp4 */,
+				DD715A7F872CB3E3B9471A47 /* dance-street-power.jpg */,
+				4DECFD2D8842DAC5D877E81A /* dance-street-power.mp4 */,
+				D8BF2D5E126D203DBD78FCC3 /* dance-street-tango.jpg */,
+				0850CA341549D0BC1EA7897C /* dance-street-tango.mp4 */,
+				B800B6D8C00C52EEB24C0C8B /* dance-studio-chemistry.jpg */,
+				839BE9DB8188374EF7145184 /* dance-studio-chemistry.mp4 */,
+				21D66D52BBAFA25CB0ABDC92 /* dance-studio-joy.jpg */,
+				6EBBF088663690C29F0FED31 /* dance-studio-joy.mp4 */,
+				C0BFBE4D708B43CB1C6B2DB9 /* dance-studio.jpg */,
+				2CB38B347E4457CA48E00CB0 /* dance-studio.mp4 */,
+				763340C138BDCDE27DFE529B /* dance-sunny-salsa.jpg */,
+				883CAF937BBE0C23DA34EDB4 /* dance-sunny-salsa.mp4 */,
+				01D7F2C46EF1B8CAED968C23 /* dance-trio-count.jpg */,
+				8067D5689EECDEC9C9CF2AD1 /* dance-trio-count.mp4 */,
+				36A4466AB7FBEC698B239F9C /* dance-urban-footwork.jpg */,
+				E19A86B0D83B8BCB881AF6A5 /* dance-urban-footwork.mp4 */,
+				D3ECAA80433D5D479E5EDDD2 /* dance-warm-room.jpg */,
+				E71A2D98CE6318EE8859A0CA /* dance-warm-room.mp4 */,
+				5CC6554A0F9C87966D5673C4 /* dance-white-studio.jpg */,
+				658963C1EE85EBFD6BEF8283 /* dance-white-studio.mp4 */,
+				F950DD819FB7BB0B17A5EC34 /* phrase-film-ballet.jpg */,
+				A6A55AA20B8BF8932E200CE7 /* phrase-film-ballet.mp4 */,
+				8AD0A37579D394585533BF40 /* phrase-film-groove.jpg */,
+				CA15B765D21BD0AAD54D4022 /* phrase-film-groove.mp4 */,
+				2C68965F2C21024172BA67BE /* phrase-film-hiphop.jpg */,
+				E73CB585DFFC672EB2AC94F3 /* phrase-film-hiphop.mp4 */,
+				4E158F1A0575A3DA7C3B19D4 /* phrase-film-jazz.jpg */,
+				BEB6E336E97EED66A63A98F6 /* phrase-film-jazz.mp4 */,
+				DF635C3E115BBAC64162D029 /* phrase-film-reach.jpg */,
+				28D2BD83F4FEE94FF8E4B404 /* phrase-film-reach.mp4 */,
+				4D2A105EAE95FA168075669D /* phrase-film-rehearsal.jpg */,
+				3AA103A426848EED68561882 /* phrase-film-rehearsal.mp4 */,
+				630067B9BE6BCD872A102A97 /* phrase-film-street.jpg */,
+				63171653806571B97351AA30 /* phrase-film-street.mp4 */,
+			);
+			path = DanceMedia;
+			sourceTree = "<group>";
+		};
+		7D9973CEBC7C2AB43931819A /* Chats */ = {
+			isa = PBXGroup;
+			children = (
+				C34ABBD70F09BA1E69493ED1 /* ChatControllers.swift */,
+				A2F91F5DC9BA2E9F2F784C40 /* ChatModels.swift */,
+			);
+			path = Chats;
+			sourceTree = "<group>";
+		};
+		81467C9C53D9AD79719B1E44 /* Creators */ = {
+			isa = PBXGroup;
+			children = (
+				F2E72E0BFEDFA6D5BC30E753 /* CreatorProfile.swift */,
+			);
+			path = Creators;
+			sourceTree = "<group>";
+		};
+		8186BA58F7E1D476889A875A /* Community */ = {
+			isa = PBXGroup;
+			children = (
+				9936D8CADA70C5A192A0F3BB /* CommunityControllers.swift */,
+			);
+			path = Community;
+			sourceTree = "<group>";
+		};
+		985E2C88738EE4C4534DD031 /* Safety */ = {
+			isa = PBXGroup;
+			children = (
+				20EDD2D2BDE6D8B70AC05092 /* ContentSafety.swift */,
+			);
+			path = Safety;
+			sourceTree = "<group>";
+		};
+		99B1E836DBD94C7C21122DAD /* Wallet */ = {
+			isa = PBXGroup;
+			children = (
+				F6EB17B7FFA249E4DDAC095D /* StoreKit1Purchasing.swift */,
+				2FC2E24444F9AD16176143AF /* WalletModels.swift */,
+				DB722A322A7ED8612B88FEA9 /* WalletStore.swift */,
+			);
+			path = Wallet;
+			sourceTree = "<group>";
+		};
+		A5D5C53B872893E5FCCF7508 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				47A34B0DCDE8C7D630AD6285 /* ProfileControllers.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		A77DC0C6F3ED1BDCE6786EB9 /* Phrases */ = {
+			isa = PBXGroup;
+			children = (
+				188F0AF36CF76D6C90A00D63 /* PhraseDetailController.swift */,
+				C850C48777C41A8390A847ED /* PhraseEditorController.swift */,
+				04CD1B972E6BE4658396F5D7 /* PhraseFigure.swift */,
+				C6B3950D0A99DD7E8901099C /* PhraseListController.swift */,
+				A7A0AC192AD395E24B9C339A /* PhrasePulse.swift */,
+			);
+			path = Phrases;
+			sourceTree = "<group>";
+		};
+		B864B351203C92E51830D7CA /* Teto */ = {
+			isa = PBXGroup;
+			children = (
+				C845BC23C98B2641E5540CE8 /* App */,
+				175EC3FE77B7D9C937410123 /* Data */,
+				3AEBE2CD892B4F6F117E5556 /* DesignSystem */,
+				CFBF998D1E4087135C1F231D /* Domain */,
+				4D0A6CC8AA61A6D1411363FB /* Features */,
+				DF7E58749B5EB7836EDB45A9 /* Platform */,
+				C55CDD0FC760386130853DF1 /* Resources */,
+			);
+			path = Teto;
+			sourceTree = "<group>";
+		};
+		C55CDD0FC760386130853DF1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				EE06C9ABE5B0BA110E3C2389 /* Assets.xcassets */,
+				7AC7E1EFDD921502C64D5872 /* DanceMedia */,
+				D18259410BF7616B736A86A7 /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		C845BC23C98B2641E5540CE8 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				E2D7C374A7CF017DC3949727 /* AppStore.swift */,
+				EF125B107F8BE17D6E4ACA31 /* AppStore+Phrases.swift */,
+				EC219AA748F51677A60ECD3E /* TetoApplication.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		CFBF998D1E4087135C1F231D /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				CE9F9F23517CF12BA76C3A8B /* DanceDiscussionContent.swift */,
+				91404684BB2E45D9C9CB1C5F /* DancePhrase.swift */,
+				806C89708B621109342E7A89 /* DancePhraseCatalog.swift */,
+				66CD7F8EB0E7CF2E36F7E718 /* DancerPortraits.swift */,
+				6501C59B85C818A82F6A0FAA /* DanceVideoCatalog.swift */,
+				AF748E9476287BB117AF10E0 /* LocalLibrary.swift */,
+				BD62E36CC4FBADB89A0D3BFD /* PhraseBook.swift */,
+				4B39975DD54829176648C6DF /* VideoRecommendations.swift */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		D18259410BF7616B736A86A7 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FDE0BA451379E4DD389188C3 /* TetoRhythm-Display.ttf */,
+				08789487A57BD17435D6F7EC /* TetoRhythm-Text.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		DD061248D2DD4E737E5BEC58 /* Media */ = {
+			isa = PBXGroup;
+			children = (
+				F70DEB2A84702AD05AD510F8 /* LiveRoomPlayback.swift */,
+				2193D54E4F517042D7CDBB0E /* LocalVideoPlayback.swift */,
+				A76A01AA5D1E2E1834A3F85B /* ShortsPlayback.swift */,
+			);
+			path = Media;
+			sourceTree = "<group>";
+		};
+		DF7E58749B5EB7836EDB45A9 /* Platform */ = {
+			isa = PBXGroup;
+			children = (
+				DD061248D2DD4E737E5BEC58 /* Media */,
+			);
+			path = Platform;
+			sourceTree = "<group>";
+		};
+		E38CF02C405C85A66588257C /* Shorts */ = {
+			isa = PBXGroup;
+			children = (
+				E5EEAAAE060E18F6F0AB8FBC /* ShortsInteractionStore.swift */,
+				8F3690E4180DEFC792D01E0A /* VideoFeedController.swift */,
+			);
+			path = Shorts;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DDAFEC23835CC210B6B8D8AB /* teto */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1522343510AA768C426F0067 /* Build configuration list for PBXNativeTarget "teto" */;
+			buildPhases = (
+				9AB99AFED1E5B93DA2276467 /* Sources */,
+				787457A9AB83F09BE46F8301 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = teto;
+			packageProductDependencies = (
+			);
+			productName = teto;
+			productReference = 43CF051BD5E35A6CAE0C02E2 /* teto.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7EB72E081343007060D8A58A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+			};
+			buildConfigurationList = BD40411BC30241594872782A /* Build configuration list for PBXProject "Teto" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 37D93F9D21E7AE34EE9DE0E2;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 65243C50C00758D043E93D34 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DDAFEC23835CC210B6B8D8AB /* teto */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		787457A9AB83F09BE46F8301 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				194AFA79AF60D2E627454BE2 /* Agreements in Resources */,
+				B5A5FAC4370D7B06011BC22E /* Assets.xcassets in Resources */,
+				CE1469998635630031F9A201 /* TetoRhythm-Display.ttf in Resources */,
+				8D767CAAC9151A6EEC2B0441 /* TetoRhythm-Text.ttf in Resources */,
+				5B78AFF297E07FCC70A174EF /* dance-ballet-class.jpg in Resources */,
+				BB7B2CF0571B2B97F53620BC /* dance-ballet-class.mp4 in Resources */,
+				7AC45F7A1C147BDAD8EAEBD6 /* dance-ballet-duet.jpg in Resources */,
+				F667B3716CE04C29CB716562 /* dance-ballet-duet.mp4 in Resources */,
+				1D7B598E76560ADF89A54A19 /* dance-ballet-practice.jpg in Resources */,
+				9233FBD57014131B3874D42D /* dance-ballet-practice.mp4 in Resources */,
+				6EA8C0BACD30E787BE1C98BA /* dance-bridge-freestyle.jpg in Resources */,
+				1E514D920E9E278D58282D30 /* dance-bridge-freestyle.mp4 in Resources */,
+				ACD4E0ED8B0DAA293F75D119 /* dance-bucket-groove.jpg in Resources */,
+				A49EA30037AE4996BEB29C2F /* dance-bucket-groove.mp4 in Resources */,
+				30D512CB8DF25B2CB15F1A94 /* dance-contemporary-flow.jpg in Resources */,
+				61BE411AD7D210F6019728E7 /* dance-contemporary-flow.mp4 in Resources */,
+				5F75A61DFD610EF5D94F5D58 /* dance-court-session.jpg in Resources */,
+				CE45505095031D3EDED2244D /* dance-court-session.mp4 in Resources */,
+				D8134FC87882E62CC24A7959 /* dance-crew-rhythm.jpg in Resources */,
+				D3BA202F4831E4773A5765C4 /* dance-crew-rhythm.mp4 in Resources */,
+				1983FD68BF6E72906BC50975 /* dance-crosswalk-duet.jpg in Resources */,
+				B26A84EEF627054CFCD58459 /* dance-crosswalk-duet.mp4 in Resources */,
+				F799A85DF6EB07A38E44C261 /* dance-cypher-night.jpg in Resources */,
+				396762EF63D7F6517F870467 /* dance-cypher-night.mp4 in Resources */,
+				30F0D2FE134C74E30D477D1B /* dance-expressive-arms.jpg in Resources */,
+				0C74C3F0B9430E7AF2322E35 /* dance-expressive-arms.mp4 in Resources */,
+				41F709B51A981DC52BDDD239 /* dance-glitter-groove.jpg in Resources */,
+				E9350855A7409CF1B655E48E /* dance-glitter-groove.mp4 in Resources */,
+				4DE4D538B5A1575A02FE6CC8 /* dance-group-rehearsal.jpg in Resources */,
+				ABEA932A428BFAAD0FDA3016 /* dance-group-rehearsal.mp4 in Resources */,
+				AD30423628DB4A6DF96851C0 /* dance-hiphop-duet.jpg in Resources */,
+				BAE11945342C2C759AB089F4 /* dance-hiphop-duet.mp4 in Resources */,
+				2D76B0482A1D8F6867DF1DC4 /* dance-hiphop-solo.jpg in Resources */,
+				5E15604BFA1DFF32E8D8A9D1 /* dance-hiphop-solo.mp4 in Resources */,
+				C4564745853960B48355877C /* dance-hoodie-phrase.jpg in Resources */,
+				25100BA8E545D6E101C429D0 /* dance-hoodie-phrase.mp4 in Resources */,
+				EB4521B7D8EA031B8161B2F2 /* dance-lifted-arms.jpg in Resources */,
+				722590424481E8869C7BC32C /* dance-lifted-arms.mp4 in Resources */,
+				E10DFC7070829FEC6C991395 /* dance-loft-partners.jpg in Resources */,
+				8D3047E1011189D9E4979F06 /* dance-loft-partners.mp4 in Resources */,
+				B6F53354E344DA2510939B9B /* dance-loft-session.jpg in Resources */,
+				F00D148283C8BCECE42077B9 /* dance-loft-session.mp4 in Resources */,
+				1F3568BCFB0DD1F37B27B312 /* dance-mosaic-steps.jpg in Resources */,
+				EFEA81E72499A1AC89546DB7 /* dance-mosaic-steps.mp4 in Resources */,
+				C728DDAD46285443B072F083 /* dance-mural-phrase.jpg in Resources */,
+				A5AAAF5C3A1F5EC076743426 /* dance-mural-phrase.mp4 in Resources */,
+				2A09ADF72836C961B4DB77B5 /* dance-night-crew.jpg in Resources */,
+				479F0638DCC44B9FE4DBB308 /* dance-night-crew.mp4 in Resources */,
+				3CEF6B2E4DCB6BA1C0DC27EA /* dance-practice-partners.jpg in Resources */,
+				D07C0AB6D62C64FF29FD1397 /* dance-practice-partners.mp4 in Resources */,
+				96EAAD029EFF29794048953D /* dance-purple-groove.jpg in Resources */,
+				7CF060DA43F89E3796BDB4E2 /* dance-purple-groove.mp4 in Resources */,
+				30507B6B064A4921B06252C9 /* dance-rooftop-freestyle.jpg in Resources */,
+				8349D232282C72949FCC1C9A /* dance-rooftop-freestyle.mp4 in Resources */,
+				7B14A0F5FC158C412532CEE0 /* dance-salsa-floor.jpg in Resources */,
+				DB5F08052F7A7A03C97F641F /* dance-salsa-floor.mp4 in Resources */,
+				28A767D1BC5F28AFB67270C1 /* dance-seaside.jpg in Resources */,
+				A76C1EB1ED3870B238D8741A /* dance-seaside.mp4 in Resources */,
+				24F6F964F583740AC083AF9A /* dance-shared-rhythm.jpg in Resources */,
+				F7BBD157EF68E82A6A58D053 /* dance-shared-rhythm.mp4 in Resources */,
+				CDEEF9723E052B347998854C /* dance-street-crew.jpg in Resources */,
+				ABFB4AEF9551E0486409973A /* dance-street-crew.mp4 in Resources */,
+				65447A8195A8B4C70CCFE592 /* dance-street-power.jpg in Resources */,
+				A13EE58DC9A833FDB1F974E2 /* dance-street-power.mp4 in Resources */,
+				8F4DBB3AA7038F5442805735 /* dance-street-tango.jpg in Resources */,
+				4DA84056F5A029CB5D094C8E /* dance-street-tango.mp4 in Resources */,
+				1DD71D347B64C90DD99ACF1E /* dance-studio-chemistry.jpg in Resources */,
+				EFA50CD180386AFDCBDAFC20 /* dance-studio-chemistry.mp4 in Resources */,
+				C94CF6FF115A2E18EC06877A /* dance-studio-joy.jpg in Resources */,
+				B22786F0BE50B1CB149EA754 /* dance-studio-joy.mp4 in Resources */,
+				73F20987D580924287828691 /* dance-studio.jpg in Resources */,
+				0E924C100EA21AB285EDFEBB /* dance-studio.mp4 in Resources */,
+				DEF35718AE7BD070584584CA /* dance-sunny-salsa.jpg in Resources */,
+				308334797AD861EBC6D7FF19 /* dance-sunny-salsa.mp4 in Resources */,
+				3F21E905124650DC1986ADD4 /* dance-trio-count.jpg in Resources */,
+				88A1DF1E649D1638855E542C /* dance-trio-count.mp4 in Resources */,
+				B82E59EDC45674E49A57566E /* dance-urban-footwork.jpg in Resources */,
+				230259A6261E398C8409FA7D /* dance-urban-footwork.mp4 in Resources */,
+				9E13028AC1E02669F105DF9B /* dance-warm-room.jpg in Resources */,
+				D5F51D9611114F36E090BE62 /* dance-warm-room.mp4 in Resources */,
+				EECB8805FC0301900C0614A0 /* dance-white-studio.jpg in Resources */,
+				C07AE7EB4EFD57088E403B3E /* dance-white-studio.mp4 in Resources */,
+				0CB7737931A6647A36D4F292 /* phrase-film-ballet.jpg in Resources */,
+				DCB748BFD3FB7890E5F0F75B /* phrase-film-ballet.mp4 in Resources */,
+				4EE88547DBD822CA05890D0A /* phrase-film-groove.jpg in Resources */,
+				45CE7760838B0337C1DCDE87 /* phrase-film-groove.mp4 in Resources */,
+				713CCAAD7CE2670815CE484C /* phrase-film-hiphop.jpg in Resources */,
+				F88CCFDAA7AE168243F9D003 /* phrase-film-hiphop.mp4 in Resources */,
+				4DEDEA8CA3A7904214170478 /* phrase-film-jazz.jpg in Resources */,
+				2A0941FC9521F31CC511EAEF /* phrase-film-jazz.mp4 in Resources */,
+				33451BD26A626513C6E5FF4A /* phrase-film-reach.jpg in Resources */,
+				EE3B269E5946B9199A62A057 /* phrase-film-reach.mp4 in Resources */,
+				132B7D241FCA3BDA649EBA82 /* phrase-film-rehearsal.jpg in Resources */,
+				90564249A66D65F532DBA7AE /* phrase-film-rehearsal.mp4 in Resources */,
+				313233DFF829E0875F93CCBE /* phrase-film-street.jpg in Resources */,
+				A236DBCAE5000F56D9730E38 /* phrase-film-street.mp4 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9AB99AFED1E5B93DA2276467 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A72CB2B9074D95CA39FEDB00 /* AppStore+Phrases.swift in Sources */,
+				D5D56E177BD51887FEED5349 /* AppStore.swift in Sources */,
+				0F428AECBB095FA7F6B47875 /* CallCameraController.swift in Sources */,
+				96418FEB0DA54A021575DDD4 /* CallCameraSurface.swift in Sources */,
+				4987BE76EED312B3AAFAB339 /* CallController.swift in Sources */,
+				CA336A40C02F31B50AF7C612 /* ChatControllers.swift in Sources */,
+				D72D0446976F986E866D547A /* ChatModels.swift in Sources */,
+				809048A84972636B5F4F740B /* CommunityControllers.swift in Sources */,
+				471F53BE04A8C13B3A0B996F /* ContentSafety.swift in Sources */,
+				1613E2EF80FCC8F8AA8562C5 /* CreationController.swift in Sources */,
+				D8E1AE0AE57C8C2C50E68041 /* CreationSubmission.swift in Sources */,
+				EBE20E9DE1AED3C5756A3A60 /* CreatorProfile.swift in Sources */,
+				EB99BA8606E3BAE5B19926BA /* DanceDiscussionContent.swift in Sources */,
+				0E3F39C5DF572439A4BD4485 /* DancePhrase.swift in Sources */,
+				23975BBE6AF1D7297121B6E3 /* DancePhraseCatalog.swift in Sources */,
+				5A9A5E3D79839F70238A382F /* DanceVideoCatalog.swift in Sources */,
+				04B0FCD597EAFE50E5116D44 /* DancerPortraits.swift in Sources */,
+				84EC3901D87EEDEADF65CCFF /* FreshStudioPhotos.swift in Sources */,
+				54C41DAEA3908FE07B7E9541 /* LiveRoomModels.swift in Sources */,
+				0375FCEEE6A692C9421A593F /* LiveRoomPlayback.swift in Sources */,
+				80033903DC438D5DB23CACC0 /* LiveRoomStore.swift in Sources */,
+				6AC2A83923F8C7F1DB3C5822 /* LocalLibrary.swift in Sources */,
+				06C720F171DC73C20D809530 /* LocalLibraryRepository.swift in Sources */,
+				C55BF7A346DA11B41B2B0922 /* LocalVideoPlayback.swift in Sources */,
+				2C8FFCFBFCFFF68A9400D986 /* PartyControllers.swift in Sources */,
+				65C9C7FB049E22AF3FDB7B16 /* PartyDiscoveryStore.swift in Sources */,
+				E8B8C37F461D56F89D802ECF /* PartyModels.swift in Sources */,
+				FEE1DD5905F7786A9CC8762A /* PhraseBook.swift in Sources */,
+				126A118BA01D8798DAB89083 /* PhraseDetailController.swift in Sources */,
+				7899D7779F29C2C33936C671 /* PhraseEditorController.swift in Sources */,
+				05522E6BDFF1E59C674D28FC /* PhraseFigure.swift in Sources */,
+				AD8264F823B6A77DD2203E6E /* PhraseListController.swift in Sources */,
+				5784763DA07CCA23A62CFF5B /* PhrasePulse.swift in Sources */,
+				010C8792F106A1432BBB97FE /* ProfileControllers.swift in Sources */,
+				33178449571489435312F040 /* ShortsInteractionRepository.swift in Sources */,
+				8147F8D7EC07205AFB488A36 /* ShortsInteractionStore.swift in Sources */,
+				61D09177C47AA272EF8C54B3 /* ShortsPlayback.swift in Sources */,
+				BDB7B7F4EB8C90909EC42A32 /* StoreKit1Purchasing.swift in Sources */,
+				92D952E27B4BF2A4607122E3 /* TetoApplication.swift in Sources */,
+				44F04624D50242D7B087E273 /* TetoIcons.swift in Sources */,
+				FCBAA20189E5115A786A8BBB /* TetoUIKit.swift in Sources */,
+				24BF22968F9B12193FA7843B /* UserAgreement.swift in Sources */,
+				F9AC311D7594648588C1BF4D /* VideoDiscoveryController.swift in Sources */,
+				C9BAC3C4EEB7B1E0C1FEA2C1 /* VideoFeedController.swift in Sources */,
+				B1A34F288EF5490C4384778A /* VideoRecommendations.swift in Sources */,
+				6A85098D1D284389AA96060C /* VideoViewingHistory.swift in Sources */,
+				515CF1F0483244124D8C3C6E /* VoiceRoomChatScript.swift in Sources */,
+				2EBD67586CCFEF84B84B4E60 /* WalletModels.swift in Sources */,
+				16F0995A2ECA5B431CA3D9B8 /* WalletStore.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5C8DF259C4451B57DA696B11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = JPTS6M4T5B;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 0.1.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		75938712D2E3627A78215213 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Teto/Support/Info.plist;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.teto.dance";
+				PRODUCT_NAME = teto;
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A273F09AF39C799136C82ADE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = JPTS6M4T5B;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 0.1.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		F0EE47EA5318A7CD7FB01088 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Teto/Support/Info.plist;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.teto.dance";
+				PRODUCT_NAME = teto;
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1522343510AA768C426F0067 /* Build configuration list for PBXNativeTarget "teto" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75938712D2E3627A78215213 /* Debug */,
+				F0EE47EA5318A7CD7FB01088 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		BD40411BC30241594872782A /* Build configuration list for PBXProject "Teto" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A273F09AF39C799136C82ADE /* Debug */,
+				5C8DF259C4451B57DA696B11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7EB72E081343007060D8A58A /* Project object */;
+}

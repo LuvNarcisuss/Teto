@@ -1,0 +1,203 @@
+{
+  "identifier" : "TetoDiamonds",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A4000001",
+      "localizations" : [
+        {
+          "description" : "400 diamonds for gifts in live rooms",
+          "displayName" : "400 Diamonds",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "hoewtkchclzkuruf",
+      "referenceName" : "400 Diamonds",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "A4000002",
+      "localizations" : [
+        {
+          "description" : "800 diamonds for gifts in live rooms",
+          "displayName" : "800 Diamonds",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "qbfuucwaccetjljs",
+      "referenceName" : "800 Diamonds",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "A4000003",
+      "localizations" : [
+        {
+          "description" : "2450 diamonds for gifts in live rooms",
+          "displayName" : "2450 Diamonds",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "mdnrsibqccschjcg",
+      "referenceName" : "2450 Diamonds",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "A4000004",
+      "localizations" : [
+        {
+          "description" : "5150 diamonds for gifts in live rooms",
+          "displayName" : "5150 Diamonds",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "olfouxazhsdntxzs",
+      "referenceName" : "5150 Diamonds",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "A4000005",
+      "localizations" : [
+        {
+          "description" : "10800 diamonds for gifts in live rooms",
+          "displayName" : "10800 Diamonds",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "ejtvapyfnomaimlf",
+      "referenceName" : "10800 Diamonds",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "29.99",
+      "familyShareable" : false,
+      "internalID" : "A4000008",
+      "localizations" : [
+        {
+          "description" : "16800 diamonds for gifts in live rooms",
+          "displayName" : "16800 Diamonds",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "mwkqplvxbtdrjcsn",
+      "referenceName" : "16800 Diamonds",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "A4000006",
+      "localizations" : [
+        {
+          "description" : "29400 diamonds for gifts in live rooms",
+          "displayName" : "29400 Diamonds",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "uficsdpshzadegnz",
+      "referenceName" : "29400 Diamonds",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "69.99",
+      "familyShareable" : false,
+      "internalID" : "A4000009",
+      "localizations" : [
+        {
+          "description" : "42600 diamonds for gifts in live rooms",
+          "displayName" : "42600 Diamonds",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "hycnfrwzqmkplvtd",
+      "referenceName" : "42600 Diamonds",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "99.99",
+      "familyShareable" : false,
+      "internalID" : "A4000007",
+      "localizations" : [
+        {
+          "description" : "63700 diamonds for gifts in live rooms",
+          "displayName" : "63700 Diamonds",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "cbhpozbwbvfwgqxp",
+      "referenceName" : "63700 Diamonds",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_developerTeamID" : "JPTS6M4T5B",
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

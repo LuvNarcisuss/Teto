@@ -1,0 +1,1381 @@
+{
+  "date": "2026-10-23",
+  "scope": "Bundled photographic portraits, room artwork, dance video covers and films; source inspection only. Existing identity artwork is intentionally consistent across screens and member portraits are intentionally included in group mosaics.",
+  "counts": {
+    "portraits": 86,
+    "roomCovers": 12,
+    "lifestyle": 2,
+    "videoCovers": 46,
+    "videos": 46
+  },
+  "byteDuplicates": [],
+  "normalizedPixelDuplicates": [],
+  "duplicateCatalogAssetNames": [],
+  "duplicateVideoIDs": [],
+  "missingMedia": [],
+  "unmappedFilmCreators": [],
+  "mainManifestHashMismatches": [],
+  "visualReview": {
+    "videoFractions": [
+      0.15,
+      0.5,
+      0.85
+    ],
+    "reviewedVideos": 46,
+    "notes": "All reviewed film frames show dance/practice movement. Similar studio/location shoots are different clips, not renamed copies. No duplicated image was found in contact sheets. Perceptual near-match Portrait8 / PhraseAuthorMaren was visually checked: different people/photos. Representative frames do not guarantee absence of duplicate subsegments anywhere in full films."
+  },
+  "files": [
+    {
+      "path": "Teto/Resources/Assets.xcassets/LifestyleDanceRehearsal.imageset/LifestyleDanceRehearsal.jpg",
+      "sha256": "8ae69a22ed1521e984804cd39071fc682242b4a973b58c7d2d6b28debd0522db",
+      "dimensions": [
+        1000,
+        668
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/LifestyleStudioPractice.imageset/LifestyleStudioPractice.jpg",
+      "sha256": "a40129aabcd6587053d736675d4265ce1b97b33863b6ee90ab1c4f9e3a8cbecc",
+      "dimensions": [
+        1000,
+        668
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorCassian.imageset/PhraseAuthorCassian.jpg",
+      "sha256": "12a195ba34bb2a5fb5b8d3a873e0afac6568a2a720e37adbec1b44d7a7feb7d5",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorIndigo.imageset/PhraseAuthorIndigo.jpg",
+      "sha256": "3b444903d907b894c877ef289e9749150c32522607043985f5747764a091a4c6",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorJules.imageset/PhraseAuthorJules.jpg",
+      "sha256": "9ba35eb71edf41b118d81369e9c82704c8fbf82cd3468a0e0c6bf5dbaae3b15d",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorMaren.imageset/PhraseAuthorMaren.jpg",
+      "sha256": "325aba14558e1f84e0cc6d79ac64a58e332af1986a600e8ed9b08222a645b417",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorNia.imageset/PhraseAuthorNia.jpg",
+      "sha256": "1b14e61ca4f670bcdffa280838e568bdb9e66b4c95c842ab1bddb74a4ca6616e",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorRowan.imageset/PhraseAuthorRowan.jpg",
+      "sha256": "3122966a13c3ae6e16af099cc3cdaed22f3617b0d89eb35e1455fd584fb523c9",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorSable.imageset/PhraseAuthorSable.jpg",
+      "sha256": "2005f7cf09a6ca7eb412467db7414357dc56078cdf3100f309cc1a3e6491e939",
+      "dimensions": [
+        800,
+        800
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait1.imageset/Portrait1.jpg",
+      "sha256": "5a12718d3b1a41fd4989b427488b4ecf45927aa12e6db503b84943974821f47c",
+      "dimensions": [
+        800,
+        1200
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait10.imageset/Portrait10.jpg",
+      "sha256": "17c5a765ddf3934d628a9b61277a220ea0354e2e2027e0ab7717698bd175ba90",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait11.imageset/Portrait11.jpg",
+      "sha256": "058185d3da551a6c98f718191cfe0483e650650170c6cd057adff11a1bfe5a0b",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait12.imageset/Portrait12.jpg",
+      "sha256": "7948bf4c29bf2d52f3eed5db8d023228c52d8b7ed85ace9e6038bdfd10b73fb0",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait13.imageset/Portrait13.jpg",
+      "sha256": "1ef4a0ad6cfd5131fcf1c3a0f92d490aa4c8d7e88f714f51ef565be767df0176",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait14.imageset/Portrait14.jpg",
+      "sha256": "594e52064ee28b2cbe653fdcf848e36f2e853fda0a37ea74d213265832fe49b6",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait15.imageset/Portrait15.jpg",
+      "sha256": "8e4e25f972495c561d903e873fa9d27e416861d311c2a974019c1ac83ec76fa7",
+      "dimensions": [
+        720,
+        481
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait16.imageset/Portrait16.jpg",
+      "sha256": "637ba8a13706c6de9d1b23c7f85886e98d524635abcd78c8c97b854703f9a7e9",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait17.imageset/Portrait17.jpg",
+      "sha256": "9af124124c6731274d5a93213c51404e23b1d3eb7b85809efb0cb1fb3771d6a9",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait18.imageset/Portrait18.jpg",
+      "sha256": "af82fd79d29fb06fc90eb9b6465e815171a0541819c93504c419c00638dab07a",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait19.imageset/Portrait19.jpg",
+      "sha256": "973f6fb554de568f4e93f2e62fa4ee11117c277a20dac1dfe9bb12cf7b93d423",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait2.imageset/Portrait2.jpg",
+      "sha256": "6de1e994c747995676debcd99ba820732dfc5c13006375bd7cbe57e50adcbb14",
+      "dimensions": [
+        800,
+        1200
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait20.imageset/Portrait20.jpg",
+      "sha256": "545d9915cd0b52f7339a0ed9751e498c3159549e56300066e058d66156e19956",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait21.imageset/Portrait21.jpg",
+      "sha256": "ccc1265210d039d2dcc0ecabc6f2f4c2ba7012c43d924cffd1ea48b310cfc40a",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait22.imageset/Portrait22.jpg",
+      "sha256": "e9918f1f796ec78fcdea8bb22296babca75a9818f01617fa7a3917b584d7ab49",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait23.imageset/Portrait23.jpg",
+      "sha256": "d796b7a371077e591581649647c62bbd836a1ef998c8eb92c1ea5a0ac2f0b737",
+      "dimensions": [
+        720,
+        1037
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait24.imageset/Portrait24.jpg",
+      "sha256": "6ff293854d0e71327e8e7ecdd55de612d54202d96f302d9c10b2e7ce2cdb1205",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait25.imageset/Portrait25.jpg",
+      "sha256": "bbb585a4417f7cc589c5e692b9ffa9dc55217b59a89015d64a6f0bf987d57b22",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait26.imageset/Portrait26.jpg",
+      "sha256": "5eacbc8ad976d20615033540cc13eaae429c4a5c521c7ae9dc4dea70fcd26112",
+      "dimensions": [
+        720,
+        900
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait27.imageset/Portrait27.jpg",
+      "sha256": "ad57cce42bf2314eb7200704a36107e7f768e0cf66e9d27218c5ac97b71c4800",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait28.imageset/Portrait28.jpg",
+      "sha256": "6d2701cc504f96c80770ce5ef40da7a4b6563b529d8ce3ff8e3def02bbf10e93",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait29.imageset/Portrait29.jpg",
+      "sha256": "dd80eabe86981a402031ea795ac8bbeb5be68d963bea15c14f86b675304367cd",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait3.imageset/Portrait3.jpg",
+      "sha256": "e17bd5fb325a9e6b28d8984f071969fa4a407a3aded06c7918d34fbf91918b89",
+      "dimensions": [
+        800,
+        533
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait30.imageset/Portrait30.jpg",
+      "sha256": "3c05845703c563f0d12ce4d90451ff486747599daac89fef7fdb961311cefca2",
+      "dimensions": [
+        720,
+        900
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait31.imageset/Portrait31.jpg",
+      "sha256": "35010911f65b5950425c28b4d808fb96fd53f4d28ae870360806629de12e0f4f",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait32.imageset/Portrait32.jpg",
+      "sha256": "721f2046ddc9a6ccdfca692f15e135b3f351d3645868ffd94eac279ad7b7cd96",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait33.imageset/Portrait33.jpg",
+      "sha256": "c70ed2bccbd53e0b5fb692f2a5196de0ccbf6306226d606e4f7bb94b73c98523",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait34.imageset/Portrait34.jpg",
+      "sha256": "045c26eddad8b1c30ada749455bd14e0c533009aeed00416e4a47ef7694a7572",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait35.imageset/Portrait35.jpg",
+      "sha256": "830695ea4e5a2aafe459c28c9f031fe2a43b166c72de914745c02478d61c6ad5",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait36.imageset/Portrait36.jpg",
+      "sha256": "9f3047b8b6f8991ac5fc216a8f14d025195de8382d7a49305b586282ab417116",
+      "dimensions": [
+        720,
+        1087
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait37.imageset/Portrait37.jpg",
+      "sha256": "5853550a80fd29ccda347567cc04d95501425785af2bc0593462feaa62d3fa4c",
+      "dimensions": [
+        720,
+        900
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait38.imageset/Portrait38.jpg",
+      "sha256": "176ec1e017a080dc02d5200898b0eef88d81ef0b3b8ea706b3afc9c4b793af02",
+      "dimensions": [
+        720,
+        900
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait39.imageset/Portrait39.jpg",
+      "sha256": "35f26f12e4b9c5afef800c2ae26ddd258db5fe89d430b2f18f98a127c8bb08af",
+      "dimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait4.imageset/Portrait4.jpg",
+      "sha256": "33311f9738912c8728f9508c6f79035f40b73c79f98710029da903b5ca37d516",
+      "dimensions": [
+        800,
+        533
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait40.imageset/Portrait40.jpg",
+      "sha256": "f2c338d9c3da76bb4b217e78de25129a0220e443ddbbcf0f127a4e8806a860c3",
+      "dimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait41.imageset/Portrait41.jpg",
+      "sha256": "2be609a237bc839a62f00aab1626776c63a79ae64c0ea8f56516930f4c1c8214",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait42.imageset/Portrait42.jpg",
+      "sha256": "73b59d1ad0a760bbf9c635b1b199b1b53e2b4364d9223683472345bc138dc9d5",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait43.imageset/Portrait43.jpg",
+      "sha256": "982d5c43f5736cb42036b0714649b0d2a214bb20b451e62d92abc212dede5631",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait44.imageset/Portrait44.jpg",
+      "sha256": "33d89ff9f127a322c191e2b12591a03537654b9249ed57f09651e907c29cbb6f",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait45.imageset/Portrait45.jpg",
+      "sha256": "efd852fe114a649f28720b1a13763706ebb338f087d387727578d0d79b275165",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait46.imageset/Portrait46.jpg",
+      "sha256": "b6a7c7cd846b0f22b260fb06657908845e1024db75ad1ddde48f2f0dedaeca1c",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait47.imageset/Portrait47.jpg",
+      "sha256": "6e645552b710e95c16de83d6600dff370467822884f7c9ed8927e4480d3580f1",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait48.imageset/Portrait48.jpg",
+      "sha256": "92b2742d0a600611f09c97d3eeee191132390b4063aaff8918790086f18b3f95",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait49.imageset/Portrait49.jpg",
+      "sha256": "1f80bbfbcdcd616443522eaab78d22d8104dbde281860b1c89ddcbe9cb5123ef",
+      "dimensions": [
+        720,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait5.imageset/Portrait5.jpg",
+      "sha256": "8e2cede333dfdf7fccffa65aeebd9c3a6e96e55c726432ff402d7567f6e218e2",
+      "dimensions": [
+        800,
+        533
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait50.imageset/Portrait50.jpg",
+      "sha256": "e8ffe1b676a6a2ce3ca6d5927876e63417a2e0fccc46a033c48749d56402959f",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait51.imageset/Portrait51.jpg",
+      "sha256": "b6bb784c35f2244761a1efe08505ecc02c1b0fbbf01255926bb6af6cdd40e275",
+      "dimensions": [
+        720,
+        874
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait52.imageset/Portrait52.jpg",
+      "sha256": "ecc8a61dfb3b520fca63016ecc60d55a875d09091be192e100edce2499be94b9",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait53.imageset/Portrait53.jpg",
+      "sha256": "109bf27dd21a71d22f1802f4b581cf8e88d21b5f574fb246f1363d92109adc15",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait54.imageset/Portrait54.jpg",
+      "sha256": "918a0fa554329631de12ffe11c1c59ce5a123a9217b5b944ea377302a1837661",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait55.imageset/Portrait55.jpg",
+      "sha256": "a73d683b17a412e07a7a188b3ee2a3bc4df6a716cff3a583bda74453438745c8",
+      "dimensions": [
+        720,
+        491
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait56.imageset/Portrait56.jpg",
+      "sha256": "7ef8a053d107ff2bceaa5408266f5a30906163a576ce8dbdeb5e76179abc37a5",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait57.imageset/Portrait57.jpg",
+      "sha256": "9266680d1dcadd1325e89aa5b6667da785b07d4ed88c178ec039fd5eb55e4e34",
+      "dimensions": [
+        720,
+        1099
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait58.imageset/Portrait58.jpg",
+      "sha256": "d517f95ea381bcf22ba5afa8c7e956acdbef4552efd9c71444eb36bd53e07b6c",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait59.imageset/Portrait59.jpg",
+      "sha256": "0700e076fca812324edc476a7252ee7dd7454859c95e7bfe3faa32419239d3c0",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait6.imageset/Portrait6.jpg",
+      "sha256": "9dca18de78ff8477df9a6f3fadfbaeca9434992fc3ec45712f0e55aff84954a2",
+      "dimensions": [
+        800,
+        1022
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait60.imageset/Portrait60.jpg",
+      "sha256": "2e6c087a33c31bcd75a69ee145f7764027b994ee6be7afc01ad5eabb093089a3",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait61.imageset/Portrait61.jpg",
+      "sha256": "a8805f42c18a8028cfede9043e76ecea49f12c26c4fee42be69188da44f517f8",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait62.imageset/Portrait62.jpg",
+      "sha256": "3874ae861afafb50676b97aa3d3cf096c9cc5a4464999bf4b13a035d3abc8575",
+      "dimensions": [
+        720,
+        1039
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait63.imageset/Portrait63.jpg",
+      "sha256": "fd87e180ca637a65a072e2eb096faf04b6ca6f7325e522e7b7eb735c0fee67f3",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait64.imageset/Portrait64.jpg",
+      "sha256": "33020d14ae062da536df281b826595ee89a90212ef038a4f02f383e179ac28bd",
+      "dimensions": [
+        720,
+        900
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait65.imageset/Portrait65.jpg",
+      "sha256": "d38aaaf519b7226c0bd0a0a73cb85f01ddd25c8e5645094b1e80d43af232e184",
+      "dimensions": [
+        720,
+        1008
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait66.imageset/Portrait66.jpg",
+      "sha256": "53fa5e50687ccc306999afbcce7ca997eff9529011e16c27e44d945d2ec083e0",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait67.imageset/Portrait67.jpg",
+      "sha256": "aba659d733f5bc397186e6d10e646e8145baabd4807d2b7b08985a82b8f73d7d",
+      "dimensions": [
+        720,
+        900
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait68.imageset/Portrait68.jpg",
+      "sha256": "9af138ad5ef39b2727d22f6b16c59543108b789bd48246c1080d998aaab24e28",
+      "dimensions": [
+        720,
+        480
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait69.imageset/Portrait69.jpg",
+      "sha256": "13410f356763c660873282a026563c27b2f71a366b5f21fdbb38af9adb911e85",
+      "dimensions": [
+        480,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait7.imageset/Portrait7.jpg",
+      "sha256": "76aa7fef20fc77a993afed61a3af187ac87113eea42524f52517ece47792e2ef",
+      "dimensions": [
+        800,
+        1199
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait70.imageset/Portrait70.jpg",
+      "sha256": "b5369ea227de4bca3361dc662915467d12b7c7555eb043adbdcf5a5102089cf0",
+      "dimensions": [
+        720,
+        500
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait71.imageset/Portrait71.jpg",
+      "sha256": "51bbf46e051e4bb471a512f0102a7cd64d53caf505a6398634db6c49d48096c2",
+      "dimensions": [
+        720,
+        1079
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait72.imageset/Portrait72.jpg",
+      "sha256": "5353f6f3a72740e88c6a93563759091c478951dd4f9172ac6a5176868ad9b4d6",
+      "dimensions": [
+        720,
+        615
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait73.imageset/Portrait73.jpg",
+      "sha256": "3aff662f547f665d7bc6fb898a95e1e433046ea77a51888b3b6f3767f7f6262f",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait74.imageset/Portrait74.jpg",
+      "sha256": "8aff0685f3e10fb3124ba08ea09efced19ae3bedea58f83359e362a3fe5490f9",
+      "dimensions": [
+        720,
+        594
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait75.imageset/Portrait75.jpg",
+      "sha256": "659152c54363c24a01f00c03caecc15c828e032a7b7a5d20026c91aaeeb980f8",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait76.imageset/Portrait76.jpg",
+      "sha256": "ada3d3034554747195296d356077e67ffdcf33c2ab45cdd43d393de6e7370dcf",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait77.imageset/Portrait77.jpg",
+      "sha256": "f6f40832bf8d34090aa9b51c61463679a163b0a9c193af02428a58f67064d8c4",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait78.imageset/Portrait78.jpg",
+      "sha256": "3814724cde02c1e312e286a8845ce3d846bb620cfd0240f818847d822589615a",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait8.imageset/Portrait8.jpg",
+      "sha256": "2d7de4c894549dcf731c06e7d101d5e1a101b86c2a8a5c40779897979882944c",
+      "dimensions": [
+        800,
+        534
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait9.imageset/Portrait9.jpg",
+      "sha256": "00dc84caa45ad04eef233689248afecb007c915927f627bc707721616edebd62",
+      "dimensions": [
+        720,
+        634
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PortraitLocal.imageset/PortraitLocal.jpg",
+      "sha256": "3ff264a46841e03e4ba06610503404ebb2763b61a2cdfeb301492d3975a35cb6",
+      "dimensions": [
+        720,
+        1080
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverBallet.imageset/RoomCoverBallet.jpg",
+      "sha256": "a8dd2d40c1502eb3da7c1865f62c871fa13ab3a43634d30242d7798fb5fc7618",
+      "dimensions": [
+        1400,
+        933
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverCamera.imageset/RoomCoverCamera.jpg",
+      "sha256": "430b1ece7994ccff6390c207001dd55b2a87b801c7a793b582864dc6fa85fe4a",
+      "dimensions": [
+        1400,
+        934
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft1.imageset/RoomCoverDraft1.jpg",
+      "sha256": "4eb2cb13c4fef97e599ccb511b346c988a7ed4cec341420d69b64e362bc4edc1",
+      "dimensions": [
+        900,
+        481
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft2.imageset/RoomCoverDraft2.jpg",
+      "sha256": "12fbe45d537d304bd77b09c270dba5d948aba6ee00d3222e8cc1eb7ddb353896",
+      "dimensions": [
+        900,
+        600
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft3.imageset/RoomCoverDraft3.jpg",
+      "sha256": "bc831a64a3734e1df5f96d529e8d8ac3c333a04473ced2f05224a35e9b8658a5",
+      "dimensions": [
+        900,
+        601
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft4.imageset/RoomCoverDraft4.jpg",
+      "sha256": "85d531d8bdc27d46d912eb556a58a4c7b0432cc2064e0631c864a313811a0689",
+      "dimensions": [
+        900,
+        602
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverFreestyle.imageset/RoomCoverFreestyle.jpg",
+      "sha256": "ca903c4676519b642823c0682707db431407ada1c4af39d3d2ed5642027971e0",
+      "dimensions": [
+        1400,
+        934
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverHipHop.imageset/RoomCoverHipHop.jpg",
+      "sha256": "d61f0cec15a2d31913d32559e9aa22fd1f7aa81a40de5ebebbed63b0c8f5977c",
+      "dimensions": [
+        1400,
+        933
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverHouse.imageset/RoomCoverHouse.jpg",
+      "sha256": "dc1d66248700b8ab3f671ffcfc914cc80dc2c4ac1d6ebafe1612e192b9db86be",
+      "dimensions": [
+        1400,
+        933
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverJazz.imageset/RoomCoverJazz.jpg",
+      "sha256": "e8e443cd18cc4697ec2cd1231f62fd1c999792f22404cd58479acf4371117acb",
+      "dimensions": [
+        1400,
+        2099
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverKPop.imageset/RoomCoverKPop.jpg",
+      "sha256": "9e49e9d4e88385006823f83f9bca2d0b39218204b70d07abba7d14c64a6c4f2b",
+      "dimensions": [
+        1400,
+        2100
+      ]
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverPractice.imageset/RoomCoverPractice.jpg",
+      "sha256": "933dc3e5f22acc8833645a252f0807485a8b0c362723241b2ec6ede4a72f07bd",
+      "dimensions": [
+        1400,
+        2100
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-class.jpg",
+      "sha256": "7f3527afdbb9b622b8f6166e154af526778ffc4c41ff1be5fd2fbaa60ffd29af",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-class.mp4",
+      "sha256": "7132e02755bb5832499d586618788e885cc7631ff99afd5fba0b4cba6774ab17"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-duet.jpg",
+      "sha256": "805e80b77f4722db42b3523ba3bb710225e20e510ec4b105d1b7108486c504ea",
+      "dimensions": [
+        676,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-duet.mp4",
+      "sha256": "8955500aa25f0e5849af367f82f69dee22d554ca023a225ab4f195dcc86c807e"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-practice.jpg",
+      "sha256": "80fe300612e9e150b67b20ff128643cba7a734113e138d8ff5a4fbfd98172e7e",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-practice.mp4",
+      "sha256": "4a521740dc8079fd51c0ae146c4f3bcc7ab6c52698cb9ba387be74b65a8cd2e1"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-bridge-freestyle.jpg",
+      "sha256": "3002174cc449c27cd22683d287fcaf98016b3d7e50d8ab4ee76946ed48765a68",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-bridge-freestyle.mp4",
+      "sha256": "f7045c816d75f98f9697ae1c545d22112be38f2cd20f5fbaebdc75dbbe02195d"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-bucket-groove.jpg",
+      "sha256": "8fe03016277ba42e54df2f9578973436e43a66a8013569d9b1a8053b0fed7353",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-bucket-groove.mp4",
+      "sha256": "3fef229714ef6994b44be24c2f7fb7aee025a837b36b0deb449f8526df19632e"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-contemporary-flow.jpg",
+      "sha256": "5e49de2e42058fa480d76fa4d5ac821ef4479150337dd9d07645d096e608c328",
+      "dimensions": [
+        676,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-contemporary-flow.mp4",
+      "sha256": "11514f39b3b91b6697451ff5b629b77ad1c586cdd5ad1e99ad931080730cdc1c"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-court-session.jpg",
+      "sha256": "4e36b8d1d248feb00f7c29f7377cff561e481022fce50cf1d7a8d030f3c27e86",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-court-session.mp4",
+      "sha256": "5048a1aa32b80fb73259ae1604aa61851e17a7d81e46cff15f1d4fd087769304"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-crew-rhythm.jpg",
+      "sha256": "40a270e4f135c022c0d897226526a6c5e4b07eb2367d1b90769c69d4d99a7d06",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-crew-rhythm.mp4",
+      "sha256": "14182c292565a78ca8d4d98a147e497578f1abddf930a38c89fb47a833dcc9ef"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-crosswalk-duet.jpg",
+      "sha256": "7b2ff5545001b5c12512c68dccedc8961377350b13ba589f1ce212dbe544a19c",
+      "dimensions": [
+        674,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-crosswalk-duet.mp4",
+      "sha256": "d950b08bc447531a27f598327bb083434159b52bbfee1c908aa823418d4d340a"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-cypher-night.jpg",
+      "sha256": "83cbf61df87b366b345859c341277557bc092c7ebda55573e79f3355d2e5b00e",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-cypher-night.mp4",
+      "sha256": "35d6145b2910d119d279a5c3688f5b402ea9ce3a3ac275cf8ff1f8c3f00ed553"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-expressive-arms.jpg",
+      "sha256": "fe659d99ffb4f11ba9f883be464fc54115ef153b61df9e287ea92bdbc251e82a",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-expressive-arms.mp4",
+      "sha256": "cb8d46c4ad3999e943f8706c9c548faa6c422d26a12118d5a7a742f080681f73"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-glitter-groove.jpg",
+      "sha256": "277b672d274d7154ac17f15ade42a3207d43cf565a438dcc9740332c90e3ffec",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-glitter-groove.mp4",
+      "sha256": "dc37642e7714b3bcee3fa76df9b84de1640bfc8a3b2115c3571eacefe4b81892"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-group-rehearsal.jpg",
+      "sha256": "5c3836aafe6476c0fc3c0ea3a94c1c186fd032b4a9722faab057e9d12104680c",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-group-rehearsal.mp4",
+      "sha256": "6f7a99c4ef6fdf491329f95646b510aff06b7e83d0b7dc5b74e6f0e870843e65"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hiphop-duet.jpg",
+      "sha256": "5e3367f19a141c20c2f16f30b6a9d690fe22dbf27499025074320d51916bbd9c",
+      "dimensions": [
+        1280,
+        676
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hiphop-duet.mp4",
+      "sha256": "ffd7962b06ce38f6de981c408087e460ca4baeca81856f5390cce4cd9764ee03"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hiphop-solo.jpg",
+      "sha256": "1d13c6ed65a352cb007dd3779f1ae311e73204a53f2ab0fb0c747974129869d2",
+      "dimensions": [
+        1280,
+        676
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hiphop-solo.mp4",
+      "sha256": "a7f8ea7bcdd0c5db89b2f68e0a85ff5b273f95b2aa8f32e958893488458329a9"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hoodie-phrase.jpg",
+      "sha256": "b7eb19f82af460681f262e9fd32d8b373e9b0b6a796de152941417f124e65382",
+      "dimensions": [
+        1280,
+        674
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hoodie-phrase.mp4",
+      "sha256": "ea08ddacc9fd3106c7e5a9bae6b9ad94c0cbcb0ea5723bf84b3e63beb1e90e9e"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-lifted-arms.jpg",
+      "sha256": "f5ac9797a3f6730ec9317c76ca606fe112c6d2d29eda27fccebaabf1e6d75380",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-lifted-arms.mp4",
+      "sha256": "382a4ee681896edfc2b28a07e15eebeb612408d8951e3a5f8db9ece60e00b2b7"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-loft-partners.jpg",
+      "sha256": "5092b974b101809ab8781a79593f24c0e8a45741b83a931cfb3218ae5858db48",
+      "dimensions": [
+        1280,
+        674
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-loft-partners.mp4",
+      "sha256": "9eb0ab4115e63224c629ac517642588d20d436bd2cbc067b3506a5f51d549f0b"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-loft-session.jpg",
+      "sha256": "335241b832d044765ef2759ea06d3c84302f61f7f7b7c972ffe7bebd19446b0c",
+      "dimensions": [
+        1280,
+        674
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-loft-session.mp4",
+      "sha256": "85e5465a9a3a371d51342c5ce017fdbbae34d2e9ab010cabcce05d9e2c25904b"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-mosaic-steps.jpg",
+      "sha256": "6c6dfc0127ac3aa85b68982ee54ec833c0fdadb67d46fd6e49e49e3a58634056",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-mosaic-steps.mp4",
+      "sha256": "59d7298281e9a7f5d0d7af1bca4d168bb179631545f43372ac3ae8899fdf2f38"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-mural-phrase.jpg",
+      "sha256": "369019191bbf908330d40a5ab6952ed9499b38f72c26b2436fd0db2cf9b68d79",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-mural-phrase.mp4",
+      "sha256": "4284c23b5d6da274d83d7ad12b41cdbd002ca3c590a732dcff074e2008adebb2"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-night-crew.jpg",
+      "sha256": "118a7ba95a732344b63b75b75961f04305092113a1fbc59a4d576fb17d71e354",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-night-crew.mp4",
+      "sha256": "8fa26a3f2fca283d9ec26cc658012b518de77242b59adb8a209eed09a3de4f21"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-practice-partners.jpg",
+      "sha256": "3397c441c05adf57a578dc4eb257a8b5adf3f93837560b582cdce0f3ec62e1a1",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-practice-partners.mp4",
+      "sha256": "a9c1bd00d3c596e87bac5728b1664870814af497c0d5c4436bb8718fdc82d380"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-purple-groove.jpg",
+      "sha256": "bbfafae94ccffb976df3c53ab250fed0060cd431b32c57adcacc9e518c869e85",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-purple-groove.mp4",
+      "sha256": "35ed83d3320fa313ab1e2cef22259db2d5885a926209aaf0ac036a04646f6739"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-rooftop-freestyle.jpg",
+      "sha256": "973a1a3d543936ffa41c3a98b37a8e4e335a4ac0aca85e15bd2e2a097efc9b88",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-rooftop-freestyle.mp4",
+      "sha256": "c5f133ab62cc1651a906a2bc072e4c0edb644c7123f0aef40e003233707913cc"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-salsa-floor.jpg",
+      "sha256": "35809c2760525d4d1246e4ad3e0aa0b6a2f96aa690b30bdcf22bd294326bdf2a",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-salsa-floor.mp4",
+      "sha256": "419565fbe4f64e7e99c606282c91afaf6f51247f57ece81a25f877e04904c532"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-seaside.jpg",
+      "sha256": "8201420d570b4dd6a2034cef3880a2da3c22fe9cdc494bab4bc7221b6f4591cf",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-seaside.mp4",
+      "sha256": "97bc21b7c689e5d7f79b5eaf14f41204dd5996cb09fb3b1d41b042b5f8360733"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-shared-rhythm.jpg",
+      "sha256": "8bcaa2534c783c22f46177999540fab6127e7a8fb29538d49144b91d2c382aea",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-shared-rhythm.mp4",
+      "sha256": "4a77c65634a94fb31f36da0de180c8902294a59b02c037e7f8a090d34cbf5ddb"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-crew.jpg",
+      "sha256": "5eb6085c0df38fe5d66ff186900ffbaa59707d09a233c7fbb7ed29427b1d2a80",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-crew.mp4",
+      "sha256": "a2934a667f20902f658b58a724031bd1159d6d2e8f3451c21f01af4eda999b19"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-power.jpg",
+      "sha256": "6aa8518a7080a7427b3f603d83d96054d77f54bb0f6ab810685db2c003cad0e2",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-power.mp4",
+      "sha256": "3fe08c24c5bdaab02b6ba1c8e6c2183921082ffefb1b0c7afd4b758d51b44a5d"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-tango.jpg",
+      "sha256": "a774c2f2b0401d40cffa35d8d5af455834b7e4f63069f99b5304d6f16cfda5e3",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-tango.mp4",
+      "sha256": "6afbb352c93672acc27ba5255b8b90e689eb00b94215d0e32f9acc6b1d3e4f83"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio-chemistry.jpg",
+      "sha256": "045e2f57d292ac6d35fca40ae17b7ec892945b1171b2119115b2b4d317bbd348",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio-chemistry.mp4",
+      "sha256": "50c42960f95ced2da38e7ae347a00a9560714b645d8bd5b758db5f3016e7bd7b"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio-joy.jpg",
+      "sha256": "923b4decabd58f14bb094a3e7bda974ddef59ca0a61b91833dd881e2f06c5b50",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio-joy.mp4",
+      "sha256": "45e1872c35b319aabc40243f2178787439461d151e197233a5fa0a4faeac54e9"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio.jpg",
+      "sha256": "176d3ebfb60ab2b2d95c3bfd03fd61f3e09381226c8ce0c1ca6034f493e375bf",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio.mp4",
+      "sha256": "922ea3b9c15e3eb5b29ecbac7b976979e6683310bc07834a30e63e7ff84dd74a"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-sunny-salsa.jpg",
+      "sha256": "feb2b34160efb23b546c0845ed97b2cc7abca764e23cfaff53869f274923c66b",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-sunny-salsa.mp4",
+      "sha256": "bb43a3e64b09391db3fcf6799ea3b7e5a69b0604c4a76f605852031deda7df30"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-trio-count.jpg",
+      "sha256": "d5a241b4acbb1317a48d5edd5053d24be2e03c63be56b234cb8044c3d6f3ae09",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-trio-count.mp4",
+      "sha256": "fd177b04a4955bbf18fb543b18c12f0daf78c9d9ded49b13c097edef25121f11"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-urban-footwork.jpg",
+      "sha256": "28f7648e5a4e001053f35d6cf171c83728b78202c3b90ae57e3608ab3e978b0a",
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-urban-footwork.mp4",
+      "sha256": "705732bf855b1b775572ff30ec7e5e81fd7dd1a60a09b80a2defaeb4760c0815"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-warm-room.jpg",
+      "sha256": "78b00ecd22cdf604702ae3437f98570b328c27a95a065cf2c8c18350bd351846",
+      "dimensions": [
+        1280,
+        960
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-warm-room.mp4",
+      "sha256": "4083308ae5ae98a47b8f782d7381c80d994f79336ed707d7e0afbbda47bb1c6b"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-white-studio.jpg",
+      "sha256": "f0f1fb5103326d9379d1c1d2ae207634c8c139a68a5ec872e3071630e360002e",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-white-studio.mp4",
+      "sha256": "4f2476c8df7503cdc40724519b1bf66b946f140b34e6888910e1635ded1fb0f6"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-ballet.jpg",
+      "sha256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
+      "dimensions": [
+        406,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-ballet.mp4",
+      "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-groove.jpg",
+      "sha256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-groove.mp4",
+      "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-hiphop.jpg",
+      "sha256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-hiphop.mp4",
+      "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-jazz.jpg",
+      "sha256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-jazz.mp4",
+      "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-reach.jpg",
+      "sha256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-reach.mp4",
+      "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-rehearsal.jpg",
+      "sha256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
+      "dimensions": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-rehearsal.mp4",
+      "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-street.jpg",
+      "sha256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
+      "dimensions": [
+        640,
+        360
+      ]
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-street.mp4",
+      "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea"
+    }
+  ]
+}

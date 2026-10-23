@@ -1,0 +1,136 @@
+{
+  "reviewed": "2026-10-23",
+  "request": "Keep Film playback inside the app. Solo full-phrase follow-along; English explanation or counting preferred, not mandatory.",
+  "runtimeReplacementCompleted": true,
+  "notes": "Candidate archive outside app resources. Phrase 1 now supplies phrase-film-reach; phrase 2 remains unused. The authoritative seven runtime mappings are in ../manifest.json runtimeFilms.",
+  "candidates": [
+    {
+      "id": "frontiers-406662-video-1",
+      "title": "Dance phrase 1",
+      "choreographer": "Jenny Coogan",
+      "dancer": "Robin Jung",
+      "copyright": "© 2018 Bläsing, Coogan, Biondi and Schack",
+      "citation": "Bläsing BE, Coogan J, Biondi J and Schack T (2018). Watching or Listening: How Visual and Verbal Information Contribute to Learning a Complex Dance Phrase. Frontiers in Psychology 9:2371. https://doi.org/10.3389/fpsyg.2018.02371",
+      "source": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02371/full",
+      "download": "https://public-pages-files-2025.frontiersin.org/articles/406662/file/Video_1.MP4/406662_supplementary-materials_videos_1_mp4/1",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": [
+        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02371/full",
+        "https://www.frontiersin.org/legal/copyright-statement"
+      ],
+      "file": "Design/SourceMedia/PhraseSources/SoloCandidates/frontiers-phrase-1.mp4",
+      "sha256": "f3c75c122035f4baadbd55e17b28ebbfc343ef75754fedf2d212ababd0a97a91",
+      "duration": 26.773292,
+      "width": 1280,
+      "height": 720,
+      "frameRate": "25/1",
+      "modified": false,
+      "playsInApp": false,
+      "runtimeFile": "Teto/Resources/DanceMedia/phrase-film-reach.mp4",
+      "reviewFrames": "Design/SourceMedia/PhraseSources/SoloCandidates/frontiers-phrase-1-frames.jpg",
+      "reviewMethod": "Original video decoded; visual contact sheet sampled once per second across the clip. This is representative-frame inspection, not a guarantee about every frame.",
+      "visibleText": "No visible captions, watermarks or non-English text in inspected frames.",
+      "people": "One dancer in inspected frames; no other people or mirror reflections.",
+      "audio": "Video 1 has a silent audio track (peak -91 dB). Separate spoken descriptions are supplied by the article; they are about 149/156 seconds and are not synchronized to these 26-second films. Video 2 audio has not been listened to.",
+      "status": "selected-and-bundled",
+      "fit": "Continuous full-body phrase for observational learning. Advanced turns and balance; not a beginner breakdown.",
+      "requirementsBeforeBundling": []
+    },
+    {
+      "id": "frontiers-406662-video-2",
+      "title": "Dance phrase 2",
+      "choreographer": "José Biondi",
+      "dancer": "Robin Jung",
+      "copyright": "© 2018 Bläsing, Coogan, Biondi and Schack",
+      "citation": "Bläsing BE, Coogan J, Biondi J and Schack T (2018). Watching or Listening: How Visual and Verbal Information Contribute to Learning a Complex Dance Phrase. Frontiers in Psychology 9:2371. https://doi.org/10.3389/fpsyg.2018.02371",
+      "source": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02371/full",
+      "download": "https://public-pages-files-2025.frontiersin.org/articles/406662/file/Video_2.MP4/406662_supplementary-materials_videos_2_mp4/1",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "licenseEvidence": [
+        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02371/full",
+        "https://www.frontiersin.org/legal/copyright-statement"
+      ],
+      "file": "Design/SourceMedia/PhraseSources/SoloCandidates/frontiers-phrase-2.mp4",
+      "sha256": "6722269c001488ac8d02cdf591b85d726942e8965628f0ea2d0b30fe026451b5",
+      "duration": 25.749292,
+      "width": 1280,
+      "height": 720,
+      "frameRate": "25/1",
+      "modified": false,
+      "playsInApp": false,
+      "runtimeFile": null,
+      "reviewFrames": "Design/SourceMedia/PhraseSources/SoloCandidates/frontiers-phrase-2-frames.jpg",
+      "reviewMethod": "Original video decoded; visual contact sheet sampled once per second across the clip. This is representative-frame inspection, not a guarantee about every frame.",
+      "visibleText": "No visible captions, watermarks or non-English text in inspected frames.",
+      "people": "One dancer in inspected frames; no other people or mirror reflections.",
+      "audio": "Video 1 has a silent audio track (peak -91 dB). Separate spoken descriptions are supplied by the article; they are about 149/156 seconds and are not synchronized to these 26-second films. Video 2 audio has not been listened to.",
+      "status": "reserve-candidate",
+      "fit": "Continuous solo phrase, but movement approaches the left edge around the latter third; weaker framing than phrase 1.",
+      "requirementsBeforeBundling": [
+        "Include visible author, choreographer, dancer, source, license and modification credits in the app.",
+        "Match the phrase title, dance style and Counts content to the new film.",
+        "Use aspect-fit playback so the original full-body framing is retained.",
+        "Do not merge the separate audio instruction as if it were synchronized."
+      ]
+    }
+  ],
+  "excludedOrPending": [
+    {
+      "sourceID": "7571113",
+      "decision": "reject",
+      "reason": "Upper-body close-up; feet not visible."
+    },
+    {
+      "sourceID": "8028135",
+      "decision": "reject",
+      "reason": "Close-up moving camera; footwork not visible."
+    },
+    {
+      "sourceID": "8956008",
+      "decision": "reject",
+      "reason": "Feet repeatedly cropped."
+    },
+    {
+      "sourceID": "6322578",
+      "decision": "reject",
+      "reason": "Foreground body cropped, mirror view complicates follow-along."
+    },
+    {
+      "sourceID": "7957280",
+      "decision": "pending",
+      "reason": "Background sign cannot be read confidently; no full visual approval."
+    },
+    {
+      "sourceID": "7570453",
+      "decision": "reserve",
+      "reason": "Solo full-body frames, but only 14.4 seconds; stock dancing, no confirmed teaching narration."
+    },
+    {
+      "sourceID": "7570258",
+      "decision": "reserve",
+      "reason": "Solo full-body stock dancing, about 26 seconds; no confirmed teaching narration or structured complete routine."
+    },
+    {
+      "sourceID": "7571381",
+      "decision": "reserve",
+      "reason": "Solo full-body stock dance, 58.56 seconds; silent audio, not confirmed as structured lesson."
+    },
+    {
+      "sourceID": "8935479",
+      "decision": "reserve",
+      "reason": "Solo ballet practice, about 37 seconds; no confirmed teaching narration."
+    },
+    {
+      "sourceID": "7342766",
+      "decision": "reserve",
+      "reason": "Solo full-body performance with acrobatics; not a beginner lesson."
+    },
+    {
+      "source": "https://www.hhph.org/work/features/hype-hawaii",
+      "decision": "not-cleared",
+      "reason": "Associated lesson materials restrict sharing to noncommercial use; no permission established for bundling into Teto."
+    }
+  ]
+}

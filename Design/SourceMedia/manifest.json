@@ -1,0 +1,4844 @@
+[
+  {
+    "id": "7677198",
+    "asset": "dance-studio",
+    "creator": "Ivan S",
+    "source": "https://www.pexels.com/video/woman-recording-herself-dancing-7677198/",
+    "download": "https://videos.pexels.com/video-files/7677198/7677198-hd_1080_1920_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-19",
+    "originalPath": "Design/SourceMedia/pexels-7677198-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-studio.mp4",
+    "originalSHA256": "b20d43ec3dd47a5db3d82b4f43eb9e0d928f57ac8c8ba3f007c9a56f0347c43b",
+    "bundledSHA256": "922ea3b9c15e3eb5b29ecbac7b976979e6683310bc07834a30e63e7ff84dd74a",
+    "modifications": "H.264 720p-equivalent resize preserving aspect ratio, CRF 25, no audio, faststart; JPEG cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        }
+      ],
+      "format": {
+        "duration": "14.160000",
+        "size": "1840999"
+      }
+    },
+    "category": "dance"
+  },
+  {
+    "id": "8713941",
+    "asset": "dance-seaside",
+    "creator": "Kampus Production",
+    "source": "https://www.pexels.com/video/woman-dancing-by-the-sea-8713941/",
+    "download": "https://videos.pexels.com/video-files/8713941/8713941-uhd_2560_1440_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-19",
+    "originalPath": "Design/SourceMedia/pexels-8713941-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-seaside.mp4",
+    "originalSHA256": "f4924ce244afc88c2da43cb1b3acb52378b7bcddc8bf94698662f6ab93a0fc69",
+    "bundledSHA256": "97bc21b7c689e5d7f79b5eaf14f41204dd5996cb09fb3b1d41b042b5f8360733",
+    "modifications": "H.264 720p-equivalent resize preserving aspect ratio, CRF 25, no audio, faststart; JPEG cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "format": {
+        "duration": "19.960000",
+        "size": "2578537"
+      }
+    },
+    "category": "dance"
+  },
+  {
+    "id": "7958175",
+    "asset": "dance-hiphop-solo",
+    "title": "Hip hop in motion",
+    "creator": "cottonbro studio",
+    "source": "https://www.pexels.com/video/a-young-man-dancing-to-hip-hop-music-7958175/",
+    "download": "https://videos.pexels.com/video-files/7958175/7958175-uhd_4096_2160_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "originalPath": "Design/SourceMedia/pexels-7958175-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-hiphop-solo.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-hiphop-solo.jpg",
+    "originalSHA256": "7be653386c8a8ac48e519a6ed031accde20dd8f24fb3cb7227e7bcbfdd019afd",
+    "bundledSHA256": "a7f8ea7bcdd0c5db89b2f68e0a85ff5b273f95b2aa8f32e958893488458329a9",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 10.18 seconds to include the dancer's face.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 676,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "1018"
+        }
+      ],
+      "format": {
+        "duration": "40.720000",
+        "size": "8352835"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 4096,
+          "height": 2160,
+          "coded_width": 4096,
+          "coded_height": 2160,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 1018,
+          "duration": "40.720000",
+          "bit_rate": "22128559",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "1018",
+          "extradata_size": 48,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-05-19T16:33:18.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-dance-expansion/7958175.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "40.720000",
+        "size": "112646814",
+        "bit_rate": "22131004",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-05-19T16:33:18.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        2.036,
+        10.18,
+        20.36,
+        30.54,
+        38.684
+      ],
+      "notes": "Solo dancer performs steps, turns and lowered grooves in a mirrored room; abstract clothing and no non-English overlay found in reviewed frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20/7958175-review.jpg",
+      "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
+    },
+    "coverTimeSeconds": 10.18
+  },
+  {
+    "id": "8688877",
+    "asset": "dance-crew-rhythm",
+    "title": "Crew rhythm",
+    "creator": "ANTONI SHKRABA production",
+    "source": "https://www.pexels.com/video/people-dancing-hip-hop-8688877/",
+    "download": "https://videos.pexels.com/video-files/8688877/8688877-hd_1080_1920_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "originalPath": "Design/SourceMedia/pexels-8688877-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-crew-rhythm.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-crew-rhythm.jpg",
+    "originalSHA256": "72ec6b3f4a23268e1a985b32405b14cd9cea604b1ee59b9aaea14eea22a7eab0",
+    "bundledSHA256": "14182c292565a78ca8d4d98a147e497578f1abddf930a38c89fb47a833dcc9ef",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "286"
+        }
+      ],
+      "format": {
+        "duration": "11.440000",
+        "size": "3658664"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1080,
+          "height": 1920,
+          "coded_width": 1080,
+          "coded_height": 1920,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 286,
+          "duration": "11.440000",
+          "bit_rate": "4988650",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "286",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-07-10T05:09:04.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-dance-expansion/8688877.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "11.440000",
+        "size": "7138245",
+        "bit_rate": "4991779",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-07-10T05:09:04.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.572,
+        2.86,
+        5.72,
+        8.58,
+        10.868
+      ],
+      "notes": "Three dancers perform coordinated hip-hop arm and weight-shift movements under colored lights; no non-English overlay found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20/8688877-review.jpg",
+      "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
+    },
+    "coverTimeSeconds": 1.0
+  },
+  {
+    "id": "3873100",
+    "asset": "dance-white-studio",
+    "title": "Own the eight-count",
+    "creator": "Polina Tankilevitch",
+    "source": "https://www.pexels.com/video/a-young-woman-dancing-hip-hop-3873100/",
+    "download": "https://videos.pexels.com/video-files/3873100/3873100-hd_1920_1080_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "originalPath": "Design/SourceMedia/pexels-3873100-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-white-studio.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-white-studio.jpg",
+    "originalSHA256": "b047ac533fd13f82419499d9f98a89b1a152d33cbc220855bb6edf058d60c914",
+    "bundledSHA256": "4f2476c8df7503cdc40724519b1bf66b946f140b34e6888910e1635ded1fb0f6",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "98"
+        }
+      ],
+      "format": {
+        "duration": "3.920000",
+        "size": "456693"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1920,
+          "height": 1080,
+          "coded_width": 1920,
+          "coded_height": 1080,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 98,
+          "duration": "3.920000",
+          "bit_rate": "5024083",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "98",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2020-03-06T11:25:53.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 188400,
+          "duration": "3.925000",
+          "bit_rate": "253375",
+          "nb_frames": "184",
+          "extradata_size": 2,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2020-03-06T11:25:53.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Audio Handler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-dance-expansion/3873100.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "3.925000",
+        "size": "2589405",
+        "bit_rate": "5277768",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2020-03-06T11:25:53.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.196,
+        0.981,
+        1.962,
+        2.944,
+        3.729
+      ],
+      "notes": "Solo dancer performs an upper-body hip-hop sequence in a plain studio; no readable on-screen text found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20/3873100-review.jpg",
+      "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
+    },
+    "coverTimeSeconds": 1.0
+  },
+  {
+    "id": "10264814",
+    "asset": "dance-hiphop-duet",
+    "title": "Move together",
+    "creator": "cottonbro studio",
+    "source": "https://www.pexels.com/video/two-women-dancing-hip-hop-10264814/",
+    "download": "https://videos.pexels.com/video-files/10264814/10264814-uhd_4096_2160_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "originalPath": "Design/SourceMedia/pexels-10264814-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-hiphop-duet.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-hiphop-duet.jpg",
+    "originalSHA256": "d1e8031ca758c75f8ebf72c59007b0aad5cf43bff7ca174a763118cd5165e2d5",
+    "bundledSHA256": "ffd7962b06ce38f6de981c408087e460ca4baeca81856f5390cce4cd9764ee03",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 676,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "256"
+        }
+      ],
+      "format": {
+        "duration": "10.240000",
+        "size": "1735261"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 4096,
+          "height": 2160,
+          "coded_width": 4096,
+          "coded_height": 2160,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 256,
+          "duration": "10.240000",
+          "bit_rate": "18447661",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "256",
+          "extradata_size": 48,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-11-16T14:23:24.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-dance-expansion/10264814.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "10.240000",
+        "size": "23616767",
+        "bit_rate": "18450599",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-11-16T14:23:24.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.512,
+        2.56,
+        5.12,
+        7.68,
+        9.728
+      ],
+      "notes": "Two dancers move through a hip-hop sequence in a sunlit studio; no readable on-screen text found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20/10264814-review.jpg",
+      "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
+    },
+    "coverTimeSeconds": 1.0
+  },
+  {
+    "id": "8462487",
+    "asset": "dance-ballet-duet",
+    "title": "Partnered lines",
+    "creator": "MART PRODUCTION",
+    "source": "https://www.pexels.com/video/man-and-woman-dancing-ballet-8462487/",
+    "download": "https://videos.pexels.com/video-files/8462487/8462487-uhd_2160_4096_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "originalPath": "Design/SourceMedia/pexels-8462487-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-ballet-duet.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-ballet-duet.jpg",
+    "originalSHA256": "b31971b149d21fad9f5340ed5fd827b1dd3880e01e350f9b4384d2321b268b3e",
+    "bundledSHA256": "8955500aa25f0e5849af367f82f69dee22d554ca023a225ab4f195dcc86c807e",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 676,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "592"
+        }
+      ],
+      "format": {
+        "duration": "23.680000",
+        "size": "1993562"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2160,
+          "height": 4096,
+          "coded_width": 2160,
+          "coded_height": 4096,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 592,
+          "duration": "23.680000",
+          "bit_rate": "11912071",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "592",
+          "extradata_size": 48,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-06-24T06:28:06.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-dance-expansion/8462487.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "23.680000",
+        "size": "35268261",
+        "bit_rate": "11914953",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-06-24T06:28:06.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        1.184,
+        5.92,
+        11.84,
+        17.76,
+        22.496
+      ],
+      "notes": "Two ballet dancers practice coordinated steps, turns and extended lines; no readable on-screen text found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20/8462487-review.jpg",
+      "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
+    },
+    "coverTimeSeconds": 1.0
+  },
+  {
+    "id": "8956471",
+    "asset": "dance-studio-joy",
+    "title": "Studio joy",
+    "creator": "Kampus Production",
+    "source": "https://www.pexels.com/video/a-woman-dancing-in-a-studio-8956471/",
+    "download": "https://videos.pexels.com/video-files/8956471/8956471-uhd_3840_2160_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "originalPath": "Design/SourceMedia/pexels-8956471-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-studio-joy.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-studio-joy.jpg",
+    "originalSHA256": "2202e13afcd5c0f3a61f62e9a31bca93befe5d3bf9c4f93890172d0b82e2c67b",
+    "bundledSHA256": "45e1872c35b319aabc40243f2178787439461d151e197233a5fa0a4faeac54e9",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "562"
+        }
+      ],
+      "format": {
+        "duration": "22.480000",
+        "size": "3327891"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2560,
+          "height": 1440,
+          "coded_width": 2560,
+          "coded_height": 1440,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 50,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 562,
+          "duration": "22.480000",
+          "bit_rate": "13606660",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "562",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-07-28T10:34:21.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-dance-expansion/8956471.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "22.480000",
+        "size": "38242944",
+        "bit_rate": "13609588",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-07-28T10:34:21.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        1.124,
+        5.62,
+        11.24,
+        16.86,
+        21.356
+      ],
+      "notes": "Solo dancer grooves and turns in a wooden studio; no non-English overlay found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20/8956471-review.jpg",
+      "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
+    },
+    "coverTimeSeconds": 1.0
+  },
+  {
+    "id": "7480483",
+    "asset": "dance-practice-partners",
+    "title": "Practice partners",
+    "creator": "MART PRODUCTION",
+    "source": "https://www.pexels.com/video/man-and-woman-dancing-together-7480483/",
+    "download": "https://videos.pexels.com/video-files/7480483/7480483-uhd_2160_3840_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "originalPath": "Design/SourceMedia/pexels-7480483-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-practice-partners.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-practice-partners.jpg",
+    "originalSHA256": "0e646a77473a60c3e0f511d2b0b3a6bdd165f342bb8a7efbe47ac3ded8941a96",
+    "bundledSHA256": "a9c1bd00d3c596e87bac5728b1664870814af497c0d5c4436bb8718fdc82d380",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "376"
+        }
+      ],
+      "format": {
+        "duration": "15.040000",
+        "size": "2467091"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2160,
+          "height": 3840,
+          "coded_width": 2160,
+          "coded_height": 3840,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 376,
+          "duration": "15.040000",
+          "bit_rate": "16064419",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "376",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-04-12T11:24:17.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-dance-expansion/7480483.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "15.040000",
+        "size": "30206934",
+        "bit_rate": "16067518",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-04-12T11:24:17.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.752,
+        3.76,
+        7.52,
+        11.28,
+        14.288
+      ],
+      "notes": "Two people practice coordinated dance steps in front of a phone/ring light; no readable on-screen text found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20/7480483-review.jpg",
+      "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
+    },
+    "coverTimeSeconds": 1.0
+  },
+  {
+    "id": "5805069",
+    "asset": "dance-purple-groove",
+    "title": "After-dark groove",
+    "creator": "Tima Miroshnichenko",
+    "source": "https://www.pexels.com/video/vertical-video-of-a-woman-dancing-5805069/",
+    "download": "https://videos.pexels.com/video-files/5805069/5805069-uhd_2160_3840_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "originalPath": "Design/SourceMedia/pexels-5805069-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-purple-groove.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-purple-groove.jpg",
+    "originalSHA256": "b525d5a0e37024fa697b60fa87bb4f522332ba0c27984206094614b6bb3c29fc",
+    "bundledSHA256": "35ed83d3320fa313ab1e2cef22259db2d5885a926209aaf0ac036a04646f6739",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "266"
+        }
+      ],
+      "format": {
+        "duration": "10.640000",
+        "size": "2087782"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2160,
+          "height": 3840,
+          "coded_width": 2160,
+          "coded_height": 3840,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 266,
+          "duration": "10.640000",
+          "bit_rate": "21795088",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "266",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2020-11-06T03:40:35.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-dance-expansion/5805069.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "10.640000",
+        "size": "28991483",
+        "bit_rate": "21798107",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2020-11-06T03:40:35.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.532,
+        2.66,
+        5.32,
+        7.98,
+        10.108
+      ],
+      "notes": "Solo dancer grooves with arm and torso movements under purple lighting; patterned clothing, no non-English overlay found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20/5805069-review.jpg",
+      "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
+    },
+    "coverTimeSeconds": 1.0
+  },
+  {
+    "id": "7571002",
+    "asset": "dance-contemporary-flow",
+    "title": "Contemporary flow",
+    "creator": "Antoni Shkraba",
+    "source": "https://www.pexels.com/video/woman-dancing-in-a-studio-7571002/",
+    "download": "https://videos.pexels.com/video-files/7571002/7571002-uhd_2160_4096_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "originalPath": "Design/SourceMedia/pexels-7571002-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-contemporary-flow.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-contemporary-flow.jpg",
+    "originalSHA256": "bba941e46b6eea351f88144cf3c1d86aba679b6fe6816df4b55b523667d16851",
+    "bundledSHA256": "11514f39b3b91b6697451ff5b629b77ad1c586cdd5ad1e99ad931080730cdc1c",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 676,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "721"
+        }
+      ],
+      "format": {
+        "duration": "28.840000",
+        "size": "3017642"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2160,
+          "height": 4096,
+          "coded_width": 2160,
+          "coded_height": 4096,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 721,
+          "duration": "28.840000",
+          "bit_rate": "16370955",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "721",
+          "extradata_size": 48,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-04-19T17:39:42.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 1384400,
+          "duration": "28.841667",
+          "bit_rate": "253374",
+          "nb_frames": "1352",
+          "extradata_size": 2,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-04-19T17:39:42.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Audio Handler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-dance-expansion/7571002.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "28.841667",
+        "size": "59946930",
+        "bit_rate": "16627868",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-04-19T17:39:42.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        1.442,
+        7.21,
+        14.421,
+        21.631,
+        27.4
+      ],
+      "notes": "Solo dancer performs contemporary body isolations, leg extensions and bends against a plain background; no readable on-screen text found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20/7571002-review.jpg",
+      "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
+    },
+    "coverTimeSeconds": 1.0
+  },
+  {
+    "id": "7322867",
+    "asset": "dance-ballet-class",
+    "title": "Contemporary floorwork",
+    "creator": "MART PRODUCTION",
+    "source": "https://www.pexels.com/video/ballerinas-dancing-on-a-dance-studio-7322867/",
+    "download": "https://videos.pexels.com/video-files/7322867/7322867-uhd_2160_3840_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "originalPath": "Design/SourceMedia/pexels-7322867-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-ballet-class.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-ballet-class.jpg",
+    "originalSHA256": "23a5d21f7443157462a8853a999ec0817379fe3a04abca37ada3d82fbe5baf80",
+    "bundledSHA256": "7132e02755bb5832499d586618788e885cc7631ff99afd5fba0b4cba6774ab17",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "490"
+        }
+      ],
+      "format": {
+        "duration": "19.600000",
+        "size": "1837165"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2160,
+          "height": 3840,
+          "coded_width": 2160,
+          "coded_height": 3840,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 490,
+          "duration": "19.600000",
+          "bit_rate": "9993555",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "490",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-03-30T16:54:33.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-dance-expansion/7322867.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "19.600000",
+        "size": "24491402",
+        "bit_rate": "9996490",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-03-30T16:54:33.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.98,
+        4.9,
+        9.8,
+        14.7,
+        18.62
+      ],
+      "notes": "Group performs synchronized floorwork and rolls in a dance studio; no readable on-screen text found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20/7322867-review.jpg",
+      "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
+    },
+    "coverTimeSeconds": 1.0
+  },
+  {
+    "id": "8027525",
+    "asset": "dance-urban-footwork",
+    "title": "Urban footwork",
+    "creator": "Yaroslav Shuraev",
+    "source": "https://www.pexels.com/video/woman-doing-breakdance-8027525/",
+    "download": "https://videos.pexels.com/video-files/8027525/8027525-uhd_2160_3840_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-8027525-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-urban-footwork.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-urban-footwork.jpg",
+    "originalSHA256": "41bcfb9d8847472a0426699435159fadbce1dbe07868d24e728345db4ffcbbb1",
+    "bundledSHA256": "705732bf855b1b775572ff30ec7e5e81fd7dd1a60a09b80a2defaeb4760c0815",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "1251"
+        }
+      ],
+      "format": {
+        "duration": "50.040000",
+        "size": "9867571"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2160,
+          "height": 3840,
+          "coded_width": 2160,
+          "coded_height": 3840,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 1251,
+          "duration": "50.040000",
+          "bit_rate": "19551970",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "1251",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-05-23T20:26:39.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/8027525.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "50.040000",
+        "size": "122311993",
+        "bit_rate": "19554275",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-05-23T20:26:39.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        2.502,
+        12.51,
+        25.02,
+        37.53,
+        47.538
+      ],
+      "notes": "Solo dancer performs footwork, body turns and lowered grooves beside a modern building; no readable overlay found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/8027525-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "5362370",
+    "asset": "dance-street-power",
+    "title": "Street power",
+    "creator": "Allan Mas",
+    "source": "https://www.pexels.com/video/young-guy-doing-break-dance-on-the-street-5362370/",
+    "download": "https://videos.pexels.com/video-files/5362370/5362370-uhd_3840_2160_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-5362370-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-street-power.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-street-power.jpg",
+    "originalSHA256": "d173b01ef27a803b25323595c8c4a62799b316964d8ed46559765877a0a34dce",
+    "bundledSHA256": "3fe08c24c5bdaab02b6ba1c8e6c2183921082ffefb1b0c7afd4b758d51b44a5d",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "155"
+        }
+      ],
+      "format": {
+        "duration": "6.200000",
+        "size": "693764"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 3840,
+          "height": 2160,
+          "coded_width": 3840,
+          "coded_height": 2160,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 155,
+          "duration": "6.200000",
+          "bit_rate": "22543864",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "155",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2020-09-15T05:28:53.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/5362370.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "6.200000",
+        "size": "17474403",
+        "bit_rate": "22547616",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2020-09-15T05:28:53.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.31,
+        1.55,
+        3.1,
+        4.65,
+        5.89
+      ],
+      "notes": "Solo street dancer transitions through hand-supported rotations and standing footwork against a plain concrete wall; no readable overlay found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/5362370-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "8715155",
+    "asset": "dance-bridge-freestyle",
+    "title": "Under the bridge",
+    "creator": "Kampus Production",
+    "source": "https://www.pexels.com/video/a-woman-doing-break-dance-on-the-street-8715155/",
+    "download": "https://videos.pexels.com/video-files/8715155/8715155-uhd_2560_1440_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-8715155-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-bridge-freestyle.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-bridge-freestyle.jpg",
+    "originalSHA256": "959e12e1e199e929393eee9b00609e66708cb4eb2f56e433876725728d1e8920",
+    "bundledSHA256": "f7045c816d75f98f9697ae1c545d22112be38f2cd20f5fbaebdc75dbbe02195d",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "600"
+        }
+      ],
+      "format": {
+        "duration": "24.000000",
+        "size": "4846411"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2560,
+          "height": 1440,
+          "coded_width": 2560,
+          "coded_height": 1440,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 50,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 600,
+          "duration": "24.000000",
+          "bit_rate": "8143881",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "600",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-07-12T09:54:47.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/8715155.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "24.000000",
+        "size": "24440409",
+        "bit_rate": "8146803",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-07-12T09:54:47.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        1.2,
+        6.0,
+        12.0,
+        18.0,
+        22.8
+      ],
+      "notes": "Dancer performs floorwork and a hand-supported kick under a bridge with two other dancers; no readable overlay found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/8715155-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "6548168",
+    "asset": "dance-court-session",
+    "title": "Court session",
+    "creator": "Marc Espejo",
+    "source": "https://www.pexels.com/video/a-man-dancing-6548168/",
+    "download": "https://videos.pexels.com/video-files/6548168/6548168-hd_1920_1080_24fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-6548168-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-court-session.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-court-session.jpg",
+    "originalSHA256": "7d99092202ed424747d7e083711b83fce7d08b9241065df3377dccb9278b78c2",
+    "bundledSHA256": "5048a1aa32b80fb73259ae1604aa61851e17a7d81e46cff15f1d4fd087769304",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "24/1",
+          "nb_frames": "849"
+        }
+      ],
+      "format": {
+        "duration": "35.375000",
+        "size": "8959380"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1920,
+          "height": 1080,
+          "coded_width": 1920,
+          "coded_height": 1080,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "time_base": "1/24",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 849,
+          "duration": "35.375000",
+          "bit_rate": "5590037",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "849",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-01-20T04:02:11.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 1698800,
+          "duration": "35.391667",
+          "bit_rate": "253375",
+          "nb_frames": "1659",
+          "extradata_size": 2,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-01-20T04:02:11.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Audio Handler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/6548168.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "35.391667",
+        "size": "25858195",
+        "bit_rate": "5845035",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-01-20T04:02:11.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        1.77,
+        8.848,
+        17.696,
+        26.544,
+        33.622
+      ],
+      "notes": "Breakdancer performs floorwork, freezes and inversions on an outdoor court; background graffiti, no non-English overlay identified in reviewed frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/6548168-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "31889677",
+    "asset": "dance-studio-chemistry",
+    "title": "Studio chemistry",
+    "creator": "Shuttercraftsman",
+    "source": "https://www.pexels.com/video/dynamic-dance-routine-in-modern-studio-setting-31889677/",
+    "download": "https://videos.pexels.com/video-files/31889677/13583148_2160_3840_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-31889677-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-studio-chemistry.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-studio-chemistry.jpg",
+    "originalSHA256": "1d5b75650d900514acdb47f8212d3fb9d615afb58563bcba4f5a97e8c07c171b",
+    "bundledSHA256": "50c42960f95ced2da38e7ae347a00a9560714b645d8bd5b758db5f3016e7bd7b",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "444"
+        }
+      ],
+      "format": {
+        "duration": "17.760000",
+        "size": "4323098"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2160,
+          "height": 3840,
+          "coded_width": 2160,
+          "coded_height": 3840,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 51,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/12800",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 227328,
+          "duration": "17.760000",
+          "bit_rate": "27768851",
+          "bits_per_raw_sample": "8",
+          "extradata_size": 50,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "Core Media Video",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc60.31.102 libx264"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/31889677.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "17.760000",
+        "size": "61651452",
+        "bit_rate": "27770924",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "iso5",
+          "minor_version": "512",
+          "compatible_brands": "iso5iso6mp41",
+          "encoder": "Lavf60.16.100"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.888,
+        4.44,
+        8.88,
+        13.32,
+        16.872
+      ],
+      "notes": "Two dancers perform coordinated torso and arm movements in a studio; illuminated Latin-letter studio sign, no non-English text identified in reviewed frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/31889677-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "verification": {
+      "decodedOriginalFrameCount": 444,
+      "method": "ffprobe -count_frames, video stream 0",
+      "runtimeFrameCount": 444
+    }
+  },
+  {
+    "id": "8956295",
+    "asset": "dance-group-rehearsal",
+    "title": "Together on the beat",
+    "creator": "Kampus Production",
+    "source": "https://www.pexels.com/video/women-dancing-in-the-studio-8956295/",
+    "download": "https://videos.pexels.com/video-files/8956295/8956295-uhd_3840_2160_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-8956295-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-group-rehearsal.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-group-rehearsal.jpg",
+    "originalSHA256": "376c2ae73c92c23dceb042d27450aaa45ba2f44a3d7b0a5f3c26e9bea6c2dd73",
+    "bundledSHA256": "6f7a99c4ef6fdf491329f95646b510aff06b7e83d0b7dc5b74e6f0e870843e65",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "581"
+        }
+      ],
+      "format": {
+        "duration": "23.240000",
+        "size": "4807718"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 3840,
+          "height": 2160,
+          "coded_width": 3840,
+          "coded_height": 2160,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 581,
+          "duration": "23.240000",
+          "bit_rate": "23923351",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "581",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-07-28T10:21:39.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/8956295.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "23.240000",
+        "size": "69505821",
+        "bit_rate": "23926272",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-07-28T10:21:39.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        1.162,
+        5.81,
+        11.62,
+        17.43,
+        22.078
+      ],
+      "notes": "Group performs coordinated steps, arm gestures and turns in a mirrored studio; no readable overlay found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/8956295-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "6939884",
+    "asset": "dance-expressive-arms",
+    "title": "Follow the feeling",
+    "creator": "Pavel Danilyuk",
+    "source": "https://www.pexels.com/video/a-woman-dancing-in-the-dance-studio-6939884/",
+    "download": "https://videos.pexels.com/video-files/6939884/6939884-hd_1920_1080_30fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-6939884-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-expressive-arms.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-expressive-arms.jpg",
+    "originalSHA256": "9eb25ba1c977e982015cc8476343ec801ae3adedcd75bf565a29124c22c37267",
+    "bundledSHA256": "cb8d46c4ad3999e943f8706c9c548faa6c422d26a12118d5a7a742f080681f73",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "30000/1001",
+          "nb_frames": "1565"
+        }
+      ],
+      "format": {
+        "duration": "52.218833",
+        "size": "2476376"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1920,
+          "height": 1080,
+          "coded_width": 1920,
+          "coded_height": 1080,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "30000/1001",
+          "avg_frame_rate": "30000/1001",
+          "time_base": "1/30000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 1566565,
+          "duration": "52.218833",
+          "bit_rate": "2867918",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "1565",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-02-24T10:27:25.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/6939884.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "52.218833",
+        "size": "18741265",
+        "bit_rate": "2871188",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-02-24T10:27:25.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        2.611,
+        13.055,
+        26.109,
+        39.164,
+        49.608
+      ],
+      "notes": "Solo dancer performs expressive arm extensions and curved torso movements in a studio; no readable text found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/6939884-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "7689096",
+    "asset": "dance-shared-rhythm",
+    "title": "A shared rhythm",
+    "creator": "KoolShooters",
+    "source": "https://www.pexels.com/video/couple-dancing-together-7689096/",
+    "download": "https://videos.pexels.com/video-files/7689096/7689096-uhd_3840_2160_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-7689096-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-shared-rhythm.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-shared-rhythm.jpg",
+    "originalSHA256": "03da7b78b2a4df2922c14ccadc0acb1d73ed7bd90f145530d3bade2daf7135d9",
+    "bundledSHA256": "4a77c65634a94fb31f36da0de180c8902294a59b02c037e7f8a090d34cbf5ddb",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "320"
+        }
+      ],
+      "format": {
+        "duration": "12.800000",
+        "size": "1107179"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 3840,
+          "height": 2160,
+          "coded_width": 3840,
+          "coded_height": 2160,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 320,
+          "duration": "12.800000",
+          "bit_rate": "21238543",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "320",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-04-28T07:44:31.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/7689096.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "12.800000",
+        "size": "33986686",
+        "bit_rate": "21241678",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-04-28T07:44:31.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.64,
+        3.2,
+        6.4,
+        9.6,
+        12.16
+      ],
+      "notes": "Partners perform expressive arm movements and coordinated grooves reflected in an indoor mirror; no readable overlay found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/7689096-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "8249922",
+    "asset": "dance-sunny-salsa",
+    "title": "Salsa in the sunshine",
+    "creator": "RDNE Stock project",
+    "source": "https://www.pexels.com/video/woman-wearing-floral-dress-dancing-with-a-man-8249922/",
+    "download": "https://videos.pexels.com/video-files/8249922/8249922-hd_1080_1920_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-8249922-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-sunny-salsa.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-sunny-salsa.jpg",
+    "originalSHA256": "9ee5bdc3dcbf24fa09a37b5120ea00ad45e555fe8d12eadc0382855016507e72",
+    "bundledSHA256": "bb43a3e64b09391db3fcf6799ea3b7e5a69b0604c4a76f605852031deda7df30",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "268"
+        }
+      ],
+      "format": {
+        "duration": "10.720000",
+        "size": "3811535"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1080,
+          "height": 1920,
+          "coded_width": 1080,
+          "coded_height": 1920,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 268,
+          "duration": "10.720000",
+          "bit_rate": "5578345",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "268",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-06-07T18:07:41.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/8249922.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "10.720000",
+        "size": "7479328",
+        "bit_rate": "5581588",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-06-07T18:07:41.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.536,
+        2.68,
+        5.36,
+        8.04,
+        10.184
+      ],
+      "notes": "Partners perform turning salsa steps outdoors; patterned clothing and decorative mural, no non-English text identified in reviewed frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/8249922-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "6834067",
+    "asset": "dance-glitter-groove",
+    "title": "Glitter and groove",
+    "creator": "Mikhail Nilov",
+    "source": "https://www.pexels.com/video/a-woman-dancing-in-the-studio-6834067/",
+    "download": "https://videos.pexels.com/video-files/6834067/6834067-hd_1080_1920_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-6834067-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-glitter-groove.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-glitter-groove.jpg",
+    "originalSHA256": "efb77c5ee0a8592504e8732f04b39fc409f6e56256ccf40db2fe6a39c3aefecc",
+    "bundledSHA256": "dc37642e7714b3bcee3fa76df9b84de1640bfc8a3b2115c3571eacefe4b81892",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "593"
+        }
+      ],
+      "format": {
+        "duration": "23.720000",
+        "size": "3194918"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1080,
+          "height": 1920,
+          "coded_width": 1080,
+          "coded_height": 1920,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 593,
+          "duration": "23.720000",
+          "bit_rate": "4669107",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "593",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2021-02-15T15:29:17.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/6834067.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "23.720000",
+        "size": "13852358",
+        "bit_rate": "4671958",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2021-02-15T15:29:17.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        1.186,
+        5.93,
+        11.86,
+        17.79,
+        22.534
+      ],
+      "notes": "Solo dancer performs flowing arm movements, turns and steps against a plain studio background; no readable text found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/6834067-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "5138501",
+    "asset": "dance-ballet-practice",
+    "title": "Ballet practice",
+    "creator": "Budgeron Bach",
+    "source": "https://www.pexels.com/video/a-ballet-class-going-on-in-a-dance-studio-5138501/",
+    "download": "https://videos.pexels.com/video-files/5138501/5138501-uhd_3840_2160_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-5138501-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-ballet-practice.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-ballet-practice.jpg",
+    "originalSHA256": "ee7697a2562aafcb12f2c55ce6959b6e4823baf5a615d9cd4e2420272f4e0f86",
+    "bundledSHA256": "4a521740dc8079fd51c0ae146c4f3bcc7ab6c52698cb9ba387be74b65a8cd2e1",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "233"
+        }
+      ],
+      "format": {
+        "duration": "9.320000",
+        "size": "845599"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2560,
+          "height": 1440,
+          "coded_width": 2560,
+          "coded_height": 1440,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 50,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 233,
+          "duration": "9.320000",
+          "bit_rate": "12282031",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "233",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2020-08-19T13:45:52.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 447440,
+          "duration": "9.321667",
+          "bit_rate": "253374",
+          "nb_frames": "437",
+          "extradata_size": 2,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2020-08-19T13:45:52.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Audio Handler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/5138501.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "9.321667",
+        "size": "14609973",
+        "bit_rate": "12538506",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2020-08-19T13:45:52.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.466,
+        2.33,
+        4.661,
+        6.991,
+        8.856
+      ],
+      "notes": "Two dancers practice ballet arm positions and coordinated lowering/rising in a studio; no readable overlay found.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/5138501-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "5561275",
+    "asset": "dance-street-crew",
+    "title": "Street crew energy",
+    "creator": "Tima Miroshnichenko",
+    "source": "https://www.pexels.com/video/people-dancing-outdoors-5561275/",
+    "download": "https://videos.pexels.com/video-files/5561275/5561275-uhd_2160_3840_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-20",
+    "collectionGeneration": 2,
+    "originalPath": "Design/SourceMedia/pexels-5561275-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-street-crew.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-street-crew.jpg",
+    "originalSHA256": "a52df4d46633f791cd5d0e36ac028320300a0159ee9bcf66f3b6e697a415021e",
+    "bundledSHA256": "a2934a667f20902f658b58a724031bd1159d6d2e8f3451c21f01af4eda999b19",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "sample_aspect_ratio": "1:1",
+          "avg_frame_rate": "25/1",
+          "nb_frames": "241"
+        }
+      ],
+      "format": {
+        "duration": "9.640000",
+        "size": "1880350"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 2160,
+          "height": 3840,
+          "coded_width": 2160,
+          "coded_height": 3840,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 52,
+          "color_range": "tv",
+          "color_space": "bt709",
+          "color_transfer": "bt709",
+          "color_primaries": "bt709",
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "25/1",
+          "avg_frame_rate": "25/1",
+          "time_base": "1/25",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 241,
+          "duration": "9.640000",
+          "bit_rate": "22228487",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "241",
+          "extradata_size": 49,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2020-10-09T11:39:48.000000Z",
+            "language": "und",
+            "handler_name": "L-SMASH Video Handler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "AVC Coding"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/private/tmp/teto-more-dances/5561275.mp4",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "9.640000",
+        "size": "26789385",
+        "bit_rate": "22231854",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "mp42",
+          "minor_version": "0",
+          "compatible_brands": "mp42mp41isomavc1",
+          "creation_time": "2020-10-09T11:39:48.000000Z"
+        }
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-20",
+      "sampledSeconds": [
+        0.482,
+        2.41,
+        4.82,
+        7.23,
+        9.158
+      ],
+      "notes": "Three people perform small synchronized grooves and weight shifts outdoors; abstract graffiti in background, no non-English caption identified in reviewed frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/5561275-review.jpg",
+      "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    }
+  },
+  {
+    "id": "2795746",
+    "asset": "dance-rooftop-freestyle",
+    "title": "Rooftop freestyle",
+    "creator": "cottonbro studio",
+    "source": "https://www.pexels.com/video/hip-hop-dancing-2795746/",
+    "download": "https://videos.pexels.com/video-files/2795746/2795746-hd_1080_1920_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "shorts",
+    "originalPath": "Design/SourceMedia/pexels-2795746-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-rooftop-freestyle.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-rooftop-freestyle.jpg",
+    "originalSHA256": "ab229a7b363cee2e9837d67116a745cef0b3a97c6b959087db1c9511dab25b3b",
+    "bundledSHA256": "c5f133ab62cc1651a906a2bc072e4c0edb644c7123f0aef40e003233707913cc",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 5.1,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "510",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "20.400000",
+        "size": "3763915"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "510"
+        }
+      ],
+      "format": {
+        "duration": "20.415000",
+        "size": "14495532"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "Man performs hip-hop steps, drops and grooves on a rooftop. No readable overlay in the sampled frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/2795746-review.jpg"
+    }
+  },
+  {
+    "id": "4734692",
+    "asset": "dance-crosswalk-duet",
+    "title": "Crosswalk session",
+    "creator": "cottonbro studio",
+    "source": "https://www.pexels.com/video/a-man-and-woman-are-standing-on-a-street-4734692/",
+    "download": "https://videos.pexels.com/video-files/4734692/4734692-hd_1080_2048_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "shorts",
+    "originalPath": "Design/SourceMedia/pexels-4734692-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-crosswalk-duet.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-crosswalk-duet.jpg",
+    "originalSHA256": "6ecb5f9f6450f04df5b1b41e1baf5606c0967bff19ba9c44c20f61e51fd25d45",
+    "bundledSHA256": "d950b08bc447531a27f598327bb083434159b52bbfee1c908aa823418d4d340a",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 9.4,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 674,
+          "height": 1280,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "945",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "37.800000",
+        "size": "5334157"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 2048,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "945"
+        }
+      ],
+      "format": {
+        "duration": "37.800000",
+        "size": "20219699"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "Two people dance a street duet in a crosswalk and along the curb. No readable overlay in the sampled frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/4734692-review.jpg"
+    }
+  },
+  {
+    "id": "8027892",
+    "asset": "dance-bucket-groove",
+    "title": "Bucket hat groove",
+    "creator": "Yaroslav Shuraev",
+    "source": "https://www.pexels.com/video/woman-doing-hiphop-dance-8027892/",
+    "download": "https://videos.pexels.com/video-files/8027892/8027892-hd_1080_1920_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "shorts",
+    "originalPath": "Design/SourceMedia/pexels-8027892-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-bucket-groove.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-bucket-groove.jpg",
+    "originalSHA256": "6dabec761b386d670eda0989704df57a0799a8330c239d7c744bb27b38bf6303",
+    "bundledSHA256": "3fef229714ef6994b44be24c2f7fb7aee025a837b36b0deb449f8526df19632e",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 5.2,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "521",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "20.840000",
+        "size": "5135608"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "521"
+        }
+      ],
+      "format": {
+        "duration": "20.840000",
+        "size": "14616661"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "Woman in a bucket hat dances hip-hop outdoors beside a building. No readable overlay in the sampled frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/8027892-review.jpg"
+    }
+  },
+  {
+    "id": "8688884",
+    "asset": "dance-night-crew",
+    "title": "Night crew",
+    "creator": "ANTONI SHKRABA production",
+    "source": "https://www.pexels.com/video/stylish-woman-dancing-8688884/",
+    "download": "https://videos.pexels.com/video-files/8688884/8688884-hd_720_1280_50fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "shorts",
+    "originalPath": "Design/SourceMedia/pexels-8688884-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-night-crew.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-night-crew.jpg",
+    "originalSHA256": "fefa270851c8c88b5c4a0533610863e07b2150d1aeed7e5374e07f857c69c028",
+    "bundledSHA256": "8fa26a3f2fca283d9ec26cc658012b518de77242b59adb8a209eed09a3de4f21",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 7.1,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "avg_frame_rate": "50/1",
+          "nb_frames": "711",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "14.220000",
+        "size": "6534194"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 720,
+          "height": 1280,
+          "avg_frame_rate": "50/1",
+          "nb_frames": "711"
+        }
+      ],
+      "format": {
+        "duration": "14.220000",
+        "size": "4484044"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "A small crew dances hip-hop under colored light. No readable overlay in the sampled frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/8688884-review.jpg"
+    }
+  },
+  {
+    "id": "13521639",
+    "asset": "dance-street-tango",
+    "title": "Street tango",
+    "creator": "Sol Pinto",
+    "source": "https://www.pexels.com/video/dancing-tango-on-city-street-13521639/",
+    "download": "https://videos.pexels.com/video-files/13521639/13521639-hd_1080_1920_30fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "shorts",
+    "originalPath": "Design/SourceMedia/pexels-13521639-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-street-tango.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-street-tango.jpg",
+    "originalSHA256": "7774b3d971d8916f102e390319369d5efb776e3fcfaa847d6a654509659c6446",
+    "bundledSHA256": "6afbb352c93672acc27ba5255b8b90e689eb00b94215d0e32f9acc6b1d3e4f83",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 6.6,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "avg_frame_rate": "30000/1001",
+          "nb_frames": "792",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "26.426400",
+        "size": "5153273"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "avg_frame_rate": "30000/1001",
+          "nb_frames": "792"
+        }
+      ],
+      "format": {
+        "duration": "26.431667",
+        "size": "19487700"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "A couple dances tango on a city street. Sampled frames show sky, buildings and the dancers, without a readable sign.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/13521639-review.jpg"
+    }
+  },
+  {
+    "id": "10264579",
+    "asset": "dance-loft-session",
+    "title": "Loft session",
+    "creator": "cottonbro studio",
+    "source": "https://www.pexels.com/video/woman-dancing-in-hip-hop-style-10264579/",
+    "download": "https://videos.pexels.com/video-files/10264579/10264579-hd_2048_1080_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "live",
+    "originalPath": "Design/SourceMedia/pexels-10264579-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-loft-session.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-loft-session.jpg",
+    "originalSHA256": "b2307f47fd552630ce78b90d6963f105aff9f7bf3d06c03721656cfd462c009d",
+    "bundledSHA256": "85e5465a9a3a371d51342c5ce017fdbbae34d2e9ab010cabcce05d9e2c25904b",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 1.1,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 674,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "531",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "21.240000",
+        "size": "3388583"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 2048,
+          "height": 1080,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "531"
+        }
+      ],
+      "format": {
+        "duration": "21.240000",
+        "size": "11790886"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "Woman dances hip-hop alone in a bright loft. No readable overlay in the sampled frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/10264579-review.jpg"
+    }
+  },
+  {
+    "id": "10264810",
+    "asset": "dance-loft-partners",
+    "title": "Loft partners",
+    "creator": "cottonbro studio",
+    "source": "https://www.pexels.com/video/two-women-dancing-hip-hop-style-10264810/",
+    "download": "https://videos.pexels.com/video-files/10264810/10264810-hd_2048_1080_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "live",
+    "originalPath": "Design/SourceMedia/pexels-10264810-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-loft-partners.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-loft-partners.jpg",
+    "originalSHA256": "82c180144c19da095dca9d7f97a3856f493a5bfc8238328e129237e1cc55728c",
+    "bundledSHA256": "9eb0ab4115e63224c629ac517642588d20d436bd2cbc067b3506a5f51d549f0b",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 6.8,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 674,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "683",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "27.320000",
+        "size": "3771468"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 2048,
+          "height": 1080,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "683"
+        }
+      ],
+      "format": {
+        "duration": "27.320000",
+        "size": "15929481"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "Two women dance hip-hop together in the same loft. No readable overlay in the sampled frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/10264810-review.jpg"
+    }
+  },
+  {
+    "id": "19851286",
+    "asset": "dance-salsa-floor",
+    "title": "Salsa floor",
+    "creator": "E CG",
+    "source": "https://www.pexels.com/video/salsa-colorful-shoes-19851286/",
+    "download": "https://videos.pexels.com/video-files/19851286/19851286-hd_1280_720_24fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "live",
+    "originalPath": "Design/SourceMedia/pexels-19851286-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-salsa-floor.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-salsa-floor.jpg",
+    "originalSHA256": "3b070abe88fb92fdb03fa34691c146e49becc7d05ddf3731d5019200293f804f",
+    "bundledSHA256": "419565fbe4f64e7e99c606282c91afaf6f51247f57ece81a25f877e04904c532",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 8.6,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "24000/1001",
+          "nb_frames": "411",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "17.142000",
+        "size": "6907453"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "24000/1001",
+          "nb_frames": "411"
+        }
+      ],
+      "format": {
+        "duration": "17.193333",
+        "size": "6583865"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "Couples dance salsa on a club floor. The sampled frames stay on feet and bodies, without a readable sign.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/19851286-review.jpg"
+    }
+  },
+  {
+    "id": "3873074",
+    "asset": "dance-trio-count",
+    "title": "Three and a count",
+    "creator": "Polina Tankilevitch",
+    "source": "https://www.pexels.com/video/young-women-dancing-3873074/",
+    "download": "https://videos.pexels.com/video-files/3873074/3873074-hd_1920_1080_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "live",
+    "originalPath": "Design/SourceMedia/pexels-3873074-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-trio-count.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-trio-count.jpg",
+    "originalSHA256": "ab11fb70f1601ea1c2179397a54279684d4d65b4cc0703c3d16f2ef273a6c5bf",
+    "bundledSHA256": "fd177b04a4955bbf18fb543b18c12f0daf78c9d9ded49b13c097edef25121f11",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 1.2,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "120",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "4.800000",
+        "size": "1003213"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "120"
+        }
+      ],
+      "format": {
+        "duration": "4.800000",
+        "size": "3073183"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "Three women dance a short studio phrase in white tops. No readable overlay in the sampled frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/3873074-review.jpg"
+    }
+  },
+  {
+    "id": "6939802",
+    "asset": "dance-lifted-arms",
+    "title": "Lifted arms",
+    "creator": "Pavel Danilyuk",
+    "source": "https://www.pexels.com/video/dancers-practicing-in-the-studio-6939802/",
+    "download": "https://videos.pexels.com/video-files/6939802/6939802-hd_1920_1080_30fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "live",
+    "originalPath": "Design/SourceMedia/pexels-6939802-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-lifted-arms.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-lifted-arms.jpg",
+    "originalSHA256": "7258674c0363e189f18baaa8e820c1232ffec178e7a4a989624302bc77972a86",
+    "bundledSHA256": "382a4ee681896edfc2b28a07e15eebeb612408d8951e3a5f8db9ece60e00b2b7",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 9.7,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "30000/1001",
+          "nb_frames": "1161",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "38.738700",
+        "size": "3205533"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "30000/1001",
+          "nb_frames": "1161"
+        }
+      ],
+      "format": {
+        "duration": "38.738700",
+        "size": "24006426"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "A group reaches and turns together in a dark studio. No readable overlay in the sampled frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/6939802-review.jpg"
+    }
+  },
+  {
+    "id": "7324086",
+    "asset": "dance-warm-room",
+    "title": "Warm room",
+    "creator": "KoolShooters",
+    "source": "https://www.pexels.com/video/women-dancing-in-a-studio-7324086/",
+    "download": "https://videos.pexels.com/video-files/7324086/7324086-hd_1440_1080_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "live",
+    "originalPath": "Design/SourceMedia/pexels-7324086-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-warm-room.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-warm-room.jpg",
+    "originalSHA256": "198322c9c5f59123eb03e569ac27ab1bf9bfdcda713320a4324ffe65ff793e4b",
+    "bundledSHA256": "4083308ae5ae98a47b8f782d7381c80d994f79336ed707d7e0afbbda47bb1c6b",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 1.0,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 960,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "513",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "20.520000",
+        "size": "9141030"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1440,
+          "height": 1080,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "513"
+        }
+      ],
+      "format": {
+        "duration": "20.520000",
+        "size": "12737363"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "Women dance in a warm studio. Sampled frames include close movement and no readable overlay.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/7324086-review.jpg"
+    }
+  },
+  {
+    "id": "7405378",
+    "asset": "dance-cypher-night",
+    "title": "Cypher night",
+    "creator": "Ekaterina Antipova",
+    "source": "https://www.pexels.com/video/woman-hip-hop-dance-7405378/",
+    "download": "https://videos.pexels.com/video-files/7405378/7405378-hd_1920_1080_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "live",
+    "originalPath": "Design/SourceMedia/pexels-7405378-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-cypher-night.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-cypher-night.jpg",
+    "originalSHA256": "a4c18d4f9b8c1471752485c3557a09cc05719cd83d99a3a05cdb88dab6a82af5",
+    "bundledSHA256": "35d6145b2910d119d279a5c3688f5b402ea9ce3a3ac275cf8ff1f8c3f00ed553",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 3.5,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "349",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "13.960000",
+        "size": "3744064"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "349"
+        }
+      ],
+      "format": {
+        "duration": "13.973333",
+        "size": "9204626"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "A hip-hop cypher under a spotlight. One shirt reads WHATEVER in English. No other readable overlay.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/7405378-review.jpg"
+    }
+  },
+  {
+    "id": "7569650",
+    "asset": "dance-hoodie-phrase",
+    "title": "Hoodie phrase",
+    "creator": "Antoni Shkraba",
+    "source": "https://www.pexels.com/video/people-dancing-in-the-studio-7569650/",
+    "download": "https://videos.pexels.com/video-files/7569650/7569650-hd_2048_1080_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "live",
+    "originalPath": "Design/SourceMedia/pexels-7569650-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-hoodie-phrase.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-hoodie-phrase.jpg",
+    "originalSHA256": "43c044f343115bfce80aa77e0af8d117527bc6e8e678a795e474e91e08bbb82a",
+    "bundledSHA256": "ea08ddacc9fd3106c7e5a9bae6b9ad94c0cbcb0ea5723bf84b3e63beb1e90e9e",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 2.4,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 674,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "236",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "9.440000",
+        "size": "430345"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 2048,
+          "height": 1080,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "236"
+        }
+      ],
+      "format": {
+        "duration": "9.450000",
+        "size": "6672786"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "Two people dance a contemporary phrase in hoodies. No readable overlay in the sampled frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/7569650-review.jpg"
+    }
+  },
+  {
+    "id": "7667010",
+    "asset": "dance-mural-phrase",
+    "title": "Mural phrase",
+    "creator": "ArtHouse Studio",
+    "source": "https://www.pexels.com/video/female-performers-dancing-in-studio-7667010/",
+    "download": "https://videos.pexels.com/video-files/7667010/7667010-hd_1920_1080_24fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "live",
+    "originalPath": "Design/SourceMedia/pexels-7667010-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-mural-phrase.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-mural-phrase.jpg",
+    "originalSHA256": "f5152a6853f63e443ba50ffd39fe3786534a89888091702307c6e0574ebd8d9c",
+    "bundledSHA256": "4284c23b5d6da274d83d7ad12b41cdbd002ca3c590a732dcff074e2008adebb2",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 4.7,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "24/1",
+          "nb_frames": "455",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "18.958333",
+        "size": "2773072"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "24/1",
+          "nb_frames": "455"
+        }
+      ],
+      "format": {
+        "duration": "18.965000",
+        "size": "12526063"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "Two women dance a partnered phrase in front of a mural. No readable overlay in the sampled frames.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/7667010-review.jpg"
+    }
+  },
+  {
+    "id": "8249626",
+    "asset": "dance-mosaic-steps",
+    "title": "Mosaic steps",
+    "creator": "RDNE Stock project",
+    "source": "https://www.pexels.com/video/a-man-and-a-woman-dancing-beside-mosaic-artwork-8249626/",
+    "download": "https://videos.pexels.com/video-files/8249626/8249626-hd_1920_1080_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-21",
+    "surface": "live",
+    "originalPath": "Design/SourceMedia/pexels-8249626-original.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/dance-mosaic-steps.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/dance-mosaic-steps.jpg",
+    "originalSHA256": "55e48ab736f3204ed9fd06358aadbac37d7da44793782578586290997fd21f9a",
+    "bundledSHA256": "59d7298281e9a7f5d0d7af1bca4d168bb179631545f43372ac3ae8899fdf2f38",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "coverSecond": 3.1,
+    "metadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "310",
+          "pix_fmt": "yuv420p"
+        }
+      ],
+      "format": {
+        "duration": "12.400000",
+        "size": "3353388"
+      }
+    },
+    "originalMetadata": {
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "310"
+        }
+      ],
+      "format": {
+        "duration": "12.400000",
+        "size": "7679070"
+      }
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-21",
+      "sampledPercents": [
+        5,
+        25,
+        50,
+        75,
+        95
+      ],
+      "notes": "A couple dances beside a pictorial mosaic. Sampled frames do not show a readable word.",
+      "contactSheet": "Design/SourceMedia/Review-2026-10-21/8249626-review.jpg"
+    }
+  },
+  {
+    "id": "tODVnrFX9yM",
+    "phraseID": "phrase-weight-shift",
+    "asset": "phrase-film-hiphop",
+    "title": "Two-step flow",
+    "originalTitle": "5 Ways To Improve Your 2-Step | Beginning Breaking Tutorial",
+    "style": "hipHop",
+    "creator": "VincaniTV",
+    "source": "https://www.youtube.com/watch?v=tODVnrFX9yM",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+    "retrieved": "2026-10-23",
+    "surface": "phrase",
+    "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/tODVnrFX9yM.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/phrase-film-hiphop.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/phrase-film-hiphop.jpg",
+    "originalSHA256": "fcf1c17c79e64f5a7b4cf2e56afaf96a4f774afec2c8ccae49a01345fb983901",
+    "bundledSHA256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+    "coverSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
+    "sourceRangeSeconds": [
+      49.0,
+      385.64
+    ],
+    "coverSourceSecond": 120,
+    "modifications": "Opening montage, sponsorship and closing promotion removed. Full five-part technique lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "audio": "English instruction; checked against source English captions.",
+    "metadata": {
+      "asset": "phrase-film-hiphop",
+      "duration": 336.669667,
+      "width": 1280,
+      "height": 720,
+      "fps": "24000/1001",
+      "bytes": 33168897,
+      "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+      "coverSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
+      "fullDecode": "passed"
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-23",
+      "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+      "intervalSeconds": 10,
+      "notes": "One instructor in a garage; full-body floorwork. English background packaging. Opening landscape montage and sponsor cards excluded.",
+      "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-hiphop-frames.jpg"
+    },
+    "inAppAttribution": "Phrase detail > More > Film credits",
+    "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+    "licenseEvidence": [
+      "Design/SourceMedia/PhraseSources/SoloLessons/license-evidence.json",
+      "https://www.youtube.com/watch?v=tODVnrFX9yM"
+    ],
+    "countsTimeline": {
+      "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+      "key": "phrase-weight-shift",
+      "version": "timed-counts-v1",
+      "actionCount": 132,
+      "sections": 17,
+      "coverageSeconds": [
+        0,
+        336.669667
+      ],
+      "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+      "review": "Complete film inspected at 1 s with source English captions. Slow lifts, sweeps, landings and instruction pauses annotated at their runtime positions; source trim starts at 49 s."
+    },
+    "practicePlayback": {
+      "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+      "rates": [
+        0.5,
+        0.75,
+        1.0
+      ],
+      "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+      "wholeLesson": "Complete source timeline including instruction, once",
+      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    }
+  },
+  {
+    "id": "frontiers-406662-video-1",
+    "phraseID": "phrase-point-and-hit",
+    "asset": "phrase-film-reach",
+    "title": "Reach and turn",
+    "originalTitle": "Dance phrase 1 - Watching or Listening: How Visual and Verbal Information Contribute to Learning a Complex Dance Phrase",
+    "style": "contemporary",
+    "creator": "Jenny Coogan; Robin Jung",
+    "source": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02371/full",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+    "retrieved": "2026-10-23",
+    "surface": "phrase",
+    "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/frontiers-406662-video-1.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/phrase-film-reach.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/phrase-film-reach.jpg",
+    "originalSHA256": "f3c75c122035f4baadbd55e17b28ebbfc343ef75754fedf2d212ababd0a97a91",
+    "bundledSHA256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+    "coverSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
+    "sourceRangeSeconds": [
+      0,
+      26.773292
+    ],
+    "coverSourceSecond": 10,
+    "modifications": "Complete original phrase retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "audio": "Silent original audio track. Complete observational-learning phrase; no spoken instruction added.",
+    "metadata": {
+      "asset": "phrase-film-reach",
+      "duration": 26.773292,
+      "width": 1280,
+      "height": 720,
+      "fps": "25/1",
+      "bytes": 2156303,
+      "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+      "coverSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
+      "fullDecode": "passed"
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-23",
+      "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+      "intervalSeconds": 1,
+      "notes": "One dancer, continuous full-body contemporary phrase. No visible text. Research observational-learning material; not a spoken breakdown.",
+      "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-reach-frames.jpg"
+    },
+    "inAppAttribution": "Phrase detail > More > Film credits",
+    "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+    "copyright": "© 2018 Bläsing, Coogan, Biondi and Schack",
+    "citation": "Bläsing BE, Coogan J, Biondi J and Schack T (2018). Watching or Listening: How Visual and Verbal Information Contribute to Learning a Complex Dance Phrase. Frontiers in Psychology 9:2371. https://doi.org/10.3389/fpsyg.2018.02371",
+    "download": "https://public-pages-files-2025.frontiersin.org/articles/406662/file/Video_1.MP4/406662_supplementary-materials_videos_1_mp4/1",
+    "choreographer": "Jenny Coogan",
+    "dancer": "Robin Jung",
+    "licenseEvidence": [
+      "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02371/full",
+      "https://www.frontiersin.org/legal/copyright-statement"
+    ],
+    "countsTimeline": {
+      "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+      "key": "phrase-point-and-hit",
+      "version": "timed-counts-v1",
+      "actionCount": 37,
+      "sections": 5,
+      "coverageSeconds": [
+        0,
+        26.773292
+      ],
+      "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+      "review": "Complete film inspected at 0.5 s; movement changes annotated separately from held balances. No musical beat grid."
+    },
+    "practicePlayback": {
+      "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+      "rates": [
+        0.5,
+        0.75,
+        1.0
+      ],
+      "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+      "wholeLesson": "Complete source timeline including instruction, once",
+      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    }
+  },
+  {
+    "id": "l-avoQVmi3g",
+    "phraseID": "phrase-reach-and-melt",
+    "asset": "phrase-film-rehearsal",
+    "title": "Balboa basics",
+    "originalTitle": "Balboa Basics Drill: Practice Your Uphold Basics",
+    "style": "swing",
+    "creator": "Lainey Silver",
+    "source": "https://www.youtube.com/watch?v=l-avoQVmi3g",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+    "retrieved": "2026-10-23",
+    "surface": "phrase",
+    "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/l-avoQVmi3g.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/phrase-film-rehearsal.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/phrase-film-rehearsal.jpg",
+    "originalSHA256": "9cd17182c34c3ac5adaf3451ca0745f65fa76be068f0e88881a7442f24b92cd0",
+    "bundledSHA256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+    "coverSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
+    "sourceRangeSeconds": [
+      0,
+      202.919184
+    ],
+    "coverSourceSecond": 15,
+    "modifications": "Complete original lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "audio": "English instruction and spoken counts at three tempos; original captions explicitly state no music is used.",
+    "metadata": {
+      "asset": "phrase-film-rehearsal",
+      "duration": 202.919002,
+      "width": 1280,
+      "height": 720,
+      "fps": "60/1",
+      "bytes": 15091737,
+      "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+      "coverSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
+      "fullDecode": "passed"
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-23",
+      "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+      "intervalSeconds": 5,
+      "notes": "One instructor, full-body front and back views; small steps at three tempos. No visible text. Spoken English counts.",
+      "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-rehearsal-frames.jpg"
+    },
+    "inAppAttribution": "Phrase detail > More > Film credits",
+    "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+    "licenseEvidence": [
+      "Design/SourceMedia/PhraseSources/SoloLessons/license-evidence.json",
+      "https://www.youtube.com/watch?v=l-avoQVmi3g"
+    ],
+    "countsTimeline": {
+      "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+      "key": "phrase-reach-and-melt",
+      "version": "timed-counts-v1",
+      "actionCount": 267,
+      "sections": 34,
+      "coverageSeconds": [
+        0,
+        202.919002
+      ],
+      "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+      "review": "Complete film inspected at 2 s; the three drills use source spoken-count/step/hold timestamps. Caption timing is approximate, not frame-accurate. Pickup and teaching speech remain instruction cues."
+    },
+    "practicePlayback": {
+      "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+      "rates": [
+        0.5,
+        0.75,
+        1.0
+      ],
+      "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+      "wholeLesson": "Complete source timeline including instruction, once",
+      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    }
+  },
+  {
+    "id": "jJXQ1Wj1ERY",
+    "phraseID": "phrase-loose-groove",
+    "asset": "phrase-film-groove",
+    "title": "Farmer footwork",
+    "originalTitle": "Dance Tutorial The Farmer",
+    "style": "house",
+    "creator": "Streetz Ahead",
+    "source": "https://www.youtube.com/watch?v=jJXQ1Wj1ERY",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+    "retrieved": "2026-10-23",
+    "surface": "phrase",
+    "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/jJXQ1Wj1ERY.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/phrase-film-groove.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/phrase-film-groove.jpg",
+    "originalSHA256": "6edec9727ee34a383459ed7e548d8db0a11c749e82e13fb23035a7e9fede5b9c",
+    "bundledSHA256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+    "coverSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
+    "sourceRangeSeconds": [
+      12,
+      157
+    ],
+    "coverSourceSecond": 78,
+    "modifications": "Opening montage and closing contact card removed. Main Farmer breakdown, variations and final practice retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "audio": "Original English instruction audio retained, with English step labels. Source seconds 12-67 checked using local automatic transcription; not a word-perfect transcript.",
+    "metadata": {
+      "asset": "phrase-film-groove",
+      "duration": 145.011,
+      "width": 1280,
+      "height": 720,
+      "fps": "30000/1001",
+      "bytes": 27672017,
+      "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+      "coverSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
+      "fullDecode": "passed"
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-23",
+      "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+      "intervalSeconds": 6,
+      "notes": "One instructor in the retained lesson. Full-body footwork with intentional foot close-ups. English labels Hop Stamp, Variations and Freestyle. Opening montage and closing contact card excluded.",
+      "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-groove-frames.jpg"
+    },
+    "inAppAttribution": "Phrase detail > More > Film credits",
+    "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+    "licenseEvidence": [
+      "Design/SourceMedia/PhraseSources/SoloLessons/license-evidence.json",
+      "https://www.youtube.com/watch?v=jJXQ1Wj1ERY"
+    ],
+    "countsTimeline": {
+      "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+      "key": "phrase-loose-groove",
+      "version": "timed-counts-v1",
+      "actionCount": 212,
+      "sections": 27,
+      "coverageSeconds": [
+        0,
+        145.011
+      ],
+      "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+      "review": "Complete film inspected at 2 s, continuous drills at 0.5 s, speech checked against the English hop/stamp calls. Each repeat has an explicit runtime onset, including closeups and final freestyle."
+    },
+    "practicePlayback": {
+      "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+      "rates": [
+        0.5,
+        0.75,
+        1.0
+      ],
+      "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+      "wholeLesson": "Complete source timeline including instruction, once",
+      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    }
+  },
+  {
+    "id": "neil-sweeney-six-step",
+    "phraseID": "phrase-shoulder-sway",
+    "asset": "phrase-film-street",
+    "title": "Six-step circle",
+    "originalTitle": "Tutorial breakdance - Six Step",
+    "style": "hipHop",
+    "creator": "Neil Sweeney",
+    "source": "https://commons.wikimedia.org/wiki/File:Tutorial_breakdance_-_Six_Step.webm",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+    "retrieved": "2026-10-23",
+    "surface": "phrase",
+    "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/neil-sweeney-six-step.webm",
+    "bundledPath": "Teto/Resources/DanceMedia/phrase-film-street.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/phrase-film-street.jpg",
+    "originalSHA256": "9499ece2fe32fa1770d1f36267bd2d6ae2cd1b599ebdb5c97b56cf5b4d7ab796",
+    "bundledSHA256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+    "coverSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
+    "sourceRangeSeconds": [
+      27,
+      94
+    ],
+    "coverSourceSecond": 53,
+    "modifications": "Opening montage, picture-in-picture and closing promotion removed. Main six-step breakdown and continuous repetitions retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "audio": "No audio in the licensed Wikimedia revision; English captions and numbers teach the six steps.",
+    "metadata": {
+      "asset": "phrase-film-street",
+      "duration": 66.9669,
+      "width": 640,
+      "height": 360,
+      "fps": "30000/1001",
+      "bytes": 2041870,
+      "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+      "coverSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
+      "fullDecode": "passed"
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-23",
+      "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+      "intervalSeconds": 4,
+      "notes": "One instructor. English step labels and numbers. Floorwork from front and overhead angles. Opening and closing picture-in-picture excluded.",
+      "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-street-frames.jpg"
+    },
+    "inAppAttribution": "Phrase detail > More > Film credits",
+    "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tutorial_breakdance_-_Six_Step.webm",
+    "licenseEvidence": [
+      "https://commons.wikimedia.org/wiki/File:Tutorial_breakdance_-_Six_Step.webm"
+    ],
+    "priorModification": "Commons 2021 revision has audio removed.",
+    "countsTimeline": {
+      "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+      "key": "phrase-shoulder-sway",
+      "version": "timed-counts-v1",
+      "actionCount": 87,
+      "sections": 11,
+      "coverageSeconds": [
+        0,
+        66.9669
+      ],
+      "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+      "review": "Complete film inspected at 1 s; rapid middle passage inspected at 0.25 s. Numbered steps follow the visible 1-6 labels, with no extra steps inserted to make an eight."
+    },
+    "practicePlayback": {
+      "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+      "rates": [
+        0.5,
+        0.75,
+        1.0
+      ],
+      "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+      "wholeLesson": "Complete source timeline including instruction, once",
+      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    }
+  },
+  {
+    "id": "zA7VcfzwAyI",
+    "phraseID": "phrase-long-arms",
+    "asset": "phrase-film-ballet",
+    "title": "Waltz walkthrough",
+    "originalTitle": "Ballet - Waltz of the Flowers - Slow Walkthrough",
+    "style": "ballet",
+    "creator": "Vina Castelli",
+    "source": "https://www.youtube.com/watch?v=zA7VcfzwAyI",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+    "retrieved": "2026-10-23",
+    "surface": "phrase",
+    "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/zA7VcfzwAyI.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/phrase-film-ballet.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/phrase-film-ballet.jpg",
+    "originalSHA256": "dcd08e680336dc9ab4a9ebdbec1755187429be89955d61eca27723cee0803d6d",
+    "bundledSHA256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+    "coverSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
+    "sourceRangeSeconds": [
+      0,
+      755.391565
+    ],
+    "coverSourceSecond": 240,
+    "modifications": "Complete slow walkthrough; original speed preserved. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "audio": "Original English walkthrough audio retained. Source seconds 12-67 checked using local automatic transcription; no publisher captions are available and the automatic transcript is not word-perfect.",
+    "metadata": {
+      "asset": "phrase-film-ballet",
+      "duration": 755.390998,
+      "width": 406,
+      "height": 720,
+      "fps": "60000/1001",
+      "bytes": 62667620,
+      "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+      "coverSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
+      "fullDecode": "passed"
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-23",
+      "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+      "intervalSeconds": 20,
+      "notes": "One dancing instructor. Mirrors reflect the instructor and occasionally the stationary camera operator. Full-body movement with closer instruction shots; no other dancer. English shirt lettering. Handheld original framing retained.",
+      "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-ballet-frames.jpg"
+    },
+    "inAppAttribution": "Phrase detail > More > Film credits",
+    "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+    "licenseEvidence": [
+      "Design/SourceMedia/PhraseSources/SoloLessons/license-evidence.json",
+      "https://www.youtube.com/watch?v=zA7VcfzwAyI"
+    ],
+    "countsTimeline": {
+      "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+      "key": "phrase-long-arms",
+      "version": "timed-counts-v1",
+      "actionCount": 223,
+      "sections": 28,
+      "coverageSeconds": [
+        0,
+        755.390998
+      ],
+      "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+      "review": "Complete slow walkthrough inspected at 2 s. Plain movement descriptions are used where the teacher walks spatial patterns. Long spoken placement explanations are separate. No 8-beat musical meter is imposed on this waltz."
+    },
+    "practicePlayback": {
+      "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+      "rates": [
+        0.5,
+        0.75,
+        1.0
+      ],
+      "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+      "wholeLesson": "Complete source timeline including instruction, once",
+      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    }
+  },
+  {
+    "id": "_a_0IYm1weQ",
+    "phraseID": "phrase-step-touch",
+    "asset": "phrase-film-jazz",
+    "title": "Solo Charleston",
+    "originalTitle": "How to Solo CHARLESTON in 4 steps - Simple Beginner Moves - Basic Charleston Improvisation -Tutorial",
+    "style": "jazz",
+    "creator": "GoldMinka",
+    "source": "https://www.youtube.com/watch?v=_a_0IYm1weQ",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+    "retrieved": "2026-10-23",
+    "surface": "phrase",
+    "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/_a_0IYm1weQ.mp4",
+    "bundledPath": "Teto/Resources/DanceMedia/phrase-film-jazz.mp4",
+    "coverPath": "Teto/Resources/DanceMedia/phrase-film-jazz.jpg",
+    "originalSHA256": "94e04d2b87164f024261b2525b6160617f610398badf7edb1aa9c0b859054c4c",
+    "bundledSHA256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+    "coverSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
+    "sourceRangeSeconds": [
+      70,
+      481
+    ],
+    "coverSourceSecond": 130,
+    "modifications": "Channel introduction and closing promotion removed; all four steps and final combined routine retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "audio": "English breakdown and a complete follow-along sequence; source English captions checked.",
+    "metadata": {
+      "asset": "phrase-film-jazz",
+      "duration": 411.0,
+      "width": 1280,
+      "height": 720,
+      "fps": "24/1",
+      "bytes": 45520736,
+      "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+      "coverSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
+      "fullDecode": "passed"
+    },
+    "category": "dance",
+    "visualReview": {
+      "date": "2026-10-23",
+      "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+      "intervalSeconds": 14,
+      "notes": "One instructor. Full-body Charleston instruction and final combined routine. Small mirror reflects part of the same dancer. English step titles. Opening and closing channel promotion excluded.",
+      "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-jazz-frames.jpg"
+    },
+    "inAppAttribution": "Phrase detail > More > Film credits",
+    "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+    "licenseEvidence": [
+      "Design/SourceMedia/PhraseSources/SoloLessons/license-evidence.json",
+      "https://www.youtube.com/watch?v=_a_0IYm1weQ"
+    ],
+    "countsTimeline": {
+      "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+      "key": "phrase-step-touch",
+      "version": "timed-counts-v1",
+      "actionCount": 187,
+      "sections": 24,
+      "coverageSeconds": [
+        0,
+        411.0
+      ],
+      "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+      "review": "Complete film inspected at 2 s with English source captions; final combined routine inspected at 0.5 s. Individual steps/hip shifts and held teaching positions are timed; section cards and explanations do not count as actions."
+    },
+    "practicePlayback": {
+      "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+      "rates": [
+        0.5,
+        0.75,
+        1.0
+      ],
+      "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+      "wholeLesson": "Complete source timeline including instruction, once",
+      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    }
+  }
+]

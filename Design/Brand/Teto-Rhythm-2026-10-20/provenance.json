@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-20",
+  "name": "Rhythm t",
+  "status": "Selected by user and installed in runtime asset catalog",
+  "generator": "Built-in image_gen",
+  "selectedConcept": {
+    "source": "/Users/apple/.codex/generated_images/01a1580b-3aa7-75c3-9ed3-6fdd0ba0ab02/exec-9704cbae-f741-4fe2-9ac5-19a8b42c3cfd.png",
+    "file": "selected-concept.png",
+    "prompt": "Use case: logo-brand\nAsset type: minimal brand identity concept board for Teto, an iOS dance community app.\nDesign a NEW, extremely simple and distinctive logo. Move away from a literal dancing stick figure. Create a custom lowercase t monogram with just ONE bold continuous ivory shape: a short asymmetrical crossbar tilted upward like outstretched arms, merging into a slightly leaning thick stem whose bottom turns into a concise upward-curved foot. Aim for the immediately readable letter t with a subtle dance groove, compact and iconic, with beautifully balanced open negative space. Broad consistent weight, gently rounded ends, two or three purposeful curves only. No detached head or dot. No separate legs. No ribbons behind it. No extra symbol. The mark should be memorable at 24 pixels, not resemble a generic typed t. Quiet confidence, dance-studio culture, modern friendly premium branding.\nCreate ONE elegantly composed landscape design board, 1536x1024:\nwarm cream #FAFBF7 flat background.\nLeft 48 percent: a large rounded-square app icon tile in uniform evergreen #126B58 with the custom ivory monogram perfectly centered, generous 22 percent internal clear space. Flat, no shadow.\nRight 52 percent: exactly the SAME monogram in evergreen alongside the wordmark \"Teto\" in carefully spaced bold rounded geometric sans serif, in evergreen. The wordmark uses capital T then lowercase e t o, exact spelling. At the bottom right, a small row of three copies of the exact app icon at successively smaller sizes to assess recognizability.\nNo titles, subtitles, explanations, arrows, dimensions, labels, slogans or any other text beyond the single wordmark \"Teto\".\nPalette strictly evergreen #126B58 and cream #FAFBF7, optionally one tiny pale lime #DDF4A6 square palette swatch near the bottom of the composition, no other colors. Prefer no decorative swatches.\nConstraints: exactly one design, consistent silhouette across all sizes and the wordmark lockup. Minimal flat vector-like finish with crisp smooth edges; no gradients, texture, noise, 3D, glow, shadow, mock devices, photographs, people, play triangles, musical notes, hearts, stars, bubbles or sports pictograms. This is a brand concept sheet for visual review, not an actual app screenshot."
+  },
+  "productionIcon": {
+    "source": "/Users/apple/.codex/generated_images/01a1580b-3aa7-75c3-9ed3-6fdd0ba0ab02/exec-861de600-099d-4d44-91ec-efb224e7c6fe.png",
+    "file": "app-icon-original.png",
+    "prompt": "Use case: precise-object-edit\nAsset type: final production iOS app icon exported from the user-selected Teto brand concept.\nInput image 1 is the selected artwork. Extract ONLY the large app icon on the LEFT of the board into a single square full-bleed production icon. Preserve the EXACT ivory lowercase t silhouette from that left icon: its slightly leaning stem, uneven upward curved crossbar, rounded ends, hooked sweeping bottom and existing optical proportions. Keep the symbol about 55 percent of the square width and 70 percent of its height, centered with the same internal breathing room as the selected tile.\nThe only required changes are removing the surrounding design board and extending the tile's evergreen background into all four square corners. The background must fill the entire square to all edges, perfectly opaque evergreen #126B58; ivory mark #FAFBF7. No pre-rounded exterior corners, no cream corners, no outer margin, no border.\nDo NOT redesign, reinterpret, add a head, add legs, add text, add a wordmark, add any second mark, add a ribbon or change the monogram. Clean smooth edges and flat uniform colors; no gradients, shadows, texture, noise, glow or shine.\nDeliver a single square 1024x1024 icon, not a concept sheet.",
+    "export": "sips resize to 1024x1024; no other post-generation visual edits; full-bleed opaque square. System applies outer app-icon mask.",
+    "runtime": [
+      "Teto/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "Teto/Resources/Assets.xcassets/TetoMark.imageset/TetoMark.png"
+    ]
+  },
+  "logo": {
+    "component": "TetoBrandLockup",
+    "file": "Teto/DesignSystem/TetoStyle.swift",
+    "badge": "TetoMark",
+    "wordmark": "Teto",
+    "font": "Native system rounded heavy; Dynamic Type"
+  },
+  "palette": {
+    "evergreen": "#126B58",
+    "ivory": "#FAFBF7",
+    "note": "Target values; generated raster has antialiasing and minor color variations."
+  },
+  "supersedes": "Design/Brand/Teto-Dance-2026-10-20/",
+  "checks": "Static resource and configuration checks, generated artwork inspection and 64px visual inspection. No app build, simulator, tests, or SwiftUI Preview."
+}

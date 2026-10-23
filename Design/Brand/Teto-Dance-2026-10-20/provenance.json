@@ -1,0 +1,48 @@
+{
+  "generator": "Built-in image_gen",
+  "date": "2026-10-20",
+  "concept": "Dancing T",
+  "palette": {
+    "evergreen": "#126B58",
+    "ivory": "#FAFBF7",
+    "lime": "#DDF4A6"
+  },
+  "assets": [
+    {
+      "role": "App icon",
+      "source": "/Users/apple/.codex/generated_images/01a1580b-3aa7-75c3-9ed3-6fdd0ba0ab02/exec-fa0180b1-32e6-4fc4-bbc1-92b03874904f.png",
+      "original": "app-icon-original.png",
+      "runtime": [
+        "Teto/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+        "Teto/Resources/Assets.xcassets/TetoMark.imageset/TetoMark.png"
+      ],
+      "export": "sips resizes 1254x1254 RGB PNG to 1024x1024; no visual edits; opaque square, system applies home-screen corner mask.",
+      "prompt": "Use case: logo-brand\nAsset type: final production iOS app icon for Teto, a dance community app.\nCreate one original, beautifully resolved, minimal brand symbol: an abstract joyful dancer whose flowing body and outstretched arms subtly form a lowercase t. The head is a separate small pale lime circle offset above the shoulder. A single bold warm ivory continuous sculptural ribbon forms the broad rising arms, leaning torso and a sweeping bent leg / foot, with the other leg suggested by an elegant negative-space split. It must feel like a dancer caught in a groove, relaxed, confident and social, not a running person, yoga pose, generic accessibility person, musical note or ordinary typed letter. Favor a memorable simple silhouette over anatomical detail. Rounded terminals, optically balanced broad curves, distinctive asymmetry and open negative space. Design-quality flat vector-like finish.\nColor palette: perfectly uniform evergreen #126B58 background covering the entire square to all four edges; ivory #FAFBF7 main symbol; small pale lime #DDF4A6 head accent. Only these three colors, with natural edge antialiasing.\nComposition: square 1024x1024; one centered mark with approximately 19 percent clear space on each side, symbol about 62 percent canvas width and 66 percent height. Keep every element within the central safe area. Bold enough to read at 40 pixels.\nConstraints: full-bleed opaque square, no pre-rounded outer corners, no border, no text, no wordmark, no letters apart from the abstract implied t, no watermark, no gradients, no shadow, no texture, no 3D, no shine, no extra orbit, no star, no heart, no speech bubble, no device, no sheet of alternatives. Deliver only the icon artwork."
+    }
+  ],
+  "usage": "Original AI-generated brand artwork for Teto. No third-party asset or font was imported. This record does not assert trademark clearance.",
+  "validation": "Static source/resource checks and direct inspection of generated images only. No app build, simulator, tests or SwiftUI Preview.",
+  "logoLockup": {
+    "source": "Teto/DesignSystem/TetoStyle.swift",
+    "component": "TetoBrandLockup",
+    "badge": "TetoMark",
+    "wordmark": "Teto",
+    "typeface": "Native SwiftUI system rounded, heavy; Dynamic Type",
+    "locations": [
+      "WelcomeView",
+      "SignInView"
+    ]
+  },
+  "rejectedExplorations": [
+    {
+      "source": "/Users/apple/.codex/generated_images/01a1580b-3aa7-75c3-9ed3-6fdd0ba0ab02/exec-3ed38277-6015-4de3-bd6e-74ec963a8e38.png",
+      "prompt": "Use case: background-extraction\nAsset type: transparent Teto brand logo mark.\nInput image 1 is the final approved artwork to edit. Remove only the evergreen background to true transparent alpha, including the open space between the dancer's legs and all space around the head.\nPreserve the exact original dancer silhouette, its curves, pose, proportions, edges, size and position within the square canvas. Preserve the ivory #FAFBF7 body and pale lime #DDF4A6 circular head. No recoloring, no redraw, no new elements, no typography, no shadow, no border, no checkerboard baked into pixels. Keep the same square canvas and composition. Deliver a clean transparent PNG with smooth antialiased edges and no green fringe.",
+      "reason": "Transparent export contains edge debris; not copied into workspace or used by app."
+    },
+    {
+      "source": "/Users/apple/.codex/generated_images/01a1580b-3aa7-75c3-9ed3-6fdd0ba0ab02/exec-59075c38-da42-44ed-b180-ea611380a9aa.png",
+      "prompt": "Use case: logo-brand\nCreate a pristine transparent-background brand symbol, matching the supplied original opaque Teto icon.\nReference: image 1 is the correct silhouette and colors. Reconstruct exactly two simple solid flat vector-like shapes on true transparent alpha: (1) the elegant ivory dancing-person silhouette, preserving the original rising arms, leaning torso, split curved legs, rounded ends and exact pose, and (2) the pale lime circle head. The shape boundaries must be mathematically clean and smooth. Use solid uniform #FAFBF7 for the entire body and solid uniform #DDF4A6 for the head. Every pixel outside the two shapes must be completely transparent. No residual background, no white fringing, no speckles, no texture, no edge debris, no glow, no drop shadow. Keep the original centered square composition and same clear space. This is a clean flat logo export on true alpha, no lettering.",
+      "reason": "Transparent refinement still contains edge debris; not copied into workspace or used by app."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "tool": "image_gen.imagegen",
+  "prompt": "Use case: background-extraction / background replacement, opaque final. Edit only the BACKGROUND of the provided Teto logo. Preserve exactly the ivory rounded video-camera outline and right-hand wedge, the lime flowing ribbon dancer, the ivory circular head, all positions, scale, proportions, colors, and dimensional shading. Replace the dark near-solid green backdrop with a freer, airier turquoise-teal abstract background: broad fluid organic waves, softly flowing translucent color ribbons, irregular luminous pools of aquamarine and sea green blending into deeper teal. Rich varied teal tonal layers, gentle movement reminiscent of dance, elegant and fresh, visibly non-uniform, not a single flat color or a basic two-color gradient. Use a few large graceful forms, no tiny patterns, no confetti, no dots, no extra objects. Keep medium/deeper teal immediately behind the ivory and lime mark for good contrast, brighter turquoise towards selected outer areas. Background flows seamlessly both outside and through the interior open space of the camera outline. The emblem remains visually dominant, unchanged and crisp. No speech-bubble tail, no text, no watermark, no outer rounded-square mask. Full-bleed square opaque artwork, 1024x1024 intended, no transparency.",
+  "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-51c878c4-7dbb-42f1-8e4e-78bc4e4cae3f.png",
+  "reference": "Design/Brand/Logo-v5/TetoLogo.png",
+  "original": "TetoLogo-original.png",
+  "packaged": "TetoLogo.png",
+  "processing": "sips resize to 1024x1024",
+  "targets": [
+    "AppIcon.appiconset/AppIcon.png",
+    "TetoMark.imageset/TetoMark.png"
+  ]
+}

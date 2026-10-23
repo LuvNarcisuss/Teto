@@ -1,0 +1,12 @@
+{
+  "tool": "image_gen.imagegen",
+  "prompt": "Use case: logo-brand. Create ONE completely redesigned premium app icon for Teto, a dance, livestream and chat social app. This is a fresh concept, not a revision of a camera outline. Full square opaque deep evergreen #126B58 background, subtle tonal depth. Central compact sculptural emblem: a generously rounded spring-lime speech bubble with a short elegant tail, tilted slightly with rhythmic energy. Inside the bubble is a bold deep-green negative-space silhouette of a joyful human dancer in an unmistakable dynamic dance leap, round head, one arm raised diagonally, the other arm extended, bent legs. Beside the upper-right shoulder of the speech bubble integrate a small warm ivory play triangle with two simple ivory broadcasting arcs, immediately suggesting live video; this is a harmonious attached accent, not a disconnected sticker. The speech bubble is the large central mass, dancer is the focal cutout, live accent is secondary. All three concepts must be legible: dancing human, conversation bubble, live video. Sophisticated soft 3D brand design with restrained tactile bevels, clean smooth contours, gentle shadows, vibrant lime #DDF4A6, ivory #FAFBF7, rich forest green. Simple iconic geometry, playful but premium, beautiful at tiny iOS app sizes. Emblem occupies approximately 70 percent of the canvas with ample margins. Do not use a rectangular camera frame, do not use a ribbon t-shaped dancer, no large outline enclosing everything, no heart, no letters, no words, no watermark, no gradients outside the square, no outer rounded-square icon mask, no mockup, no multiple alternatives. Produce a single polished production icon, square 1024x1024 intended, fully opaque edge to edge.",
+  "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-94888b30-88d7-4f50-9f4e-4e617c98310e.png",
+  "original": "TetoLogo-original.png",
+  "packaged": "TetoLogo.png",
+  "processing": "sips resize to 1024x1024; no creative edits",
+  "targets": [
+    "AppIcon.appiconset/AppIcon.png",
+    "TetoMark.imageset/TetoMark.png"
+  ]
+}

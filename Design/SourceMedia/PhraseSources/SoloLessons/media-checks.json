@@ -1,0 +1,79 @@
+[
+  {
+    "asset": "phrase-film-hiphop",
+    "duration": 336.669667,
+    "width": 1280,
+    "height": 720,
+    "fps": "24000/1001",
+    "bytes": 33168897,
+    "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+    "coverSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
+    "fullDecode": "passed"
+  },
+  {
+    "asset": "phrase-film-reach",
+    "duration": 26.773292,
+    "width": 1280,
+    "height": 720,
+    "fps": "25/1",
+    "bytes": 2156303,
+    "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+    "coverSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
+    "fullDecode": "passed"
+  },
+  {
+    "asset": "phrase-film-rehearsal",
+    "duration": 202.919002,
+    "width": 1280,
+    "height": 720,
+    "fps": "60/1",
+    "bytes": 15091737,
+    "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+    "coverSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
+    "fullDecode": "passed"
+  },
+  {
+    "asset": "phrase-film-groove",
+    "duration": 145.011,
+    "width": 1280,
+    "height": 720,
+    "fps": "30000/1001",
+    "bytes": 27672017,
+    "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+    "coverSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
+    "fullDecode": "passed"
+  },
+  {
+    "asset": "phrase-film-street",
+    "duration": 66.9669,
+    "width": 640,
+    "height": 360,
+    "fps": "30000/1001",
+    "bytes": 2041870,
+    "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+    "coverSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
+    "fullDecode": "passed"
+  },
+  {
+    "asset": "phrase-film-ballet",
+    "duration": 755.390998,
+    "width": 406,
+    "height": 720,
+    "fps": "60000/1001",
+    "bytes": 62667620,
+    "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+    "coverSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
+    "fullDecode": "passed"
+  },
+  {
+    "asset": "phrase-film-jazz",
+    "duration": 411.0,
+    "width": 1280,
+    "height": 720,
+    "fps": "24/1",
+    "bytes": 45520736,
+    "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+    "coverSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
+    "fullDecode": "passed"
+  }
+]

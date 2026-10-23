@@ -1,0 +1,23 @@
+[
+  {
+    "asset": "DanceSneakers",
+    "tool": "built-in image_gen",
+    "prompt": "Create a single premium 3D clay app illustration for Teto, a dance social app with Fresh Studio styling. Subject: a pair of lively off-white dance sneakers with evergreen green panels and lime laces, one shoe lifted as if mid-step, a subtle sweeping rhythm ribbon. Rounded tactile forms, polished soft studio lighting, restrained soft shadow, sophisticated friendly editorial feel, clear silhouette legible at 56pt. Palette evergreen #126B58, spring lime #DDF4A6, ivory #FAFBF7, tiny coral accents. One centered standalone icon, occupies 78 percent of a square canvas. Transparent background with real alpha. No text, letters, logos, UI frame, mockup, people or extra unrelated objects.",
+    "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-61e16051-5eb9-4770-872f-cdbc4bfda43f.png",
+    "file": "DanceSneakers.png"
+  },
+  {
+    "asset": "VoiceHeadphones",
+    "tool": "built-in image_gen",
+    "prompt": "Create a single premium 3D clay app illustration for Teto, a dance social app with Fresh Studio styling. Subject: playful over-ear headphones in evergreen green with soft spring-lime cushions, two small floating rhythm notes. Rounded tactile forms, polished soft studio lighting, restrained soft shadow, sophisticated friendly editorial feel, clear silhouette legible at 56pt. Palette evergreen #126B58, spring lime #DDF4A6, ivory #FAFBF7, tiny coral accents. One centered standalone icon, occupies 78 percent of a square canvas. Transparent background with real alpha. No text, letters, logos, UI frame, mockup, people or extra unrelated objects.",
+    "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-b821567a-3b72-41b6-b43b-66d1c197e8cd.png",
+    "file": "VoiceHeadphones.png"
+  },
+  {
+    "asset": "ChatSpark",
+    "tool": "built-in image_gen",
+    "prompt": "Create a single premium 3D clay app illustration for Teto, a dance social app with Fresh Studio styling. Subject: two overlapping rounded chat bubbles, one evergreen green and one pale spring lime, a small warm coral heart and tiny sparkle. Rounded tactile forms, polished soft studio lighting, restrained soft shadow, sophisticated friendly editorial feel, clear silhouette legible at 56pt. Palette evergreen #126B58, spring lime #DDF4A6, ivory #FAFBF7, tiny coral accents. One centered standalone icon, occupies 78 percent of a square canvas. Transparent background with real alpha. No text, letters, logos, UI frame, mockup, people or extra unrelated objects.",
+    "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-82a0621c-ba2a-42d4-a791-9d82b2bf5846.png",
+    "file": "ChatSpark.png"
+  }
+]

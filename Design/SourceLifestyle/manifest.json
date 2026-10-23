@@ -1,0 +1,85 @@
+{
+  "notes": "Original downloaded photo bytes are preserved. These scenes decorate fictional dance community content; photographed people are not claimed to be actual app users or endorsers. Unconfirmed author names remain null. On 2026-10-21 the coffee, park, sneaker, headphone and pointe-shoe imagesets were removed from the app catalog. Studio practice and dance rehearsal remain because they show dance. Voice-room cards now use the separate photographs in Design/SourceCovers.",
+  "photos": [
+    {
+      "asset": "LifestyleStreetCoffee",
+      "id": "6147420",
+      "source": "https://www.pexels.com/photo/content-diverse-friends-with-takeaway-coffee-walking-on-city-street-6147420/",
+      "author": "Keira Burton",
+      "download": "https://images.pexels.com/photos/6147420/pexels-photo-6147420.jpeg?auto=compress&cs=tinysrgb&w=1000",
+      "sha256": "0c5198ea0e0825532e694ca7328748a3c645a7689a4f5950813588454f61733a",
+      "downloaded": "2026-10-20",
+      "license": "https://www.pexels.com/license/"
+    },
+    {
+      "asset": "LifestyleCoffeeChat",
+      "id": "7388884",
+      "source": "https://www.pexels.com/photo/fashionable-young-multiethnic-best-friends-drinking-coffee-and-chatting-on-street-7388884/",
+      "author": "John Diez",
+      "download": "https://images.pexels.com/photos/7388884/pexels-photo-7388884.jpeg?auto=compress&cs=tinysrgb&w=1000",
+      "sha256": "a0bf316d48a36fad0862f70f535404d3a975724334839186c5525876db71f4d8",
+      "downloaded": "2026-10-20",
+      "license": "https://www.pexels.com/license/"
+    },
+    {
+      "asset": "LifestyleParkWalk",
+      "id": "6140369",
+      "source": "https://www.pexels.com/photo/joyful-young-diverse-friends-walking-in-park-and-smiling-with-coffee-to-go-6140369/",
+      "author": "William Fortunato",
+      "download": "https://images.pexels.com/photos/6140369/pexels-photo-6140369.jpeg?auto=compress&cs=tinysrgb&w=1000",
+      "sha256": "bfa595779a9caadf8dbc3404bd6c89cc14b2e717b243fb1fd4308ac94c175dce",
+      "downloaded": "2026-10-20",
+      "license": "https://www.pexels.com/license/"
+    },
+    {
+      "asset": "LifestyleStudioPractice",
+      "id": "6926599",
+      "source": "https://www.pexels.com/photo/group-of-dancers-practicing-together-6926599/",
+      "author": "Pavel Danilyuk",
+      "download": "https://images.pexels.com/photos/6926599/pexels-photo-6926599.jpeg?auto=compress&cs=tinysrgb&w=1000",
+      "sha256": "a40129aabcd6587053d736675d4265ce1b97b33863b6ee90ab1c4f9e3a8cbecc",
+      "downloaded": "2026-10-20",
+      "license": "https://www.pexels.com/license/"
+    },
+    {
+      "asset": "LifestyleDanceRehearsal",
+      "id": "6926533",
+      "source": "https://www.pexels.com/photo/dancers-practicing-on-a-dance-studio-6926533/",
+      "author": "Pavel Danilyuk",
+      "download": "https://images.pexels.com/photos/6926533/pexels-photo-6926533.jpeg?auto=compress&cs=tinysrgb&w=1000",
+      "sha256": "8ae69a22ed1521e984804cd39071fc682242b4a973b58c7d2d6b28debd0522db",
+      "downloaded": "2026-10-20",
+      "license": "https://www.pexels.com/license/"
+    },
+    {
+      "asset": "LifestyleBalletShoes",
+      "id": "5149592",
+      "source": "https://www.pexels.com/photo/pointe-shoes-placed-on-floor-in-dance-room-5149592/",
+      "author": "Budgeron Bach",
+      "download": "https://images.pexels.com/photos/5149592/pexels-photo-5149592.jpeg?auto=compress&cs=tinysrgb&w=1000",
+      "sha256": "53746ab8b0a1d0fbcdb3081fbe9b53b06a56eef072f9dc7ed2f826b6f4bdb579",
+      "downloaded": "2026-10-20",
+      "license": "https://www.pexels.com/license/"
+    },
+    {
+      "asset": "LifestyleMusicBreak",
+      "id": "18018778",
+      "source": "https://www.pexels.com/photo/woman-listening-to-music-in-headphones-18018778/",
+      "author": "Anna Keibalo",
+      "download": "https://images.pexels.com/photos/18018778/pexels-photo-18018778.jpeg?auto=compress&cs=tinysrgb&w=1000",
+      "sha256": "52c0f5a00515dcb2bedd82569c9562aa631f4de35d088f3bd352b734ce2eca06",
+      "downloaded": "2026-10-20",
+      "license": "https://www.pexels.com/license/"
+    },
+    {
+      "asset": "LifestyleSneakerDay",
+      "id": "19960567",
+      "source": "https://www.pexels.com/photo/shoes-on-floor-19960567/",
+      "author": "Nhi Tran",
+      "download": "https://images.pexels.com/photos/19960567/pexels-photo-19960567.jpeg?auto=compress&cs=tinysrgb&w=1000",
+      "sha256": "641e22cc39f3696fba810255ce19b2fc5df211420d72c476b2016053ff164698",
+      "downloaded": "2026-10-20",
+      "license": "https://www.pexels.com/license/"
+    }
+  ]
+}

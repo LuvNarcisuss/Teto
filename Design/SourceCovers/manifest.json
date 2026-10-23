@@ -1,0 +1,141 @@
+{
+  "notes": "Dance photographs used once each as voice-room card artwork. People in the photographs are not app members.",
+  "covers": [
+    {
+      "asset": "RoomCoverHipHop",
+      "room": "hip-hop-crew",
+      "id": "7969810",
+      "author": "cottonbro studio",
+      "source": "https://www.pexels.com/photo/grayscale-photo-of-people-dancing-7969810/",
+      "download": "https://images.pexels.com/photos/7969810/pexels-photo-7969810.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "sha256": "d61f0cec15a2d31913d32559e9aa22fd1f7aa81a40de5ebebbed63b0c8f5977c",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21"
+    },
+    {
+      "asset": "RoomCoverKPop",
+      "room": "k-pop-combo",
+      "id": "32189609",
+      "author": "Diego Tenreiro",
+      "source": "https://www.pexels.com/photo/energetic-dance-trio-in-danko-studio-32189609/",
+      "download": "https://images.pexels.com/photos/32189609/pexels-photo-32189609.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "sha256": "9e49e9d4e88385006823f83f9bca2d0b39218204b70d07abba7d14c64a6c4f2b",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21"
+    },
+    {
+      "asset": "RoomCoverJazz",
+      "room": "jazz-afterhours",
+      "id": "10275097",
+      "author": "cottonbro studio",
+      "source": "https://www.pexels.com/photo/three-dancers-in-a-room-10275097/",
+      "download": "https://images.pexels.com/photos/10275097/pexels-photo-10275097.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "sha256": "e8e443cd18cc4697ec2cd1231f62fd1c999792f22404cd58479acf4371117acb",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21"
+    },
+    {
+      "asset": "RoomCoverFreestyle",
+      "room": "freestyle-circle",
+      "id": "32434252",
+      "author": "Yaqui Zanni",
+      "source": "https://www.pexels.com/photo/dynamic-hip-hop-dance-group-performance-on-stage-32434252/",
+      "download": "https://images.pexels.com/photos/32434252/pexels-photo-32434252.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "sha256": "ca903c4676519b642823c0682707db431407ada1c4af39d3d2ed5642027971e0",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21"
+    },
+    {
+      "asset": "RoomCoverCamera",
+      "room": "dance-camera",
+      "id": "10275132",
+      "author": "cottonbro studio",
+      "source": "https://www.pexels.com/photo/a-group-of-dancers-10275132/",
+      "download": "https://images.pexels.com/photos/10275132/pexels-photo-10275132.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "sha256": "430b1ece7994ccff6390c207001dd55b2a87b801c7a793b582864dc6fa85fe4a",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21"
+    },
+    {
+      "asset": "RoomCoverBallet",
+      "room": "ballet-circle",
+      "id": "5154371",
+      "author": "Budgeron Bach",
+      "source": "https://www.pexels.com/photo/ethnic-girl-practicing-ballet-with-tutor-in-studio-5154371/",
+      "download": "https://images.pexels.com/photos/5154371/pexels-photo-5154371.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "sha256": "a8dd2d40c1502eb3da7c1865f62c871fa13ab3a43634d30242d7798fb5fc7618",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21"
+    },
+    {
+      "asset": "RoomCoverHouse",
+      "room": "house-friends",
+      "id": "8853876",
+      "author": "Los Muertos Crew",
+      "source": "https://www.pexels.com/photo/a-ballet-dancer-rehearsing-in-a-studio-8853876/",
+      "download": "https://images.pexels.com/photos/8853876/pexels-photo-8853876.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "sha256": "dc1d66248700b8ab3f671ffcfc914cc80dc2c4ac1d6ebafe1612e192b9db86be",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21"
+    },
+    {
+      "asset": "RoomCoverPractice",
+      "room": "practice-break",
+      "id": "5150447",
+      "author": "Budgeron Bach",
+      "source": "https://www.pexels.com/photo/graceful-asian-female-performing-dance-during-rehearsal-in-studio-5150447/",
+      "download": "https://images.pexels.com/photos/5150447/pexels-photo-5150447.jpeg?auto=compress&cs=tinysrgb&w=1400",
+      "sha256": "933dc3e5f22acc8833645a252f0807485a8b0c362723241b2ec6ede4a72f07bd",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21"
+    },
+    {
+      "asset": "RoomCoverDraft1",
+      "room": "user-draft",
+      "id": "1701193",
+      "author": null,
+      "source": "https://www.pexels.com/photo/1701193/",
+      "download": "https://images.pexels.com/photos/1701193/pexels-photo-1701193.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "sha256": "4eb2cb13c4fef97e599ccb511b346c988a7ed4cec341420d69b64e362bc4edc1",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21",
+      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page."
+    },
+    {
+      "asset": "RoomCoverDraft2",
+      "room": "user-draft",
+      "id": "2188012",
+      "author": null,
+      "source": "https://www.pexels.com/photo/2188012/",
+      "download": "https://images.pexels.com/photos/2188012/pexels-photo-2188012.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "sha256": "12fbe45d537d304bd77b09c270dba5d948aba6ee00d3222e8cc1eb7ddb353896",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21",
+      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page."
+    },
+    {
+      "asset": "RoomCoverDraft3",
+      "room": "user-draft",
+      "id": "6926540",
+      "author": null,
+      "source": "https://www.pexels.com/photo/6926540/",
+      "download": "https://images.pexels.com/photos/6926540/pexels-photo-6926540.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "sha256": "bc831a64a3734e1df5f96d529e8d8ac3c333a04473ced2f05224a35e9b8658a5",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21",
+      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page."
+    },
+    {
+      "asset": "RoomCoverDraft4",
+      "room": "user-draft",
+      "id": "7828572",
+      "author": null,
+      "source": "https://www.pexels.com/photo/7828572/",
+      "download": "https://images.pexels.com/photos/7828572/pexels-photo-7828572.jpeg?auto=compress&cs=tinysrgb&w=900",
+      "sha256": "85d531d8bdc27d46d912eb556a58a4c7b0432cc2064e0631c864a313811a0689",
+      "license": "https://www.pexels.com/license/",
+      "downloaded": "2026-10-21",
+      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page."
+    }
+  ]
+}

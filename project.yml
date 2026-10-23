@@ -1,0 +1,45 @@
+name: Teto
+options:
+  deploymentTarget:
+    iOS: "16.0"
+  developmentLanguage: en
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: "0.1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    TARGETED_DEVICE_FAMILY: "1"
+    SUPPORTS_MACCATALYST: false
+    DEVELOPMENT_TEAM: JPTS6M4T5B
+targets:
+  teto:
+    type: application
+    platform: iOS
+    sources:
+      - path: Teto
+        excludes:
+          - Support/Info.plist
+          - Resources/TetoDiamonds.storekit
+      - path: Agreements
+        type: folder
+        buildPhase: resources
+    settings:
+      base:
+        PRODUCT_NAME: teto
+        PRODUCT_BUNDLE_IDENTIFIER: com.teto.dance
+        INFOPLIST_FILE: Teto/Support/Info.plist
+        GENERATE_INFOPLIST_FILE: false
+        INFOPLIST_KEY_UIRequiresFullScreen: YES
+        SWIFT_EMIT_LOC_STRINGS: true
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+schemes:
+  teto:
+    build:
+      targets:
+        teto: all
+    run:
+      config: Debug
+      storeKitConfiguration: Teto/Resources/TetoDiamonds.storekit
+    archive:
+      config: Release

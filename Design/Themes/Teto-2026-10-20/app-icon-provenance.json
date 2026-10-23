@@ -1,0 +1,8 @@
+{
+  "generator": "Built-in image_gen",
+  "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-1c51ddf4-f60b-4992-af05-d281214bd372.png",
+  "original": "fresh-studio-app-icon-original.png",
+  "runtime": "Teto/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+  "export": "sips resize to 1024 \u00d7 1024; no content edits",
+  "prompt": "Create a production iOS app icon for Teto, a refined dance social app. Square 1024x1024 opaque full-bleed image, no rounded outer corners or device mockup. Fresh Studio brand palette: warm ivory #FAFBF7 background, evergreen #126B58 and pale spring lime #DDF4A6. Center a bold minimal lowercase t mark whose curved fluid foot suggests dance movement, timeless flat vector-like logo, precise clean edges, generous balanced margin. One thin wide sweeping lime ribbon subtly arcs behind the emerald t. No other letters, words, gradients, shadows, photographic people, coins, ornaments or borders. Legible at tiny app-icon size."
+}

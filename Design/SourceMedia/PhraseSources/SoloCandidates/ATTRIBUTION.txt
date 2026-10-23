@@ -1,0 +1,9 @@
+Dance phrases 1 and 2
+Choreography: Jenny Coogan (1); José Biondi (2). Dancer: Robin Jung.
+© 2018 Bläsing, Coogan, Biondi and Schack.
+Bläsing BE, Coogan J, Biondi J and Schack T (2018). Watching or Listening: How Visual and Verbal Information Contribute to Learning a Complex Dance Phrase. Frontiers in Psychology 9:2371. https://doi.org/10.3389/fpsyg.2018.02371
+Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Source: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02371/full
+Original MP4 files are unchanged. Contact sheets are derived by extracting and resizing frames.
+No endorsement of Teto by the authors or performer is implied.
+These original files remain outside app resources. Phrase 1 now supplies the runtime film phrase-film-reach; phrase 2 remains an unused candidate. Current credits and mappings are in ../manifest.json and ../SoloLessons/ATTRIBUTION.txt.

@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-23",
+  "tool": "image_gen.imagegen (built-in)",
+  "direction": "Fresh Rhythm — ivory/lime enamel Teto lettering, evergreen outline, two rhythm droplets and an adult dance duo.",
+  "prompts": {
+    "wordmark": "Use case: logo-brand. Create a polished app brand logo asset for Teto, a dance social iOS app. A single wordmark, exact text 'Teto', thick friendly forward-leaning custom brush lettering with beautifully rounded terminals. Cream ivory letter faces subtly shading into pale fresh lime near the bottom, deep evergreen #126B58 thick connected outline and understated glossy enamel bevel. The overall silhouette is compact, legible, energetic and balanced, an expressive dance rhythm. Two small rounded rhythm droplets above the first T, included in the connected composition. No camera, no speech bubble tail, no other symbols or words. Premium restrained 3D enamel, not metallic, not excessively inflated. Palette ivory #FAFBF7, evergreen #126B58, pale lime #DDF4A6. Transparent background, isolated clean cutout with real alpha, no ground plane, no surrounding shadow. Landscape canvas roughly 3:2, wordmark fills 86 percent width, generous edge clearance. Small-size legibility is essential.",
+    "wordmarkCleanup": "Use case: background-extraction. Edit the provided Teto wordmark. Preserve exactly its Teto letterforms, ivory lime faces, evergreen outlines and two droplets, their proportions and positions. Remove ALL diffuse green glow, mist, haze and shadow OUTSIDE the solid logo silhouette. Exterior pixels must be fully transparent, with just a clean thin antialiased edge on the solid evergreen outline. No black or green rectangle, no backdrop, no cast shadow, no halo. Keep inside opaque lettering intact. Output clean alpha cutout, same landscape canvas. Only the hard enamel logo and droplets remain.",
+    "appIcon": "Use case: logo-brand. Input is the approved Teto lettering reference. Produce one square iOS app icon, 1024 x 1024. Preserve the exact Teto lettering design, its ivory/pale-lime enamel face, deep evergreen outline, forward tilt and two rhythm droplets. Place entire wordmark centered on a full-bleed solid pale bright lime #DDF4A6 square background, with only a very subtle soft light near upper left. Lettering occupies about 84 percent of square width and about 58 percent height, optically centered. Remove the diffuse dark green glow around the exterior of the lettering. Crisp clean outer edges. No extra frame, no rounded square outline or baked corners (iOS masks it), no margins beyond the full-bleed background, no other objects, no extra text. Opaque output.",
+    "danceDuo": "Use case: stylized-concept. Asset type: premium illustration for the welcome screen of Teto, a dance social iOS app. Create a beautiful joyful editorial 3D clay illustration of TWO adult street dancers practicing together, full body with sneakers and hands visible. One woman with dark tied-up curly hair wearing an evergreen cropped casual jacket and ivory wide trousers; one man with medium-brown skin wearing an ivory oversized shirt and muted lime loose trousers. Dynamic complementary hip-hop groove poses, bent knees, expressive arms, clearly dancing, anatomically natural, no extra limbs. Refined stylized faces, youthful adult energy, tactile satin clay materials, delicate soft shadows. A single flowing pale lime ribbon sweeps behind the pair to express shared rhythm, only two or three small evergreen rhythm droplets. No devices, no cameras, no floating UI. Color palette strictly fresh evergreen #126B58, warm ivory #FAFBF7, pale lime #DDF4A6 plus natural skin colors. Cohesive with glossy enamel brand icons but more matte clothing. Entire group isolated on a genuinely transparent background; no rectangle, no room, no floor plane, no black backdrop, no green glow. Square composition with the pair filling the center 88 percent, all hands feet and ribbon contained inside canvas. No text, letters, numbers, logos, watermarks, signature."
+  },
+  "assets": [
+    {
+      "source": "app-icon-original.png",
+      "runtime": [
+        "Teto/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+        "Teto/Resources/Assets.xcassets/TetoMark.imageset/TetoMark.png"
+      ],
+      "processing": "sips proportional resize to 1024 x 1024; opaque RGB",
+      "sha256": {
+        "Teto/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png": "589736dbc902baa63bb3627e928860baa3eecb4b88b01dee73b051167c13aa27",
+        "Teto/Resources/Assets.xcassets/TetoMark.imageset/TetoMark.png": "589736dbc902baa63bb3627e928860baa3eecb4b88b01dee73b051167c13aa27"
+      }
+    },
+    {
+      "source": "wordmark-original.png",
+      "runtime": [
+        "Teto/Resources/Assets.xcassets/TetoWordmark.imageset/TetoWordmark.png"
+      ],
+      "processing": "sips proportional resize to 768 x 512; generated alpha preserved",
+      "sha256": {
+        "Teto/Resources/Assets.xcassets/TetoWordmark.imageset/TetoWordmark.png": "a0de1719ee22d43a9fc3d73e9de70b34808331871182c025f129b4db227b4f5c"
+      }
+    },
+    {
+      "source": "dance-duo-original.png",
+      "runtime": [
+        "Teto/Resources/Assets.xcassets/TetoEntryDance.imageset/TetoEntryDance.png"
+      ],
+      "processing": "sips proportional resize to 1000 x 1000; generated alpha preserved",
+      "sha256": {
+        "Teto/Resources/Assets.xcassets/TetoEntryDance.imageset/TetoEntryDance.png": "f7f5834bb2bd778f909427bc5dd8fed2bcdf16c75487238a23a108d6d907ce65"
+      }
+    }
+  ],
+  "review": "Generated originals visually inspected: Teto is the only visible text; illustration contains two adult dancers and no text. Alpha and sizes inspected from files. No app build, tests, typecheck, simulator or execution.",
+  "scope": "Brand and entry illustration only; no video, catalog, navigation or persistence changes.",
+  "previous": "previous/ retains replaced assets and relevant source snapshots outside the app target. Prior Logo-v6 and Wordmark-v1 runtime mappings are superseded.",
+  "status": "Logo proposals superseded by the user-supplied logo in ../User-Logo-2026-10-23/manifest.json. Only the dance-duo illustration remains in use. The hashes below record the earlier revision, not current runtime logos."
+}

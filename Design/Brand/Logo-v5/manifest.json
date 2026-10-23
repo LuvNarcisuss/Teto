@@ -1,0 +1,13 @@
+{
+  "tool": "image_gen.imagegen",
+  "prompt": "Use case: precise-object-edit. Edit the supplied Teto logo with ONE targeted change only: REMOVE the speech-bubble tail protruding from the bottom-left corner. Replace that tail with a smooth continuous rounded corner joining the left border to the bottom border, matching the radius and ivory stroke thickness of the other corners. Fill the removed tail area seamlessly with the existing evergreen background. The enclosure should now be a simple closed rounded-rectangle VIDEO CAMERA outline with its existing right-hand lens wedge, containing the existing lime ribbon dancer. Preserve exactly the dancer's pose, flowing lime ribbon, ivory circular head, right-side ivory camera wedge, their positions and proportions, the rich evergreen background gradient, lime/ivory colors, soft dimensional shading, and canvas framing. No chat bubble, no conversational tail, no additional elements, no text, no redesign. One square full-bleed opaque app logo, no transparency; preserve green full square corners.",
+  "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-32e7b93a-7f38-47ee-b3cd-3b1b298f7701.png",
+  "reference": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-a090285c-83e9-4cc2-836c-90d14c24da86.png",
+  "original": "TetoLogo-original.png",
+  "packaged": "TetoLogo.png",
+  "processing": "sips resize to 1024x1024",
+  "targets": [
+    "AppIcon.appiconset/AppIcon.png",
+    "TetoMark.imageset/TetoMark.png"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "tool": "image_gen.imagegen",
+  "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-b202b2a4-3e93-4c5c-b4b6-955699ed1594.png",
+  "prompt": "Design a new premium app logo for Teto, a native iOS dance-and-friendship social app. Deliver ONE square production app icon, ideally 1024 by 1024 pixels, completely opaque with NO alpha or transparency. Edge-to-edge deep evergreen background #126B58 with a very subtle rich green tonal gradient. In the center, create a striking original abstract dancing lowercase-t monogram using one broad flowing spring-lime #DDF4A6 ribbon and a small ivory #FAFBF7 circular head. The ribbon forms two joyful outstretched arms and a sweeping curved dancing body/leg, balanced yet asymmetrical, conveying rhythm, movement and human connection. The t/dancer symbol must be instantly legible at tiny icon sizes, occupy around 66 percent of the canvas, with bold simple geometry and exceptionally clean smooth edges. Contemporary premium brand mark, mostly flat with a restrained soft tactile bevel, not an emoji, not a detailed person illustration. Distinctive, warm and alive. No lettering other than the abstract t-shaped symbol; no wordmark, no typography, no mockup, no border, no rounded-square container drawn inside the canvas, no shoes, no headphones, no speech bubbles, no extra confetti or sparkles. Keep the full square corners filled green; iOS supplies the outer icon mask.",
+  "transparent_background": false,
+  "original": "TetoLogo-original.png",
+  "packaged": "TetoLogo.png",
+  "processing": "sips resize to 1024x1024; no visual edits",
+  "targets": [
+    "AppIcon.appiconset/AppIcon.png",
+    "TetoMark.imageset/TetoMark.png"
+  ]
+}

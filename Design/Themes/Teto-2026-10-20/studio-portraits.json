@@ -1,0 +1,50 @@
+[
+  {
+    "asset": "StudioHipHop",
+    "prompt": "Use case: photorealistic-natural. Asset type: Teto Fresh Studio dance room card photograph. Square 1024x1024 editorial photograph of adult woman hip-hop dancer in a black cap and charcoal sleeveless dancewear, waist-up, head centered in upper third, relaxed mid-groove arm gesture. Warm sunlit spacious dance studio, creamy walls, soft window light, subtle green and warm neutral tones. Natural realistic skin, premium lifestyle photography, authentic human movement. One person only. Face fully visible, upper-body crop with ample air around head. No text, no letters, no numbers, no logos, no watermark, no UI, no collage. This is fictional decorative editorial imagery, not a real user.",
+    "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-d053f212-7b93-4a3a-a427-132761b53f86.png",
+    "tool": "built-in image_gen",
+    "inspection": "Adult dancer in warm studio; no text or logo. Fictional authored artwork only.",
+    "runtimeAsset": "Teto/Resources/Assets.xcassets/StudioHipHop.imageset/image.png"
+  },
+  {
+    "asset": "StudioLatin",
+    "prompt": "Use case: photorealistic-natural. Asset type: Teto Fresh Studio dance room card photograph. Square 1024x1024 editorial photograph of adult man Latin dancer with wavy dark hair and short beard, rust-red shirt, waist-up, head centered in upper third, one arm raised in a dance pose. Warm sunlit spacious dance studio, creamy walls, soft window light, subtle green and warm neutral tones. Natural realistic skin, premium lifestyle photography, authentic human movement. One person only. Face fully visible, upper-body crop with ample air around head. No text, no letters, no numbers, no logos, no watermark, no UI, no collage. This is fictional decorative editorial imagery, not a real user.",
+    "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-1becfdd8-0f2e-40e1-be4c-cad617e97a29.png",
+    "tool": "built-in image_gen",
+    "inspection": "Adult dancer in warm studio; no text or logo. Fictional authored artwork only.",
+    "runtimeAsset": "Teto/Resources/Assets.xcassets/StudioLatin.imageset/image.png"
+  },
+  {
+    "asset": "StudioAfro",
+    "prompt": "Use case: photorealistic-natural. Asset type: Teto Fresh Studio dance room card photograph. Square 1024x1024 editorial photograph of adult Black woman dancer with natural curls in a beige sports top, waist-up, smiling candidly after dance practice, head centered in upper third. Warm sunlit spacious dance studio, creamy walls, soft window light, subtle green and warm neutral tones. Natural realistic skin, premium lifestyle photography, authentic human movement. One person only. Face fully visible, upper-body crop with ample air around head. No text, no letters, no numbers, no logos, no watermark, no UI, no collage. This is fictional decorative editorial imagery, not a real user.",
+    "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-9cc2c1b0-ec16-4444-9880-6cf861092d2f.png",
+    "tool": "built-in image_gen",
+    "inspection": "Adult dancer in warm studio; no text or logo. Fictional authored artwork only.",
+    "runtimeAsset": "Teto/Resources/Assets.xcassets/StudioAfro.imageset/image.png"
+  },
+  {
+    "asset": "StudioKPop",
+    "prompt": "Use case: photorealistic-natural. Asset type: Teto Fresh Studio dance room card photograph. Square 1024x1024 editorial photograph of adult East Asian woman dancer in a pale mauve top, long dark hair, waist-up, graceful dance practice gesture, head centered in upper third. Warm sunlit spacious dance studio, creamy walls, soft window light, subtle green and warm neutral tones. Natural realistic skin, premium lifestyle photography, authentic human movement. One person only. Face fully visible, upper-body crop with ample air around head. No text, no letters, no numbers, no logos, no watermark, no UI, no collage. This is fictional decorative editorial imagery, not a real user.",
+    "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-9128d534-7861-4e0f-9d41-d37936d0ee34.png",
+    "tool": "built-in image_gen",
+    "inspection": "Adult dancer in warm studio; no text or logo. Fictional authored artwork only.",
+    "runtimeAsset": "Teto/Resources/Assets.xcassets/StudioKPop.imageset/image.png"
+  },
+  {
+    "asset": "StudioHouse",
+    "prompt": "Use case: photorealistic-natural. Asset type: Teto Fresh Studio dance room card photograph. Square 1024x1024 editorial photograph of adult man dancer with short blond hair in a charcoal tee, waist-up during house dance practice, head centered in upper third. Warm sunlit spacious dance studio, creamy walls, soft window light, subtle green and warm neutral tones. Natural realistic skin, premium lifestyle photography, authentic human movement. One person only. Face fully visible, upper-body crop with ample air around head. No text, no letters, no numbers, no logos, no watermark, no UI, no collage. This is fictional decorative editorial imagery, not a real user.",
+    "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-bb7d4e87-1236-424a-9a9b-79c2934b8d6e.png",
+    "tool": "built-in image_gen",
+    "inspection": "Adult dancer in warm studio; no text or logo. Fictional authored artwork only.",
+    "runtimeAsset": "Teto/Resources/Assets.xcassets/StudioHouse.imageset/image.png"
+  },
+  {
+    "asset": "StudioFreestyle",
+    "prompt": "Use case: photorealistic-natural. Asset type: Teto Fresh Studio dance room card photograph. Square 1024x1024 editorial photograph of adult Black man dancer with natural textured hair, olive dancewear, waist-up, spontaneous joyful dance pose, head centered in upper third. Warm sunlit spacious dance studio, creamy walls, soft window light, subtle green and warm neutral tones. Natural realistic skin, premium lifestyle photography, authentic human movement. One person only. Face fully visible, upper-body crop with ample air around head. No text, no letters, no numbers, no logos, no watermark, no UI, no collage. This is fictional decorative editorial imagery, not a real user.",
+    "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-fcc43c02-2762-4a56-bebf-800c2fec6a05.png",
+    "tool": "built-in image_gen",
+    "inspection": "Adult dancer in warm studio; no text or logo. Fictional authored artwork only.",
+    "runtimeAsset": "Teto/Resources/Assets.xcassets/StudioFreestyle.imageset/image.png"
+  }
+]

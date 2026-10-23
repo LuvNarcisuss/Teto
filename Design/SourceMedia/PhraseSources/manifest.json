@@ -1,0 +1,808 @@
+{
+  "notes": "Current runtimeFilms contains seven bundled solo lessons/follow-along phrases across multiple dance styles. Film plays locally with aspect-fill: original proportions and speed are retained, and edges are cropped to fill the frame. Counts follows explicit source-time action and instruction cues across each complete runtime film. Up to eight action cues form a page; page count varies by lesson. Timings are manually authored estimates, not frame-accurate measurements. Fictional phrase profiles are separate from film creators. Live, Shorts and Voice do not share these films, covers or portraits. The portraits and clips sections describe older Pexels materials; clips remain historical references outside the app.",
+  "retrieved": "2026-10-22",
+  "license": "Mixed; see each runtimeFilms entry. Portraits and historical clips: Pexels License.",
+  "portraits": [
+    {
+      "id": "18854495",
+      "source": "https://www.pexels.com/photo/face-of-a-young-woman-wearing-a-nose-ring-18854495/",
+      "author": "Oscar Calstrom",
+      "download": "https://images.pexels.com/photos/18854495/pexels-photo-18854495.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
+      "asset": "PhraseAuthorSable",
+      "file": "Teto/Resources/Assets.xcassets/PhraseAuthorSable.imageset/PhraseAuthorSable.jpg",
+      "sha256": "2005f7cf09a6ca7eb412467db7414357dc56078cdf3100f309cc1a3e6491e939",
+      "appName": "Sable Quinn",
+      "authorID": "phrase-sable"
+    },
+    {
+      "id": "1043471",
+      "source": "https://www.pexels.com/photo/men-s-blue-dress-shirt-1043471/",
+      "author": "Chloe",
+      "download": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
+      "asset": "PhraseAuthorRowan",
+      "file": "Teto/Resources/Assets.xcassets/PhraseAuthorRowan.imageset/PhraseAuthorRowan.jpg",
+      "sha256": "3122966a13c3ae6e16af099cc3cdaed22f3617b0d89eb35e1455fd584fb523c9",
+      "appName": "Rowan Hale",
+      "authorID": "phrase-rowan"
+    },
+    {
+      "id": "11971465",
+      "source": "https://www.pexels.com/photo/smiling-woman-with-red-lipstick-11971465/",
+      "author": "Yusuf Çelik",
+      "download": "https://images.pexels.com/photos/11971465/pexels-photo-11971465.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
+      "asset": "PhraseAuthorIndigo",
+      "file": "Teto/Resources/Assets.xcassets/PhraseAuthorIndigo.imageset/PhraseAuthorIndigo.jpg",
+      "sha256": "3b444903d907b894c877ef289e9749150c32522607043985f5747764a091a4c6",
+      "appName": "Indigo Marsh",
+      "authorID": "phrase-indigo"
+    },
+    {
+      "id": "1300402",
+      "source": "https://www.pexels.com/photo/shallow-focus-photography-of-man-1300402/",
+      "author": "Nathan Cowley",
+      "download": "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
+      "asset": "PhraseAuthorCassian",
+      "file": "Teto/Resources/Assets.xcassets/PhraseAuthorCassian.imageset/PhraseAuthorCassian.jpg",
+      "sha256": "12a195ba34bb2a5fb5b8d3a873e0afac6568a2a720e37adbec1b44d7a7feb7d5",
+      "appName": "Cassian Brooks",
+      "authorID": "phrase-cassian"
+    },
+    {
+      "id": "15317178",
+      "source": "https://www.pexels.com/photo/portrait-of-a-woman-on-a-black-background-15317178/",
+      "author": "Ion Ceban @ionelceban",
+      "download": "https://images.pexels.com/photos/15317178/pexels-photo-15317178.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
+      "asset": "PhraseAuthorMaren",
+      "file": "Teto/Resources/Assets.xcassets/PhraseAuthorMaren.imageset/PhraseAuthorMaren.jpg",
+      "sha256": "325aba14558e1f84e0cc6d79ac64a58e332af1986a600e8ed9b08222a645b417",
+      "appName": "Maren Sol",
+      "authorID": "phrase-maren"
+    },
+    {
+      "id": "38982695",
+      "source": "https://www.pexels.com/photo/close-up-portrait-of-a-thoughtful-young-woman-38982695/",
+      "author": "Mai Anh Phuong",
+      "download": "https://images.pexels.com/photos/38982695/pexels-photo-38982695.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
+      "asset": "PhraseAuthorNia",
+      "file": "Teto/Resources/Assets.xcassets/PhraseAuthorNia.imageset/PhraseAuthorNia.jpg",
+      "sha256": "1b14e61ca4f670bcdffa280838e568bdb9e66b4c95c842ab1bddb74a4ca6616e",
+      "appName": "Nia Adeyemi",
+      "authorID": "phrase-nia"
+    },
+    {
+      "id": "12046404",
+      "source": "https://www.pexels.com/photo/close-up-shot-of-a-woman-wearing-eyeglasses-with-brown-eyes-while-seriously-looking-at-the-camera-12046404/",
+      "author": "Oscar Bahamondes Carmona",
+      "download": "https://images.pexels.com/photos/12046404/pexels-photo-12046404.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
+      "asset": "PhraseAuthorJules",
+      "file": "Teto/Resources/Assets.xcassets/PhraseAuthorJules.imageset/PhraseAuthorJules.jpg",
+      "sha256": "9ba35eb71edf41b118d81369e9c82704c8fbf82cd3468a0e0c6bf5dbaae3b15d",
+      "appName": "Jules Hart",
+      "authorID": "phrase-jules"
+    }
+  ],
+  "clips": [
+    {
+      "id": "26860019",
+      "phraseID": "phrase-weight-shift",
+      "source": "https://www.pexels.com/video/westsidefulldance-26860019/",
+      "author": "Westside Full",
+      "download": "https://videos.pexels.com/video-files/26860019/12022733_1920_1080_30fps.mp4",
+      "storedFile": "Design/SourceMedia/PhraseSources/pexels-26860019.mp4",
+      "sha256": "062f92145b0f2fedbfed3542b9579743e5b9ec04a6348f68f774021ae3cf5539",
+      "storedAs": "Scaled review encode, 960 px wide, no audio. The original download is not stored. Not an app resource.",
+      "playsInApp": false,
+      "seen": "Adult hip-hop studio: side steps, weight shifts, an arm to the head, soft knees."
+    },
+    {
+      "id": "6939966",
+      "phraseID": "phrase-point-and-hit",
+      "source": "https://www.pexels.com/video/dancers-practicing-in-the-studio-6939966/",
+      "author": "Pavel Danilyuk",
+      "download": "https://videos.pexels.com/video-files/6939966/6939966-sd_360_640_30fps.mp4",
+      "storedFile": "Design/SourceMedia/PhraseSources/pexels-6939966.mp4",
+      "sha256": "e4d16a1ad41df470e5d373429dd42f8afbb3991302ad6ee7418c339d6afa6a9c",
+      "storedAs": "SD download used for the frame check. Not an app resource.",
+      "playsInApp": false,
+      "seen": "Adults in a studio reaching both arms up, looking up, softening the elbows, then lowering the arms."
+    },
+    {
+      "id": "35829106",
+      "phraseID": "phrase-reach-and-melt",
+      "source": "https://www.pexels.com/video/contemporary-dance-class-with-adults-35829106/",
+      "author": "Valeria Niño",
+      "download": "https://videos.pexels.com/video-files/35829106/15192408_1920_1080_24fps.mp4",
+      "storedFile": "Design/SourceMedia/PhraseSources/pexels-35829106.mp4",
+      "sha256": "bfd4506e38297bcbcdefd745d94346c20799e5c130080903471f602a81172209",
+      "storedAs": "Downloaded file used for the frame check. Not an app resource.",
+      "playsInApp": false,
+      "seen": "Adult contemporary class: arms lift, hands go to the head, a turn, then steps and a walk."
+    },
+    {
+      "id": "8956006",
+      "phraseID": "phrase-loose-groove",
+      "source": "https://www.pexels.com/video/women-rehearsing-a-dance-step-8956006/",
+      "author": "Kampus Production",
+      "download": "https://videos.pexels.com/video-files/8956006/8956006-sd_640_360_25fps.mp4",
+      "storedFile": "Design/SourceMedia/PhraseSources/pexels-8956006.mp4",
+      "sha256": "2f638183c6a9ea32081fdccefe4fc1da4b7428f138eac95dafc7bfa06dba1332",
+      "storedAs": "SD download used for the frame check. Not an app resource.",
+      "playsInApp": false,
+      "seen": "Adults rehearsing: steps, a bounce, a low drop, a rise, and an arm up and down."
+    },
+    {
+      "id": "6332466",
+      "phraseID": "phrase-shoulder-sway",
+      "source": "https://www.pexels.com/video/man-dancing-in-a-studio-6332466/",
+      "author": "cottonbro studio",
+      "download": "https://videos.pexels.com/video-files/6332466/6332466-uhd_4096_2160_25fps.mp4",
+      "storedFile": "Design/SourceMedia/PhraseSources/pexels-6332466.mp4",
+      "sha256": "a12325c9428ab1b02e09a3a5532428d647b20dd1aa04e21a4a49384f2c00e186",
+      "storedAs": "Scaled review encode, 960 px wide, no audio. The original download is not stored. Not an app resource.",
+      "playsInApp": false,
+      "seen": "Adult dancer from behind: one arm, then the other, hands to the head, arms wide, hands crossed, arms drop."
+    },
+    {
+      "id": "8934379",
+      "phraseID": "phrase-long-arms",
+      "source": "https://www.pexels.com/video/a-ballerina-performing-a-choreography-in-a-ballet-studio-8934379/",
+      "author": "Anastasia Shuraeva",
+      "download": "https://videos.pexels.com/video-files/8934379/8934379-sd_640_360_25fps.mp4",
+      "storedFile": "Design/SourceMedia/PhraseSources/pexels-8934379.mp4",
+      "sha256": "41c59d3d465dc70c6d04ef6d50a9403df0aa23ac63773e630d0768ac4b75e1f5",
+      "storedAs": "SD download used for the frame check. Not an app resource.",
+      "playsInApp": false,
+      "seen": "Adult ballerina: arm up, arms open, balance on one foot, a turn, then a soft landing."
+    },
+    {
+      "id": "13552155",
+      "phraseID": "phrase-step-touch",
+      "source": "https://www.pexels.com/video/dancing-class-for-women-13552155/",
+      "author": "khanhhoangminh",
+      "download": "https://videos.pexels.com/video-files/13552155/13552155-sd_640_360_24fps.mp4",
+      "storedFile": "Design/SourceMedia/PhraseSources/pexels-13552155.mp4",
+      "sha256": "2071ae57b95aa71bde4b4845855f54dd98d855e5617551cd947dc6e30e4b262a",
+      "storedAs": "SD download used for the frame check. Not an app resource.",
+      "playsInApp": false,
+      "seen": "Adult class: steps, an arm to the head, a turn, then the arm lowers."
+    }
+  ],
+  "candidateSearch": {
+    "updated": "2026-10-23",
+    "playback": "Keep Film inside the app; do not replace it with external video-page links.",
+    "criteria": "One dancer, full-body continuous phrase suitable for following; English explanation or counting preferred.",
+    "record": "Design/SourceMedia/PhraseSources/manifest.json#runtimeFilms",
+    "runtimeFilmsReplaced": 7,
+    "status": "Historical search notes; superseded by runtimeFilms on 2026-10-23."
+  },
+  "updated": "2026-10-23",
+  "historicalPexelsLicenseURL": "https://www.pexels.com/license/",
+  "runtimeFilms": [
+    {
+      "id": "tODVnrFX9yM",
+      "phraseID": "phrase-weight-shift",
+      "asset": "phrase-film-hiphop",
+      "title": "Two-step flow",
+      "originalTitle": "5 Ways To Improve Your 2-Step | Beginning Breaking Tutorial",
+      "style": "hipHop",
+      "creator": "VincaniTV",
+      "source": "https://www.youtube.com/watch?v=tODVnrFX9yM",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "retrieved": "2026-10-23",
+      "surface": "phrase",
+      "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/tODVnrFX9yM.mp4",
+      "bundledPath": "Teto/Resources/DanceMedia/phrase-film-hiphop.mp4",
+      "coverPath": "Teto/Resources/DanceMedia/phrase-film-hiphop.jpg",
+      "originalSHA256": "fcf1c17c79e64f5a7b4cf2e56afaf96a4f774afec2c8ccae49a01345fb983901",
+      "bundledSHA256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+      "coverSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
+      "sourceRangeSeconds": [
+        49.0,
+        385.64
+      ],
+      "coverSourceSecond": 120,
+      "modifications": "Opening montage, sponsorship and closing promotion removed. Full five-part technique lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "audio": "English instruction; checked against source English captions.",
+      "metadata": {
+        "asset": "phrase-film-hiphop",
+        "duration": 336.669667,
+        "width": 1280,
+        "height": 720,
+        "fps": "24000/1001",
+        "bytes": 33168897,
+        "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+        "coverSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
+        "fullDecode": "passed"
+      },
+      "category": "dance",
+      "visualReview": {
+        "date": "2026-10-23",
+        "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+        "intervalSeconds": 10,
+        "notes": "One instructor in a garage; full-body floorwork. English background packaging. Opening landscape montage and sponsor cards excluded.",
+        "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-hiphop-frames.jpg"
+      },
+      "inAppAttribution": "Phrase detail > More > Film credits",
+      "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+      "licenseEvidence": [
+        "Design/SourceMedia/PhraseSources/SoloLessons/license-evidence.json",
+        "https://www.youtube.com/watch?v=tODVnrFX9yM"
+      ],
+      "countsTimeline": {
+        "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+        "key": "phrase-weight-shift",
+        "version": "timed-counts-v1",
+        "actionCount": 132,
+        "sections": 17,
+        "coverageSeconds": [
+          0,
+          336.669667
+        ],
+        "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+        "review": "Complete film inspected at 1 s with source English captions. Slow lifts, sweeps, landings and instruction pauses annotated at their runtime positions; source trim starts at 49 s."
+      },
+      "practicePlayback": {
+        "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+        "rates": [
+          0.5,
+          0.75,
+          1.0
+        ],
+        "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+        "wholeLesson": "Complete source timeline including instruction, once",
+        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      }
+    },
+    {
+      "id": "frontiers-406662-video-1",
+      "phraseID": "phrase-point-and-hit",
+      "asset": "phrase-film-reach",
+      "title": "Reach and turn",
+      "originalTitle": "Dance phrase 1 - Watching or Listening: How Visual and Verbal Information Contribute to Learning a Complex Dance Phrase",
+      "style": "contemporary",
+      "creator": "Jenny Coogan; Robin Jung",
+      "source": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02371/full",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "retrieved": "2026-10-23",
+      "surface": "phrase",
+      "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/frontiers-406662-video-1.mp4",
+      "bundledPath": "Teto/Resources/DanceMedia/phrase-film-reach.mp4",
+      "coverPath": "Teto/Resources/DanceMedia/phrase-film-reach.jpg",
+      "originalSHA256": "f3c75c122035f4baadbd55e17b28ebbfc343ef75754fedf2d212ababd0a97a91",
+      "bundledSHA256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+      "coverSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
+      "sourceRangeSeconds": [
+        0,
+        26.773292
+      ],
+      "coverSourceSecond": 10,
+      "modifications": "Complete original phrase retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "audio": "Silent original audio track. Complete observational-learning phrase; no spoken instruction added.",
+      "metadata": {
+        "asset": "phrase-film-reach",
+        "duration": 26.773292,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "bytes": 2156303,
+        "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+        "coverSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
+        "fullDecode": "passed"
+      },
+      "category": "dance",
+      "visualReview": {
+        "date": "2026-10-23",
+        "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+        "intervalSeconds": 1,
+        "notes": "One dancer, continuous full-body contemporary phrase. No visible text. Research observational-learning material; not a spoken breakdown.",
+        "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-reach-frames.jpg"
+      },
+      "inAppAttribution": "Phrase detail > More > Film credits",
+      "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+      "copyright": "© 2018 Bläsing, Coogan, Biondi and Schack",
+      "citation": "Bläsing BE, Coogan J, Biondi J and Schack T (2018). Watching or Listening: How Visual and Verbal Information Contribute to Learning a Complex Dance Phrase. Frontiers in Psychology 9:2371. https://doi.org/10.3389/fpsyg.2018.02371",
+      "download": "https://public-pages-files-2025.frontiersin.org/articles/406662/file/Video_1.MP4/406662_supplementary-materials_videos_1_mp4/1",
+      "choreographer": "Jenny Coogan",
+      "dancer": "Robin Jung",
+      "licenseEvidence": [
+        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02371/full",
+        "https://www.frontiersin.org/legal/copyright-statement"
+      ],
+      "countsTimeline": {
+        "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+        "key": "phrase-point-and-hit",
+        "version": "timed-counts-v1",
+        "actionCount": 37,
+        "sections": 5,
+        "coverageSeconds": [
+          0,
+          26.773292
+        ],
+        "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+        "review": "Complete film inspected at 0.5 s; movement changes annotated separately from held balances. No musical beat grid."
+      },
+      "practicePlayback": {
+        "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+        "rates": [
+          0.5,
+          0.75,
+          1.0
+        ],
+        "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+        "wholeLesson": "Complete source timeline including instruction, once",
+        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      }
+    },
+    {
+      "id": "l-avoQVmi3g",
+      "phraseID": "phrase-reach-and-melt",
+      "asset": "phrase-film-rehearsal",
+      "title": "Balboa basics",
+      "originalTitle": "Balboa Basics Drill: Practice Your Uphold Basics",
+      "style": "swing",
+      "creator": "Lainey Silver",
+      "source": "https://www.youtube.com/watch?v=l-avoQVmi3g",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "retrieved": "2026-10-23",
+      "surface": "phrase",
+      "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/l-avoQVmi3g.mp4",
+      "bundledPath": "Teto/Resources/DanceMedia/phrase-film-rehearsal.mp4",
+      "coverPath": "Teto/Resources/DanceMedia/phrase-film-rehearsal.jpg",
+      "originalSHA256": "9cd17182c34c3ac5adaf3451ca0745f65fa76be068f0e88881a7442f24b92cd0",
+      "bundledSHA256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+      "coverSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
+      "sourceRangeSeconds": [
+        0,
+        202.919184
+      ],
+      "coverSourceSecond": 15,
+      "modifications": "Complete original lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "audio": "English instruction and spoken counts at three tempos; original captions explicitly state no music is used.",
+      "metadata": {
+        "asset": "phrase-film-rehearsal",
+        "duration": 202.919002,
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1",
+        "bytes": 15091737,
+        "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+        "coverSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
+        "fullDecode": "passed"
+      },
+      "category": "dance",
+      "visualReview": {
+        "date": "2026-10-23",
+        "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+        "intervalSeconds": 5,
+        "notes": "One instructor, full-body front and back views; small steps at three tempos. No visible text. Spoken English counts.",
+        "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-rehearsal-frames.jpg"
+      },
+      "inAppAttribution": "Phrase detail > More > Film credits",
+      "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+      "licenseEvidence": [
+        "Design/SourceMedia/PhraseSources/SoloLessons/license-evidence.json",
+        "https://www.youtube.com/watch?v=l-avoQVmi3g"
+      ],
+      "countsTimeline": {
+        "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+        "key": "phrase-reach-and-melt",
+        "version": "timed-counts-v1",
+        "actionCount": 267,
+        "sections": 34,
+        "coverageSeconds": [
+          0,
+          202.919002
+        ],
+        "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+        "review": "Complete film inspected at 2 s; the three drills use source spoken-count/step/hold timestamps. Caption timing is approximate, not frame-accurate. Pickup and teaching speech remain instruction cues."
+      },
+      "practicePlayback": {
+        "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+        "rates": [
+          0.5,
+          0.75,
+          1.0
+        ],
+        "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+        "wholeLesson": "Complete source timeline including instruction, once",
+        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      }
+    },
+    {
+      "id": "jJXQ1Wj1ERY",
+      "phraseID": "phrase-loose-groove",
+      "asset": "phrase-film-groove",
+      "title": "Farmer footwork",
+      "originalTitle": "Dance Tutorial The Farmer",
+      "style": "house",
+      "creator": "Streetz Ahead",
+      "source": "https://www.youtube.com/watch?v=jJXQ1Wj1ERY",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "retrieved": "2026-10-23",
+      "surface": "phrase",
+      "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/jJXQ1Wj1ERY.mp4",
+      "bundledPath": "Teto/Resources/DanceMedia/phrase-film-groove.mp4",
+      "coverPath": "Teto/Resources/DanceMedia/phrase-film-groove.jpg",
+      "originalSHA256": "6edec9727ee34a383459ed7e548d8db0a11c749e82e13fb23035a7e9fede5b9c",
+      "bundledSHA256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+      "coverSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
+      "sourceRangeSeconds": [
+        12,
+        157
+      ],
+      "coverSourceSecond": 78,
+      "modifications": "Opening montage and closing contact card removed. Main Farmer breakdown, variations and final practice retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "audio": "Original English instruction audio retained, with English step labels. Source seconds 12-67 checked using local automatic transcription; not a word-perfect transcript.",
+      "metadata": {
+        "asset": "phrase-film-groove",
+        "duration": 145.011,
+        "width": 1280,
+        "height": 720,
+        "fps": "30000/1001",
+        "bytes": 27672017,
+        "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+        "coverSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
+        "fullDecode": "passed"
+      },
+      "category": "dance",
+      "visualReview": {
+        "date": "2026-10-23",
+        "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+        "intervalSeconds": 6,
+        "notes": "One instructor in the retained lesson. Full-body footwork with intentional foot close-ups. English labels Hop Stamp, Variations and Freestyle. Opening montage and closing contact card excluded.",
+        "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-groove-frames.jpg"
+      },
+      "inAppAttribution": "Phrase detail > More > Film credits",
+      "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+      "licenseEvidence": [
+        "Design/SourceMedia/PhraseSources/SoloLessons/license-evidence.json",
+        "https://www.youtube.com/watch?v=jJXQ1Wj1ERY"
+      ],
+      "countsTimeline": {
+        "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+        "key": "phrase-loose-groove",
+        "version": "timed-counts-v1",
+        "actionCount": 212,
+        "sections": 27,
+        "coverageSeconds": [
+          0,
+          145.011
+        ],
+        "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+        "review": "Complete film inspected at 2 s, continuous drills at 0.5 s, speech checked against the English hop/stamp calls. Each repeat has an explicit runtime onset, including closeups and final freestyle."
+      },
+      "practicePlayback": {
+        "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+        "rates": [
+          0.5,
+          0.75,
+          1.0
+        ],
+        "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+        "wholeLesson": "Complete source timeline including instruction, once",
+        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      }
+    },
+    {
+      "id": "neil-sweeney-six-step",
+      "phraseID": "phrase-shoulder-sway",
+      "asset": "phrase-film-street",
+      "title": "Six-step circle",
+      "originalTitle": "Tutorial breakdance - Six Step",
+      "style": "hipHop",
+      "creator": "Neil Sweeney",
+      "source": "https://commons.wikimedia.org/wiki/File:Tutorial_breakdance_-_Six_Step.webm",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "retrieved": "2026-10-23",
+      "surface": "phrase",
+      "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/neil-sweeney-six-step.webm",
+      "bundledPath": "Teto/Resources/DanceMedia/phrase-film-street.mp4",
+      "coverPath": "Teto/Resources/DanceMedia/phrase-film-street.jpg",
+      "originalSHA256": "9499ece2fe32fa1770d1f36267bd2d6ae2cd1b599ebdb5c97b56cf5b4d7ab796",
+      "bundledSHA256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+      "coverSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
+      "sourceRangeSeconds": [
+        27,
+        94
+      ],
+      "coverSourceSecond": 53,
+      "modifications": "Opening montage, picture-in-picture and closing promotion removed. Main six-step breakdown and continuous repetitions retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "audio": "No audio in the licensed Wikimedia revision; English captions and numbers teach the six steps.",
+      "metadata": {
+        "asset": "phrase-film-street",
+        "duration": 66.9669,
+        "width": 640,
+        "height": 360,
+        "fps": "30000/1001",
+        "bytes": 2041870,
+        "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+        "coverSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
+        "fullDecode": "passed"
+      },
+      "category": "dance",
+      "visualReview": {
+        "date": "2026-10-23",
+        "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+        "intervalSeconds": 4,
+        "notes": "One instructor. English step labels and numbers. Floorwork from front and overhead angles. Opening and closing picture-in-picture excluded.",
+        "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-street-frames.jpg"
+      },
+      "inAppAttribution": "Phrase detail > More > Film credits",
+      "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tutorial_breakdance_-_Six_Step.webm",
+      "licenseEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Tutorial_breakdance_-_Six_Step.webm"
+      ],
+      "priorModification": "Commons 2021 revision has audio removed.",
+      "countsTimeline": {
+        "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+        "key": "phrase-shoulder-sway",
+        "version": "timed-counts-v1",
+        "actionCount": 87,
+        "sections": 11,
+        "coverageSeconds": [
+          0,
+          66.9669
+        ],
+        "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+        "review": "Complete film inspected at 1 s; rapid middle passage inspected at 0.25 s. Numbered steps follow the visible 1-6 labels, with no extra steps inserted to make an eight."
+      },
+      "practicePlayback": {
+        "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+        "rates": [
+          0.5,
+          0.75,
+          1.0
+        ],
+        "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+        "wholeLesson": "Complete source timeline including instruction, once",
+        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      }
+    },
+    {
+      "id": "zA7VcfzwAyI",
+      "phraseID": "phrase-long-arms",
+      "asset": "phrase-film-ballet",
+      "title": "Waltz walkthrough",
+      "originalTitle": "Ballet - Waltz of the Flowers - Slow Walkthrough",
+      "style": "ballet",
+      "creator": "Vina Castelli",
+      "source": "https://www.youtube.com/watch?v=zA7VcfzwAyI",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "retrieved": "2026-10-23",
+      "surface": "phrase",
+      "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/zA7VcfzwAyI.mp4",
+      "bundledPath": "Teto/Resources/DanceMedia/phrase-film-ballet.mp4",
+      "coverPath": "Teto/Resources/DanceMedia/phrase-film-ballet.jpg",
+      "originalSHA256": "dcd08e680336dc9ab4a9ebdbec1755187429be89955d61eca27723cee0803d6d",
+      "bundledSHA256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+      "coverSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
+      "sourceRangeSeconds": [
+        0,
+        755.391565
+      ],
+      "coverSourceSecond": 240,
+      "modifications": "Complete slow walkthrough; original speed preserved. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "audio": "Original English walkthrough audio retained. Source seconds 12-67 checked using local automatic transcription; no publisher captions are available and the automatic transcript is not word-perfect.",
+      "metadata": {
+        "asset": "phrase-film-ballet",
+        "duration": 755.390998,
+        "width": 406,
+        "height": 720,
+        "fps": "60000/1001",
+        "bytes": 62667620,
+        "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+        "coverSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
+        "fullDecode": "passed"
+      },
+      "category": "dance",
+      "visualReview": {
+        "date": "2026-10-23",
+        "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+        "intervalSeconds": 20,
+        "notes": "One dancing instructor. Mirrors reflect the instructor and occasionally the stationary camera operator. Full-body movement with closer instruction shots; no other dancer. English shirt lettering. Handheld original framing retained.",
+        "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-ballet-frames.jpg"
+      },
+      "inAppAttribution": "Phrase detail > More > Film credits",
+      "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+      "licenseEvidence": [
+        "Design/SourceMedia/PhraseSources/SoloLessons/license-evidence.json",
+        "https://www.youtube.com/watch?v=zA7VcfzwAyI"
+      ],
+      "countsTimeline": {
+        "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+        "key": "phrase-long-arms",
+        "version": "timed-counts-v1",
+        "actionCount": 223,
+        "sections": 28,
+        "coverageSeconds": [
+          0,
+          755.390998
+        ],
+        "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+        "review": "Complete slow walkthrough inspected at 2 s. Plain movement descriptions are used where the teacher walks spatial patterns. Long spoken placement explanations are separate. No 8-beat musical meter is imposed on this waltz."
+      },
+      "practicePlayback": {
+        "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+        "rates": [
+          0.5,
+          0.75,
+          1.0
+        ],
+        "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+        "wholeLesson": "Complete source timeline including instruction, once",
+        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      }
+    },
+    {
+      "id": "_a_0IYm1weQ",
+      "phraseID": "phrase-step-touch",
+      "asset": "phrase-film-jazz",
+      "title": "Solo Charleston",
+      "originalTitle": "How to Solo CHARLESTON in 4 steps - Simple Beginner Moves - Basic Charleston Improvisation -Tutorial",
+      "style": "jazz",
+      "creator": "GoldMinka",
+      "source": "https://www.youtube.com/watch?v=_a_0IYm1weQ",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+      "retrieved": "2026-10-23",
+      "surface": "phrase",
+      "originalPath": "Design/SourceMedia/PhraseSources/SoloLessons/_a_0IYm1weQ.mp4",
+      "bundledPath": "Teto/Resources/DanceMedia/phrase-film-jazz.mp4",
+      "coverPath": "Teto/Resources/DanceMedia/phrase-film-jazz.jpg",
+      "originalSHA256": "94e04d2b87164f024261b2525b6160617f610398badf7edb1aa9c0b859054c4c",
+      "bundledSHA256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+      "coverSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
+      "sourceRangeSeconds": [
+        70,
+        481
+      ],
+      "coverSourceSecond": 130,
+      "modifications": "Channel introduction and closing promotion removed; all four steps and final combined routine retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "audio": "English breakdown and a complete follow-along sequence; source English captions checked.",
+      "metadata": {
+        "asset": "phrase-film-jazz",
+        "duration": 411.0,
+        "width": 1280,
+        "height": 720,
+        "fps": "24/1",
+        "bytes": 45520736,
+        "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+        "coverSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
+        "fullDecode": "passed"
+      },
+      "category": "dance",
+      "visualReview": {
+        "date": "2026-10-23",
+        "method": "Representative contact-sheet inspection, including source boundaries; not a claim to inspect every frame.",
+        "intervalSeconds": 14,
+        "notes": "One instructor. Full-body Charleston instruction and final combined routine. Small mirror reflects part of the same dancer. English step titles. Opening and closing channel promotion excluded.",
+        "contactSheet": "Design/SourceMedia/PhraseSources/SoloLessons/phrase-film-jazz-frames.jpg"
+      },
+      "inAppAttribution": "Phrase detail > More > Film credits",
+      "notes": "Phrase profiles are fictional and separate from film authors. Counts uses the complete film timeline, with instruction pauses and up to eight action cues per page. Manually authored timing is approximate; iOS playback synchronization has not been verified.",
+      "licenseEvidence": [
+        "Design/SourceMedia/PhraseSources/SoloLessons/license-evidence.json",
+        "https://www.youtube.com/watch?v=_a_0IYm1weQ"
+      ],
+      "countsTimeline": {
+        "path": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+        "key": "phrase-step-touch",
+        "version": "timed-counts-v1",
+        "actionCount": 187,
+        "sections": 24,
+        "coverageSeconds": [
+          0,
+          411.0
+        ],
+        "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+        "review": "Complete film inspected at 2 s with English source captions; final combined routine inspected at 0.5 s. Individual steps/hip shifts and held teaching positions are timed; section cards and explanations do not count as actions."
+      },
+      "practicePlayback": {
+        "controller": "PhraseLessonClock host-clock transport; video follows selected counts and pace",
+        "rates": [
+          0.5,
+          0.75,
+          1.0
+        ],
+        "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
+        "wholeLesson": "Complete source timeline including instruction, once",
+        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      }
+    }
+  ],
+  "runtimeReplacementCompleted": true,
+  "retiredRuntimeFilms": [
+    {
+      "asset": "phrase-film-hiphop",
+      "formerTitle": "Studio steps",
+      "formerCreator": "Westside Full",
+      "formerSource": "https://www.pexels.com/video/ds-fuel-hip-hop-26861347/",
+      "formerDuration": 48.57,
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "status": "Replaced 2026-10-23 by runtimeFilms; source record only, not the current bytes under this asset name."
+    },
+    {
+      "asset": "phrase-film-reach",
+      "formerTitle": "Reach out",
+      "formerCreator": "Los Muertos Crew",
+      "formerSource": "https://www.pexels.com/video/man-performing-at-a-dance-studio-8853874/",
+      "formerDuration": 21.1,
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "status": "Replaced 2026-10-23 by runtimeFilms; source record only, not the current bytes under this asset name."
+    },
+    {
+      "asset": "phrase-film-rehearsal",
+      "formerTitle": "Rehearsal line",
+      "formerCreator": "Kampus Production",
+      "formerSource": "https://www.pexels.com/video/8956001/",
+      "formerDuration": 14.0,
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "status": "Replaced 2026-10-23 by runtimeFilms; source record only, not the current bytes under this asset name."
+    },
+    {
+      "asset": "phrase-film-groove",
+      "formerTitle": "Wide groove",
+      "formerCreator": "Kampus Production",
+      "formerSource": "https://www.pexels.com/video/8955994/",
+      "formerDuration": 25.04,
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "status": "Replaced 2026-10-23 by runtimeFilms; source record only, not the current bytes under this asset name."
+    },
+    {
+      "asset": "phrase-film-street",
+      "formerTitle": "Floor phrase",
+      "formerCreator": "Yeye",
+      "formerSource": "https://www.pexels.com/video/dynamic-street-dance-performance-in-urban-setting-32097114/",
+      "formerDuration": 23.35,
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "status": "Replaced 2026-10-23 by runtimeFilms; source record only, not the current bytes under this asset name."
+    },
+    {
+      "asset": "phrase-film-ballet",
+      "formerTitle": "Studio lines",
+      "formerCreator": "MART PRODUCTION",
+      "formerSource": "https://www.pexels.com/video/dancers-doing-choreography-in-the-studio-7322798/",
+      "formerDuration": 48.6,
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "status": "Replaced 2026-10-23 by runtimeFilms; source record only, not the current bytes under this asset name."
+    },
+    {
+      "asset": "phrase-film-jazz",
+      "formerTitle": "Mirror steps",
+      "formerCreator": "Kampus Production",
+      "formerSource": "https://www.pexels.com/video/8955363/",
+      "formerDuration": 8.64,
+      "license": "Pexels License",
+      "licenseURL": "https://www.pexels.com/license/",
+      "status": "Replaced 2026-10-23 by runtimeFilms; source record only, not the current bytes under this asset name."
+    }
+  ],
+  "countsAlignment": {
+    "version": "timed-counts-v1",
+    "scope": "Entire bundled lesson, including instruction intervals and repeated practice",
+    "timelinePath": "Design/SourceMedia/PhraseSources/SoloLessons/counts-timelines.json",
+    "runtimeData": "Teto/Domain/DancePhraseCatalog.swift",
+    "clock": "PhraseLessonClock supplies source position, rate and host-clock anchor to Counts and AVPlayer; player time observations do not advance Counts",
+    "verification": "Static source/resource checks and representative motion-frame review only. No compilation, tests, app launch or simulator verification. Manual timestamps require playback calibration on iOS."
+  }
+}

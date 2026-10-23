@@ -1,0 +1,252 @@
+[
+  {
+    "id": "5269588",
+    "asset": "demo-coffee",
+    "creator": "宇航 钱 (Yuhang Qian)",
+    "source": "https://www.pexels.com/video/a-person-taking-a-cup-of-coffee-5269588/",
+    "download": "https://videos.pexels.com/video-files/5269588/5269588-uhd_1440_2560_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-19",
+    "originalPath": "Design/SourceMedia/pexels-5269588-original.mp4",
+    "bundledPath": "Teto/Resources/DemoMedia/demo-coffee.mp4",
+    "originalSHA256": "6f318931c49a78bf2862291bc98ab35126433280ccf8b9cf5a9abb836e6c3850",
+    "bundledSHA256": "92637cdd49e1d7e348cda0f58d4e2b4d576d31d3970cbdabe9031867df732a06",
+    "modifications": "H.264 720p-equivalent resize preserving aspect ratio, CRF 25, no audio, faststart; JPEG cover extracted at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280
+        }
+      ],
+      "format": {
+        "duration": "7.160000",
+        "size": "350528"
+      }
+    },
+    "bundleStatus": "Removed from app: not dance content",
+    "originalStatus": "Deleted from project: not dance content",
+    "removedOn": "2026-10-19"
+  },
+  {
+    "id": "5828438",
+    "asset": "demo-city",
+    "title": "City afterglow",
+    "creator": "Charles Parker",
+    "source": "https://www.pexels.com/video/vertical-video-view-of-buildings-over-looking-the-city-5828438/",
+    "download": "https://videos.pexels.com/video-files/5828438/5828438-uhd_1440_2560_24fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-19",
+    "originalPath": "Design/SourceMedia/pexels-5828438-original.mp4",
+    "bundledPath": "Teto/Resources/DemoMedia/demo-city.mp4",
+    "originalSHA256": "cb413f4d4bfbb91b3f181006d4d4ad810157e0b5cb081342810c0431ac637157",
+    "bundledSHA256": "88c5469aa6aa5d0c207bed19a82396829b944b0d5c9ec3244fe52af3a7113c77",
+    "modifications": "H.264 portrait resize to at most 720 px width, aspect ratio preserved; at most 30 fps, no speed change; CRF 25, silent, faststart; JPEG cover at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "avg_frame_rate": "24000/1001"
+        }
+      ],
+      "format": {
+        "duration": "11.011000",
+        "size": "759849"
+      }
+    },
+    "bundleStatus": "Removed from app: not dance content",
+    "originalStatus": "Deleted from project: not dance content",
+    "removedOn": "2026-10-19"
+  },
+  {
+    "id": "6822626",
+    "asset": "demo-cooking",
+    "title": "Made with a little love",
+    "creator": "cottonbro studio",
+    "source": "https://www.pexels.com/video/a-person-cooking-on-electric-stove-6822626/",
+    "download": "https://videos.pexels.com/video-files/6822626/6822626-uhd_1440_2732_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-19",
+    "originalPath": "Design/SourceMedia/pexels-6822626-original.mp4",
+    "bundledPath": "Teto/Resources/DemoMedia/demo-cooking.mp4",
+    "originalSHA256": "08cf48bce8b8ca9d004bdf3834ef303f297884bf49e71b7550da4155014e61e1",
+    "bundledSHA256": "2feedfc3af4b7c353050c32cc32eb1e64e9caf80d4b949edb5cb22d0b30f76a3",
+    "modifications": "H.264 portrait resize to at most 720 px width, aspect ratio preserved; at most 30 fps, no speed change; CRF 25, silent, faststart; JPEG cover at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1366,
+          "avg_frame_rate": "25/1"
+        }
+      ],
+      "format": {
+        "duration": "15.080000",
+        "size": "2672696"
+      }
+    },
+    "bundleStatus": "Removed from app: not dance content",
+    "originalStatus": "Deleted from project: not dance content",
+    "removedOn": "2026-10-19"
+  },
+  {
+    "id": "5849514",
+    "asset": "demo-sunset",
+    "title": "Stay for the sunset",
+    "creator": "Maysaa Mousa",
+    "source": "https://www.pexels.com/video/a-vertical-video-of-a-beach-sunset-5849514/",
+    "download": "https://videos.pexels.com/video-files/5849514/5849514-hd_700_1366_30fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-19",
+    "originalPath": "Design/SourceMedia/pexels-5849514-original.mp4",
+    "bundledPath": "Teto/Resources/DemoMedia/demo-sunset.mp4",
+    "originalSHA256": "707c9c9b1e2e465ba73d80ef1a4e3b67adb7c9a0725ee37644f22a831d3d48de",
+    "bundledSHA256": "1e6a44155962f4d1dabf7e042725c3206fbc2cdf861f6bd71f8627327b6640d4",
+    "modifications": "H.264 portrait resize to at most 720 px width preserving aspect ratio and source frame timing; CRF 26 with 1.8 Mbps maximum rate and 3.6 Mb buffer; silent, faststart; JPEG cover at 1 second. No speed change.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 700,
+          "height": 1366,
+          "avg_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "14.366667",
+        "size": "3345276"
+      }
+    },
+    "bundleStatus": "Removed from app: not dance content",
+    "originalStatus": "Deleted from project: not dance content",
+    "removedOn": "2026-10-19"
+  },
+  {
+    "id": "7722398",
+    "asset": "demo-guitar",
+    "title": "A few quiet chords",
+    "creator": "Alena Darmel",
+    "source": "https://www.pexels.com/video/close-up-view-of-person-playing-guitar-7722398/",
+    "download": "https://videos.pexels.com/video-files/7722398/7722398-uhd_1440_2560_25fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-19",
+    "originalPath": "Design/SourceMedia/pexels-7722398-original.mp4",
+    "bundledPath": "Teto/Resources/DemoMedia/demo-guitar.mp4",
+    "originalSHA256": "b9123c93e663b9f93f9d4f3585819dfbe8921b7ab1fa949391c618ed64737741",
+    "bundledSHA256": "91bd5d6955cb0b65d0ce3f086b71c051b77daa4d96f549f915693353ea4c29a7",
+    "modifications": "H.264 portrait resize to at most 720 px width, aspect ratio preserved; at most 30 fps, no speed change; CRF 25, silent, faststart; JPEG cover at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "avg_frame_rate": "25/1"
+        }
+      ],
+      "format": {
+        "duration": "10.400000",
+        "size": "2452227"
+      }
+    },
+    "bundleStatus": "Removed from app: not dance content",
+    "originalStatus": "Deleted from project: not dance content",
+    "removedOn": "2026-10-19"
+  },
+  {
+    "id": "13590000",
+    "asset": "demo-cat",
+    "title": "A quiet little companion",
+    "creator": "Marsel Sharipov",
+    "source": "https://www.pexels.com/video/video-of-a-black-cat-13590000/",
+    "download": "https://videos.pexels.com/video-files/13590000/13590000-uhd_1440_2560_60fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-19",
+    "originalPath": "Design/SourceMedia/pexels-13590000-original.mp4",
+    "bundledPath": "Teto/Resources/DemoMedia/demo-cat.mp4",
+    "originalSHA256": "5e7e92436f8d8c6b3c642efe4fa43a5263d7be35974def52806e7d8168c314ac",
+    "bundledSHA256": "a45f5f992d829800ba65a24866f7d41a7f4e428eaeb28998707dbf878014c714",
+    "modifications": "H.264 portrait resize to at most 720 px width, aspect ratio preserved; at most 30 fps, no speed change; CRF 25, silent, faststart; JPEG cover at 1 second.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "avg_frame_rate": "30/1"
+        }
+      ],
+      "format": {
+        "duration": "20.200000",
+        "size": "2406188"
+      }
+    },
+    "bundleStatus": "Removed from app: not dance content",
+    "originalStatus": "Deleted from project: not dance content",
+    "removedOn": "2026-10-19"
+  },
+  {
+    "id": "6004275",
+    "asset": "demo-beachwalk",
+    "title": "Take the scenic way",
+    "creator": "Peggy Anke",
+    "source": "https://www.pexels.com/video/vertical-video-of-a-woman-along-the-seashore-6004275/",
+    "download": "https://videos.pexels.com/video-files/6004275/6004275-hd_1080_1920_30fps.mp4",
+    "license": "Pexels License",
+    "licenseURL": "https://www.pexels.com/license/",
+    "retrieved": "2026-10-19",
+    "originalPath": "Design/SourceMedia/pexels-6004275-original.mp4",
+    "bundledPath": "Teto/Resources/DemoMedia/demo-beachwalk.mp4",
+    "originalSHA256": "f15e7cb542b72829a37ae8df36c5e7d4655c900fad870ec47e46dc0236227e20",
+    "bundledSHA256": "951ad829b9a193fe94fc16627e5b35edebe8beb7e715238ada9098c64d1016bf",
+    "modifications": "H.264 portrait resize to at most 720 px width preserving aspect ratio and source frame timing; CRF 26 with 1.8 Mbps maximum rate and 3.6 Mb buffer; silent, faststart; JPEG cover at 1 second. No speed change.",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 720,
+          "height": 1280,
+          "avg_frame_rate": "30000/1001"
+        }
+      ],
+      "format": {
+        "duration": "13.413400",
+        "size": "3179738"
+      }
+    },
+    "bundleStatus": "Removed from app: not dance content",
+    "originalStatus": "Deleted from project: not dance content",
+    "removedOn": "2026-10-19"
+  }
+]

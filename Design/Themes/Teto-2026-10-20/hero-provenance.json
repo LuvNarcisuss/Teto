@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-20",
+  "tool": "Built-in image_gen",
+  "purpose": "Fresh Studio decorative dance imagery for welcome/login and party cards; not an identity portrait or a recorded live video.",
+  "prompt": "Create a premium photographic background asset for Teto Fresh Studio, a dance social iOS app. Portrait 2:3 aspect ratio. A joyful adult woman dancer age 25 in a tasteful white athletic crop top and olive green loose dance trousers, actually performing a contemporary hip-hop dance move with one arm above her head, natural dynamic hair movement, three other adult dancers softly out of focus behind her. Airy sunlit contemporary dance studio, pale warm walls, wood floor, gentle daylight, soft sage green and warm ivory color mood. Editorial dance photography, realistic anatomy, natural skin texture, authentic athletic movement, relaxed welcoming energy. Place the main dancer's face in the upper middle, the body across middle, unobtrusive darker olive and wooden-floor areas in the lower quarter for white app text. Photograph only: absolutely NO typography, letters, logos, symbols, watermarks, UI, borders, phone frames or graphic overlay. High quality tasteful lifestyle photography, no neon nightclub, no costumes, no sexualized pose.",
+  "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-a3152090-e95c-4367-9fe5-694edab54c2e.png",
+  "runtimeAsset": "Teto/Resources/Assets.xcassets/FreshStudioHero.imageset/fresh-studio-hero.png",
+  "visualInspection": "Adult dancers in a sunlit studio, no embedded text or logos. Original generated PNG copied unmodified."
+}

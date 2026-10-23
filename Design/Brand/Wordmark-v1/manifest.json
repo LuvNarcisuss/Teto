@@ -1,0 +1,7 @@
+{
+  "tool": "image_gen.imagegen",
+  "prompt": "Use case: logo-brand. Create a custom typographic WORDMARK for a premium dance social iOS app. Exact word: \"Teto\" (capital T, lowercase e t o, four letters, perfectly readable). No other text. Wide horizontal composition, word fills the canvas with small safe margins. Hand-crafted flowing sporty lettering, strong rounded ribbon-like strokes, subtly forward leaning with a graceful dance rhythm, an expressive capital T and softly connected e-t-o, a short elegant sweeping terminal integrated into the final o. Friendly, sophisticated, distinctive lettering, not a default computer font, not overly ornate calligraphy. Use a SINGLE solid deep evergreen #126B58 ink color for all strokes. Crisp clean silhouette with opaque strokes and genuinely transparent background. Flat vector-like production wordmark, no lighting, no shadows, no gradients, no glow, no extra symbols, no dancer, no camera, no surrounding frame, no underline separate from letters, no paper background. Must retain open counters and be readable as Teto at 100pt width. Transparent background PNG, horizontal wide aspect ratio.",
+  "source": "/Users/apple/.codex/generated_images/01a15235-21da-7f22-bad5-7152f5922257/exec-e79b88ff-aad6-4d2b-ac40-e89359aa6ccb.png",
+  "asset": "TetoWordmark.imageset/TetoWordmark.png",
+  "rendering": "Template tint; original alpha retained, no image edits"
+}
