@@ -1,0 +1,4174 @@
+{
+  "date": "2026-10-23",
+  "scope": "App runtime videos and images only. All Design original media bytes retained. No dimensions, frame timing, IDs, titles or filenames changed.",
+  "beforeBytes": 374632718,
+  "afterBytes": 191984945,
+  "files": [
+    {
+      "path": "Teto/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "beforeBytes": 324165,
+      "afterBytes": 286155,
+      "sha256": "1790e1a0a24603210782adb334794c6080fe46c5a5c8c9db116c02a596c96e5a",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "6159f26afd0649d3d68bea31667bed66ce0df0818549a683b07a375a3a27a340"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/ChatSpark.imageset/ChatSpark.png",
+      "beforeBytes": 976353,
+      "afterBytes": 184820,
+      "sha256": "6538a95b11c96596629f0f410feca6f1bd91b4ad7c658be689b3726df5f48cf6",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "f75f3e3d8b507e1c59341006112a7e601ea47a07bc1d7734e54d3912684ce7e9"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/CoastalStory.imageset/coastal-story.png",
+      "beforeBytes": 3254082,
+      "afterBytes": 2908493,
+      "sha256": "ba39c429a0e846bac5fd9a159de04db2bdacc3063abc589ac313c9174b3ed4e7",
+      "changed": true,
+      "method": "Lossless PNG optimization (quality threshold kept original colors)",
+      "beforeSHA256": "7e6b315e1b3dba51c59c28a98dc070d96610f10469882cceeb2f173469400756"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/DanceSneakers.imageset/DanceSneakers.png",
+      "beforeBytes": 1271241,
+      "afterBytes": 321516,
+      "sha256": "eb618955f3c80950edd92389622b9c73737dfb86b64bd038d870683f39787fb6",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "39599aaa581d31cfd808464a7f21257ef69ec12cbacd94d58c5491f784ea5e73"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/FreshStudioHero.imageset/fresh-studio-hero.png",
+      "beforeBytes": 2065839,
+      "afterBytes": 671054,
+      "sha256": "290a803f8552672a4dccf7c4577cee7a619ed923055e8821b1d402ea47ea28c1",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "1e15967e1c8369e7018d55ee1a17ac0b5ca872f5e884c65ca0c82e15cfeeff85"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/LifestyleDanceRehearsal.imageset/LifestyleDanceRehearsal.jpg",
+      "beforeBytes": 86969,
+      "afterBytes": 86250,
+      "sha256": "5867d99f07363008f93958e4c08d1d44ae9b60bd3f19c500d04cf04efca464b0",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "8ae69a22ed1521e984804cd39071fc682242b4a973b58c7d2d6b28debd0522db"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/LifestyleStudioPractice.imageset/LifestyleStudioPractice.jpg",
+      "beforeBytes": 89565,
+      "afterBytes": 88614,
+      "sha256": "cd197e3300d59d791912deccaa54eb9b31ecf34b368137e395e82d7047bd7a80",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "a40129aabcd6587053d736675d4265ce1b97b33863b6ee90ab1c4f9e3a8cbecc"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/ListeningRoom.imageset/listening-room.png",
+      "beforeBytes": 2035902,
+      "afterBytes": 727590,
+      "sha256": "66190fa501de24ea0c8347871c5df8a19d4016bfae570a560361fa42c4466364",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "d122ae6f64dbb60326a27c99b1125d2c5c1132dfed97b29e46b7e24d78c942e6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorCassian.imageset/PhraseAuthorCassian.jpg",
+      "beforeBytes": 71548,
+      "afterBytes": 71318,
+      "sha256": "2a16e283cd173e9cb1213a89dac351f034a447cc04db1aff7e6ac1528232cacd",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "12a195ba34bb2a5fb5b8d3a873e0afac6568a2a720e37adbec1b44d7a7feb7d5"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorIndigo.imageset/PhraseAuthorIndigo.jpg",
+      "beforeBytes": 84043,
+      "afterBytes": 82321,
+      "sha256": "c265d5735c4947d4a3cac27f1bc6391d6f6ae707e240158030aa2e5b3ed687a9",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "3b444903d907b894c877ef289e9749150c32522607043985f5747764a091a4c6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorJules.imageset/PhraseAuthorJules.jpg",
+      "beforeBytes": 100927,
+      "afterBytes": 98343,
+      "sha256": "db1426da86f30357af50a6b1c9abed73b49ed3b2178c87d8063e0370cae7d5ac",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "9ba35eb71edf41b118d81369e9c82704c8fbf82cd3468a0e0c6bf5dbaae3b15d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorMaren.imageset/PhraseAuthorMaren.jpg",
+      "beforeBytes": 47355,
+      "afterBytes": 46148,
+      "sha256": "40ca8a915bbe3bb652b8705d8eb839bdd5543278973018bbd48e6cc6f5c70343",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "325aba14558e1f84e0cc6d79ac64a58e332af1986a600e8ed9b08222a645b417"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorNia.imageset/PhraseAuthorNia.jpg",
+      "beforeBytes": 62260,
+      "afterBytes": 60829,
+      "sha256": "4773d494a533e8587cd4dba072255b9388e5f737f7c6390733cd3f002d59c33c",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "1b14e61ca4f670bcdffa280838e568bdb9e66b4c95c842ab1bddb74a4ca6616e"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorRowan.imageset/PhraseAuthorRowan.jpg",
+      "beforeBytes": 56373,
+      "afterBytes": 56373,
+      "sha256": "3122966a13c3ae6e16af099cc3cdaed22f3617b0d89eb35e1455fd584fb523c9",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "3122966a13c3ae6e16af099cc3cdaed22f3617b0d89eb35e1455fd584fb523c9"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PhraseAuthorSable.imageset/PhraseAuthorSable.jpg",
+      "beforeBytes": 106629,
+      "afterBytes": 104028,
+      "sha256": "2842f038a15afdf8696b88d76fc2dc976c40c47fed8c09b318d41c35a825d796",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "2005f7cf09a6ca7eb412467db7414357dc56078cdf3100f309cc1a3e6491e939"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait1.imageset/Portrait1.jpg",
+      "beforeBytes": 128027,
+      "afterBytes": 123823,
+      "sha256": "861ba0ad7aa233759e1fd2fefe945f671cd61c9268614c7ba77f3bebea4a8dc3",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "5a12718d3b1a41fd4989b427488b4ecf45927aa12e6db503b84943974821f47c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait10.imageset/Portrait10.jpg",
+      "beforeBytes": 85958,
+      "afterBytes": 85655,
+      "sha256": "e2a4e426744cf20d9881ac0d411f0f3b4acb26e8eaec28ea8c452704de8e8f5c",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "17c5a765ddf3934d628a9b61277a220ea0354e2e2027e0ab7717698bd175ba90"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait11.imageset/Portrait11.jpg",
+      "beforeBytes": 37168,
+      "afterBytes": 37107,
+      "sha256": "a5f95bda4360c04565bfeaecccbcd1fef952830298ea8d1e12718eebf3698bf7",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "058185d3da551a6c98f718191cfe0483e650650170c6cd057adff11a1bfe5a0b"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait12.imageset/Portrait12.jpg",
+      "beforeBytes": 40703,
+      "afterBytes": 40490,
+      "sha256": "546f8803ce4f542ee68c76a0cdad56bdf2500a703b2087c33a2f8b02b2858c03",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "7948bf4c29bf2d52f3eed5db8d023228c52d8b7ed85ace9e6038bdfd10b73fb0"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait13.imageset/Portrait13.jpg",
+      "beforeBytes": 31547,
+      "afterBytes": 31547,
+      "sha256": "1ef4a0ad6cfd5131fcf1c3a0f92d490aa4c8d7e88f714f51ef565be767df0176",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "1ef4a0ad6cfd5131fcf1c3a0f92d490aa4c8d7e88f714f51ef565be767df0176"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait14.imageset/Portrait14.jpg",
+      "beforeBytes": 45050,
+      "afterBytes": 44816,
+      "sha256": "35b379679023f576002ad6815ca0c1f57c3c21aed942526d5e59841a930a8fc5",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "594e52064ee28b2cbe653fdcf848e36f2e853fda0a37ea74d213265832fe49b6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait15.imageset/Portrait15.jpg",
+      "beforeBytes": 17853,
+      "afterBytes": 17853,
+      "sha256": "8e4e25f972495c561d903e873fa9d27e416861d311c2a974019c1ac83ec76fa7",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "8e4e25f972495c561d903e873fa9d27e416861d311c2a974019c1ac83ec76fa7"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait16.imageset/Portrait16.jpg",
+      "beforeBytes": 58568,
+      "afterBytes": 57261,
+      "sha256": "8283e4f7ed0d99518524bf5a2ac6c97439fa934413dd48159ea3f9eb12ff9909",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "637ba8a13706c6de9d1b23c7f85886e98d524635abcd78c8c97b854703f9a7e9"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait17.imageset/Portrait17.jpg",
+      "beforeBytes": 131912,
+      "afterBytes": 128688,
+      "sha256": "659b45d8f29f3b06be64ca3555dce682dfbb6d3807ced1c4ab383f7a6279ca53",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "9af124124c6731274d5a93213c51404e23b1d3eb7b85809efb0cb1fb3771d6a9"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait18.imageset/Portrait18.jpg",
+      "beforeBytes": 137867,
+      "afterBytes": 130696,
+      "sha256": "2e5a10040471e54b48f5660efe2a8feec683eefd1f4c96950ef381c67fd1c98c",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "af82fd79d29fb06fc90eb9b6465e815171a0541819c93504c419c00638dab07a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait19.imageset/Portrait19.jpg",
+      "beforeBytes": 48223,
+      "afterBytes": 47390,
+      "sha256": "b8c2926c7f4f30af0d15756e0ffb1f254dc367d34e8794b186c729812cab7735",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "973f6fb554de568f4e93f2e62fa4ee11117c277a20dac1dfe9bb12cf7b93d423"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait2.imageset/Portrait2.jpg",
+      "beforeBytes": 112333,
+      "afterBytes": 110378,
+      "sha256": "1c5b4394677b2c54ba830e4eb08f157c66ae2ab39224aaee7ac12b759f9092dd",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "6de1e994c747995676debcd99ba820732dfc5c13006375bd7cbe57e50adcbb14"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait20.imageset/Portrait20.jpg",
+      "beforeBytes": 121478,
+      "afterBytes": 118070,
+      "sha256": "568b371bf3038943d23c86abc49f8320dd4d997cc599a668e666ea5e217b8b15",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "545d9915cd0b52f7339a0ed9751e498c3159549e56300066e058d66156e19956"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait21.imageset/Portrait21.jpg",
+      "beforeBytes": 31879,
+      "afterBytes": 30512,
+      "sha256": "fc5bde7146c26bca7647616d0557b2e62cca86223a6b5dae60b6e2498d68927e",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "ccc1265210d039d2dcc0ecabc6f2f4c2ba7012c43d924cffd1ea48b310cfc40a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait22.imageset/Portrait22.jpg",
+      "beforeBytes": 111526,
+      "afterBytes": 108469,
+      "sha256": "18c5b35ee80ec4b2add911807871125338b15c70b6f1976533334b3de9c1b1f3",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "e9918f1f796ec78fcdea8bb22296babca75a9818f01617fa7a3917b584d7ab49"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait23.imageset/Portrait23.jpg",
+      "beforeBytes": 105770,
+      "afterBytes": 103433,
+      "sha256": "c605885a4a6dbdbf549a2259f5288e39e8690d10eac6d516d23b3e94c2373016",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "d796b7a371077e591581649647c62bbd836a1ef998c8eb92c1ea5a0ac2f0b737"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait24.imageset/Portrait24.jpg",
+      "beforeBytes": 165238,
+      "afterBytes": 160649,
+      "sha256": "d2f606ed65cd2ae534d53228fc5600be86e16a952768ed9b594fe6171f2a354a",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "6ff293854d0e71327e8e7ecdd55de612d54202d96f302d9c10b2e7ce2cdb1205"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait25.imageset/Portrait25.jpg",
+      "beforeBytes": 62040,
+      "afterBytes": 62040,
+      "sha256": "bbb585a4417f7cc589c5e692b9ffa9dc55217b59a89015d64a6f0bf987d57b22",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "bbb585a4417f7cc589c5e692b9ffa9dc55217b59a89015d64a6f0bf987d57b22"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait26.imageset/Portrait26.jpg",
+      "beforeBytes": 78305,
+      "afterBytes": 76853,
+      "sha256": "ca4816ac926591bc30f2862d38556112d614a66910851348903782519cf1ac0f",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "5eacbc8ad976d20615033540cc13eaae429c4a5c521c7ae9dc4dea70fcd26112"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait27.imageset/Portrait27.jpg",
+      "beforeBytes": 93360,
+      "afterBytes": 92459,
+      "sha256": "1520cc141dc330256d072021c316a2b3d84dfcd88ed751cdba666df46a128c5a",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "ad57cce42bf2314eb7200704a36107e7f768e0cf66e9d27218c5ac97b71c4800"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait28.imageset/Portrait28.jpg",
+      "beforeBytes": 103544,
+      "afterBytes": 101411,
+      "sha256": "bc417d1e0c1c408d59b15078e18ae9aa346313780b72f580f2bf986caedf7f0c",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "6d2701cc504f96c80770ce5ef40da7a4b6563b529d8ce3ff8e3def02bbf10e93"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait29.imageset/Portrait29.jpg",
+      "beforeBytes": 65507,
+      "afterBytes": 65213,
+      "sha256": "16ce2ba151ab507bc566831604d1c35c9cb09f602025cdf1498d8e6fd1e832d2",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "dd80eabe86981a402031ea795ac8bbeb5be68d963bea15c14f86b675304367cd"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait3.imageset/Portrait3.jpg",
+      "beforeBytes": 45150,
+      "afterBytes": 44072,
+      "sha256": "771c939322b2b2e62ba152f8cc2d301fd809f08e0e4096085660dcbba53f8e6e",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "e17bd5fb325a9e6b28d8984f071969fa4a407a3aded06c7918d34fbf91918b89"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait30.imageset/Portrait30.jpg",
+      "beforeBytes": 69780,
+      "afterBytes": 69374,
+      "sha256": "be00936836daf92454d28f56fb6ecc1a2a257935d6eb5d09eaaa08e79821b152",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "3c05845703c563f0d12ce4d90451ff486747599daac89fef7fdb961311cefca2"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait31.imageset/Portrait31.jpg",
+      "beforeBytes": 72182,
+      "afterBytes": 71190,
+      "sha256": "c0861c2472dc3ec79aa4a1a7bb4035b92308a7b7b3c61d58dd99b3493bba05fd",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "35010911f65b5950425c28b4d808fb96fd53f4d28ae870360806629de12e0f4f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait32.imageset/Portrait32.jpg",
+      "beforeBytes": 61053,
+      "afterBytes": 60107,
+      "sha256": "4766bd980f6e3e7920e1e5cd41f028fc66ce84e85a15d0c8b04cac4491af4ee1",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "721f2046ddc9a6ccdfca692f15e135b3f351d3645868ffd94eac279ad7b7cd96"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait33.imageset/Portrait33.jpg",
+      "beforeBytes": 24856,
+      "afterBytes": 24103,
+      "sha256": "3d5e7b043f9e02d69d92c8082bf7562ae1439c488e14714358aba7e72c5340bc",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "c70ed2bccbd53e0b5fb692f2a5196de0ccbf6306226d606e4f7bb94b73c98523"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait34.imageset/Portrait34.jpg",
+      "beforeBytes": 97079,
+      "afterBytes": 95626,
+      "sha256": "53d2ac62e5fcce86784b90d526c6624acf540e8acf9b4447a0555f9d91ee4ef5",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "045c26eddad8b1c30ada749455bd14e0c533009aeed00416e4a47ef7694a7572"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait35.imageset/Portrait35.jpg",
+      "beforeBytes": 108253,
+      "afterBytes": 105830,
+      "sha256": "e067a15a9e7e6fec51325c28afb2b6271776a66a91407cc45019694150497ba1",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "830695ea4e5a2aafe459c28c9f031fe2a43b166c72de914745c02478d61c6ad5"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait36.imageset/Portrait36.jpg",
+      "beforeBytes": 149874,
+      "afterBytes": 144476,
+      "sha256": "a63f5653c0c1044aa632242bb72559f596843d36772d6ec94cbb275cb3b14461",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "9f3047b8b6f8991ac5fc216a8f14d025195de8382d7a49305b586282ab417116"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait37.imageset/Portrait37.jpg",
+      "beforeBytes": 112209,
+      "afterBytes": 108470,
+      "sha256": "b7fef2232b61024437bdb72e622460aeb0ae5383788e8fb22afb7ab324d1a19a",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "5853550a80fd29ccda347567cc04d95501425785af2bc0593462feaa62d3fa4c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait38.imageset/Portrait38.jpg",
+      "beforeBytes": 127457,
+      "afterBytes": 123614,
+      "sha256": "e767897f0bb93a35d4a52efb8ee6152ee3e0fc367f9c7cce94b25b860985fa3a",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "176ec1e017a080dc02d5200898b0eef88d81ef0b3b8ea706b3afc9c4b793af02"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait39.imageset/Portrait39.jpg",
+      "beforeBytes": 35680,
+      "afterBytes": 35163,
+      "sha256": "e0372c8b84728b12ed6e146743cd0a51734169b094fa3c63b8f7479fc03f5af9",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "35f26f12e4b9c5afef800c2ae26ddd258db5fe89d430b2f18f98a127c8bb08af"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait4.imageset/Portrait4.jpg",
+      "beforeBytes": 27473,
+      "afterBytes": 27100,
+      "sha256": "51e8c2f2d6c35cb3873f09b436baccc80a9bbbee1e499e4887789128e56506f5",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "33311f9738912c8728f9508c6f79035f40b73c79f98710029da903b5ca37d516"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait40.imageset/Portrait40.jpg",
+      "beforeBytes": 94288,
+      "afterBytes": 91870,
+      "sha256": "d2432c63aefc6d115ab2c79e4e84b6aa5e66d48861c208d86c1446d07e20a1a9",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "f2c338d9c3da76bb4b217e78de25129a0220e443ddbbcf0f127a4e8806a860c3"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait41.imageset/Portrait41.jpg",
+      "beforeBytes": 20467,
+      "afterBytes": 20407,
+      "sha256": "a5eb90eab962ea77dcd0a2250614c473e079c900cc6f5b318d0ef7a4d1b5442b",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "2be609a237bc839a62f00aab1626776c63a79ae64c0ea8f56516930f4c1c8214"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait42.imageset/Portrait42.jpg",
+      "beforeBytes": 77226,
+      "afterBytes": 76396,
+      "sha256": "6ce4d8e1695870b7a951dd25b83db89d068c5827c76f961b50f5d5c862b3b913",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "73b59d1ad0a760bbf9c635b1b199b1b53e2b4364d9223683472345bc138dc9d5"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait43.imageset/Portrait43.jpg",
+      "beforeBytes": 96872,
+      "afterBytes": 94720,
+      "sha256": "be8c40d031fe5ec5fed62aaa9c9234971b0c289de6e2b2e55d15162bf06406fc",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "982d5c43f5736cb42036b0714649b0d2a214bb20b451e62d92abc212dede5631"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait44.imageset/Portrait44.jpg",
+      "beforeBytes": 78717,
+      "afterBytes": 77014,
+      "sha256": "4c9faa80ac947c25fc1f3332926b8cfcccfcf0e676c9d5148f3f315f67361b2b",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "33d89ff9f127a322c191e2b12591a03537654b9249ed57f09651e907c29cbb6f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait45.imageset/Portrait45.jpg",
+      "beforeBytes": 67506,
+      "afterBytes": 64951,
+      "sha256": "789da33a8cf92afea6bea56f1c77fe2f0a5f69d29f13c09d860e33fe7c9fd503",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "efd852fe114a649f28720b1a13763706ebb338f087d387727578d0d79b275165"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait46.imageset/Portrait46.jpg",
+      "beforeBytes": 60488,
+      "afterBytes": 59225,
+      "sha256": "83fe2ea61220ef8ce3c6121a39be9c639603bcbd712bef5580e59e32a08fe163",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "b6a7c7cd846b0f22b260fb06657908845e1024db75ad1ddde48f2f0dedaeca1c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait47.imageset/Portrait47.jpg",
+      "beforeBytes": 74002,
+      "afterBytes": 74002,
+      "sha256": "6e645552b710e95c16de83d6600dff370467822884f7c9ed8927e4480d3580f1",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "6e645552b710e95c16de83d6600dff370467822884f7c9ed8927e4480d3580f1"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait48.imageset/Portrait48.jpg",
+      "beforeBytes": 61724,
+      "afterBytes": 61724,
+      "sha256": "92b2742d0a600611f09c97d3eeee191132390b4063aaff8918790086f18b3f95",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "92b2742d0a600611f09c97d3eeee191132390b4063aaff8918790086f18b3f95"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait49.imageset/Portrait49.jpg",
+      "beforeBytes": 67285,
+      "afterBytes": 65931,
+      "sha256": "2356f2d26d14a8f47bb2990eab4aae0f3331443023b632ee499079e434233c8c",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "1f80bbfbcdcd616443522eaab78d22d8104dbde281860b1c89ddcbe9cb5123ef"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait5.imageset/Portrait5.jpg",
+      "beforeBytes": 27492,
+      "afterBytes": 27481,
+      "sha256": "be970d1e569f332fe2929d456a562566d2747d00dba44d9ff7129a79aca532a5",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "8e2cede333dfdf7fccffa65aeebd9c3a6e96e55c726432ff402d7567f6e218e2"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait50.imageset/Portrait50.jpg",
+      "beforeBytes": 28128,
+      "afterBytes": 28128,
+      "sha256": "e8ffe1b676a6a2ce3ca6d5927876e63417a2e0fccc46a033c48749d56402959f",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "e8ffe1b676a6a2ce3ca6d5927876e63417a2e0fccc46a033c48749d56402959f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait51.imageset/Portrait51.jpg",
+      "beforeBytes": 106140,
+      "afterBytes": 102216,
+      "sha256": "376a0e655aa56baa8a543f1854d8b23566a99b039adf78c38a375c1f399613b2",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "b6bb784c35f2244761a1efe08505ecc02c1b0fbbf01255926bb6af6cdd40e275"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait52.imageset/Portrait52.jpg",
+      "beforeBytes": 34784,
+      "afterBytes": 34784,
+      "sha256": "ecc8a61dfb3b520fca63016ecc60d55a875d09091be192e100edce2499be94b9",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "ecc8a61dfb3b520fca63016ecc60d55a875d09091be192e100edce2499be94b9"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait53.imageset/Portrait53.jpg",
+      "beforeBytes": 135360,
+      "afterBytes": 130981,
+      "sha256": "931d5c69ba91459554d1d73d1f6acd5b294d86dc49ab3c360e932d7deb4b264f",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "109bf27dd21a71d22f1802f4b581cf8e88d21b5f574fb246f1363d92109adc15"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait54.imageset/Portrait54.jpg",
+      "beforeBytes": 97310,
+      "afterBytes": 95573,
+      "sha256": "1d3f5a68d722d5e3124e83f724af661fb9ae9b30823e920f85e9cce29c9a9404",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "918a0fa554329631de12ffe11c1c59ce5a123a9217b5b944ea377302a1837661"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait55.imageset/Portrait55.jpg",
+      "beforeBytes": 28484,
+      "afterBytes": 28484,
+      "sha256": "a73d683b17a412e07a7a188b3ee2a3bc4df6a716cff3a583bda74453438745c8",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "a73d683b17a412e07a7a188b3ee2a3bc4df6a716cff3a583bda74453438745c8"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait56.imageset/Portrait56.jpg",
+      "beforeBytes": 59984,
+      "afterBytes": 59206,
+      "sha256": "601cde83fc13a9d54a8bd645105d0093294581f2ca9046fa18e0b2851ad5a012",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "7ef8a053d107ff2bceaa5408266f5a30906163a576ce8dbdeb5e76179abc37a5"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait57.imageset/Portrait57.jpg",
+      "beforeBytes": 69719,
+      "afterBytes": 66353,
+      "sha256": "c411793a9985842fea4f7a23350e5e1490cb82820fa897431bd9a2482a439ff4",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "9266680d1dcadd1325e89aa5b6667da785b07d4ed88c178ec039fd5eb55e4e34"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait58.imageset/Portrait58.jpg",
+      "beforeBytes": 102426,
+      "afterBytes": 99332,
+      "sha256": "cba6cc91fb50d82da81f8b975810a65c4ebf82fa21004838bfb78ffa0946cab3",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "d517f95ea381bcf22ba5afa8c7e956acdbef4552efd9c71444eb36bd53e07b6c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait59.imageset/Portrait59.jpg",
+      "beforeBytes": 42944,
+      "afterBytes": 42916,
+      "sha256": "65e014e11acc2d4f2bff5c652ef19d1d987f1465031f286e6de8a10701359128",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "0700e076fca812324edc476a7252ee7dd7454859c95e7bfe3faa32419239d3c0"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait6.imageset/Portrait6.jpg",
+      "beforeBytes": 86732,
+      "afterBytes": 84128,
+      "sha256": "d074e83354359c746247e4b9e07662a69a5da369ec96fb0c956ef2e7bfc5c640",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "9dca18de78ff8477df9a6f3fadfbaeca9434992fc3ec45712f0e55aff84954a2"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait60.imageset/Portrait60.jpg",
+      "beforeBytes": 104997,
+      "afterBytes": 101197,
+      "sha256": "b37d273491bc845c0d59d79cd0d78ffcfbb51945f3548353ea5b0c983ed1393d",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "2e6c087a33c31bcd75a69ee145f7764027b994ee6be7afc01ad5eabb093089a3"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait61.imageset/Portrait61.jpg",
+      "beforeBytes": 47530,
+      "afterBytes": 47508,
+      "sha256": "78f4c25bba8146ccad96374a82d328f78355d1ebb5a3eef16736e67abecb9ce1",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "a8805f42c18a8028cfede9043e76ecea49f12c26c4fee42be69188da44f517f8"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait62.imageset/Portrait62.jpg",
+      "beforeBytes": 67809,
+      "afterBytes": 66884,
+      "sha256": "54b056f13cd90fde0b69b3187fcd31345391b5d8de0d2d2b6c920bf9c435ee94",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "3874ae861afafb50676b97aa3d3cf096c9cc5a4464999bf4b13a035d3abc8575"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait63.imageset/Portrait63.jpg",
+      "beforeBytes": 59937,
+      "afterBytes": 58121,
+      "sha256": "90de776a6121b25d3803634d14f153b304c70e2edd184e0ec23d04a85bd40e54",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "fd87e180ca637a65a072e2eb096faf04b6ca6f7325e522e7b7eb735c0fee67f3"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait64.imageset/Portrait64.jpg",
+      "beforeBytes": 70049,
+      "afterBytes": 68190,
+      "sha256": "b1951822f4f7b731aeaea06d337bad54fce16abed495a8b350adc9dc409cd895",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "33020d14ae062da536df281b826595ee89a90212ef038a4f02f383e179ac28bd"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait65.imageset/Portrait65.jpg",
+      "beforeBytes": 62974,
+      "afterBytes": 62194,
+      "sha256": "c92923304aecd86ebe51fdcc21a47932e23d21aa5c0aeddc41a2971a97b14233",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "d38aaaf519b7226c0bd0a0a73cb85f01ddd25c8e5645094b1e80d43af232e184"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait66.imageset/Portrait66.jpg",
+      "beforeBytes": 53350,
+      "afterBytes": 53152,
+      "sha256": "0e6a87471401d3a0a7380566c34a1a954503434e2fc5b221eb2e373f66287722",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "53fa5e50687ccc306999afbcce7ca997eff9529011e16c27e44d945d2ec083e0"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait67.imageset/Portrait67.jpg",
+      "beforeBytes": 39670,
+      "afterBytes": 39670,
+      "sha256": "aba659d733f5bc397186e6d10e646e8145baabd4807d2b7b08985a82b8f73d7d",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "aba659d733f5bc397186e6d10e646e8145baabd4807d2b7b08985a82b8f73d7d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait68.imageset/Portrait68.jpg",
+      "beforeBytes": 27838,
+      "afterBytes": 27838,
+      "sha256": "9af138ad5ef39b2727d22f6b16c59543108b789bd48246c1080d998aaab24e28",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "9af138ad5ef39b2727d22f6b16c59543108b789bd48246c1080d998aaab24e28"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait69.imageset/Portrait69.jpg",
+      "beforeBytes": 27475,
+      "afterBytes": 26492,
+      "sha256": "2aa2f8d16200a035ffe1212dbbf690344c5bb327887141cee947b2bd593bdb8c",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "13410f356763c660873282a026563c27b2f71a366b5f21fdbb38af9adb911e85"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait7.imageset/Portrait7.jpg",
+      "beforeBytes": 118333,
+      "afterBytes": 116758,
+      "sha256": "940b842fd0bf2cfd7b6cc95f1d547e72ca0ab2f040b8267f4aceb1e355f53641",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "76aa7fef20fc77a993afed61a3af187ac87113eea42524f52517ece47792e2ef"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait70.imageset/Portrait70.jpg",
+      "beforeBytes": 50813,
+      "afterBytes": 50464,
+      "sha256": "f5845c00ab20f6646896bb7d6d4c0b63a260b21285fdf7591343f1a084f987d8",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "b5369ea227de4bca3361dc662915467d12b7c7555eb043adbdcf5a5102089cf0"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait71.imageset/Portrait71.jpg",
+      "beforeBytes": 46101,
+      "afterBytes": 45763,
+      "sha256": "e8e81ecca6b1ebb68962046af550542d4ab432c84c39a4538d518cd94031c402",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "51bbf46e051e4bb471a512f0102a7cd64d53caf505a6398634db6c49d48096c2"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait72.imageset/Portrait72.jpg",
+      "beforeBytes": 29300,
+      "afterBytes": 29300,
+      "sha256": "5353f6f3a72740e88c6a93563759091c478951dd4f9172ac6a5176868ad9b4d6",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "5353f6f3a72740e88c6a93563759091c478951dd4f9172ac6a5176868ad9b4d6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait73.imageset/Portrait73.jpg",
+      "beforeBytes": 89804,
+      "afterBytes": 87240,
+      "sha256": "52e5cd27f588b74b7cc1396fe8af774916c8df42047029474c09636440e1e819",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "3aff662f547f665d7bc6fb898a95e1e433046ea77a51888b3b6f3767f7f6262f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait74.imageset/Portrait74.jpg",
+      "beforeBytes": 29752,
+      "afterBytes": 28738,
+      "sha256": "7dff027ff41d0ede8cd7120e6401f613c333b8aafa0c031940e7ea002e5bf53c",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "8aff0685f3e10fb3124ba08ea09efced19ae3bedea58f83359e362a3fe5490f9"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait75.imageset/Portrait75.jpg",
+      "beforeBytes": 77956,
+      "afterBytes": 75011,
+      "sha256": "6f365ab7656afc2b29c5b1b982416a6686371234ca60fcf574ecd05c1ae1a50a",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "659152c54363c24a01f00c03caecc15c828e032a7b7a5d20026c91aaeeb980f8"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait76.imageset/Portrait76.jpg",
+      "beforeBytes": 64547,
+      "afterBytes": 61832,
+      "sha256": "16b4c8d791e5fef6fa6488bbb4ab9a7f863b32188a0e7fc79b2694b5c4d2bef1",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "ada3d3034554747195296d356077e67ffdcf33c2ab45cdd43d393de6e7370dcf"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait77.imageset/Portrait77.jpg",
+      "beforeBytes": 46943,
+      "afterBytes": 46398,
+      "sha256": "a9eb0655a4317917f826b15dec2f2c040f30540bfc0ce3a2e3c8efdec58c3780",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "f6f40832bf8d34090aa9b51c61463679a163b0a9c193af02428a58f67064d8c4"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait78.imageset/Portrait78.jpg",
+      "beforeBytes": 55211,
+      "afterBytes": 55099,
+      "sha256": "bad1396928940ea55c37c7cc263f07e25ac45b4f018161faddc0d31d78b69389",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "3814724cde02c1e312e286a8845ce3d846bb620cfd0240f818847d822589615a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait8.imageset/Portrait8.jpg",
+      "beforeBytes": 32064,
+      "afterBytes": 31065,
+      "sha256": "63e34fbe4eeb34bc26eadb8d354b3cce34955e0c24cd9f251371af1601bb828e",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "2d7de4c894549dcf731c06e7d101d5e1a101b86c2a8a5c40779897979882944c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/Portrait9.imageset/Portrait9.jpg",
+      "beforeBytes": 36366,
+      "afterBytes": 36024,
+      "sha256": "02f5fd1e171b127cafffb858f17cf89860622322f904918cf0b49f66ba8e2078",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "00dc84caa45ad04eef233689248afecb007c915927f627bc707721616edebd62"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/PortraitLocal.imageset/PortraitLocal.jpg",
+      "beforeBytes": 59538,
+      "afterBytes": 59538,
+      "sha256": "3ff264a46841e03e4ba06610503404ebb2763b61a2cdfeb301492d3975a35cb6",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "3ff264a46841e03e4ba06610503404ebb2763b61a2cdfeb301492d3975a35cb6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverBallet.imageset/RoomCoverBallet.jpg",
+      "beforeBytes": 92888,
+      "afterBytes": 92375,
+      "sha256": "29376b26f164dc4b0462cea891dfda5452d35394834e776bc2c30b37310f69d3",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "a8dd2d40c1502eb3da7c1865f62c871fa13ab3a43634d30242d7798fb5fc7618"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverCamera.imageset/RoomCoverCamera.jpg",
+      "beforeBytes": 104471,
+      "afterBytes": 104275,
+      "sha256": "da6d0e998f749019c61afd42906c1306c96585952e458e0d6ff5f68ee073a969",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "430b1ece7994ccff6390c207001dd55b2a87b801c7a793b582864dc6fa85fe4a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft1.imageset/RoomCoverDraft1.jpg",
+      "beforeBytes": 20799,
+      "afterBytes": 20355,
+      "sha256": "ef0c8ac4768d6b8f98d4a1f5602ecf252217f9a38df6f0c85d76a0bf2acf227a",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "4eb2cb13c4fef97e599ccb511b346c988a7ed4cec341420d69b64e362bc4edc1"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft2.imageset/RoomCoverDraft2.jpg",
+      "beforeBytes": 35909,
+      "afterBytes": 34571,
+      "sha256": "ffb05b615d4783ed2a93637920b19036ba0fbfce633de7109ffc070984d57a67",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "12fbe45d537d304bd77b09c270dba5d948aba6ee00d3222e8cc1eb7ddb353896"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft3.imageset/RoomCoverDraft3.jpg",
+      "beforeBytes": 64736,
+      "afterBytes": 64351,
+      "sha256": "6be64a2ad7b93dc8345f657dab3699f9d9f5e903907f197c4973fe4cb3193bbf",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "bc831a64a3734e1df5f96d529e8d8ac3c333a04473ced2f05224a35e9b8658a5"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft4.imageset/RoomCoverDraft4.jpg",
+      "beforeBytes": 73561,
+      "afterBytes": 71108,
+      "sha256": "eb495c2b59e7f1be5a1d03ef26342780ff6662fcb8041f6a4b80fa6c7e225536",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "85d531d8bdc27d46d912eb556a58a4c7b0432cc2064e0631c864a313811a0689"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverFreestyle.imageset/RoomCoverFreestyle.jpg",
+      "beforeBytes": 181656,
+      "afterBytes": 176099,
+      "sha256": "d69a0df6eb28fa59219cd2b2a18eee68b9a18066e781713eefbcdb4f169022cb",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "ca903c4676519b642823c0682707db431407ada1c4af39d3d2ed5642027971e0"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverHipHop.imageset/RoomCoverHipHop.jpg",
+      "beforeBytes": 148856,
+      "afterBytes": 146475,
+      "sha256": "f04cc106f83d5fc6b9fa5dc11b7f2a78a7d272bf10a501dfdb111c7d496fb9bb",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "d61f0cec15a2d31913d32559e9aa22fd1f7aa81a40de5ebebbed63b0c8f5977c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverHouse.imageset/RoomCoverHouse.jpg",
+      "beforeBytes": 107525,
+      "afterBytes": 107443,
+      "sha256": "2dadca19fae7bdf34c95d8c49901c2c61e6adcd38b13bdda88d0e5a4f6110821",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "dc1d66248700b8ab3f671ffcfc914cc80dc2c4ac1d6ebafe1612e192b9db86be"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverJazz.imageset/RoomCoverJazz.jpg",
+      "beforeBytes": 264154,
+      "afterBytes": 262220,
+      "sha256": "34c5c0d6fd712931b0c5e8e37bc6009f21cd5acc8ac12a0bae9a0194eee9c5db",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "e8e443cd18cc4697ec2cd1231f62fd1c999792f22404cd58479acf4371117acb"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverKPop.imageset/RoomCoverKPop.jpg",
+      "beforeBytes": 275039,
+      "afterBytes": 265213,
+      "sha256": "46b2cbc459392e2a0b81b983c8ef44dc8387f2a3d62930570c2a0b99052cb079",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "9e49e9d4e88385006823f83f9bca2d0b39218204b70d07abba7d14c64a6c4f2b"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/RoomCoverPractice.imageset/RoomCoverPractice.jpg",
+      "beforeBytes": 166111,
+      "afterBytes": 164844,
+      "sha256": "c0d782bfb56af171208dd51ca1f8247678341153d3241e480ed62d390063f4e2",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "933dc3e5f22acc8833645a252f0807485a8b0c362723241b2ec6ede4a72f07bd"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/StudioAfro.imageset/image.png",
+      "beforeBytes": 2071797,
+      "afterBytes": 620638,
+      "sha256": "a4a9306c3c67c5f2bb4cb19b38c59a9bec4794d9efe48ff5053795e28c8ffde9",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "fdc4f325da7ad7e5bba98c526f4e646541509b3c37e34c491736b493a2e5a812"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/StudioFreestyle.imageset/image.png",
+      "beforeBytes": 2018579,
+      "afterBytes": 608691,
+      "sha256": "292044939bf2ba04063808507c5d1fa0329e05abca03e8f6d4597e741afb31b8",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "44ae09c9c5cb2f0d1a5776d1049333a4d0e9a5d6cddb3bfbfd6abcdd727c63a6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/StudioHipHop.imageset/image.png",
+      "beforeBytes": 1916502,
+      "afterBytes": 602326,
+      "sha256": "50fd714091ddb34c8346143b8838d80bb497731b056d0441f367e4f062b2bcf5",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "459ecb654a218d4f57f074948c46a74c60ccd29923cd9fc0b758dfe79c33d46b"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/StudioHouse.imageset/image.png",
+      "beforeBytes": 2082095,
+      "afterBytes": 616842,
+      "sha256": "d3c55e451f08cd8ee5410e58d29858528c09f3b9eb9ab3fbf4fa4283c7822fdd",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "e0695219e3001448d05ba19590c600fca88d93b045de636588392fa2e964f0fb"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/StudioKPop.imageset/image.png",
+      "beforeBytes": 1876908,
+      "afterBytes": 606360,
+      "sha256": "58ca6653ba89d92c9b1ccd78d875a3530b61b2d25f6471670096f483a4a99ec7",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "558f1271370fbd379e28a7ce1c467a4e2c3e3588a10918fcac30b4739ab95d86"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/StudioLatin.imageset/image.png",
+      "beforeBytes": 1962448,
+      "afterBytes": 573305,
+      "sha256": "c7170c9e0373a556b376e66e13c940be3e23f9cd4b11ba7e8ce4b53fcc7c4247",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "96bd00a033daf0bffa772e0927c308ae885e6dbf78fb5d73b9d09619ab7933d6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TabChats.imageset/TabChats.png",
+      "beforeBytes": 804994,
+      "afterBytes": 186076,
+      "sha256": "a2686312c8f850f560633e14f1f0c1a02904c11fd3d9a14bd572382311748c67",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "1be69cfbc6b33c9819b2f50db8e918b56b4c745e640d1aaef89cc4cd70c01939"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TabLive.imageset/TabLive.png",
+      "beforeBytes": 883417,
+      "afterBytes": 228311,
+      "sha256": "2ec66c7fc451af949b1630d99de0e26bd5a1081514f5a5faa83ac2c50d9cf616",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "dbd19172cd0d5fb45347ba1b4cf9f130e2160ee61a4c851f00441bbe63b2a63a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TabMe.imageset/TabMe.png",
+      "beforeBytes": 918682,
+      "afterBytes": 232085,
+      "sha256": "fa98dda57f308e366e3dc6ead1fb738fcb3c1d4e9487b020b8f41623f02508bb",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "70a7447cc28debc81de3cf5c2bd9f6c6c1f27acdaa7543ea453200cf41303ddb"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TabVoice.imageset/TabVoice.png",
+      "beforeBytes": 864904,
+      "afterBytes": 206027,
+      "sha256": "3661bed827a78e6ccb12c1c9a17349f52b747d87d07571307c9890200cefe695",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "5812108981507254c23d1b546d747970aa58bacc100ddc3cf48da189597e343f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoEntryDance.imageset/TetoEntryDance.png",
+      "beforeBytes": 1121065,
+      "afterBytes": 251269,
+      "sha256": "1feaea5e0648cc59d45e084600ffd535823e11509d4f558a10ebb4f0229e2e67",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "f7f5834bb2bd778f909427bc5dd8fed2bcdf16c75487238a23a108d6d907ce65"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-back.imageset/back@1x.png",
+      "beforeBytes": 3529,
+      "afterBytes": 3229,
+      "sha256": "c49eb2e88d986c744e2bdb491e3e5b18eeffb04a2b89568988f05ae93a0b13a3",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "bee1e3e79aa6bdc7657fd9af7b33f66898ad179e27aeaa169d1bca1b8939fd89"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-back.imageset/back@2x.png",
+      "beforeBytes": 10725,
+      "afterBytes": 9382,
+      "sha256": "499f8009813f63ae99eb7179d1223f4bd1864727d622274c7fbb7f2605b8eedc",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "40ead4eca6b9ac26272114c471c46f526b26a2605c31ccc816254873e7afc04f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-back.imageset/back@3x.png",
+      "beforeBytes": 20891,
+      "afterBytes": 17515,
+      "sha256": "bf105c34d7493c7715e9f5412c9da186117963bab3b5b25077248ce44f0879b1",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "4e4b44081823ed3aeac0c553376568af6c512ee2e1bb6a457d8b2a406e5585f7"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-balloon.imageset/balloon@1x.png",
+      "beforeBytes": 4721,
+      "afterBytes": 4070,
+      "sha256": "952a7c2283b5c796db27741d92dc9e0e3bb7e1cf12c55f1259672a73e85d1251",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "44bce8a3aa426f522bd8b7bbb3979b7c2c3dcf4f7171ac8f90753110242784af"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-balloon.imageset/balloon@2x.png",
+      "beforeBytes": 14483,
+      "afterBytes": 12051,
+      "sha256": "36eae96d685cb37c5b053e4dcf9eeff0ec6b37368a2e7dcb7dd0c42cd60846d5",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "86aee2811be449d368d26684f37918cb209cd765918fbb3ff066636a1b069aee"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-balloon.imageset/balloon@3x.png",
+      "beforeBytes": 28161,
+      "afterBytes": 23081,
+      "sha256": "500806cb451a1862e80b9eedba0928ca0424e708e0feed52a4cca0dbf23a0e99",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "1aea3661472e1c5f42d916cdf0fe0ba150faa933d21b21185a11649b65d8d2bd"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-bellOff.imageset/bellOff@1x.png",
+      "beforeBytes": 5779,
+      "afterBytes": 5537,
+      "sha256": "0b1704279facb048741fd7b5457c8f4d8ae98953c9bc1c7ff9e3c88d39a606e4",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "7b44a8489a78cabf5b2eebc51bf311d7a0f7ac3963bc8477d2083ea2a4ba901a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-bellOff.imageset/bellOff@2x.png",
+      "beforeBytes": 18075,
+      "afterBytes": 17212,
+      "sha256": "739189aac874e6d8834b13f6603a5b75bcc96413285ef194d6a8bc442ed9554f",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "98e515bd901ad596b23663c1fd8da92ce2b929d7ba15c476abae9d62cb526852"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-bellOff.imageset/bellOff@3x.png",
+      "beforeBytes": 35158,
+      "afterBytes": 32961,
+      "sha256": "e26574c95326293bc1a561129e92c307cc3d29e49e4f36c11124b5884bc6934b",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "be77278965be933904800e9109c11b15cd18478f7fa0ab7fe0c2dc11b128907c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-block.imageset/block@1x.png",
+      "beforeBytes": 6357,
+      "afterBytes": 5936,
+      "sha256": "10f21de16eeddc5874c069d669b092cac7d7009c5044e7aa9b47e68e93824efe",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "5b15258f0c492f6ce3d5ee375ea6ae91f459f63340d4818f3c47521638f546c6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-block.imageset/block@2x.png",
+      "beforeBytes": 19877,
+      "afterBytes": 17521,
+      "sha256": "ddaf8776beec86fc1f43bf8631a6a920e007941d8073bbe671b3e4ccb190d703",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "256534f4530db35a00dbcd15f7aedb6623aeab32eb3323e243e346f3d7e13c44"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-block.imageset/block@3x.png",
+      "beforeBytes": 38864,
+      "afterBytes": 33191,
+      "sha256": "d3b8eabe34642d72ca395d95732093e41e324aa8ae2af6c29bad3bcdbdb4bd48",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "8516a78a09feb10000319b7ac10b46e94596b1d4e831d527f4db9fe594b91f0a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-bookmark.imageset/bookmark@1x.png",
+      "beforeBytes": 3609,
+      "afterBytes": 3030,
+      "sha256": "6ef33bb2f62b60df06e9a9bde015aaacdbbcb2246fbcd522e14f9a73c628fe0b",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "03aac6f0620a75b18a29e24a922ad48c522fb6f2c112e1e980c41ffeef7ccc28"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-bookmark.imageset/bookmark@2x.png",
+      "beforeBytes": 11002,
+      "afterBytes": 8815,
+      "sha256": "7b4b8160cbc75a43683ffbbce079d0433135a3c747c436605aec4072fbfa98ec",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "e41d2a8feb44354cf9e8fd4d1ff05e1a2a5af9ac67f894ec078e32070e191b9d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-bookmark.imageset/bookmark@3x.png",
+      "beforeBytes": 21347,
+      "afterBytes": 16520,
+      "sha256": "17dca184e056158450ce32eb8dcc5b1ca532df9019ff88a154e3ad61af668dbc",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "b7a6a502918add7bac74d6ec2108490933e0db9c82af579e9fe981a4b713c798"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-chats.imageset/chats@1x.png",
+      "beforeBytes": 5330,
+      "afterBytes": 4777,
+      "sha256": "4fc008f3e406e9a38b4bcdc197aaac3657098544bc5be877c5e65a6e0ba96107",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "a1cd35bbd6a6db9b5239afeefb7d3a8f7991ecbf599b66eff2f26ef912ecfd00"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-chats.imageset/chats@2x.png",
+      "beforeBytes": 16271,
+      "afterBytes": 13657,
+      "sha256": "c9b799c9bdf65cd165b3504c29764784a19afb3a42bae9bb947fd90fbfb9a94e",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "c07836b3804483c0b5b035d67189efc890b50065a3798f9859f07f986aa2ed27"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-chats.imageset/chats@3x.png",
+      "beforeBytes": 31666,
+      "afterBytes": 25274,
+      "sha256": "49e25aec718c51dc8b5bdc3d65536b1ded2521dca637e59e4c0e8158889027d4",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "c77070bf849d419c705d4101a586035f5a97fc6f2c2322b5f088607493b713a3"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-check.imageset/check@1x.png",
+      "beforeBytes": 3943,
+      "afterBytes": 3586,
+      "sha256": "312bf70bdeb9aa2aff5167d92415e5645c578eac7459fa830e817c07abfd55e2",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "8c153e30360c3f890e16a7eb6effab64425e277b28d689fd2cd61565a7e05bda"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-check.imageset/check@2x.png",
+      "beforeBytes": 12290,
+      "afterBytes": 10615,
+      "sha256": "be16502b00effd332bb65ae1d2d54bc0721377a8d0ebc42482059ee718e8bedd",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "d8e6337fdd459f765f5ce7c694a6de33c956304402549b20e3dd222b75384758"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-check.imageset/check@3x.png",
+      "beforeBytes": 24188,
+      "afterBytes": 19668,
+      "sha256": "e2999a0018432094c392f958af608cab7727f7f70725b7765092393f5bd6cf76",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "76a5ef364650ec63a9834233aaadd8d1870a51604c815b004d9796514c83cb07"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-checkbox.imageset/checkbox@1x.png",
+      "beforeBytes": 2056,
+      "afterBytes": 1925,
+      "sha256": "192f1114ce368df8f07157c3c0ccf84834343b1db97f3ea285fa44568eaf4e57",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "e0f897c31786d5ebe2c165b0fb0ab8d85d2531eb3c1ef795266d0e2733d53cbb"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-checkbox.imageset/checkbox@2x.png",
+      "beforeBytes": 5960,
+      "afterBytes": 5463,
+      "sha256": "a062954cef53b4ebe8894a6e5572268d20e6b803e026aea7c4a3e2549ad9b49d",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "b7f471f8e2a1f5f5583035a5db360c80ee134507fb3b2ca499257737645ed5b7"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-checkbox.imageset/checkbox@3x.png",
+      "beforeBytes": 10602,
+      "afterBytes": 9549,
+      "sha256": "c77cc98111f7195af0690820f8335ef07c47b09f14e7920a2bfa7e1e06199355",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "a907986193884cdaf20fecf3d7a9ea17b3477c4985e3a0840f5582125a7742c1"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-checkboxOn.imageset/checkboxOn@1x.png",
+      "beforeBytes": 4339,
+      "afterBytes": 4067,
+      "sha256": "2e88b29d161ba68b1a7d61801a35dc5e62b8e71f905e54fbbba848caa76ea3df",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "cdf82a774b9d6fc29d272ace43fab0b59c1e1cf0a57ae16feca722891691dda5"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-checkboxOn.imageset/checkboxOn@2x.png",
+      "beforeBytes": 12259,
+      "afterBytes": 11173,
+      "sha256": "a8d457e227437176f5b6dc4448459ef419e913a1a9e782be70d7fa73c6e376b1",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "7a56e70efe617a835c05ea83ef6d2747d91fcc07a6e793152321007bcacd3f43"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-checkboxOn.imageset/checkboxOn@3x.png",
+      "beforeBytes": 21904,
+      "afterBytes": 19876,
+      "sha256": "cf4a8ada071758920d2805dae9e9498ec19b5d688a05b1eeacb8a0ac42540da8",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "5da173bc25cf48935765ee737b76db3402b666922a73d1c59c6c6673e8208419"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-clock.imageset/clock@1x.png",
+      "beforeBytes": 5464,
+      "afterBytes": 4940,
+      "sha256": "0cddbccede565f351854239056f75daebbc49e7176be7fafe58839d082dd95ba",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "9c794d2e8ec262115ea9a74f48db7defcb72c48dd65e77350a629f300b9ef3ae"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-clock.imageset/clock@2x.png",
+      "beforeBytes": 16852,
+      "afterBytes": 14614,
+      "sha256": "80aa29a9807190d4cbbf5938f39158cbc8a946666df71d2eead46af1cf28c56b",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "08f15e67406f11f365eb0bf75da48ae75000d0e90b5966415aba5851caa05760"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-clock.imageset/clock@3x.png",
+      "beforeBytes": 33316,
+      "afterBytes": 27728,
+      "sha256": "e9d115392a4dbd94530483daec7767c339c69b83ba78f2add9de2c7a69f1fe19",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "c6b430249349ea7660161d6396c5828033bb54551baa2adb1841af7f2d21bd6a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-close.imageset/close@1x.png",
+      "beforeBytes": 4332,
+      "afterBytes": 3895,
+      "sha256": "be56f9e74d4a111601dee56daf6b5c39dbab3194a06cd86e434d85c978ac0b7b",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "58e9d5ecb955dc5f7099a93e1f81c4c5b8ff53a719fd065598671a74fead5ffc"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-close.imageset/close@2x.png",
+      "beforeBytes": 12822,
+      "afterBytes": 11318,
+      "sha256": "81fd7f9ac4cc5c615535fdc4665c4fba517ec1945ee5b96c51d243d66f7e3e5d",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "24b65cbd0a266c78b3950fd93cafba6f286c2b08c06c80785bf2a7d610ffdec1"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-close.imageset/close@3x.png",
+      "beforeBytes": 24437,
+      "afterBytes": 20900,
+      "sha256": "8be4326630e1df30a131f25e0f0347922d50f3dc4023aab310a2c144bc3efb25",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "0db90568bf88fd1a700c15e6b0ae8f000bd3565199e92dd1a019554876e8ccdf"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-comment.imageset/comment@1x.png",
+      "beforeBytes": 6246,
+      "afterBytes": 6019,
+      "sha256": "bf2bdca8dfd367a067016da4e126cad2aa5e61983f39aecf5f41214ea36b34f9",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "b198706332f07acb194724f86c64fe97097275b05f33635e2277779f2f022e36"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-comment.imageset/comment@2x.png",
+      "beforeBytes": 18858,
+      "afterBytes": 17707,
+      "sha256": "91abbe0acc9bcc1b40c68ac9f645f8194fc571846a6e85283dc145668c646b10",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "1b9a0eaf97925c664fed14306a6033897996253eefe33d2fab66e138789f2051"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-comment.imageset/comment@3x.png",
+      "beforeBytes": 36517,
+      "afterBytes": 33351,
+      "sha256": "5787163334d39f680ded2c9ea21e7196a403a8a682bc21497878ab8b382c4f20",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "bab1a07237f90945b8fc2d53271e681e3e87b3fc67815d5e2b623029ae4be0fc"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-crown.imageset/crown@1x.png",
+      "beforeBytes": 5452,
+      "afterBytes": 4914,
+      "sha256": "01bb969d9daa1fef831f8aed1345ab0fb893ada6c2ac460ed90dcc8613e922cd",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "13c9d107b3a41fabc8b528c959838cb77cce385a5378d5b73bd5269160f65c2d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-crown.imageset/crown@2x.png",
+      "beforeBytes": 17676,
+      "afterBytes": 15531,
+      "sha256": "310234fe98bc8f2b8a3f97e7911ee944580394678a1c282d936193c78adfbb21",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "7c510d25461550faa9dbafed079796a085e620fa2fbefaa480ab02bf8d6e7cab"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-crown.imageset/crown@3x.png",
+      "beforeBytes": 35382,
+      "afterBytes": 30268,
+      "sha256": "0c4c82b7a3cce1f36bf26187b125d32b04fcc6ed2c3ebc9988cdcee05e3016e1",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "91e61a2049ea74e7e1a624810d37cf145f2d80f8b52f0a7c85612908051169b5"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-diamond.imageset/diamond@1x.png",
+      "beforeBytes": 5011,
+      "afterBytes": 4491,
+      "sha256": "0e2c3de4012935ff7cc281db21324c040d4d97b81c68f382634357a64969e571",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "ba11ec25ba6e054705f9d5b2c43f4c455cd7b2ed47ad1ca398dbb2417d51a676"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-diamond.imageset/diamond@2x.png",
+      "beforeBytes": 15857,
+      "afterBytes": 14036,
+      "sha256": "bd88805bf4c42296145e49a21d5a7d30e5348fa1f013ed15d1c4f799645b177b",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "5db6595bc64415b8847cfcfcc5c31497b742b683b0d9e4fec5486fd50cbf8bc6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-diamond.imageset/diamond@3x.png",
+      "beforeBytes": 31730,
+      "afterBytes": 27275,
+      "sha256": "aa6779efffc5c1c9594957cbde542cdc7a93bf2668397de3124c7a762eb84d5f",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "4bdaa7034e6e6079de26050f359d117b63e3a9d5f0cbb1a1cea67a26db7f8e9b"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-eye.imageset/eye@1x.png",
+      "beforeBytes": 5856,
+      "afterBytes": 5442,
+      "sha256": "03607e17f764db5831c366790378cc1e1c9494d21254299e79748b14b7929382",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "a10b63fecd3cad254db3af44df7e7ac1678c98330d30c2de7a9c744ac5b73240"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-eye.imageset/eye@2x.png",
+      "beforeBytes": 17970,
+      "afterBytes": 16242,
+      "sha256": "6bee60d91699ef600244fc241317d4a19053bdf6a1fd3b5bfc8fcb2e95cd6e54",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "9a8a49cf82c5f29a683a7ce383e4831ecb72d1809ab9136f81da498499719a90"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-eye.imageset/eye@3x.png",
+      "beforeBytes": 34904,
+      "afterBytes": 30761,
+      "sha256": "2530bb7861d44f83d3f2dded4ffd1eaa8921213c70f569095194320b769537db",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "98f89b4f80fa83333865ef2efd9e29532cb2a6d55f4333592103e62fcbbf6521"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-filter.imageset/filter@1x.png",
+      "beforeBytes": 3811,
+      "afterBytes": 3243,
+      "sha256": "175abd0b0d349f8688b91338095f3fe48e45e42ebf8b3795449f6b6f261d2861",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "01e99dfad8edb1b5e39d4f71f7af5d5f77e9fa68ebd308bd94ddb1b3f7d4980a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-filter.imageset/filter@2x.png",
+      "beforeBytes": 11232,
+      "afterBytes": 9443,
+      "sha256": "ca24d6ba8b63b777c95fbef26d50f7143c853be642db08b530a8e0456cd20c56",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "8a84548bcdcb92379025911d9de1af258f694a5765dfe2eadbb7122e646a12da"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-filter.imageset/filter@3x.png",
+      "beforeBytes": 21949,
+      "afterBytes": 17951,
+      "sha256": "9f6a54697b86dec297219c28f99e1e9f2f9a76d79ffdaaa355000cc9e6b9e2ed",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "6368c7434cfa8acb1ec640646622de859b401d91af6969183c9da62d795854c7"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-flag.imageset/flag@1x.png",
+      "beforeBytes": 4274,
+      "afterBytes": 3822,
+      "sha256": "de2cd9329427cb6793c44029386d8e9cd1650c128f1e44c12720637306989c14",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "dcf380e153c4376ddd1f2990990186fdf084defc9c5ff391b1c4e1e10f0b0cb3"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-flag.imageset/flag@2x.png",
+      "beforeBytes": 13001,
+      "afterBytes": 11120,
+      "sha256": "5ef15c382c3ff89dc9089c90d1b205b294fd02e3ecd04a3b6cd2b629bf62672b",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "6c282e12333165aac61ad2d55bb9ae2adcc934336820eebd85e0474a0bd026bd"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-flag.imageset/flag@3x.png",
+      "beforeBytes": 25042,
+      "afterBytes": 20803,
+      "sha256": "76715e4921be541af589898deb1176e7a0155228bc97a6dad0201c7632ee1025",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "64513a9f7dee100a32d44c41733da8f68c16a8040e30b0c7dc12a9ecc7344d3a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-flip.imageset/flip@1x.png",
+      "beforeBytes": 6343,
+      "afterBytes": 5712,
+      "sha256": "34d1edf6cd36f1ee8cbf26e2e7e9c29c2f3236a3d3274ec81b174d6552b9ac22",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "d51e35aa1399953f5c2acbf18e9ebd6d51aec2e0295865bad4af81fdf3e5f269"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-flip.imageset/flip@2x.png",
+      "beforeBytes": 20331,
+      "afterBytes": 17548,
+      "sha256": "805d6fb98201c9e3d5cd92a0e26200e0c9f6edb2dc380724732615f59c38b6c7",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "3def933f09b282a647f51e81ce5bef0c9c8cdbe076a398dc74628eb42f9cfc87"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-flip.imageset/flip@3x.png",
+      "beforeBytes": 40207,
+      "afterBytes": 33758,
+      "sha256": "572bf94f7a8d560ed648a3101359cff72ef3495fe8a5fa387e02e5b01c2a3748",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "1f7cfaf80f829ad857fa68744d09de336f09946e87462474826e846041a52438"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-flower.imageset/flower@1x.png",
+      "beforeBytes": 6078,
+      "afterBytes": 5536,
+      "sha256": "557d28b3b71192830b31d193eaffe3ab6e81d6940c58db992ed125d702e47436",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "6b15d5706f61f41edb9a6ba70996b8b784c167d63e62b845bc74f104550060ab"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-flower.imageset/flower@2x.png",
+      "beforeBytes": 19962,
+      "afterBytes": 18014,
+      "sha256": "d34de01091c530ad56d41991d1bf3ac7fe0616df4f2ed4a3da2c3e8b83cb76ba",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "7cb1149ce83c04c19476944237b0b341d307fe9094cc652bd3a3f50bd1ccf8f7"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-flower.imageset/flower@3x.png",
+      "beforeBytes": 39951,
+      "afterBytes": 35253,
+      "sha256": "92b283967d2f256d084edb501b65386feacb10568813354edf177b3d664c4be6",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "aebf712c270bfb80ca1ddd4d09f5cd34749d143d0b86607d26554c3c309746dc"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-gift.imageset/gift@1x.png",
+      "beforeBytes": 6661,
+      "afterBytes": 6351,
+      "sha256": "cbee807b6a8abe1e4b78855c891b2c242c439cf6bb8da8608de1307cdb65325f",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "e60ce5c43b8182e3f8a1ba646600f63234c46b9b9a91d7788d4af11a7ec4fbc8"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-gift.imageset/gift@2x.png",
+      "beforeBytes": 19946,
+      "afterBytes": 18346,
+      "sha256": "00bc29751eb5c7b1394e4d39a047e25b140d6313cf58bfb6ecdf157bba31b19b",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "a2cd6794eade85cf87d10d7198f93affe5589fb170c886088b07d52a935fa06a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-gift.imageset/gift@3x.png",
+      "beforeBytes": 38714,
+      "afterBytes": 35023,
+      "sha256": "b021291be5b7e32b9838aba5ce7fb7f1bd02594d90ffbe687ef061ed954d1f5b",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "90b41fe4d51399cd97592f92bde3152720a679229e347fb4c1fa7dc123bb192d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-grid.imageset/grid@1x.png",
+      "beforeBytes": 4235,
+      "afterBytes": 3535,
+      "sha256": "6ddf4042db7a684dacf63de5f2598b9bc9ba2ea87e8e906fce741b4fe599126c",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "52f50a8d5ffb4a716267fa935ce08ee09b9b885a703c91ab42eaacf95acf1351"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-grid.imageset/grid@2x.png",
+      "beforeBytes": 13218,
+      "afterBytes": 10341,
+      "sha256": "0bf573d7af8a28baa863c5b887dbf976a71f288131b2a3ac32f445c4a3d0643c",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "881471457478a6da29f8988251ad492f72ebed24858ec17af5b042d17ae74247"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-grid.imageset/grid@3x.png",
+      "beforeBytes": 25561,
+      "afterBytes": 19327,
+      "sha256": "772603b613d7ab8198e5c69f77d3ed7252a68d39adfb53b1e860c70b240766e0",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "9dd2be014158ec3e93d325bcf972ce670bf12a2ab8c02cd55e7d7bc44330b38b"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-handset.imageset/handset@1x.png",
+      "beforeBytes": 3090,
+      "afterBytes": 2685,
+      "sha256": "d5b6176731d6d0d3efea8552a00166fc9b4542759f47b759c57a3a2bf4ad3c8d",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "9a24aded4396aa10baec970f666dc9ee178b77ecec37588ef0a759e7f1aaae81"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-handset.imageset/handset@2x.png",
+      "beforeBytes": 8683,
+      "afterBytes": 7103,
+      "sha256": "37eb1e512a7571d4c495be8e44be1d92f3b61deab72a3f08fcaf79f3926bb6e9",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "39192b10dd450d4bd61a7d0dcc628b48c0a46ccfe622e917704c4fc118257dc0"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-handset.imageset/handset@3x.png",
+      "beforeBytes": 16243,
+      "afterBytes": 12635,
+      "sha256": "26d489a29f3abe6ec4debee9a162a8df1baeda70f3e0e85e33d53c4124ddf44f",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "a0fc3fe02caaf546834459b9c0a4245f0d33beb3545874e1ab24fbfb667739f1"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-heart.imageset/heart@1x.png",
+      "beforeBytes": 5251,
+      "afterBytes": 4675,
+      "sha256": "e570b826205f6e44085731fed59c5b117c7feaa129683668a7b89b48b65576cb",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "17b6dd242950b24e08b02b4677daec05ea5bb0839a7908acfca74516cd2ab480"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-heart.imageset/heart@2x.png",
+      "beforeBytes": 16391,
+      "afterBytes": 13909,
+      "sha256": "aa025a49a40442f48d75a25369da2d2edabc238b6dc9927fb77899eb607fb11f",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "67debf388693f59da5945f68de0e400531a152ef194f1f60470bc7fd6b2932d2"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-heart.imageset/heart@3x.png",
+      "beforeBytes": 32291,
+      "afterBytes": 26218,
+      "sha256": "f2304e668fdd20d262b012b80ae220cdd2125288b8c835f5e473fd5d636f93ed",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "89cf143e3adb1e402d03cd01daaa0f94d841b1dc7a5ab8738a13747f8a4e4e7f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-heartFill.imageset/heartFill@1x.png",
+      "beforeBytes": 5722,
+      "afterBytes": 5586,
+      "sha256": "80267108d8712ebadc597219bbc77f66191fcaecbf5f976aa407d3f708b6aefc",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "5f687e654ba3a7ec2bfc14e339c4790c3b31e7c2d72c317e1a3ccd70fb05b882"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-heartFill.imageset/heartFill@2x.png",
+      "beforeBytes": 17427,
+      "afterBytes": 16276,
+      "sha256": "9a83231dbad98fd2d730a9c6db5c2c3e6582ca83c0b9888ecadfad87da18b658",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "37dfc09b39f0d8423186951d4198ab43adbf17b076f29e00bc20bdb1872ba8bb"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-heartFill.imageset/heartFill@3x.png",
+      "beforeBytes": 33716,
+      "afterBytes": 31140,
+      "sha256": "c47b06dbe9421cf081092b5673ec5a34922cf6d18c02e47a08f83778b4ae015c",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "d22da4e1a63f78e5bec6746c2885909a515f60b97a9bc5c85d3bb21d6b1fd36f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-heartOutline.imageset/heartOutline@1x.png",
+      "beforeBytes": 5029,
+      "afterBytes": 4827,
+      "sha256": "b8423bc238f60986e726d12c9f20fec63c15262f9a1d31541920a7ba6120430c",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "3d171c195c7cb13615cda6e54b774efd8b482166cee67ee08a0d17664cbde414"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-heartOutline.imageset/heartOutline@2x.png",
+      "beforeBytes": 14921,
+      "afterBytes": 13888,
+      "sha256": "fd34bd5bb2238ccc159d308fae06bab85e668eaebc37bfb73a5f17690682f71f",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "dfc72f057dd0fd7bf09c6454f06e4573fae2b34536b8dece56c85c451f3f75b5"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-heartOutline.imageset/heartOutline@3x.png",
+      "beforeBytes": 28490,
+      "afterBytes": 26128,
+      "sha256": "af1eaf42690e648b6cdbf95bca92e9c5956ff514bd0b2f00406d4c8c8315a179",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "28be3e1847fdb57287c215b88df95fc186e182ab6adecfcd8e03be25143f910e"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-info.imageset/info@1x.png",
+      "beforeBytes": 6015,
+      "afterBytes": 5407,
+      "sha256": "0c22d7bc43156891be7b525ad3cf3ebb295f22bbff677ee574a8f7188fb91f87",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "53b8db40deab6fb0cf6681487e9b695e302541253ba9f5e467a9e013413d7d0c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-info.imageset/info@2x.png",
+      "beforeBytes": 18862,
+      "afterBytes": 16225,
+      "sha256": "fb70657ba75db71ce332ab9d6ab3c68e8ed3d6f82e95fe641679381fc3754c46",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "693d6cd9e0858cf8d6099f6f85cfd51603298cb3137d6e9f6e2488d630570c55"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-info.imageset/info@3x.png",
+      "beforeBytes": 37106,
+      "afterBytes": 30566,
+      "sha256": "87b762beb05907515be2fee45ca072278c39d8e1df4348ba0fae8df9ded29796",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "03ca399853cc0a535a1b3b9edb8552f90e8dc269a273d415c1cf0c629a637c19"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-live.imageset/live@1x.png",
+      "beforeBytes": 4948,
+      "afterBytes": 4342,
+      "sha256": "53d820f83ba0a10e0e77a17ca97e9a86446a44663011a47720a4717b9c310928",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "379619bc92efaddabdeed05846b31c15c2f34339f19af918a6bc0271410d9cf3"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-live.imageset/live@2x.png",
+      "beforeBytes": 15626,
+      "afterBytes": 13140,
+      "sha256": "cb1e2d74cf2e1434b0a732f625ab70661c276314910d3a47753622adf98a38b0",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "59b9f75908ae5165e3e63b3494651724bccdc81abba4a28ac5a49c80181eb907"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-live.imageset/live@3x.png",
+      "beforeBytes": 30779,
+      "afterBytes": 24805,
+      "sha256": "761fcc84be5ec7f63d789df4a87033930c34e6f0cec20ee9c918870fc7be51be",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "a46db5fcbf71fa01612b5ac518254ba4c17b603a8513ab22dfa8dbca41eed388"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-logout.imageset/logout@1x.png",
+      "beforeBytes": 4233,
+      "afterBytes": 3583,
+      "sha256": "28ded29a202b6fa08808676abc122ee484dac6412afaff9d1bdaf888230bd8f4",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "d7370f3cf9c9bbc3dc566bda3dac98a6cbb29e8331b7b44799d52cdac733d0f4"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-logout.imageset/logout@2x.png",
+      "beforeBytes": 13072,
+      "afterBytes": 10678,
+      "sha256": "cde3b15c6127a25d9299f9049feafeddcebef699b6ccc8303bef4bae97253005",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "cb3818f00d0d80d5bb576272f537596b3b39191b0038acb6021fc1e5da8b950d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-logout.imageset/logout@3x.png",
+      "beforeBytes": 25935,
+      "afterBytes": 20377,
+      "sha256": "04fc4ff14239905d8a265fab8f2dfba8b9c6256f43cf622fd6f9da4609c97630",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "7d5f19158ee6276dcac71e300d7d18b20bd497ac284caf6852aa500da63fa163"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-me.imageset/me@1x.png",
+      "beforeBytes": 5517,
+      "afterBytes": 4963,
+      "sha256": "75fe224006be9184ecae8445f45ab76c020ffdc1794096d2685048fd510079b6",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "549b0330fc2d8493db582cd18b9e190349196084cd08f606165e2d50c736754f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-me.imageset/me@2x.png",
+      "beforeBytes": 16988,
+      "afterBytes": 14669,
+      "sha256": "669a6b9310a4a1a565d9302d0bfa0b5e3cb765810e30cce673cd6a54ed8aad21",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "45d64a9fec43648b8b2b50a4c64bc208643679dc82841c17766b737008b02352"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-me.imageset/me@3x.png",
+      "beforeBytes": 32899,
+      "afterBytes": 27399,
+      "sha256": "428122bd46e10b7ee464bd13f67c5f1ec87ef2b67b19564b0c9b9d1287ba1c3c",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "3f59e4f6389929a49a7213587a546aecc3727650861fee89f42550226405af10"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphone.imageset/microphone@1x.png",
+      "beforeBytes": 4577,
+      "afterBytes": 4152,
+      "sha256": "4ca018b0a1b2be310617f1bdd98d6f2a566093faaf11b0b2de2fcbdaccc6a0bd",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "789c29b58611abeecbea2c4709563011be30d039821b8aec88bf602cd53577f1"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphone.imageset/microphone@2x.png",
+      "beforeBytes": 14938,
+      "afterBytes": 13459,
+      "sha256": "01b04ccba4d5b65c7e30c8c74d82edf23eb6b99e05560c6db0b0eab006a26442",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "e4e282974237e98052dc7129a07390f4b895f76a06b7cd53b5466a68d1c804f9"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphone.imageset/microphone@3x.png",
+      "beforeBytes": 29744,
+      "afterBytes": 25964,
+      "sha256": "925d50e617ca4230c6a26b61a397616e60d5b929706f5efcab98bb1410613631",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "6fbd66369c1d53c7445abe3e414fa1279cc76fb0df3c9272eda8a5dbcd90b7cc"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphoneIvory.imageset/microphoneIvory@1x.png",
+      "beforeBytes": 5079,
+      "afterBytes": 4977,
+      "sha256": "a0f603977b6481539eb9758b08adbcbf3312a2a6a8bd2e212735416d0a0f1bf2",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "708f761a540bdac5ed105e0c8f671c10abbfd93bcc07d5cdff7c72b57fef9f57"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphoneIvory.imageset/microphoneIvory@2x.png",
+      "beforeBytes": 15661,
+      "afterBytes": 15232,
+      "sha256": "107f3a2d957d3849e1a7d7c2ba30c2c96b8722ec154f664556652e793ea8fdc1",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "abcbc9d46ed5dab146c5ea176309df02c98a7d02171d380875c73dd403ce6281"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphoneIvory.imageset/microphoneIvory@3x.png",
+      "beforeBytes": 30334,
+      "afterBytes": 29200,
+      "sha256": "19cb4479433cc2e66cf9d6044aa71fa5357a0e67420c010b978824ac674cd5af",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "3320e87b81e74053129d4c2999da7ba3337508398b93906c3075b02446cab382"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphoneOff.imageset/microphoneOff@1x.png",
+      "beforeBytes": 5836,
+      "afterBytes": 5743,
+      "sha256": "f4658153744a2215be4fce96acdd0a28aae5f7c3edad105ee44398a26b1334aa",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "518f5e98150d1e35aaa4695d83a9cecaf193933c53b73e79269b917d92276269"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphoneOff.imageset/microphoneOff@2x.png",
+      "beforeBytes": 17690,
+      "afterBytes": 17035,
+      "sha256": "ccfd4f6811da637c33e941966669e4180be018a945330f6bcabd50150b65a277",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "5f8cef8e7a8bab689be0edc0956c17509dc19712b5b8f129ad277ddb83fd0e77"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphoneOff.imageset/microphoneOff@3x.png",
+      "beforeBytes": 33475,
+      "afterBytes": 32134,
+      "sha256": "344b6b4459d6c29a04f082754adae5a48a294fe5a00670ca2d874bb3c8acbebd",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "5314ff998004501b753a458fcf60c17904786a592a499a4e6f99a27a2feeef9d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphoneOffIvory.imageset/microphoneOffIvory@1x.png",
+      "beforeBytes": 6298,
+      "afterBytes": 6166,
+      "sha256": "2e8d2a1a3f4697936aa8768f528881591fd6555ffe7d3fa1f67ea3ef6d7b7bbb",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "9c058a8515d3e801dcbca31f9ec3cca0e9beea2a5b4deaff5e13519374331110"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphoneOffIvory.imageset/microphoneOffIvory@2x.png",
+      "beforeBytes": 18692,
+      "afterBytes": 18101,
+      "sha256": "ffac6ad36ed1847993dcaa7ce5e324c03ba956fb556c7dd1a9ca6105a2322398",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "5ba7676a48ad53e28ff18026da8173b9ca0be9862df49cdbf4f9ac60be09f875"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-microphoneOffIvory.imageset/microphoneOffIvory@3x.png",
+      "beforeBytes": 35967,
+      "afterBytes": 34281,
+      "sha256": "83179b30fd73348c5bccc350622060165f4876f357f1bcfeacd3e0d754ecce72",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "78550185bdfbf3b583330b493efc484bffbde3f4840c42559d906f61143b8399"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-more.imageset/more@1x.png",
+      "beforeBytes": 1084,
+      "afterBytes": 1054,
+      "sha256": "839e52966311651e7e208fee5a9631509dc419ce2833915811585e8d098cae09",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "6f7ec8d98e4a31d447a72be440a28980037952cac195c6ee7655ee7ad823c34d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-more.imageset/more@2x.png",
+      "beforeBytes": 3103,
+      "afterBytes": 2954,
+      "sha256": "c95fa2198675727e359d2fa450b4c6ac1fd55e8f887f64691ce96edad674cc92",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "8602ceb24189136b6a02393d0c92bf875e19377ea9cb7c3288cb17371390782e"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-more.imageset/more@3x.png",
+      "beforeBytes": 5464,
+      "afterBytes": 5092,
+      "sha256": "d2ff3250d98c4f2417ef4325aca8bad0e720e9bfa53a578b62baf2382aec8775",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "95934259f71d6e894e187c96bfde15b17309ffe936ad5d450620eb678d0dc0cc"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-music.imageset/music@1x.png",
+      "beforeBytes": 4780,
+      "afterBytes": 4299,
+      "sha256": "54b2f5317b1a8c9b45231e7405fe227af29a9062f95e24cd7fe031d359f5fe59",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "8a9be7e6d42c2c8ea407d5fc63063b9ae6f97872d3d6da8242baa6c2f678314c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-music.imageset/music@2x.png",
+      "beforeBytes": 14872,
+      "afterBytes": 12793,
+      "sha256": "117cef7dd9b0c9a7982f064f1d5cfde3d5bea6372263a40fb19b6f3630d14803",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "cba78f431739f6488aead25d04a1eff8875bed957b02242bc73bffd32a550569"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-music.imageset/music@3x.png",
+      "beforeBytes": 29086,
+      "afterBytes": 24488,
+      "sha256": "a06aef277c4c2e640918ea7d082ad6411c35aa75d9cf726ee9dc0107d96e04a6",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "979a47be585184189f26b0ac338caa5f380355ddfda3605d025a4fa33e58e391"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-muted.imageset/muted@1x.png",
+      "beforeBytes": 4711,
+      "afterBytes": 4294,
+      "sha256": "d6cdcfde18765d3fe658b1aadaf788e0fc0b8e8ab9927373ca1fb13055d1236c",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "a6143d5a39467a01a55a359a492f578f4b6ff4d105f41fa4d07614f5b0ac6de0"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-muted.imageset/muted@2x.png",
+      "beforeBytes": 14367,
+      "afterBytes": 12388,
+      "sha256": "cabae4b9a02ea1ce9e57be4d5263e7c041ac4c54241a969dfe48b6b61fb06927",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "ce8602714025d083809599e864419f17285784878ac0c148651b1d401c564ff7"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-muted.imageset/muted@3x.png",
+      "beforeBytes": 27791,
+      "afterBytes": 23426,
+      "sha256": "6d5381a94bec4f9a4b09617b21ef3056d5394251282d72a56fe1e75a7ac990e9",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "3594b6aab7adc3cfe88229dc6a2803525ebc79b659c0f78b14159b686b222241"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-mutedIvory.imageset/mutedIvory@1x.png",
+      "beforeBytes": 6408,
+      "afterBytes": 6232,
+      "sha256": "09d9c364310a0919da3c5cb5a2506fb3dd708575ed3fe66716d9564505fe8433",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "d1b8b122a0ecdb6d9e3c797ae197e46e9d34ac7d65e3e457a387095a3c36d219"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-mutedIvory.imageset/mutedIvory@2x.png",
+      "beforeBytes": 18811,
+      "afterBytes": 17861,
+      "sha256": "d04c02d25daf728c4b9a052286fae15b93261a7b11db384231577678c4442b06",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "941114e95fcdc193cca2a0068bafe0ec0bda60988255a834de5e032873fb6917"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-mutedIvory.imageset/mutedIvory@3x.png",
+      "beforeBytes": 36041,
+      "afterBytes": 33510,
+      "sha256": "9fdb8a9f7f9a902de3ed73b50d36505921e4c591848dc3206b29a3d2386378a5",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "f84a1e04cee05a43cf0d779b5573e69c70f2348bec64085483492dd67cd7242e"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-pause.imageset/pause@1x.png",
+      "beforeBytes": 2836,
+      "afterBytes": 2351,
+      "sha256": "f536226c45cccf8e57e1b56d2ef8c5ee2b8b8b043281e1cdc9ba0863a00b849d",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "71ccf1cca915f98087f40a4e55e9d83fe6eb4d986db13fc131582b38f015296d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-pause.imageset/pause@2x.png",
+      "beforeBytes": 8579,
+      "afterBytes": 6675,
+      "sha256": "ac7c3b38b1f3bc8a91eb4f50006c56b50879a81feac6759e1b482a9b580af8d6",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "fea564ecb3c670ab3033a1fefd6fbe04918f8d33cd409a31ea095e1348bf619f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-pause.imageset/pause@3x.png",
+      "beforeBytes": 16758,
+      "afterBytes": 12592,
+      "sha256": "e303fb4fa993c7efa37c278bc970a9b60d41ccbe446c48cb25a27669c1cc5b34",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "ade72f63fbce4b8864a88c3759c2c1a1f3c22e0e47f05e072a52cefe4fa9cdb1"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-phone.imageset/phone@1x.png",
+      "beforeBytes": 3153,
+      "afterBytes": 2776,
+      "sha256": "f21514b6de0b211f3e607a9e3a429cb4834badd478e57fd2380e7f5b678c1280",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "304a51e6e6ba6ed37cfe243b9ddd1ed0a4d6e7716355314fb5eabf5d2b8272df"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-phone.imageset/phone@2x.png",
+      "beforeBytes": 9323,
+      "afterBytes": 7955,
+      "sha256": "4d35c1329aeb207415658ecbbd78ee569bab6fef65be2cd7d411b8acf0588943",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "d4ca5bbe32a4ac6422f4ed4e94bef1052a7ebd802f73db3439926b5e356eac0a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-phone.imageset/phone@3x.png",
+      "beforeBytes": 18216,
+      "afterBytes": 14779,
+      "sha256": "75e4ea8d5d9cebe20e52163b90f7c1d272b2a8922e9ccc57e918686b77a5bbc1",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "ef01717c46c302efbfc3dcdc28d270913509dd816d361f89e55e249a8c8b4f2a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-photo.imageset/photo@1x.png",
+      "beforeBytes": 5355,
+      "afterBytes": 4564,
+      "sha256": "dec2f800aece1ea6ec5e7ce8d58691cf6e83deaa0e22bd395ac48f50bf4b8cba",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "0ec4d42a4ab23e6e54cd71f845161809d4787c149ac66724645cac8001a8ce1b"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-photo.imageset/photo@2x.png",
+      "beforeBytes": 16950,
+      "afterBytes": 13548,
+      "sha256": "c61ed461a82bb8bc32777a8056bdb65abd2e8773d57cb66b64aa6e4ee8dd598d",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "00fb6497a29b9879256dac955732331a694c8bf658593ff9a9953d8d462f61bc"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-photo.imageset/photo@3x.png",
+      "beforeBytes": 33781,
+      "afterBytes": 26269,
+      "sha256": "ff34d5871f635aaeb9e7e82456f571f2c87849d4f1171d2bb409fe147be9d230",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "2ef2adaf242a85352a6d81d056659e896ebf3c6636d6e6431122fed2b158c9f7"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-phrases.imageset/phrases@1x.png",
+      "beforeBytes": 2586,
+      "afterBytes": 2337,
+      "sha256": "23c045138a1c0b4b742ab566f97753adb877bc01cc4adcc23c37b83267725f63",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "0a20b6879b822cafb6e32c71bd0e824f747c75db42febcec8ba76da60dab64bd"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-phrases.imageset/phrases@2x.png",
+      "beforeBytes": 6839,
+      "afterBytes": 6660,
+      "sha256": "d9376e90ce8f2b927a66bf41383b6cc44f54e4c0841cdabfd71ca2ea97f79a5e",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "c4907eac1aa51e6d2334109a4cbe02db62f9701a552942e775bed251432827bd"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-phrases.imageset/phrases@3x.png",
+      "beforeBytes": 12545,
+      "afterBytes": 11969,
+      "sha256": "cb0acdd7e54ad24d78c9e160c7a8094a8f72af230d35a63b4e00db58d2c2fcb7",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "d84cf0d15bbcd5e1fbf1eecbde69e0fbf645ac1f4dc69c13dc7f44a2974e0867"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-play.imageset/play@1x.png",
+      "beforeBytes": 4115,
+      "afterBytes": 3491,
+      "sha256": "2f77be6bf7248384d6bc4be69554c5aa488256ed79b9f7204c98f3773368ba82",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "2c1c7b1f6d5fd5af680126778979cdd45650da023cbbe61db7747d6ed3d2c3da"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-play.imageset/play@2x.png",
+      "beforeBytes": 12558,
+      "afterBytes": 10166,
+      "sha256": "82af106aefc98726b7f53585e792ac97e1fc9bf51fef0c81fe3719e5a8b709d4",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "db9257e6f45fcca0d847a14452e4b72e93d245417e91fc4043bc8f6b4903dd9d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-play.imageset/play@3x.png",
+      "beforeBytes": 24751,
+      "afterBytes": 18952,
+      "sha256": "4fd41920d08b1982e57adadc3e3c7a3bcc0a24f72a3a995071b6eebe2365405d",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "187bc6d816175532d6985cf2bae742a54e69330fac87d826155992fcc97bd002"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-plus.imageset/plus@1x.png",
+      "beforeBytes": 4900,
+      "afterBytes": 4286,
+      "sha256": "89ad2815420e59c9f62685920b54468081e422b48510131d43bde8ab25e57d17",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "4f2d9e5583b7e75489727e57929dd8da1b78200953259315bf5e4954346d200a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-plus.imageset/plus@2x.png",
+      "beforeBytes": 15407,
+      "afterBytes": 13057,
+      "sha256": "0418660943fe00f0e0d52cbcb96a78a73b7c83fbbc397dcbc625591c2bee24f8",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "b394c89595ca8cf9a24efd993e2716a5d13186d5550cb5ba33edf46a2c662a02"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-plus.imageset/plus@3x.png",
+      "beforeBytes": 30751,
+      "afterBytes": 24752,
+      "sha256": "809d40e0b5a6a2582473c3405b8f5ec4ee604be6c7b8ca508dd6b382544755d3",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "0143760716a42dfe635d399b613b6c683ce17b52b02a8f93304e94c11bf1088f"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-refresh.imageset/refresh@1x.png",
+      "beforeBytes": 5418,
+      "afterBytes": 4810,
+      "sha256": "60eca3628a28bd95619cb9b8bd8a874fb36e378e121bc50d40d4a442f0cc045d",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "22d035785d19a7e493f00829bad6b4824acf2edc3e50298f9221dbd67242a39b"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-refresh.imageset/refresh@2x.png",
+      "beforeBytes": 16281,
+      "afterBytes": 13819,
+      "sha256": "7ef412379335885d5c8ba0e4c325128d571812a2ad0a71f527ced54d5bf4fb43",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "a36d9c49afe4bb76e6a68c98b4b9ac0a79370912184e093c186f65ec1cbb3372"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-refresh.imageset/refresh@3x.png",
+      "beforeBytes": 31622,
+      "afterBytes": 25973,
+      "sha256": "69b26617b8523b4055d7a90f4135b28d69d5f3ee4406544b0a5796f8439c1d2e",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "81581522013a9b091625815bff21662415ad4e2309f96b08044c71743a9afae8"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-search.imageset/search@1x.png",
+      "beforeBytes": 4895,
+      "afterBytes": 4743,
+      "sha256": "43d28c063c380b4c84208b77102299efd5a702911644960482e3cafab1bd6438",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "0f4304abc942f9989ee23c249b5bad93efc488e9b14acf0331d3e8f32f2cbab2"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-search.imageset/search@2x.png",
+      "beforeBytes": 13994,
+      "afterBytes": 13530,
+      "sha256": "050487c543e4d8697c2b6958152e28367d21eebe488fc79db7f58f1aac3bcabe",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "50eed7b1232e6fa495cc9f15cd6c5fd88b081625a0102965f86e91c06a015a5b"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-search.imageset/search@3x.png",
+      "beforeBytes": 25966,
+      "afterBytes": 24947,
+      "sha256": "9eb4051489844a09751ee991b27d964b4e985e650bfc0862bce6c3ba9771c433",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "1132ba93d0f04c2b9c06b2f882109c95898ad48a6ead0e67bc5d0b40cd40ab2c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-send.imageset/send@1x.png",
+      "beforeBytes": 4321,
+      "afterBytes": 3886,
+      "sha256": "1f2f59edf673b78aed61d82c80c85f1792c2295e11dd2c2b6c2441dc6855bfd6",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "9c6993e89375f78fd0d35bbe0113f95f0fbe8fefe0d335106d6ef2bd39420528"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-send.imageset/send@2x.png",
+      "beforeBytes": 13050,
+      "afterBytes": 10865,
+      "sha256": "16139d5c06943be0c5d636d4f1aa2e132393d58c8825824a8d6eb543a9db2b01",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "38172818209c7d2b18a2f34c157ac7ffbd0ae9103fe4be1ce086d1a2b8140868"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-send.imageset/send@3x.png",
+      "beforeBytes": 25344,
+      "afterBytes": 20186,
+      "sha256": "06471ac821af498bd44c990153433be8f63a05a0b47acd5b8f8c9cd75f95181e",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "4572f402353189e89fbf538ffd734a72f2c00a9662f82d49a9042762c1c2e37e"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-settings.imageset/settings@1x.png",
+      "beforeBytes": 5061,
+      "afterBytes": 4593,
+      "sha256": "e286c5281241020b94d4fe7301997e6e2214bd03265fd221102148cb2b807d0f",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "01ed9e480ab2d86581af3f6633f9af0344d2e7a7f57a04c7c2016b662064fa75"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-settings.imageset/settings@2x.png",
+      "beforeBytes": 15835,
+      "afterBytes": 13831,
+      "sha256": "eb0b4111597be68a0680615a81f72585c3ee4e255482ce5ee70a4c3f4582b641",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "c8568434b87d2f94e74a2305a1d85e3718a91498598ca885e19a521adcff6f52"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-settings.imageset/settings@3x.png",
+      "beforeBytes": 31226,
+      "afterBytes": 26153,
+      "sha256": "fbc2b9ac576bb7b4f8cc2b9dcb96e2012f5af1d26321a50214e0e85152a500ca",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "9d6e43887bd7ce1aa08ecd0170848223aef03c3a2d8576918a6e0e49bd90c629"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-share.imageset/share@1x.png",
+      "beforeBytes": 5377,
+      "afterBytes": 5356,
+      "sha256": "1c8e6a5d189fb2dfcb7a1158c373a9eb34793f64bbe9053ff7cc6526131c182c",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "fd07c97e706c0379d61526623a91c60a5a61e7c4c97b63f864aef55404e34127"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-share.imageset/share@2x.png",
+      "beforeBytes": 15861,
+      "afterBytes": 15159,
+      "sha256": "c0e645570d6f3212cdc0e3ebcdce0ff504e7255da2be7352cb1aa78e46ba4351",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "a8d572742367f28be9a1660fe24caf89a8930e114abe6876d1973b82050e702b"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-share.imageset/share@3x.png",
+      "beforeBytes": 30713,
+      "afterBytes": 28702,
+      "sha256": "7cafb8a3b177fde11c296f980f53328921949da665d990404eaf21bba428eb81",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "8ab52c6a22fac1b2fc37862601bd148eed3881ba975fba76c6daa9778d9c71b4"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-shorts.imageset/shorts@1x.png",
+      "beforeBytes": 4297,
+      "afterBytes": 3651,
+      "sha256": "dba6c90d8f17bdfeaa1a31d99fc1f54f2d8328d3895525cff071b119efd95244",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "30c51fc848b7093a6c38e343416218bf6e03d5df1f67c5e21e1037fe764c86fe"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-shorts.imageset/shorts@2x.png",
+      "beforeBytes": 13694,
+      "afterBytes": 10892,
+      "sha256": "fb6c78d39e418d745a3ad356493c6089b6739f670bf2dd2b37966c84816d8166",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "9558e62281b9d3e020977486b596aa87a0a7cf0c904b8562b79d6d72d0712191"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-shorts.imageset/shorts@3x.png",
+      "beforeBytes": 26808,
+      "afterBytes": 20516,
+      "sha256": "d1d71b35edde4342fdf552348248ef3fc21b4ecd8da3671d7b8aca706193b903",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "9dcd2aa79a29c2f7f084ff6ddb64fdc46c12e3010ca3a09bd92a79407919dbf0"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-sparkle.imageset/sparkle@1x.png",
+      "beforeBytes": 2965,
+      "afterBytes": 2583,
+      "sha256": "54c38b7dd4989ab4c74d3590e0d3a1d2c09bb2fbbb3ef2868e2b39797207741b",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "f96228a156686c33218be71f08a1a0b2e30ae8fdc36bfb58d15e18f1992aefe6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-sparkle.imageset/sparkle@2x.png",
+      "beforeBytes": 8797,
+      "afterBytes": 7618,
+      "sha256": "4b6c8820c2a9d71b40e642b61a354571e78615ba68d18aba83d00fb9712616ab",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "4ee84129e51860eedcefdcf3d2d768b35cdc86294eb7d9eca9238707895641f6"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-sparkle.imageset/sparkle@3x.png",
+      "beforeBytes": 17289,
+      "afterBytes": 14264,
+      "sha256": "0bd93a8a3a6fe2d3207dee18d2b2e505db6717733928de9f0a05761960ecd2b0",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "23779c8d82f197eb1bfa4eb586f040ebf2a20f2799f092e4f0924809b99806eb"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-speaker.imageset/speaker@1x.png",
+      "beforeBytes": 4326,
+      "afterBytes": 3896,
+      "sha256": "9273898c0b5fe2ba647056a3c628c1a9d19bbf238d8fd4204b06590a26aec036",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "710769090cbf545cec49f2442258968e414680652437fa95ac62b2238d06c7ea"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-speaker.imageset/speaker@2x.png",
+      "beforeBytes": 12977,
+      "afterBytes": 11296,
+      "sha256": "d72d26b43aa54435653f6fbc0591a363b976991615c14b902b74cf19537dcf2e",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "5242f26bf66969170a317d2f057b817cb885afb19b64491af5f8fc2a15dc009d"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-speaker.imageset/speaker@3x.png",
+      "beforeBytes": 24974,
+      "afterBytes": 20782,
+      "sha256": "a4de01ce014d6e5ebe573229691e73835d8cb8952fd92be4741624484eda0841",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "4adf54ec60fd4aa7754b2149293b7c9fb1bbf2036c479793131e4111c798a9ab"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-speakerIvory.imageset/speakerIvory@1x.png",
+      "beforeBytes": 5415,
+      "afterBytes": 5264,
+      "sha256": "812ad21581f799a3ef2112cc2c700456fa118b5f514dc6e59a4d69930e560f89",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "0e505c78ce65193498b631960fac97f88b185cf9fad8bad91286d06ed5f40e87"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-speakerIvory.imageset/speakerIvory@2x.png",
+      "beforeBytes": 15448,
+      "afterBytes": 14820,
+      "sha256": "04934a6f832451fda790449a86d3b3658d0cddafba7bd0fb813638678ee74301",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "789ee0a8ddb4e5267a7767564eea9b05f8b66baef66000689d10731cc0a2a083"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-speakerIvory.imageset/speakerIvory@3x.png",
+      "beforeBytes": 28867,
+      "afterBytes": 26912,
+      "sha256": "72ecd4248798b40d4c57d98ab3e41c95cd8884eaf55898240801f0b8f347bc03",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "6af5bc71968ae599f69185ecc18c832e44c15d860320d4ea9cbff7c96636f57e"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-star.imageset/star@1x.png",
+      "beforeBytes": 5345,
+      "afterBytes": 5130,
+      "sha256": "854a95bccfe6be1e1969047dbbe26d72a6d5f766355630d37b93c5562f9a2090",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "569bfa0417e6feae2753155e26b25fbe166e7109e0d4163b41aadb72c2adf80b"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-star.imageset/star@2x.png",
+      "beforeBytes": 15392,
+      "afterBytes": 14484,
+      "sha256": "de3c3258a6028ad0bd74a6ab0b73abeed3e62132960ec8c291b4c1b13cc19e7d",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "597ea518e4ca10347d3fc8e1ef7d8c1eff86d9fdf44045768c7f47b9b6bd9e74"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-star.imageset/star@3x.png",
+      "beforeBytes": 29745,
+      "afterBytes": 27374,
+      "sha256": "9471078f659dfd39da3df4147cf0000cc3e5c7cce882be08fd97905ae2ac8d7d",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "26cc6f71433c06cfae19c8effcfd13326b14f3969c5b21c5da3d9cd20aa929ec"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-starFill.imageset/starFill@1x.png",
+      "beforeBytes": 5551,
+      "afterBytes": 5365,
+      "sha256": "4d3acdbfaab43d95d34fa5a496ffc5f951d881d3ab1e0204136e1cdb39418cd8",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "e3118f4e8cb1222058edc02edf45c3ef82f3deb125c3b865ca537da7a07b8788"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-starFill.imageset/starFill@2x.png",
+      "beforeBytes": 16883,
+      "afterBytes": 15927,
+      "sha256": "4cd500968deeaf3f0958e8051718b800318c931d95a77f10f461b59b3be3448b",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "c8e4825ecd115bbdd7594a62775de7b6d293e66ce1b9dcfd1405dbae3792ad0a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-starFill.imageset/starFill@3x.png",
+      "beforeBytes": 33143,
+      "afterBytes": 30675,
+      "sha256": "fa7448307910ff34ca34e3586a2c2117d89e02dc8288dd8babd48b561de749d5",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "0829c02469baf4382bf6fcee79c16fe047a0c3e6473ef1f9214ae0fe777e9869"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-trash.imageset/trash@1x.png",
+      "beforeBytes": 4779,
+      "afterBytes": 4075,
+      "sha256": "4cbcafa207424ada7ee59ea89134dc96b7b134940efb2eaebb1e700d081b0e08",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "8193da552fab0ce00abdb1ed961f53d76e29d4d3695cfcff79c693cba1b4bf66"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-trash.imageset/trash@2x.png",
+      "beforeBytes": 14589,
+      "afterBytes": 11946,
+      "sha256": "98f20da9bcd9bfeeffd2b8997cccdee6c58af2757a70fdb03e0d9c86dced416a",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "6feef7abb16fa35299e76d694656e237625b1d3fffe58b627f8b1de920e4126c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-trash.imageset/trash@3x.png",
+      "beforeBytes": 28693,
+      "afterBytes": 22692,
+      "sha256": "2d37fbd442c4f55b30d055deef76f308f24bfdb67ae9dcdcf3f60c9b37cc129c",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "3b4c7583ce71d9772a5b7abcf263404d18cf90f896a4e7f53695db09234f7bfe"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-unreadBadge.imageset/unreadBadge@1x.png",
+      "beforeBytes": 5612,
+      "afterBytes": 5310,
+      "sha256": "9562dc277cf901f5d3d2a4a95d30952f65f3f917719f446ce0c34c032f9fd86c",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "c275d38f24f4fa0703d71336dbd3c5c0e1051faa450507f04a287d91f6bd6424"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-unreadBadge.imageset/unreadBadge@2x.png",
+      "beforeBytes": 17284,
+      "afterBytes": 15959,
+      "sha256": "e6dcdbf09650b36cf0ea64efa0f08680913d78d87f5abe0eab60f0b35407fa78",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "f496bc0505f884c50b1b40f8f69ec1668fa9030236b15ec5d3f56d14158497e4"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-unreadBadge.imageset/unreadBadge@3x.png",
+      "beforeBytes": 34398,
+      "afterBytes": 31362,
+      "sha256": "4c4cb2f2f58f2a8b63869a945721428947636f8cb9b09a3867ec3b2ace4b11e6",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "ad4b4084098ac7beb8bc20c2e8970bed06c96dc900b510868024e816a041f73a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-video.imageset/video@1x.png",
+      "beforeBytes": 4454,
+      "afterBytes": 4288,
+      "sha256": "187d14e10ff54c98eda2cd2e9732f9b67fc845345c8cb28c6802775b4839e4b4",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "39eeff4730d5adcbf74c8dfa66834655c878b210c0cf7a1cfc72b002ba36b765"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-video.imageset/video@2x.png",
+      "beforeBytes": 13371,
+      "afterBytes": 12318,
+      "sha256": "91314c64e5bcde00d3c0455ab59917e0627388824378ff839f01e4b90a700c08",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "33578fed5a822f760953fb6942d732de90b12f941675a43d4e7dc5dc30630f53"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-video.imageset/video@3x.png",
+      "beforeBytes": 24959,
+      "afterBytes": 22349,
+      "sha256": "a7d3511092125f715832b46a46c8865f78ab0291ad9e06fe5a3b336df5e364b1",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "fc2dc0900ffafca3910f07700135391c3cf8ae459f0461c9f309fe5009f35028"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-voice.imageset/voice@1x.png",
+      "beforeBytes": 5359,
+      "afterBytes": 4971,
+      "sha256": "918569d78bd835fb06bb7f582bf8c7f1a0a91bb17e8ffa507b02a16a115ca890",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "7ddd7e0ade529762edcb6e66abe54b1c32ee89c62825bed2ae532f7ff0a5ccf1"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-voice.imageset/voice@2x.png",
+      "beforeBytes": 18039,
+      "afterBytes": 16553,
+      "sha256": "d61a57b8fcf338f376444b4c7e7633a485d2c471b7f674ff5b34d26e8a86eadd",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "f0a0e9fd100d926503a89694460c9886a0193b6a7a20ee1fe20644da6f2fefd3"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoIcon-voice.imageset/voice@3x.png",
+      "beforeBytes": 36432,
+      "afterBytes": 32784,
+      "sha256": "63513588e897cb79f448dc681eb7fe0fbc06f8e8d7fe1cf3cbacef6c4ba6c7c0",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "8aae5fb78cf1ae2249c21c6e8c3acb3b49798a544167ce5b5cf9208773dc321c"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoMark.imageset/TetoMark.png",
+      "beforeBytes": 367415,
+      "afterBytes": 286189,
+      "sha256": "562ee9b06a339fab51154a3dfb48d9978231f9f47426d7210e32214f2bd66309",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "d8182acadfd3d287d83bcc190e00c0851a24af243cdf26526cad6f376845120a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/TetoWordmark.imageset/TetoWordmark.png",
+      "beforeBytes": 367415,
+      "afterBytes": 286189,
+      "sha256": "562ee9b06a339fab51154a3dfb48d9978231f9f47426d7210e32214f2bd66309",
+      "changed": true,
+      "method": "Lossless PNG optimization",
+      "beforeSHA256": "d8182acadfd3d287d83bcc190e00c0851a24af243cdf26526cad6f376845120a"
+    },
+    {
+      "path": "Teto/Resources/Assets.xcassets/VoiceHeadphones.imageset/VoiceHeadphones.png",
+      "beforeBytes": 1176056,
+      "afterBytes": 265166,
+      "sha256": "232b882d95d2cb6e2eb5c9e5a5ddd15e9397673d69b65feea2719aa734224229",
+      "changed": true,
+      "method": "PNG palette optimization, pngquant quality 85-95; original dimensions and transparency retained",
+      "beforeSHA256": "e1c88c47278f76b7f845c2571f7418275d406692b34479a2b1c2aba5b09ad906"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-class.jpg",
+      "beforeBytes": 52341,
+      "afterBytes": 52341,
+      "sha256": "7f3527afdbb9b622b8f6166e154af526778ffc4c41ff1be5fd2fbaa60ffd29af",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "7f3527afdbb9b622b8f6166e154af526778ffc4c41ff1be5fd2fbaa60ffd29af"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-class.mp4",
+      "beforeBytes": 1837165,
+      "afterBytes": 878259,
+      "sha256": "6ea73f1efd81bfd79c75fcd86926160c88db5f94947312278ac75a852a62890a",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "7132e02755bb5832499d586618788e885cc7631ff99afd5fba0b4cba6774ab17",
+      "verification": {
+        "duration": 19.6,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 490,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-duet.jpg",
+      "beforeBytes": 76748,
+      "afterBytes": 76518,
+      "sha256": "3813bc3758c7f31c286a1468309686f70359937c1a5025a0d9701124758cefd8",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "805e80b77f4722db42b3523ba3bb710225e20e510ec4b105d1b7108486c504ea"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-duet.mp4",
+      "beforeBytes": 1993562,
+      "afterBytes": 1001590,
+      "sha256": "033a4e139361212b19610fd0fa507143ad079e0388abf614a898fa950682547a",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "8955500aa25f0e5849af367f82f69dee22d554ca023a225ab4f195dcc86c807e",
+      "verification": {
+        "duration": 23.68,
+        "width": 676,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 592,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-practice.jpg",
+      "beforeBytes": 81697,
+      "afterBytes": 80515,
+      "sha256": "eeea112bf99c2f2eb8d4909e99a7b1ef4d9ede99eb1f356e8c4dd3f083c5a525",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "80fe300612e9e150b67b20ff128643cba7a734113e138d8ff5a4fbfd98172e7e"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-ballet-practice.mp4",
+      "beforeBytes": 845599,
+      "afterBytes": 431396,
+      "sha256": "1f459bd387a04049a9bd51abdb06f556fe69733a88a9deaf99c5b1ce9945c632",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "4a521740dc8079fd51c0ae146c4f3bcc7ab6c52698cb9ba387be74b65a8cd2e1",
+      "verification": {
+        "duration": 9.32,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 233,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-bridge-freestyle.jpg",
+      "beforeBytes": 107420,
+      "afterBytes": 101294,
+      "sha256": "eb133f58b7c2aaddc89c9394767994f446c09b28bd901e9081bc00335f80b2a5",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "3002174cc449c27cd22683d287fcaf98016b3d7e50d8ab4ee76946ed48765a68"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-bridge-freestyle.mp4",
+      "beforeBytes": 4846411,
+      "afterBytes": 2792181,
+      "sha256": "c9748d9d2b5094887d37d6dd03f553140d22fef16fdfe9b1307821948b28a15e",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "f7045c816d75f98f9697ae1c545d22112be38f2cd20f5fbaebdc75dbbe02195d",
+      "verification": {
+        "duration": 24.0,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 600,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-bucket-groove.jpg",
+      "beforeBytes": 53020,
+      "afterBytes": 53020,
+      "sha256": "8fe03016277ba42e54df2f9578973436e43a66a8013569d9b1a8053b0fed7353",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "8fe03016277ba42e54df2f9578973436e43a66a8013569d9b1a8053b0fed7353"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-bucket-groove.mp4",
+      "beforeBytes": 5135608,
+      "afterBytes": 2609897,
+      "sha256": "fa39b7825812ea957667f29fd97f548feb762d4f6779d31d523d05e727a73274",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "3fef229714ef6994b44be24c2f7fb7aee025a837b36b0deb449f8526df19632e",
+      "verification": {
+        "duration": 20.84,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 521,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-contemporary-flow.jpg",
+      "beforeBytes": 36525,
+      "afterBytes": 36525,
+      "sha256": "5e49de2e42058fa480d76fa4d5ac821ef4479150337dd9d07645d096e608c328",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "5e49de2e42058fa480d76fa4d5ac821ef4479150337dd9d07645d096e608c328"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-contemporary-flow.mp4",
+      "beforeBytes": 3017642,
+      "afterBytes": 1617825,
+      "sha256": "6a5f56a1a8883a85420a0f0a19e308570c387a77e7c798d49f52a18e291ca05d",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "11514f39b3b91b6697451ff5b629b77ad1c586cdd5ad1e99ad931080730cdc1c",
+      "verification": {
+        "duration": 28.84,
+        "width": 676,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 721,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-court-session.jpg",
+      "beforeBytes": 120705,
+      "afterBytes": 106713,
+      "sha256": "b3509444f1bed2f612e4184cfca63685cc9d1513a5b3c0b2f51d75c465620752",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "4e36b8d1d248feb00f7c29f7377cff561e481022fce50cf1d7a8d030f3c27e86"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-court-session.mp4",
+      "beforeBytes": 8959380,
+      "afterBytes": 5389026,
+      "sha256": "ede9201fc5002c2da2a24e627f75123933c6904145b51b9d7fbc4dd6f3008b50",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "5048a1aa32b80fb73259ae1604aa61851e17a7d81e46cff15f1d4fd087769304",
+      "verification": {
+        "duration": 35.375,
+        "width": 1280,
+        "height": 720,
+        "fps": "24/1",
+        "frames": 849,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-crew-rhythm.jpg",
+      "beforeBytes": 84441,
+      "afterBytes": 82576,
+      "sha256": "d4b011edd26e22381a25a47134d078fc2a2424e25360e745df7f44b4d82506f5",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "40a270e4f135c022c0d897226526a6c5e4b07eb2367d1b90769c69d4d99a7d06"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-crew-rhythm.mp4",
+      "beforeBytes": 3658664,
+      "afterBytes": 2028067,
+      "sha256": "a7958653f8733e65572fde92e1529cbc80928d27108079c15d9063c830abf48d",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "14182c292565a78ca8d4d98a147e497578f1abddf930a38c89fb47a833dcc9ef",
+      "verification": {
+        "duration": 11.44,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 286,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-crosswalk-duet.jpg",
+      "beforeBytes": 52431,
+      "afterBytes": 52431,
+      "sha256": "7b2ff5545001b5c12512c68dccedc8961377350b13ba589f1ce212dbe544a19c",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "7b2ff5545001b5c12512c68dccedc8961377350b13ba589f1ce212dbe544a19c"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-crosswalk-duet.mp4",
+      "beforeBytes": 5334157,
+      "afterBytes": 2820217,
+      "sha256": "9d4858409c76ad6c9baed8469c42ff1e71415cc96c0781a69ba86822777f2887",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "d950b08bc447531a27f598327bb083434159b52bbfee1c908aa823418d4d340a",
+      "verification": {
+        "duration": 37.8,
+        "width": 674,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 945,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-cypher-night.jpg",
+      "beforeBytes": 35977,
+      "afterBytes": 35977,
+      "sha256": "83cbf61df87b366b345859c341277557bc092c7ebda55573e79f3355d2e5b00e",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "83cbf61df87b366b345859c341277557bc092c7ebda55573e79f3355d2e5b00e"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-cypher-night.mp4",
+      "beforeBytes": 3744064,
+      "afterBytes": 1900704,
+      "sha256": "18bdcf021d4644c3dd747eff802e0a16e636c7b11b09b9471ddf5a60e7ec3474",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "35d6145b2910d119d279a5c3688f5b402ea9ce3a3ac275cf8ff1f8c3f00ed553",
+      "verification": {
+        "duration": 13.96,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 349,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-expressive-arms.jpg",
+      "beforeBytes": 33487,
+      "afterBytes": 32817,
+      "sha256": "cb6c5f3813fc975e7c93afba67a605b7d45c557061feb3933a97be602aec7f84",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "fe659d99ffb4f11ba9f883be464fc54115ef153b61df9e287ea92bdbc251e82a"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-expressive-arms.mp4",
+      "beforeBytes": 2476376,
+      "afterBytes": 909775,
+      "sha256": "2be7d57e4e14c1938e5bfd0f6e323a9336f4e8179ed84166d76a3d95adaf006c",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "cb8d46c4ad3999e943f8706c9c548faa6c422d26a12118d5a7a742f080681f73",
+      "verification": {
+        "duration": 52.218833,
+        "width": 1280,
+        "height": 720,
+        "fps": "30000/1001",
+        "frames": 1565,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-glitter-groove.jpg",
+      "beforeBytes": 40986,
+      "afterBytes": 40986,
+      "sha256": "277b672d274d7154ac17f15ade42a3207d43cf565a438dcc9740332c90e3ffec",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "277b672d274d7154ac17f15ade42a3207d43cf565a438dcc9740332c90e3ffec"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-glitter-groove.mp4",
+      "beforeBytes": 3194918,
+      "afterBytes": 1531126,
+      "sha256": "1ccc3192a0961695656c67c75d5c3270188f29072dd8b087f59b44df7b262478",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "dc37642e7714b3bcee3fa76df9b84de1640bfc8a3b2115c3571eacefe4b81892",
+      "verification": {
+        "duration": 23.72,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 593,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-group-rehearsal.jpg",
+      "beforeBytes": 101955,
+      "afterBytes": 96985,
+      "sha256": "dc5c0f917e9f2c1307450c4c612057a9eccc429854f39749ecfbda359e75427c",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "5c3836aafe6476c0fc3c0ea3a94c1c186fd032b4a9722faab057e9d12104680c"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-group-rehearsal.mp4",
+      "beforeBytes": 4807718,
+      "afterBytes": 2831063,
+      "sha256": "e44e83208bd6c003948a514cb54269b8e01f7218185d011bf9b049cf354cb58c",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "6f7a99c4ef6fdf491329f95646b510aff06b7e83d0b7dc5b74e6f0e870843e65",
+      "verification": {
+        "duration": 23.24,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 581,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hiphop-duet.jpg",
+      "beforeBytes": 99339,
+      "afterBytes": 95609,
+      "sha256": "07fc56fedfe8909753e2be0b939dd3444290497909805cb02da0bea2bf8a98b0",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "5e3367f19a141c20c2f16f30b6a9d690fe22dbf27499025074320d51916bbd9c"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hiphop-duet.mp4",
+      "beforeBytes": 1735261,
+      "afterBytes": 922851,
+      "sha256": "045bf542f24bb0ebb51d29922df5c00942c3fd331944f6b8e3f7b48e6a8a13f3",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "ffd7962b06ce38f6de981c408087e460ca4baeca81856f5390cce4cd9764ee03",
+      "verification": {
+        "duration": 10.24,
+        "width": 1280,
+        "height": 676,
+        "fps": "25/1",
+        "frames": 256,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hiphop-solo.jpg",
+      "beforeBytes": 111334,
+      "afterBytes": 104928,
+      "sha256": "2529541f6eab68fbdd657b050ee4588faa111d196c044c49e539958e3a37781d",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "1d13c6ed65a352cb007dd3779f1ae311e73204a53f2ab0fb0c747974129869d2"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hiphop-solo.mp4",
+      "beforeBytes": 8352835,
+      "afterBytes": 4558846,
+      "sha256": "615afbf9eb4205588228df3b182319d6a5274fdc35e0c8548d4d665bc0891e31",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "a7f8ea7bcdd0c5db89b2f68e0a85ff5b273f95b2aa8f32e958893488458329a9",
+      "verification": {
+        "duration": 40.72,
+        "width": 1280,
+        "height": 676,
+        "fps": "25/1",
+        "frames": 1018,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hoodie-phrase.jpg",
+      "beforeBytes": 17076,
+      "afterBytes": 17076,
+      "sha256": "b7eb19f82af460681f262e9fd32d8b373e9b0b6a796de152941417f124e65382",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "b7eb19f82af460681f262e9fd32d8b373e9b0b6a796de152941417f124e65382"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-hoodie-phrase.mp4",
+      "beforeBytes": 430345,
+      "afterBytes": 266360,
+      "sha256": "4bb53ca91d6e74cbcacfff8ada03f9bad02897576cda79734a64c495588a5d94",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "ea08ddacc9fd3106c7e5a9bae6b9ad94c0cbcb0ea5723bf84b3e63beb1e90e9e",
+      "verification": {
+        "duration": 9.44,
+        "width": 1280,
+        "height": 674,
+        "fps": "25/1",
+        "frames": 236,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-lifted-arms.jpg",
+      "beforeBytes": 53228,
+      "afterBytes": 52271,
+      "sha256": "cd33fc0800e9fb59ccc8b5a26a9ef57c22a9927bc2f318a298d63bb0228aa1a1",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "f5ac9797a3f6730ec9317c76ca606fe112c6d2d29eda27fccebaabf1e6d75380"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-lifted-arms.mp4",
+      "beforeBytes": 3205533,
+      "afterBytes": 1939247,
+      "sha256": "ffa748273464930537e90d595ca174db60d386e644d033f6626a506168810fd7",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "382a4ee681896edfc2b28a07e15eebeb612408d8951e3a5f8db9ece60e00b2b7",
+      "verification": {
+        "duration": 38.7387,
+        "width": 1280,
+        "height": 720,
+        "fps": "30000/1001",
+        "frames": 1161,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-loft-partners.jpg",
+      "beforeBytes": 78716,
+      "afterBytes": 78716,
+      "sha256": "5092b974b101809ab8781a79593f24c0e8a45741b83a931cfb3218ae5858db48",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "5092b974b101809ab8781a79593f24c0e8a45741b83a931cfb3218ae5858db48"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-loft-partners.mp4",
+      "beforeBytes": 3771468,
+      "afterBytes": 2043721,
+      "sha256": "83059285aedc3a836e3f190da2a2e64c7f77e14b16011808cf30181655e99ac2",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "9eb0ab4115e63224c629ac517642588d20d436bd2cbc067b3506a5f51d549f0b",
+      "verification": {
+        "duration": 27.32,
+        "width": 1280,
+        "height": 674,
+        "fps": "25/1",
+        "frames": 683,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-loft-session.jpg",
+      "beforeBytes": 58558,
+      "afterBytes": 58558,
+      "sha256": "335241b832d044765ef2759ea06d3c84302f61f7f7b7c972ffe7bebd19446b0c",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "335241b832d044765ef2759ea06d3c84302f61f7f7b7c972ffe7bebd19446b0c"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-loft-session.mp4",
+      "beforeBytes": 3388583,
+      "afterBytes": 1717720,
+      "sha256": "0fb43f6003f9caaa4f1de87ece8890652b1140c1dca90f964398f1ccaa93fb0e",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "85e5465a9a3a371d51342c5ce017fdbbae34d2e9ab010cabcce05d9e2c25904b",
+      "verification": {
+        "duration": 21.24,
+        "width": 1280,
+        "height": 674,
+        "fps": "25/1",
+        "frames": 531,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-mosaic-steps.jpg",
+      "beforeBytes": 134522,
+      "afterBytes": 134163,
+      "sha256": "8dce1bb6768dc0e3fafce70bb55b298d84a83d7f8fade1730f6a12604ef64387",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "6c6dfc0127ac3aa85b68982ee54ec833c0fdadb67d46fd6e49e49e3a58634056"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-mosaic-steps.mp4",
+      "beforeBytes": 3353388,
+      "afterBytes": 1957614,
+      "sha256": "4595339c09a858e0e1989e982468007a07190d155e42b86f35914cc3c7a60fe9",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "59d7298281e9a7f5d0d7af1bca4d168bb179631545f43372ac3ae8899fdf2f38",
+      "verification": {
+        "duration": 12.4,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 310,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-mural-phrase.jpg",
+      "beforeBytes": 72367,
+      "afterBytes": 72367,
+      "sha256": "369019191bbf908330d40a5ab6952ed9499b38f72c26b2436fd0db2cf9b68d79",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "369019191bbf908330d40a5ab6952ed9499b38f72c26b2436fd0db2cf9b68d79"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-mural-phrase.mp4",
+      "beforeBytes": 2773072,
+      "afterBytes": 1392132,
+      "sha256": "20c0e142be4da26b42582d06e27437a886c6276415dbdb405edeb271f28f563f",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "4284c23b5d6da274d83d7ad12b41cdbd002ca3c590a732dcff074e2008adebb2",
+      "verification": {
+        "duration": 18.958333,
+        "width": 1280,
+        "height": 720,
+        "fps": "24/1",
+        "frames": 455,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-night-crew.jpg",
+      "beforeBytes": 75755,
+      "afterBytes": 75755,
+      "sha256": "118a7ba95a732344b63b75b75961f04305092113a1fbc59a4d576fb17d71e354",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "118a7ba95a732344b63b75b75961f04305092113a1fbc59a4d576fb17d71e354"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-night-crew.mp4",
+      "beforeBytes": 6534194,
+      "afterBytes": 4221104,
+      "sha256": "8599464a30152a3d387b15267b020a1be0542f5f282c310fb69de3203a9d6ec2",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "8fa26a3f2fca283d9ec26cc658012b518de77242b59adb8a209eed09a3de4f21",
+      "verification": {
+        "duration": 14.22,
+        "width": 720,
+        "height": 1280,
+        "fps": "50/1",
+        "frames": 711,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-practice-partners.jpg",
+      "beforeBytes": 141095,
+      "afterBytes": 129300,
+      "sha256": "bd981146f61424d7d48c3242ebb25411caf927acebaf175203f0f2bbe9bed3f9",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "3397c441c05adf57a578dc4eb257a8b5adf3f93837560b582cdce0f3ec62e1a1"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-practice-partners.mp4",
+      "beforeBytes": 2467091,
+      "afterBytes": 1349525,
+      "sha256": "46e69ea4732c745bb6fbf7bf797eb845bd1cd149b1eeffe35532ac55de31a67b",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "a9c1bd00d3c596e87bac5728b1664870814af497c0d5c4436bb8718fdc82d380",
+      "verification": {
+        "duration": 15.04,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 376,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-purple-groove.jpg",
+      "beforeBytes": 43060,
+      "afterBytes": 43060,
+      "sha256": "bbfafae94ccffb976df3c53ab250fed0060cd431b32c57adcacc9e518c869e85",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "bbfafae94ccffb976df3c53ab250fed0060cd431b32c57adcacc9e518c869e85"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-purple-groove.mp4",
+      "beforeBytes": 2087782,
+      "afterBytes": 876934,
+      "sha256": "e05891ceeae46d4004b6c9b6e31ec7448de9e4db8214d9641e840e46e745b1ed",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "35ed83d3320fa313ab1e2cef22259db2d5885a926209aaf0ac036a04646f6739",
+      "verification": {
+        "duration": 10.64,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 266,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-rooftop-freestyle.jpg",
+      "beforeBytes": 45533,
+      "afterBytes": 45533,
+      "sha256": "973a1a3d543936ffa41c3a98b37a8e4e335a4ac0aca85e15bd2e2a097efc9b88",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "973a1a3d543936ffa41c3a98b37a8e4e335a4ac0aca85e15bd2e2a097efc9b88"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-rooftop-freestyle.mp4",
+      "beforeBytes": 3763915,
+      "afterBytes": 1749170,
+      "sha256": "b5a1adba6ce80f9124ece75cc4e08b45e449eb6b5ee0a2e236a0ed7741067e60",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "c5f133ab62cc1651a906a2bc072e4c0edb644c7123f0aef40e003233707913cc",
+      "verification": {
+        "duration": 20.4,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 510,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-salsa-floor.jpg",
+      "beforeBytes": 57507,
+      "afterBytes": 57507,
+      "sha256": "35809c2760525d4d1246e4ad3e0aa0b6a2f96aa690b30bdcf22bd294326bdf2a",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "35809c2760525d4d1246e4ad3e0aa0b6a2f96aa690b30bdcf22bd294326bdf2a"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-salsa-floor.mp4",
+      "beforeBytes": 6907453,
+      "afterBytes": 3658727,
+      "sha256": "9f239af3c76e2070872f242955e42f53b8ca05ab9079b221e9adca6eb0d27dd1",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "419565fbe4f64e7e99c606282c91afaf6f51247f57ece81a25f877e04904c532",
+      "verification": {
+        "duration": 17.142125,
+        "width": 1280,
+        "height": 720,
+        "fps": "24000/1001",
+        "frames": 411,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-seaside.jpg",
+      "beforeBytes": 51947,
+      "afterBytes": 51947,
+      "sha256": "8201420d570b4dd6a2034cef3880a2da3c22fe9cdc494bab4bc7221b6f4591cf",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "8201420d570b4dd6a2034cef3880a2da3c22fe9cdc494bab4bc7221b6f4591cf"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-seaside.mp4",
+      "beforeBytes": 2578537,
+      "afterBytes": 1286362,
+      "sha256": "7e07ff0576fca17443c0740bcf90fc6e447b3a6aa88eab7a5353801829b4648e",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "97bc21b7c689e5d7f79b5eaf14f41204dd5996cb09fb3b1d41b042b5f8360733",
+      "verification": {
+        "duration": 19.96,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 499,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-shared-rhythm.jpg",
+      "beforeBytes": 53397,
+      "afterBytes": 53397,
+      "sha256": "8bcaa2534c783c22f46177999540fab6127e7a8fb29538d49144b91d2c382aea",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "8bcaa2534c783c22f46177999540fab6127e7a8fb29538d49144b91d2c382aea"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-shared-rhythm.mp4",
+      "beforeBytes": 1107179,
+      "afterBytes": 455698,
+      "sha256": "480737b1bc0d8dbe09cca6935122c01b36168564e8479b71379df35ae5b794e0",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "4a77c65634a94fb31f36da0de180c8902294a59b02c037e7f8a090d34cbf5ddb",
+      "verification": {
+        "duration": 12.8,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 320,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-crew.jpg",
+      "beforeBytes": 210939,
+      "afterBytes": 179321,
+      "sha256": "54b0b2579e6cab44e1b18fe8d5f378c43381f9550cfe6f4008761ac045d6d9ad",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "5eb6085c0df38fe5d66ff186900ffbaa59707d09a233c7fbb7ed29427b1d2a80"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-crew.mp4",
+      "beforeBytes": 1880350,
+      "afterBytes": 1142151,
+      "sha256": "14c0a85ca1897325645d8b7f930d50382b05fc9a60baed2326be01889ab73b89",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "a2934a667f20902f658b58a724031bd1159d6d2e8f3451c21f01af4eda999b19",
+      "verification": {
+        "duration": 9.64,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 241,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-power.jpg",
+      "beforeBytes": 78193,
+      "afterBytes": 78193,
+      "sha256": "6aa8518a7080a7427b3f603d83d96054d77f54bb0f6ab810685db2c003cad0e2",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "6aa8518a7080a7427b3f603d83d96054d77f54bb0f6ab810685db2c003cad0e2"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-power.mp4",
+      "beforeBytes": 693764,
+      "afterBytes": 354309,
+      "sha256": "3a5193ffe3335864df5370538fe60e3b2e75f420dcc4745f66914806a2ccdfe0",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "3fe08c24c5bdaab02b6ba1c8e6c2183921082ffefb1b0c7afd4b758d51b44a5d",
+      "verification": {
+        "duration": 6.2,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 155,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-tango.jpg",
+      "beforeBytes": 120197,
+      "afterBytes": 119868,
+      "sha256": "c01824783c43334c632cf03a010f0cc259a55412c8df56aae799f1a2da1873c0",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "a774c2f2b0401d40cffa35d8d5af455834b7e4f63069f99b5304d6f16cfda5e3"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-street-tango.mp4",
+      "beforeBytes": 5153273,
+      "afterBytes": 2762602,
+      "sha256": "af282f90854daad46282e176fad49817b88ec6bb80ab74de0d5027df816b38aa",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "6afbb352c93672acc27ba5255b8b90e689eb00b94215d0e32f9acc6b1d3e4f83",
+      "verification": {
+        "duration": 26.4264,
+        "width": 720,
+        "height": 1280,
+        "fps": "30000/1001",
+        "frames": 792,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio-chemistry.jpg",
+      "beforeBytes": 94050,
+      "afterBytes": 90811,
+      "sha256": "146ff3e12b83e8002e767243ff79b061db757a9f4fd85d2babc23ab66308116b",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "045e2f57d292ac6d35fca40ae17b7ec892945b1171b2119115b2b4d317bbd348"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio-chemistry.mp4",
+      "beforeBytes": 4323098,
+      "afterBytes": 2216008,
+      "sha256": "01038d1a7fa47b7a33b834b3463c06e8d1f08a111588f8c3b66dffb2afa16e52",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "50c42960f95ced2da38e7ae347a00a9560714b645d8bd5b758db5f3016e7bd7b",
+      "verification": {
+        "duration": 17.76,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 444,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio-joy.jpg",
+      "beforeBytes": 63510,
+      "afterBytes": 62993,
+      "sha256": "786b2696751cf68d9cbe26204a0471b2787fc5f272e71baa04b0ad621d5bde22",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "923b4decabd58f14bb094a3e7bda974ddef59ca0a61b91833dd881e2f06c5b50"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio-joy.mp4",
+      "beforeBytes": 3327891,
+      "afterBytes": 1539289,
+      "sha256": "a95641911df47101eb4b17129ab6fd37517158baa56cd064ad3774e713f33fed",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "45e1872c35b319aabc40243f2178787439461d151e197233a5fa0a4faeac54e9",
+      "verification": {
+        "duration": 22.48,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 562,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio.jpg",
+      "beforeBytes": 41629,
+      "afterBytes": 41629,
+      "sha256": "176d3ebfb60ab2b2d95c3bfd03fd61f3e09381226c8ce0c1ca6034f493e375bf",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "176d3ebfb60ab2b2d95c3bfd03fd61f3e09381226c8ce0c1ca6034f493e375bf"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-studio.mp4",
+      "beforeBytes": 1840999,
+      "afterBytes": 689819,
+      "sha256": "7346aba650c228a1e1f48abef71715e61e197e991e51cc2b26094b4be4dcfe49",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "922ea3b9c15e3eb5b29ecbac7b976979e6683310bc07834a30e63e7ff84dd74a",
+      "verification": {
+        "duration": 14.16,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 354,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-sunny-salsa.jpg",
+      "beforeBytes": 247534,
+      "afterBytes": 208500,
+      "sha256": "fbcb4af863982e07c30aa311aa54e49e1493bf4b35de6f56dcb3cc52080da4e9",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "feb2b34160efb23b546c0845ed97b2cc7abca764e23cfaff53869f274923c66b"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-sunny-salsa.mp4",
+      "beforeBytes": 3811535,
+      "afterBytes": 2589204,
+      "sha256": "0282536b5886ae141204a067c1ab88d8a86e2b060e166a2ae2b4e781c995817f",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "bb43a3e64b09391db3fcf6799ea3b7e5a69b0604c4a76f605852031deda7df30",
+      "verification": {
+        "duration": 10.72,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 268,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-trio-count.jpg",
+      "beforeBytes": 49234,
+      "afterBytes": 49234,
+      "sha256": "d5a241b4acbb1317a48d5edd5053d24be2e03c63be56b234cb8044c3d6f3ae09",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "d5a241b4acbb1317a48d5edd5053d24be2e03c63be56b234cb8044c3d6f3ae09"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-trio-count.mp4",
+      "beforeBytes": 1003213,
+      "afterBytes": 625278,
+      "sha256": "83b778c262c85ce771a4066aaa99b2aba08161e6671871816e395860e36cc2ae",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "fd177b04a4955bbf18fb543b18c12f0daf78c9d9ded49b13c097edef25121f11",
+      "verification": {
+        "duration": 4.8,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 120,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-urban-footwork.jpg",
+      "beforeBytes": 81117,
+      "afterBytes": 80777,
+      "sha256": "70b4e825f47aa04b5ffce714119cf02f62644db78c5230eacbd7816fd9e2292b",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "28f7648e5a4e001053f35d6cf171c83728b78202c3b90ae57e3608ab3e978b0a"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-urban-footwork.mp4",
+      "beforeBytes": 9867571,
+      "afterBytes": 5529251,
+      "sha256": "26a0dfbac46766e1889547df8d9193e5162c24bdd5954bb86371a1c4c41a6287",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "705732bf855b1b775572ff30ec7e5e81fd7dd1a60a09b80a2defaeb4760c0815",
+      "verification": {
+        "duration": 50.04,
+        "width": 720,
+        "height": 1280,
+        "fps": "25/1",
+        "frames": 1251,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-warm-room.jpg",
+      "beforeBytes": 75543,
+      "afterBytes": 75543,
+      "sha256": "78b00ecd22cdf604702ae3437f98570b328c27a95a065cf2c8c18350bd351846",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "78b00ecd22cdf604702ae3437f98570b328c27a95a065cf2c8c18350bd351846"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-warm-room.mp4",
+      "beforeBytes": 9141030,
+      "afterBytes": 3802292,
+      "sha256": "44118007f95110021316d8ab600e55430b500c7dbd34c28af5725136e70a871e",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "4083308ae5ae98a47b8f782d7381c80d994f79336ed707d7e0afbbda47bb1c6b",
+      "verification": {
+        "duration": 20.52,
+        "width": 1280,
+        "height": 960,
+        "fps": "25/1",
+        "frames": 513,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-white-studio.jpg",
+      "beforeBytes": 47478,
+      "afterBytes": 47478,
+      "sha256": "f0f1fb5103326d9379d1c1d2ae207634c8c139a68a5ec872e3071630e360002e",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "f0f1fb5103326d9379d1c1d2ae207634c8c139a68a5ec872e3071630e360002e"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/dance-white-studio.mp4",
+      "beforeBytes": 456693,
+      "afterBytes": 230265,
+      "sha256": "f5f6ff9a23523a48db20dc959d220e35adb9ad9f51e861eff1c4527216450a36",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "4f2476c8df7503cdc40724519b1bf66b946f140b34e6888910e1635ded1fb0f6",
+      "verification": {
+        "duration": 3.92,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 98,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-ballet.jpg",
+      "beforeBytes": 39604,
+      "afterBytes": 36915,
+      "sha256": "ab311b3c1409c2257454463bc0942063f5b51e23a27f5b07f42d9ad18bd89862",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-ballet.mp4",
+      "beforeBytes": 62667620,
+      "afterBytes": 30566503,
+      "sha256": "65808ee5a63b608ce3647df0cbdfcdddb8d1083b4eba7d350e8957c2ecc6b712",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+      "verification": {
+        "duration": 755.390998,
+        "width": 406,
+        "height": 720,
+        "fps": "60000/1001",
+        "frames": 45271,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 1,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-groove.jpg",
+      "beforeBytes": 71827,
+      "afterBytes": 71827,
+      "sha256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-groove.mp4",
+      "beforeBytes": 27672017,
+      "afterBytes": 12176656,
+      "sha256": "c68d41d909ecb71841edbc9d5c39a2e6af7adc8cb18970aacbffaa3002554592",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+      "verification": {
+        "duration": 145.011533,
+        "width": 1280,
+        "height": 720,
+        "fps": "30000/1001",
+        "frames": 4346,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 1,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-hiphop.jpg",
+      "beforeBytes": 138948,
+      "afterBytes": 127492,
+      "sha256": "2ae4bdd75ab71543d683eeb391882663ced4f3b4a9d2afa548adac6c9292ed75",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-hiphop.mp4",
+      "beforeBytes": 33168897,
+      "afterBytes": 18275013,
+      "sha256": "821f5fe6a8dc45ccef4daae8d4be21c79460a3448615ff9e73ce60cc39cecc04",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+      "verification": {
+        "duration": 336.669667,
+        "width": 1280,
+        "height": 720,
+        "fps": "24000/1001",
+        "frames": 8072,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 1,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-jazz.jpg",
+      "beforeBytes": 99469,
+      "afterBytes": 94271,
+      "sha256": "79dd8ebccc8f6df694a8585af9d53343cba726fb34e64ac28da7443a5d53837f",
+      "changed": true,
+      "method": "JPEG quality ceiling 85, progressive entropy optimization; original dimensions",
+      "beforeSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-jazz.mp4",
+      "beforeBytes": 45520736,
+      "afterBytes": 21491654,
+      "sha256": "26ee3bc0a50bb4a3b20bc0a7b34661fcc517f6ee340146146238ca2f07bc9eff",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+      "verification": {
+        "duration": 411.0,
+        "width": 1280,
+        "height": 720,
+        "fps": "24/1",
+        "frames": 9864,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 1,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-reach.jpg",
+      "beforeBytes": 50026,
+      "afterBytes": 50026,
+      "sha256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-reach.mp4",
+      "beforeBytes": 2156303,
+      "afterBytes": 495827,
+      "sha256": "e1637a40ef1cd2fe55932e05a9602a2293628577fc0a0882fe9aefc10a03c93b",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+      "verification": {
+        "duration": 26.773292,
+        "width": 1280,
+        "height": 720,
+        "fps": "25/1",
+        "frames": 667,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 1,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-rehearsal.jpg",
+      "beforeBytes": 66799,
+      "afterBytes": 66799,
+      "sha256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-rehearsal.mp4",
+      "beforeBytes": 15091737,
+      "afterBytes": 7127109,
+      "sha256": "b4ca617248f6dd20f71af954bd92a1dc322d7b9f40acaf9609b66434bc97c95b",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart",
+      "beforeSHA256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+      "verification": {
+        "duration": 202.919002,
+        "width": 1280,
+        "height": 720,
+        "fps": "60/1",
+        "frames": 12172,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 1,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-street.jpg",
+      "beforeBytes": 15508,
+      "afterBytes": 15508,
+      "sha256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
+      "changed": false,
+      "method": "Original retained: encoded output was not smaller",
+      "beforeSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1"
+    },
+    {
+      "path": "Teto/Resources/DanceMedia/phrase-film-street.mp4",
+      "beforeBytes": 2041870,
+      "afterBytes": 1071531,
+      "sha256": "64ab28c3619020ea08890e78200aed9a1fddc95e42af088471afad929b441c68",
+      "changed": true,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart; original 0.033-second start offset retained by timestamp-preserving remux",
+      "beforeSHA256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+      "verification": {
+        "duration": 66.9669,
+        "width": 640,
+        "height": 360,
+        "fps": "30000/1001",
+        "frames": 2007,
+        "maxTimestampDriftSeconds": 0.0,
+        "audioPayloadUnchanged": true,
+        "audioStreams": 0,
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "audioPacketTimingUnchanged": true,
+        "sampleAspectRatioUnchanged": true
+      }
+    }
+  ],
+  "visualReview": "All 46 video files compared with the pre-compression runtime revision at 10%, 50% and 90%; see videos-01.jpg through videos-08.jpg. Five representative image comparisons in image-comparison.jpg. This is representative visual inspection, not every-frame visual review.",
+  "validation": "Every runtime video fully decoded with ffmpeg; frame counts, dimensions, average frame rates and packet presentation timestamps compared; compressed audio payload hashes matched. All images decoded and dimensions checked; transparency retained. Protected brand artwork and TetoIcon assets checked for identical decoded RGBA pixels. No app compile, typecheck, simulator, app launch, or tests."
+}

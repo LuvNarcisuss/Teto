@@ -60,6 +60,8 @@ Open `Teto.xcodeproj` after the media download finishes. This repository contain
 
 ## Codemagic distribution
 
+Runtime media was compressed from 374.6 MB to 192.0 MB while preserving Design originals. See [media compression details](docs/runtime-media-compression.md) for methods, provenance and validation limits. These are resource sizes, not a measured IPA size.
+
 Select the `teto-ios-app-store` workflow in `codemagic.yaml`. It uses Xcode 26.5, the root `Teto.xcodeproj`, scheme `teto`, bundle ID `com.teto.dance`, and App Store Connect app ID `6826151569`.
 
 The Codemagic App Store Connect integration must be named `Teto`, with access to this app. Its signing identities must include a valid Apple Distribution certificate and matching App Store profile. The workflow downloads bundled Git LFS media, applies signing profiles, assigns a new build number, exports the Release IPA and uploads it using `publishing.app_store_connect.auth: integration`. The `submit_to_testflight` and `submit_to_app_store` flags remain false: upload is enabled; automatic beta review and App Store review submission are disabled. Apple must process the uploaded build before it becomes available in App Store Connect.

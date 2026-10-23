@@ -1,5 +1,9 @@
 > Current UI architecture (2026-10-20): UIKit + Swift. See [UIKit migration](uikit-migration.md) for current source entry points, generated icons, service boundaries and unverified items. Earlier SwiftUI file inventories below are historical and have been superseded.
 
+## 2026-10-23 — Runtime media compression
+
+Runtime videos and images now total 191,984,945 bytes, down from 374,632,718 bytes (48.7%). All 46 videos use HEVC/hvc1 with the original dimensions, frame counts and presentation timestamps; existing audio payloads and packet timing are unchanged. Of 340 images, 302 became smaller and 38 retained their bytes. All 177 protected logo/icon assets retain identical decoded RGBA pixels. Design originals, catalog identities and practice cues remain unchanged. Earlier H.264 runtime and byte-identical logo-copy descriptions are superseded. Full media decoding, representative visual comparisons and static source/metadata checks only; no app build, app execution, simulator, tests or measured IPA size. See [runtime media compression](runtime-media-compression.md).
+
 ## 2026-10-23 — Teto Codemagic App Store configuration
 
 The root `codemagic.yaml` now targets `Teto.xcodeproj` / `teto`, bundle ID `com.teto.dance`, Apple app ID `6826151569`, the `Teto` App Store Connect integration and Xcode `26.5`. The earlier Unison/Runner identifiers and `ios/` working directories were template values and are superseded. The user-supplied notification recipient is preserved.

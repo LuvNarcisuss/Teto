@@ -10,9 +10,11 @@
       "download": "https://images.pexels.com/photos/18854495/pexels-photo-18854495.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
       "asset": "PhraseAuthorSable",
       "file": "Teto/Resources/Assets.xcassets/PhraseAuthorSable.imageset/PhraseAuthorSable.jpg",
-      "sha256": "2005f7cf09a6ca7eb412467db7414357dc56078cdf3100f309cc1a3e6491e939",
+      "sha256": "2842f038a15afdf8696b88d76fc2dc976c40c47fed8c09b318d41c35a825d796",
       "appName": "Sable Quinn",
-      "authorID": "phrase-sable"
+      "authorID": "phrase-sable",
+      "preCompressionSHA256": "2005f7cf09a6ca7eb412467db7414357dc56078cdf3100f309cc1a3e6491e939",
+      "runtimeCompressionReport": "Design/MediaOptimization/2026-10-23/manifest.json"
     },
     {
       "id": "1043471",
@@ -23,7 +25,9 @@
       "file": "Teto/Resources/Assets.xcassets/PhraseAuthorRowan.imageset/PhraseAuthorRowan.jpg",
       "sha256": "3122966a13c3ae6e16af099cc3cdaed22f3617b0d89eb35e1455fd584fb523c9",
       "appName": "Rowan Hale",
-      "authorID": "phrase-rowan"
+      "authorID": "phrase-rowan",
+      "preCompressionSHA256": "3122966a13c3ae6e16af099cc3cdaed22f3617b0d89eb35e1455fd584fb523c9",
+      "runtimeCompressionReport": "Design/MediaOptimization/2026-10-23/manifest.json"
     },
     {
       "id": "11971465",
@@ -32,9 +36,11 @@
       "download": "https://images.pexels.com/photos/11971465/pexels-photo-11971465.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
       "asset": "PhraseAuthorIndigo",
       "file": "Teto/Resources/Assets.xcassets/PhraseAuthorIndigo.imageset/PhraseAuthorIndigo.jpg",
-      "sha256": "3b444903d907b894c877ef289e9749150c32522607043985f5747764a091a4c6",
+      "sha256": "c265d5735c4947d4a3cac27f1bc6391d6f6ae707e240158030aa2e5b3ed687a9",
       "appName": "Indigo Marsh",
-      "authorID": "phrase-indigo"
+      "authorID": "phrase-indigo",
+      "preCompressionSHA256": "3b444903d907b894c877ef289e9749150c32522607043985f5747764a091a4c6",
+      "runtimeCompressionReport": "Design/MediaOptimization/2026-10-23/manifest.json"
     },
     {
       "id": "1300402",
@@ -43,9 +49,11 @@
       "download": "https://images.pexels.com/photos/1300402/pexels-photo-1300402.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
       "asset": "PhraseAuthorCassian",
       "file": "Teto/Resources/Assets.xcassets/PhraseAuthorCassian.imageset/PhraseAuthorCassian.jpg",
-      "sha256": "12a195ba34bb2a5fb5b8d3a873e0afac6568a2a720e37adbec1b44d7a7feb7d5",
+      "sha256": "2a16e283cd173e9cb1213a89dac351f034a447cc04db1aff7e6ac1528232cacd",
       "appName": "Cassian Brooks",
-      "authorID": "phrase-cassian"
+      "authorID": "phrase-cassian",
+      "preCompressionSHA256": "12a195ba34bb2a5fb5b8d3a873e0afac6568a2a720e37adbec1b44d7a7feb7d5",
+      "runtimeCompressionReport": "Design/MediaOptimization/2026-10-23/manifest.json"
     },
     {
       "id": "15317178",
@@ -54,9 +62,11 @@
       "download": "https://images.pexels.com/photos/15317178/pexels-photo-15317178.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
       "asset": "PhraseAuthorMaren",
       "file": "Teto/Resources/Assets.xcassets/PhraseAuthorMaren.imageset/PhraseAuthorMaren.jpg",
-      "sha256": "325aba14558e1f84e0cc6d79ac64a58e332af1986a600e8ed9b08222a645b417",
+      "sha256": "40ca8a915bbe3bb652b8705d8eb839bdd5543278973018bbd48e6cc6f5c70343",
       "appName": "Maren Sol",
-      "authorID": "phrase-maren"
+      "authorID": "phrase-maren",
+      "preCompressionSHA256": "325aba14558e1f84e0cc6d79ac64a58e332af1986a600e8ed9b08222a645b417",
+      "runtimeCompressionReport": "Design/MediaOptimization/2026-10-23/manifest.json"
     },
     {
       "id": "38982695",
@@ -65,9 +75,11 @@
       "download": "https://images.pexels.com/photos/38982695/pexels-photo-38982695.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
       "asset": "PhraseAuthorNia",
       "file": "Teto/Resources/Assets.xcassets/PhraseAuthorNia.imageset/PhraseAuthorNia.jpg",
-      "sha256": "1b14e61ca4f670bcdffa280838e568bdb9e66b4c95c842ab1bddb74a4ca6616e",
+      "sha256": "4773d494a533e8587cd4dba072255b9388e5f737f7c6390733cd3f002d59c33c",
       "appName": "Nia Adeyemi",
-      "authorID": "phrase-nia"
+      "authorID": "phrase-nia",
+      "preCompressionSHA256": "1b14e61ca4f670bcdffa280838e568bdb9e66b4c95c842ab1bddb74a4ca6616e",
+      "runtimeCompressionReport": "Design/MediaOptimization/2026-10-23/manifest.json"
     },
     {
       "id": "12046404",
@@ -76,9 +88,11 @@
       "download": "https://images.pexels.com/photos/12046404/pexels-photo-12046404.jpeg?auto=compress&cs=tinysrgb&w=800&h=800&fit=crop",
       "asset": "PhraseAuthorJules",
       "file": "Teto/Resources/Assets.xcassets/PhraseAuthorJules.imageset/PhraseAuthorJules.jpg",
-      "sha256": "9ba35eb71edf41b118d81369e9c82704c8fbf82cd3468a0e0c6bf5dbaae3b15d",
+      "sha256": "db1426da86f30357af50a6b1c9abed73b49ed3b2178c87d8063e0370cae7d5ac",
       "appName": "Jules Hart",
-      "authorID": "phrase-jules"
+      "authorID": "phrase-jules",
+      "preCompressionSHA256": "9ba35eb71edf41b118d81369e9c82704c8fbf82cd3468a0e0c6bf5dbaae3b15d",
+      "runtimeCompressionReport": "Design/MediaOptimization/2026-10-23/manifest.json"
     }
   ],
   "clips": [
@@ -195,14 +209,14 @@
       "bundledPath": "Teto/Resources/DanceMedia/phrase-film-hiphop.mp4",
       "coverPath": "Teto/Resources/DanceMedia/phrase-film-hiphop.jpg",
       "originalSHA256": "fcf1c17c79e64f5a7b4cf2e56afaf96a4f774afec2c8ccae49a01345fb983901",
-      "bundledSHA256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
-      "coverSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
+      "bundledSHA256": "821f5fe6a8dc45ccef4daae8d4be21c79460a3448615ff9e73ce60cc39cecc04",
+      "coverSHA256": "2ae4bdd75ab71543d683eeb391882663ced4f3b4a9d2afa548adac6c9292ed75",
       "sourceRangeSeconds": [
         49.0,
         385.64
       ],
       "coverSourceSecond": 120,
-      "modifications": "Opening montage, sponsorship and closing promotion removed. Full five-part technique lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "modifications": "Opening montage, sponsorship and closing promotion removed. Full five-part technique lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
       "audio": "English instruction; checked against source English captions.",
       "metadata": {
         "asset": "phrase-film-hiphop",
@@ -210,10 +224,14 @@
         "width": 1280,
         "height": 720,
         "fps": "24000/1001",
-        "bytes": 33168897,
-        "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
-        "coverSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
-        "fullDecode": "passed"
+        "bytes": 18275013,
+        "sha256": "821f5fe6a8dc45ccef4daae8d4be21c79460a3448615ff9e73ce60cc39cecc04",
+        "coverSHA256": "2ae4bdd75ab71543d683eeb391882663ced4f3b4a9d2afa548adac6c9292ed75",
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "frames": 8072,
+        "maxTimestampDriftSeconds": 0.0
       },
       "category": "dance",
       "visualReview": {
@@ -239,7 +257,7 @@
           0,
           336.669667
         ],
-        "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+        "sha256": "821f5fe6a8dc45ccef4daae8d4be21c79460a3448615ff9e73ce60cc39cecc04",
         "review": "Complete film inspected at 1 s with source English captions. Slow lifts, sweeps, landings and instruction pauses annotated at their runtime positions; source trim starts at 49 s."
       },
       "practicePlayback": {
@@ -251,8 +269,16 @@
         ],
         "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
         "wholeLesson": "Complete source timeline including instruction, once",
-        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
         "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      },
+      "preCompressionBundledSHA256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+      "runtimeCompression": {
+        "date": "2026-10-23",
+        "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+        "beforeBytes": 33168897,
+        "afterBytes": 18275013,
+        "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
       }
     },
     {
@@ -272,14 +298,14 @@
       "bundledPath": "Teto/Resources/DanceMedia/phrase-film-reach.mp4",
       "coverPath": "Teto/Resources/DanceMedia/phrase-film-reach.jpg",
       "originalSHA256": "f3c75c122035f4baadbd55e17b28ebbfc343ef75754fedf2d212ababd0a97a91",
-      "bundledSHA256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+      "bundledSHA256": "e1637a40ef1cd2fe55932e05a9602a2293628577fc0a0882fe9aefc10a03c93b",
       "coverSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
       "sourceRangeSeconds": [
         0,
         26.773292
       ],
       "coverSourceSecond": 10,
-      "modifications": "Complete original phrase retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "modifications": "Complete original phrase retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
       "audio": "Silent original audio track. Complete observational-learning phrase; no spoken instruction added.",
       "metadata": {
         "asset": "phrase-film-reach",
@@ -287,10 +313,14 @@
         "width": 1280,
         "height": 720,
         "fps": "25/1",
-        "bytes": 2156303,
-        "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+        "bytes": 495827,
+        "sha256": "e1637a40ef1cd2fe55932e05a9602a2293628577fc0a0882fe9aefc10a03c93b",
         "coverSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
-        "fullDecode": "passed"
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "frames": 667,
+        "maxTimestampDriftSeconds": 0.0
       },
       "category": "dance",
       "visualReview": {
@@ -321,7 +351,7 @@
           0,
           26.773292
         ],
-        "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+        "sha256": "e1637a40ef1cd2fe55932e05a9602a2293628577fc0a0882fe9aefc10a03c93b",
         "review": "Complete film inspected at 0.5 s; movement changes annotated separately from held balances. No musical beat grid."
       },
       "practicePlayback": {
@@ -333,8 +363,16 @@
         ],
         "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
         "wholeLesson": "Complete source timeline including instruction, once",
-        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
         "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      },
+      "preCompressionBundledSHA256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+      "runtimeCompression": {
+        "date": "2026-10-23",
+        "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+        "beforeBytes": 2156303,
+        "afterBytes": 495827,
+        "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
       }
     },
     {
@@ -354,14 +392,14 @@
       "bundledPath": "Teto/Resources/DanceMedia/phrase-film-rehearsal.mp4",
       "coverPath": "Teto/Resources/DanceMedia/phrase-film-rehearsal.jpg",
       "originalSHA256": "9cd17182c34c3ac5adaf3451ca0745f65fa76be068f0e88881a7442f24b92cd0",
-      "bundledSHA256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+      "bundledSHA256": "b4ca617248f6dd20f71af954bd92a1dc322d7b9f40acaf9609b66434bc97c95b",
       "coverSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
       "sourceRangeSeconds": [
         0,
         202.919184
       ],
       "coverSourceSecond": 15,
-      "modifications": "Complete original lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "modifications": "Complete original lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
       "audio": "English instruction and spoken counts at three tempos; original captions explicitly state no music is used.",
       "metadata": {
         "asset": "phrase-film-rehearsal",
@@ -369,10 +407,14 @@
         "width": 1280,
         "height": 720,
         "fps": "60/1",
-        "bytes": 15091737,
-        "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+        "bytes": 7127109,
+        "sha256": "b4ca617248f6dd20f71af954bd92a1dc322d7b9f40acaf9609b66434bc97c95b",
         "coverSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
-        "fullDecode": "passed"
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "frames": 12172,
+        "maxTimestampDriftSeconds": 0.0
       },
       "category": "dance",
       "visualReview": {
@@ -398,7 +440,7 @@
           0,
           202.919002
         ],
-        "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+        "sha256": "b4ca617248f6dd20f71af954bd92a1dc322d7b9f40acaf9609b66434bc97c95b",
         "review": "Complete film inspected at 2 s; the three drills use source spoken-count/step/hold timestamps. Caption timing is approximate, not frame-accurate. Pickup and teaching speech remain instruction cues."
       },
       "practicePlayback": {
@@ -410,8 +452,16 @@
         ],
         "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
         "wholeLesson": "Complete source timeline including instruction, once",
-        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
         "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      },
+      "preCompressionBundledSHA256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+      "runtimeCompression": {
+        "date": "2026-10-23",
+        "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+        "beforeBytes": 15091737,
+        "afterBytes": 7127109,
+        "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
       }
     },
     {
@@ -431,25 +481,29 @@
       "bundledPath": "Teto/Resources/DanceMedia/phrase-film-groove.mp4",
       "coverPath": "Teto/Resources/DanceMedia/phrase-film-groove.jpg",
       "originalSHA256": "6edec9727ee34a383459ed7e548d8db0a11c749e82e13fb23035a7e9fede5b9c",
-      "bundledSHA256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+      "bundledSHA256": "c68d41d909ecb71841edbc9d5c39a2e6af7adc8cb18970aacbffaa3002554592",
       "coverSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
       "sourceRangeSeconds": [
         12,
         157
       ],
       "coverSourceSecond": 78,
-      "modifications": "Opening montage and closing contact card removed. Main Farmer breakdown, variations and final practice retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "modifications": "Opening montage and closing contact card removed. Main Farmer breakdown, variations and final practice retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
       "audio": "Original English instruction audio retained, with English step labels. Source seconds 12-67 checked using local automatic transcription; not a word-perfect transcript.",
       "metadata": {
         "asset": "phrase-film-groove",
-        "duration": 145.011,
+        "duration": 145.011533,
         "width": 1280,
         "height": 720,
         "fps": "30000/1001",
-        "bytes": 27672017,
-        "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+        "bytes": 12176656,
+        "sha256": "c68d41d909ecb71841edbc9d5c39a2e6af7adc8cb18970aacbffaa3002554592",
         "coverSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
-        "fullDecode": "passed"
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "frames": 4346,
+        "maxTimestampDriftSeconds": 0.0
       },
       "category": "dance",
       "visualReview": {
@@ -475,7 +529,7 @@
           0,
           145.011
         ],
-        "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+        "sha256": "c68d41d909ecb71841edbc9d5c39a2e6af7adc8cb18970aacbffaa3002554592",
         "review": "Complete film inspected at 2 s, continuous drills at 0.5 s, speech checked against the English hop/stamp calls. Each repeat has an explicit runtime onset, including closeups and final freestyle."
       },
       "practicePlayback": {
@@ -487,8 +541,16 @@
         ],
         "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
         "wholeLesson": "Complete source timeline including instruction, once",
-        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
         "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      },
+      "preCompressionBundledSHA256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+      "runtimeCompression": {
+        "date": "2026-10-23",
+        "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+        "beforeBytes": 27672017,
+        "afterBytes": 12176656,
+        "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
       }
     },
     {
@@ -508,14 +570,14 @@
       "bundledPath": "Teto/Resources/DanceMedia/phrase-film-street.mp4",
       "coverPath": "Teto/Resources/DanceMedia/phrase-film-street.jpg",
       "originalSHA256": "9499ece2fe32fa1770d1f36267bd2d6ae2cd1b599ebdb5c97b56cf5b4d7ab796",
-      "bundledSHA256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+      "bundledSHA256": "64ab28c3619020ea08890e78200aed9a1fddc95e42af088471afad929b441c68",
       "coverSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
       "sourceRangeSeconds": [
         27,
         94
       ],
       "coverSourceSecond": 53,
-      "modifications": "Opening montage, picture-in-picture and closing promotion removed. Main six-step breakdown and continuous repetitions retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "modifications": "Opening montage, picture-in-picture and closing promotion removed. Main six-step breakdown and continuous repetitions retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart; original 0.033-second start offset retained by timestamp-preserving remux.",
       "audio": "No audio in the licensed Wikimedia revision; English captions and numbers teach the six steps.",
       "metadata": {
         "asset": "phrase-film-street",
@@ -523,10 +585,14 @@
         "width": 640,
         "height": 360,
         "fps": "30000/1001",
-        "bytes": 2041870,
-        "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+        "bytes": 1071531,
+        "sha256": "64ab28c3619020ea08890e78200aed9a1fddc95e42af088471afad929b441c68",
         "coverSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
-        "fullDecode": "passed"
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "frames": 2007,
+        "maxTimestampDriftSeconds": 0.0
       },
       "category": "dance",
       "visualReview": {
@@ -553,7 +619,7 @@
           0,
           66.9669
         ],
-        "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+        "sha256": "64ab28c3619020ea08890e78200aed9a1fddc95e42af088471afad929b441c68",
         "review": "Complete film inspected at 1 s; rapid middle passage inspected at 0.25 s. Numbered steps follow the visible 1-6 labels, with no extra steps inserted to make an eight."
       },
       "practicePlayback": {
@@ -565,8 +631,16 @@
         ],
         "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
         "wholeLesson": "Complete source timeline including instruction, once",
-        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
         "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      },
+      "preCompressionBundledSHA256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+      "runtimeCompression": {
+        "date": "2026-10-23",
+        "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+        "beforeBytes": 2041870,
+        "afterBytes": 1071531,
+        "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart; original 0.033-second start offset retained by timestamp-preserving remux"
       }
     },
     {
@@ -586,14 +660,14 @@
       "bundledPath": "Teto/Resources/DanceMedia/phrase-film-ballet.mp4",
       "coverPath": "Teto/Resources/DanceMedia/phrase-film-ballet.jpg",
       "originalSHA256": "dcd08e680336dc9ab4a9ebdbec1755187429be89955d61eca27723cee0803d6d",
-      "bundledSHA256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
-      "coverSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
+      "bundledSHA256": "65808ee5a63b608ce3647df0cbdfcdddb8d1083b4eba7d350e8957c2ecc6b712",
+      "coverSHA256": "ab311b3c1409c2257454463bc0942063f5b51e23a27f5b07f42d9ad18bd89862",
       "sourceRangeSeconds": [
         0,
         755.391565
       ],
       "coverSourceSecond": 240,
-      "modifications": "Complete slow walkthrough; original speed preserved. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "modifications": "Complete slow walkthrough; original speed preserved. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
       "audio": "Original English walkthrough audio retained. Source seconds 12-67 checked using local automatic transcription; no publisher captions are available and the automatic transcript is not word-perfect.",
       "metadata": {
         "asset": "phrase-film-ballet",
@@ -601,10 +675,14 @@
         "width": 406,
         "height": 720,
         "fps": "60000/1001",
-        "bytes": 62667620,
-        "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
-        "coverSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
-        "fullDecode": "passed"
+        "bytes": 30566503,
+        "sha256": "65808ee5a63b608ce3647df0cbdfcdddb8d1083b4eba7d350e8957c2ecc6b712",
+        "coverSHA256": "ab311b3c1409c2257454463bc0942063f5b51e23a27f5b07f42d9ad18bd89862",
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "frames": 45271,
+        "maxTimestampDriftSeconds": 0.0
       },
       "category": "dance",
       "visualReview": {
@@ -630,7 +708,7 @@
           0,
           755.390998
         ],
-        "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+        "sha256": "65808ee5a63b608ce3647df0cbdfcdddb8d1083b4eba7d350e8957c2ecc6b712",
         "review": "Complete slow walkthrough inspected at 2 s. Plain movement descriptions are used where the teacher walks spatial patterns. Long spoken placement explanations are separate. No 8-beat musical meter is imposed on this waltz."
       },
       "practicePlayback": {
@@ -642,8 +720,16 @@
         ],
         "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
         "wholeLesson": "Complete source timeline including instruction, once",
-        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
         "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      },
+      "preCompressionBundledSHA256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+      "runtimeCompression": {
+        "date": "2026-10-23",
+        "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+        "beforeBytes": 62667620,
+        "afterBytes": 30566503,
+        "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
       }
     },
     {
@@ -663,14 +749,14 @@
       "bundledPath": "Teto/Resources/DanceMedia/phrase-film-jazz.mp4",
       "coverPath": "Teto/Resources/DanceMedia/phrase-film-jazz.jpg",
       "originalSHA256": "94e04d2b87164f024261b2525b6160617f610398badf7edb1aa9c0b859054c4c",
-      "bundledSHA256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
-      "coverSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
+      "bundledSHA256": "26ee3bc0a50bb4a3b20bc0a7b34661fcc517f6ee340146146238ca2f07bc9eff",
+      "coverSHA256": "79dd8ebccc8f6df694a8585af9d53343cba726fb34e64ac28da7443a5d53837f",
       "sourceRangeSeconds": [
         70,
         481
       ],
       "coverSourceSecond": 130,
-      "modifications": "Channel introduction and closing promotion removed; all four steps and final combined routine retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+      "modifications": "Channel introduction and closing promotion removed; all four steps and final combined routine retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
       "audio": "English breakdown and a complete follow-along sequence; source English captions checked.",
       "metadata": {
         "asset": "phrase-film-jazz",
@@ -678,10 +764,14 @@
         "width": 1280,
         "height": 720,
         "fps": "24/1",
-        "bytes": 45520736,
-        "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
-        "coverSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
-        "fullDecode": "passed"
+        "bytes": 21491654,
+        "sha256": "26ee3bc0a50bb4a3b20bc0a7b34661fcc517f6ee340146146238ca2f07bc9eff",
+        "coverSHA256": "79dd8ebccc8f6df694a8585af9d53343cba726fb34e64ac28da7443a5d53837f",
+        "fullDecode": "passed",
+        "codec": "hevc",
+        "codecTag": "hvc1",
+        "frames": 9864,
+        "maxTimestampDriftSeconds": 0.0
       },
       "category": "dance",
       "visualReview": {
@@ -707,7 +797,7 @@
           0,
           411.0
         ],
-        "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+        "sha256": "26ee3bc0a50bb4a3b20bc0a7b34661fcc517f6ee340146146238ca2f07bc9eff",
         "review": "Complete film inspected at 2 s with English source captions; final combined routine inspected at 0.5 s. Individual steps/hip shifts and held teaching positions are timed; section cards and explanations do not count as actions."
       },
       "practicePlayback": {
@@ -719,8 +809,16 @@
         ],
         "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
         "wholeLesson": "Complete source timeline including instruction, once",
-        "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+        "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
         "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+      },
+      "preCompressionBundledSHA256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+      "runtimeCompression": {
+        "date": "2026-10-23",
+        "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+        "beforeBytes": 45520736,
+        "afterBytes": 21491654,
+        "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
       }
     }
   ],

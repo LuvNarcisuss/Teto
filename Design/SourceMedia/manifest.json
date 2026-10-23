@@ -11,25 +11,42 @@
     "originalPath": "Design/SourceMedia/pexels-7677198-original.mp4",
     "bundledPath": "Teto/Resources/DanceMedia/dance-studio.mp4",
     "originalSHA256": "b20d43ec3dd47a5db3d82b4f43eb9e0d928f57ac8c8ba3f007c9a56f0347c43b",
-    "bundledSHA256": "922ea3b9c15e3eb5b29ecbac7b976979e6683310bc07834a30e63e7ff84dd74a",
-    "modifications": "H.264 720p-equivalent resize preserving aspect ratio, CRF 25, no audio, faststart; JPEG cover extracted at 1 second.",
+    "bundledSHA256": "7346aba650c228a1e1f48abef71715e61e197e991e51cc2b26094b4be4dcfe49",
+    "modifications": "H.264 720p-equivalent resize preserving aspect ratio, CRF 25, no audio, faststart; JPEG cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
-          "height": 1280
+          "height": 1280,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "354"
         }
       ],
       "format": {
-        "duration": "14.160000",
-        "size": "1840999"
-      }
+        "duration": "14.16",
+        "size": "689819"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 354,
+      "maxTimestampDriftSeconds": 0.0
     },
-    "category": "dance"
+    "category": "dance",
+    "preCompressionBundledSHA256": "922ea3b9c15e3eb5b29ecbac7b976979e6683310bc07834a30e63e7ff84dd74a",
+    "coverSHA256": "176d3ebfb60ab2b2d95c3bfd03fd61f3e09381226c8ce0c1ca6034f493e375bf",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 1840999,
+      "afterBytes": 689819,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "8713941",
@@ -43,25 +60,42 @@
     "originalPath": "Design/SourceMedia/pexels-8713941-original.mp4",
     "bundledPath": "Teto/Resources/DanceMedia/dance-seaside.mp4",
     "originalSHA256": "f4924ce244afc88c2da43cb1b3acb52378b7bcddc8bf94698662f6ab93a0fc69",
-    "bundledSHA256": "97bc21b7c689e5d7f79b5eaf14f41204dd5996cb09fb3b1d41b042b5f8360733",
-    "modifications": "H.264 720p-equivalent resize preserving aspect ratio, CRF 25, no audio, faststart; JPEG cover extracted at 1 second.",
+    "bundledSHA256": "7e07ff0576fca17443c0740bcf90fc6e447b3a6aa88eab7a5353801829b4648e",
+    "modifications": "H.264 720p-equivalent resize preserving aspect ratio, CRF 25, no audio, faststart; JPEG cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
-          "height": 720
+          "height": 720,
+          "avg_frame_rate": "25/1",
+          "nb_frames": "499"
         }
       ],
       "format": {
-        "duration": "19.960000",
-        "size": "2578537"
-      }
+        "duration": "19.96",
+        "size": "1286362"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 499,
+      "maxTimestampDriftSeconds": 0.0
     },
-    "category": "dance"
+    "category": "dance",
+    "preCompressionBundledSHA256": "97bc21b7c689e5d7f79b5eaf14f41204dd5996cb09fb3b1d41b042b5f8360733",
+    "coverSHA256": "8201420d570b4dd6a2034cef3880a2da3c22fe9cdc494bab4bc7221b6f4591cf",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 2578537,
+      "afterBytes": 1286362,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "7958175",
@@ -77,26 +111,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-hiphop-solo.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-hiphop-solo.jpg",
     "originalSHA256": "7be653386c8a8ac48e519a6ed031accde20dd8f24fb3cb7227e7bcbfdd019afd",
-    "bundledSHA256": "a7f8ea7bcdd0c5db89b2f68e0a85ff5b273f95b2aa8f32e958893488458329a9",
-    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 10.18 seconds to include the dancer's face.",
+    "bundledSHA256": "615afbf9eb4205588228df3b182319d6a5274fdc35e0c8548d4d665bc0891e31",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 10.18 seconds to include the dancer's face. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 676,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "1018"
         }
       ],
       "format": {
-        "duration": "40.720000",
-        "size": "8352835"
-      }
+        "duration": "40.72",
+        "size": "4558846"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 1018,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -200,7 +239,16 @@
       "contactSheet": "Design/SourceMedia/Review-2026-10-20/7958175-review.jpg",
       "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
     },
-    "coverTimeSeconds": 10.18
+    "coverTimeSeconds": 10.18,
+    "preCompressionBundledSHA256": "a7f8ea7bcdd0c5db89b2f68e0a85ff5b273f95b2aa8f32e958893488458329a9",
+    "coverSHA256": "2529541f6eab68fbdd657b050ee4588faa111d196c044c49e539958e3a37781d",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 8352835,
+      "afterBytes": 4558846,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "8688877",
@@ -216,26 +264,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-crew-rhythm.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-crew-rhythm.jpg",
     "originalSHA256": "72ec6b3f4a23268e1a985b32405b14cd9cea604b1ee59b9aaea14eea22a7eab0",
-    "bundledSHA256": "14182c292565a78ca8d4d98a147e497578f1abddf930a38c89fb47a833dcc9ef",
-    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "bundledSHA256": "a7958653f8733e65572fde92e1529cbc80928d27108079c15d9063c830abf48d",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "286"
         }
       ],
       "format": {
-        "duration": "11.440000",
-        "size": "3658664"
-      }
+        "duration": "11.44",
+        "size": "2028067"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 286,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -339,7 +392,16 @@
       "contactSheet": "Design/SourceMedia/Review-2026-10-20/8688877-review.jpg",
       "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
     },
-    "coverTimeSeconds": 1.0
+    "coverTimeSeconds": 1.0,
+    "preCompressionBundledSHA256": "14182c292565a78ca8d4d98a147e497578f1abddf930a38c89fb47a833dcc9ef",
+    "coverSHA256": "d4b011edd26e22381a25a47134d078fc2a2424e25360e745df7f44b4d82506f5",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3658664,
+      "afterBytes": 2028067,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "3873100",
@@ -355,26 +417,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-white-studio.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-white-studio.jpg",
     "originalSHA256": "b047ac533fd13f82419499d9f98a89b1a152d33cbc220855bb6edf058d60c914",
-    "bundledSHA256": "4f2476c8df7503cdc40724519b1bf66b946f140b34e6888910e1635ded1fb0f6",
-    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "bundledSHA256": "f5f6ff9a23523a48db20dc959d220e35adb9ad9f51e861eff1c4527216450a36",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "98"
         }
       ],
       "format": {
-        "duration": "3.920000",
-        "size": "456693"
-      }
+        "duration": "3.92",
+        "size": "230265"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 98,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -531,7 +598,16 @@
       "contactSheet": "Design/SourceMedia/Review-2026-10-20/3873100-review.jpg",
       "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
     },
-    "coverTimeSeconds": 1.0
+    "coverTimeSeconds": 1.0,
+    "preCompressionBundledSHA256": "4f2476c8df7503cdc40724519b1bf66b946f140b34e6888910e1635ded1fb0f6",
+    "coverSHA256": "f0f1fb5103326d9379d1c1d2ae207634c8c139a68a5ec872e3071630e360002e",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 456693,
+      "afterBytes": 230265,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "10264814",
@@ -547,26 +623,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-hiphop-duet.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-hiphop-duet.jpg",
     "originalSHA256": "d1e8031ca758c75f8ebf72c59007b0aad5cf43bff7ca174a763118cd5165e2d5",
-    "bundledSHA256": "ffd7962b06ce38f6de981c408087e460ca4baeca81856f5390cce4cd9764ee03",
-    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "bundledSHA256": "045bf542f24bb0ebb51d29922df5c00942c3fd331944f6b8e3f7b48e6a8a13f3",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 676,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "256"
         }
       ],
       "format": {
-        "duration": "10.240000",
-        "size": "1735261"
-      }
+        "duration": "10.24",
+        "size": "922851"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 256,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -670,7 +751,16 @@
       "contactSheet": "Design/SourceMedia/Review-2026-10-20/10264814-review.jpg",
       "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
     },
-    "coverTimeSeconds": 1.0
+    "coverTimeSeconds": 1.0,
+    "preCompressionBundledSHA256": "ffd7962b06ce38f6de981c408087e460ca4baeca81856f5390cce4cd9764ee03",
+    "coverSHA256": "07fc56fedfe8909753e2be0b939dd3444290497909805cb02da0bea2bf8a98b0",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 1735261,
+      "afterBytes": 922851,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "8462487",
@@ -686,26 +776,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-ballet-duet.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-ballet-duet.jpg",
     "originalSHA256": "b31971b149d21fad9f5340ed5fd827b1dd3880e01e350f9b4384d2321b268b3e",
-    "bundledSHA256": "8955500aa25f0e5849af367f82f69dee22d554ca023a225ab4f195dcc86c807e",
-    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "bundledSHA256": "033a4e139361212b19610fd0fa507143ad079e0388abf614a898fa950682547a",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 676,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "592"
         }
       ],
       "format": {
-        "duration": "23.680000",
-        "size": "1993562"
-      }
+        "duration": "23.68",
+        "size": "1001590"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 592,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -809,7 +904,16 @@
       "contactSheet": "Design/SourceMedia/Review-2026-10-20/8462487-review.jpg",
       "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
     },
-    "coverTimeSeconds": 1.0
+    "coverTimeSeconds": 1.0,
+    "preCompressionBundledSHA256": "8955500aa25f0e5849af367f82f69dee22d554ca023a225ab4f195dcc86c807e",
+    "coverSHA256": "3813bc3758c7f31c286a1468309686f70359937c1a5025a0d9701124758cefd8",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 1993562,
+      "afterBytes": 1001590,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "8956471",
@@ -825,26 +929,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-studio-joy.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-studio-joy.jpg",
     "originalSHA256": "2202e13afcd5c0f3a61f62e9a31bca93befe5d3bf9c4f93890172d0b82e2c67b",
-    "bundledSHA256": "45e1872c35b319aabc40243f2178787439461d151e197233a5fa0a4faeac54e9",
-    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "bundledSHA256": "a95641911df47101eb4b17129ab6fd37517158baa56cd064ad3774e713f33fed",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "562"
         }
       ],
       "format": {
-        "duration": "22.480000",
-        "size": "3327891"
-      }
+        "duration": "22.48",
+        "size": "1539289"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 562,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -948,7 +1057,16 @@
       "contactSheet": "Design/SourceMedia/Review-2026-10-20/8956471-review.jpg",
       "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
     },
-    "coverTimeSeconds": 1.0
+    "coverTimeSeconds": 1.0,
+    "preCompressionBundledSHA256": "45e1872c35b319aabc40243f2178787439461d151e197233a5fa0a4faeac54e9",
+    "coverSHA256": "786b2696751cf68d9cbe26204a0471b2787fc5f272e71baa04b0ad621d5bde22",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3327891,
+      "afterBytes": 1539289,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "7480483",
@@ -964,26 +1082,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-practice-partners.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-practice-partners.jpg",
     "originalSHA256": "0e646a77473a60c3e0f511d2b0b3a6bdd165f342bb8a7efbe47ac3ded8941a96",
-    "bundledSHA256": "a9c1bd00d3c596e87bac5728b1664870814af497c0d5c4436bb8718fdc82d380",
-    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "bundledSHA256": "46e69ea4732c745bb6fbf7bf797eb845bd1cd149b1eeffe35532ac55de31a67b",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "376"
         }
       ],
       "format": {
-        "duration": "15.040000",
-        "size": "2467091"
-      }
+        "duration": "15.04",
+        "size": "1349525"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 376,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -1087,7 +1210,16 @@
       "contactSheet": "Design/SourceMedia/Review-2026-10-20/7480483-review.jpg",
       "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
     },
-    "coverTimeSeconds": 1.0
+    "coverTimeSeconds": 1.0,
+    "preCompressionBundledSHA256": "a9c1bd00d3c596e87bac5728b1664870814af497c0d5c4436bb8718fdc82d380",
+    "coverSHA256": "bd981146f61424d7d48c3242ebb25411caf927acebaf175203f0f2bbe9bed3f9",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 2467091,
+      "afterBytes": 1349525,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "5805069",
@@ -1103,26 +1235,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-purple-groove.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-purple-groove.jpg",
     "originalSHA256": "b525d5a0e37024fa697b60fa87bb4f522332ba0c27984206094614b6bb3c29fc",
-    "bundledSHA256": "35ed83d3320fa313ab1e2cef22259db2d5885a926209aaf0ac036a04646f6739",
-    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "bundledSHA256": "e05891ceeae46d4004b6c9b6e31ec7448de9e4db8214d9641e840e46e745b1ed",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "266"
         }
       ],
       "format": {
-        "duration": "10.640000",
-        "size": "2087782"
-      }
+        "duration": "10.64",
+        "size": "876934"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 266,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -1226,7 +1363,16 @@
       "contactSheet": "Design/SourceMedia/Review-2026-10-20/5805069-review.jpg",
       "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
     },
-    "coverTimeSeconds": 1.0
+    "coverTimeSeconds": 1.0,
+    "preCompressionBundledSHA256": "35ed83d3320fa313ab1e2cef22259db2d5885a926209aaf0ac036a04646f6739",
+    "coverSHA256": "bbfafae94ccffb976df3c53ab250fed0060cd431b32c57adcacc9e518c869e85",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 2087782,
+      "afterBytes": 876934,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "7571002",
@@ -1242,26 +1388,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-contemporary-flow.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-contemporary-flow.jpg",
     "originalSHA256": "bba941e46b6eea351f88144cf3c1d86aba679b6fe6816df4b55b523667d16851",
-    "bundledSHA256": "11514f39b3b91b6697451ff5b629b77ad1c586cdd5ad1e99ad931080730cdc1c",
-    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "bundledSHA256": "6a5f56a1a8883a85420a0f0a19e308570c387a77e7c798d49f52a18e291ca05d",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 676,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "721"
         }
       ],
       "format": {
-        "duration": "28.840000",
-        "size": "3017642"
-      }
+        "duration": "28.84",
+        "size": "1617825"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 721,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -1418,7 +1569,16 @@
       "contactSheet": "Design/SourceMedia/Review-2026-10-20/7571002-review.jpg",
       "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
     },
-    "coverTimeSeconds": 1.0
+    "coverTimeSeconds": 1.0,
+    "preCompressionBundledSHA256": "11514f39b3b91b6697451ff5b629b77ad1c586cdd5ad1e99ad931080730cdc1c",
+    "coverSHA256": "5e49de2e42058fa480d76fa4d5ac821ef4479150337dd9d07645d096e608c328",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3017642,
+      "afterBytes": 1617825,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "7322867",
@@ -1434,26 +1594,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-ballet-class.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-ballet-class.jpg",
     "originalSHA256": "23a5d21f7443157462a8853a999ec0817379fe3a04abca37ada3d82fbe5baf80",
-    "bundledSHA256": "7132e02755bb5832499d586618788e885cc7631ff99afd5fba0b4cba6774ab17",
-    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second.",
+    "bundledSHA256": "6ea73f1efd81bfd79c75fcd86926160c88db5f94947312278ac75a852a62890a",
+    "modifications": "H.264, CRF 25, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Cover extracted at 1 second. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "490"
         }
       ],
       "format": {
-        "duration": "19.600000",
-        "size": "1837165"
-      }
+        "duration": "19.6",
+        "size": "878259"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 490,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -1557,7 +1722,16 @@
       "contactSheet": "Design/SourceMedia/Review-2026-10-20/7322867-review.jpg",
       "scope": "Five representative timestamps checked for dance movement and visible language; not a frame-by-frame moderation review."
     },
-    "coverTimeSeconds": 1.0
+    "coverTimeSeconds": 1.0,
+    "preCompressionBundledSHA256": "7132e02755bb5832499d586618788e885cc7631ff99afd5fba0b4cba6774ab17",
+    "coverSHA256": "7f3527afdbb9b622b8f6166e154af526778ffc4c41ff1be5fd2fbaa60ffd29af",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 1837165,
+      "afterBytes": 878259,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
+    }
   },
   {
     "id": "8027525",
@@ -1574,26 +1748,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-urban-footwork.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-urban-footwork.jpg",
     "originalSHA256": "41bcfb9d8847472a0426699435159fadbce1dbe07868d24e728345db4ffcbbb1",
-    "bundledSHA256": "705732bf855b1b775572ff30ec7e5e81fd7dd1a60a09b80a2defaeb4760c0815",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "26a0dfbac46766e1889547df8d9193e5162c24bdd5954bb86371a1c4c41a6287",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "1251"
         }
       ],
       "format": {
-        "duration": "50.040000",
-        "size": "9867571"
-      }
+        "duration": "50.04",
+        "size": "5529251"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 1251,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -1696,6 +1875,15 @@
       "notes": "Solo dancer performs footwork, body turns and lowered grooves beside a modern building; no readable overlay found.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/8027525-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "705732bf855b1b775572ff30ec7e5e81fd7dd1a60a09b80a2defaeb4760c0815",
+    "coverSHA256": "70b4e825f47aa04b5ffce714119cf02f62644db78c5230eacbd7816fd9e2292b",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 9867571,
+      "afterBytes": 5529251,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -1713,26 +1901,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-street-power.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-street-power.jpg",
     "originalSHA256": "d173b01ef27a803b25323595c8c4a62799b316964d8ed46559765877a0a34dce",
-    "bundledSHA256": "3fe08c24c5bdaab02b6ba1c8e6c2183921082ffefb1b0c7afd4b758d51b44a5d",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "3a5193ffe3335864df5370538fe60e3b2e75f420dcc4745f66914806a2ccdfe0",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "155"
         }
       ],
       "format": {
-        "duration": "6.200000",
-        "size": "693764"
-      }
+        "duration": "6.2",
+        "size": "354309"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 155,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -1835,6 +2028,15 @@
       "notes": "Solo street dancer transitions through hand-supported rotations and standing footwork against a plain concrete wall; no readable overlay found.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/5362370-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "3fe08c24c5bdaab02b6ba1c8e6c2183921082ffefb1b0c7afd4b758d51b44a5d",
+    "coverSHA256": "6aa8518a7080a7427b3f603d83d96054d77f54bb0f6ab810685db2c003cad0e2",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 693764,
+      "afterBytes": 354309,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -1852,26 +2054,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-bridge-freestyle.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-bridge-freestyle.jpg",
     "originalSHA256": "959e12e1e199e929393eee9b00609e66708cb4eb2f56e433876725728d1e8920",
-    "bundledSHA256": "f7045c816d75f98f9697ae1c545d22112be38f2cd20f5fbaebdc75dbbe02195d",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "c9748d9d2b5094887d37d6dd03f553140d22fef16fdfe9b1307821948b28a15e",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "600"
         }
       ],
       "format": {
-        "duration": "24.000000",
-        "size": "4846411"
-      }
+        "duration": "24.0",
+        "size": "2792181"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 600,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -1974,6 +2181,15 @@
       "notes": "Dancer performs floorwork and a hand-supported kick under a bridge with two other dancers; no readable overlay found.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/8715155-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "f7045c816d75f98f9697ae1c545d22112be38f2cd20f5fbaebdc75dbbe02195d",
+    "coverSHA256": "eb133f58b7c2aaddc89c9394767994f446c09b28bd901e9081bc00335f80b2a5",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 4846411,
+      "afterBytes": 2792181,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -1991,26 +2207,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-court-session.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-court-session.jpg",
     "originalSHA256": "7d99092202ed424747d7e083711b83fce7d08b9241065df3377dccb9278b78c2",
-    "bundledSHA256": "5048a1aa32b80fb73259ae1604aa61851e17a7d81e46cff15f1d4fd087769304",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "ede9201fc5002c2da2a24e627f75123933c6904145b51b9d7fbc4dd6f3008b50",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "24/1",
           "nb_frames": "849"
         }
       ],
       "format": {
-        "duration": "35.375000",
-        "size": "8959380"
-      }
+        "duration": "35.375",
+        "size": "5389026"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 849,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -2166,6 +2387,15 @@
       "notes": "Breakdancer performs floorwork, freezes and inversions on an outdoor court; background graffiti, no non-English overlay identified in reviewed frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/6548168-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "5048a1aa32b80fb73259ae1604aa61851e17a7d81e46cff15f1d4fd087769304",
+    "coverSHA256": "b3509444f1bed2f612e4184cfca63685cc9d1513a5b3c0b2f51d75c465620752",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 8959380,
+      "afterBytes": 5389026,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -2183,26 +2413,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-studio-chemistry.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-studio-chemistry.jpg",
     "originalSHA256": "1d5b75650d900514acdb47f8212d3fb9d615afb58563bcba4f5a97e8c07c171b",
-    "bundledSHA256": "50c42960f95ced2da38e7ae347a00a9560714b645d8bd5b758db5f3016e7bd7b",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "01038d1a7fa47b7a33b834b3463c06e8d1f08a111588f8c3b66dffb2afa16e52",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "444"
         }
       ],
       "format": {
-        "duration": "17.760000",
-        "size": "4323098"
-      }
+        "duration": "17.76",
+        "size": "2216008"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 444,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -2308,6 +2543,15 @@
       "decodedOriginalFrameCount": 444,
       "method": "ffprobe -count_frames, video stream 0",
       "runtimeFrameCount": 444
+    },
+    "preCompressionBundledSHA256": "50c42960f95ced2da38e7ae347a00a9560714b645d8bd5b758db5f3016e7bd7b",
+    "coverSHA256": "146ff3e12b83e8002e767243ff79b061db757a9f4fd85d2babc23ab66308116b",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 4323098,
+      "afterBytes": 2216008,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -2325,26 +2569,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-group-rehearsal.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-group-rehearsal.jpg",
     "originalSHA256": "376c2ae73c92c23dceb042d27450aaa45ba2f44a3d7b0a5f3c26e9bea6c2dd73",
-    "bundledSHA256": "6f7a99c4ef6fdf491329f95646b510aff06b7e83d0b7dc5b74e6f0e870843e65",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "e44e83208bd6c003948a514cb54269b8e01f7218185d011bf9b049cf354cb58c",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "581"
         }
       ],
       "format": {
-        "duration": "23.240000",
-        "size": "4807718"
-      }
+        "duration": "23.24",
+        "size": "2831063"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 581,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -2447,6 +2696,15 @@
       "notes": "Group performs coordinated steps, arm gestures and turns in a mirrored studio; no readable overlay found.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/8956295-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "6f7a99c4ef6fdf491329f95646b510aff06b7e83d0b7dc5b74e6f0e870843e65",
+    "coverSHA256": "dc5c0f917e9f2c1307450c4c612057a9eccc429854f39749ecfbda359e75427c",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 4807718,
+      "afterBytes": 2831063,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -2464,26 +2722,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-expressive-arms.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-expressive-arms.jpg",
     "originalSHA256": "9eb25ba1c977e982015cc8476343ec801ae3adedcd75bf565a29124c22c37267",
-    "bundledSHA256": "cb8d46c4ad3999e943f8706c9c548faa6c422d26a12118d5a7a742f080681f73",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "2be7d57e4e14c1938e5bfd0f6e323a9336f4e8179ed84166d76a3d95adaf006c",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "30000/1001",
           "nb_frames": "1565"
         }
       ],
       "format": {
         "duration": "52.218833",
-        "size": "2476376"
-      }
+        "size": "909775"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 1565,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -2586,6 +2849,15 @@
       "notes": "Solo dancer performs expressive arm extensions and curved torso movements in a studio; no readable text found.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/6939884-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "cb8d46c4ad3999e943f8706c9c548faa6c422d26a12118d5a7a742f080681f73",
+    "coverSHA256": "cb6c5f3813fc975e7c93afba67a605b7d45c557061feb3933a97be602aec7f84",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 2476376,
+      "afterBytes": 909775,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -2603,26 +2875,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-shared-rhythm.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-shared-rhythm.jpg",
     "originalSHA256": "03da7b78b2a4df2922c14ccadc0acb1d73ed7bd90f145530d3bade2daf7135d9",
-    "bundledSHA256": "4a77c65634a94fb31f36da0de180c8902294a59b02c037e7f8a090d34cbf5ddb",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "480737b1bc0d8dbe09cca6935122c01b36168564e8479b71379df35ae5b794e0",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "320"
         }
       ],
       "format": {
-        "duration": "12.800000",
-        "size": "1107179"
-      }
+        "duration": "12.8",
+        "size": "455698"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 320,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -2725,6 +3002,15 @@
       "notes": "Partners perform expressive arm movements and coordinated grooves reflected in an indoor mirror; no readable overlay found.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/7689096-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "4a77c65634a94fb31f36da0de180c8902294a59b02c037e7f8a090d34cbf5ddb",
+    "coverSHA256": "8bcaa2534c783c22f46177999540fab6127e7a8fb29538d49144b91d2c382aea",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 1107179,
+      "afterBytes": 455698,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -2742,26 +3028,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-sunny-salsa.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-sunny-salsa.jpg",
     "originalSHA256": "9ee5bdc3dcbf24fa09a37b5120ea00ad45e555fe8d12eadc0382855016507e72",
-    "bundledSHA256": "bb43a3e64b09391db3fcf6799ea3b7e5a69b0604c4a76f605852031deda7df30",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "0282536b5886ae141204a067c1ab88d8a86e2b060e166a2ae2b4e781c995817f",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "268"
         }
       ],
       "format": {
-        "duration": "10.720000",
-        "size": "3811535"
-      }
+        "duration": "10.72",
+        "size": "2589204"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 268,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -2864,6 +3155,15 @@
       "notes": "Partners perform turning salsa steps outdoors; patterned clothing and decorative mural, no non-English text identified in reviewed frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/8249922-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "bb43a3e64b09391db3fcf6799ea3b7e5a69b0604c4a76f605852031deda7df30",
+    "coverSHA256": "fbcb4af863982e07c30aa311aa54e49e1493bf4b35de6f56dcb3cc52080da4e9",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3811535,
+      "afterBytes": 2589204,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -2881,26 +3181,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-glitter-groove.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-glitter-groove.jpg",
     "originalSHA256": "efb77c5ee0a8592504e8732f04b39fc409f6e56256ccf40db2fe6a39c3aefecc",
-    "bundledSHA256": "dc37642e7714b3bcee3fa76df9b84de1640bfc8a3b2115c3571eacefe4b81892",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "1ccc3192a0961695656c67c75d5c3270188f29072dd8b087f59b44df7b262478",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "593"
         }
       ],
       "format": {
-        "duration": "23.720000",
-        "size": "3194918"
-      }
+        "duration": "23.72",
+        "size": "1531126"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 593,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3003,6 +3308,15 @@
       "notes": "Solo dancer performs flowing arm movements, turns and steps against a plain studio background; no readable text found.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/6834067-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "dc37642e7714b3bcee3fa76df9b84de1640bfc8a3b2115c3571eacefe4b81892",
+    "coverSHA256": "277b672d274d7154ac17f15ade42a3207d43cf565a438dcc9740332c90e3ffec",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3194918,
+      "afterBytes": 1531126,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3020,26 +3334,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-ballet-practice.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-ballet-practice.jpg",
     "originalSHA256": "ee7697a2562aafcb12f2c55ce6959b6e4823baf5a615d9cd4e2420272f4e0f86",
-    "bundledSHA256": "4a521740dc8079fd51c0ae146c4f3bcc7ab6c52698cb9ba387be74b65a8cd2e1",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "1f459bd387a04049a9bd51abdb06f556fe69733a88a9deaf99c5b1ce9945c632",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "233"
         }
       ],
       "format": {
-        "duration": "9.320000",
-        "size": "845599"
-      }
+        "duration": "9.32",
+        "size": "431396"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 233,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3195,6 +3514,15 @@
       "notes": "Two dancers practice ballet arm positions and coordinated lowering/rising in a studio; no readable overlay found.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/5138501-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "4a521740dc8079fd51c0ae146c4f3bcc7ab6c52698cb9ba387be74b65a8cd2e1",
+    "coverSHA256": "eeea112bf99c2f2eb8d4909e99a7b1ef4d9ede99eb1f356e8c4dd3f083c5a525",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 845599,
+      "afterBytes": 431396,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3212,26 +3540,31 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-street-crew.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-street-crew.jpg",
     "originalSHA256": "a52df4d46633f791cd5d0e36ac028320300a0159ee9bcf66f3b6e697a415021e",
-    "bundledSHA256": "a2934a667f20902f658b58a724031bd1159d6d2e8f3451c21f01af4eda999b19",
-    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes.",
+    "bundledSHA256": "14c0a85ca1897325645d8b7f930d50382b05fc9a60baed2326be01889ab73b89",
+    "modifications": "H.264/yuv420p CRF25 maximum dimension 1280px, even dimensions, original aspect ratio and timing, no audio, faststart. Cover extracted at 1 second. No speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "metadata": {
       "programs": [],
       "stream_groups": [],
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
-          "sample_aspect_ratio": "1:1",
           "avg_frame_rate": "25/1",
           "nb_frames": "241"
         }
       ],
       "format": {
-        "duration": "9.640000",
-        "size": "1880350"
-      }
+        "duration": "9.64",
+        "size": "1142151"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 241,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3334,6 +3667,15 @@
       "notes": "Three people perform small synchronized grooves and weight shifts outdoors; abstract graffiti in background, no non-English caption identified in reviewed frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-20-B/5561275-review.jpg",
       "scope": "Five representative timestamps inspected for dance movement and visible text; not frame-by-frame moderation."
+    },
+    "preCompressionBundledSHA256": "a2934a667f20902f658b58a724031bd1159d6d2e8f3451c21f01af4eda999b19",
+    "coverSHA256": "54b0b2579e6cab44e1b18fe8d5f378c43381f9550cfe6f4008761ac045d6d9ad",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 1880350,
+      "afterBytes": 1142151,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3351,25 +3693,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-rooftop-freestyle.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-rooftop-freestyle.jpg",
     "originalSHA256": "ab229a7b363cee2e9837d67116a745cef0b3a97c6b959087db1c9511dab25b3b",
-    "bundledSHA256": "c5f133ab62cc1651a906a2bc072e4c0edb644c7123f0aef40e003233707913cc",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "b5a1adba6ce80f9124ece75cc4e08b45e449eb6b5ee0a2e236a0ed7741067e60",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 5.1,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
           "avg_frame_rate": "25/1",
-          "nb_frames": "510",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "510"
         }
       ],
       "format": {
-        "duration": "20.400000",
-        "size": "3763915"
-      }
+        "duration": "20.4",
+        "size": "1749170"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 510,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3398,6 +3745,15 @@
       ],
       "notes": "Man performs hip-hop steps, drops and grooves on a rooftop. No readable overlay in the sampled frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/2795746-review.jpg"
+    },
+    "preCompressionBundledSHA256": "c5f133ab62cc1651a906a2bc072e4c0edb644c7123f0aef40e003233707913cc",
+    "coverSHA256": "973a1a3d543936ffa41c3a98b37a8e4e335a4ac0aca85e15bd2e2a097efc9b88",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3763915,
+      "afterBytes": 1749170,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3415,25 +3771,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-crosswalk-duet.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-crosswalk-duet.jpg",
     "originalSHA256": "6ecb5f9f6450f04df5b1b41e1baf5606c0967bff19ba9c44c20f61e51fd25d45",
-    "bundledSHA256": "d950b08bc447531a27f598327bb083434159b52bbfee1c908aa823418d4d340a",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "9d4858409c76ad6c9baed8469c42ff1e71415cc96c0781a69ba86822777f2887",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 9.4,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 674,
           "height": 1280,
           "avg_frame_rate": "25/1",
-          "nb_frames": "945",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "945"
         }
       ],
       "format": {
-        "duration": "37.800000",
-        "size": "5334157"
-      }
+        "duration": "37.8",
+        "size": "2820217"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 945,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3462,6 +3823,15 @@
       ],
       "notes": "Two people dance a street duet in a crosswalk and along the curb. No readable overlay in the sampled frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/4734692-review.jpg"
+    },
+    "preCompressionBundledSHA256": "d950b08bc447531a27f598327bb083434159b52bbfee1c908aa823418d4d340a",
+    "coverSHA256": "7b2ff5545001b5c12512c68dccedc8961377350b13ba589f1ce212dbe544a19c",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 5334157,
+      "afterBytes": 2820217,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3479,25 +3849,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-bucket-groove.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-bucket-groove.jpg",
     "originalSHA256": "6dabec761b386d670eda0989704df57a0799a8330c239d7c744bb27b38bf6303",
-    "bundledSHA256": "3fef229714ef6994b44be24c2f7fb7aee025a837b36b0deb449f8526df19632e",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "fa39b7825812ea957667f29fd97f548feb762d4f6779d31d523d05e727a73274",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 5.2,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
           "avg_frame_rate": "25/1",
-          "nb_frames": "521",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "521"
         }
       ],
       "format": {
-        "duration": "20.840000",
-        "size": "5135608"
-      }
+        "duration": "20.84",
+        "size": "2609897"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 521,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3526,6 +3901,15 @@
       ],
       "notes": "Woman in a bucket hat dances hip-hop outdoors beside a building. No readable overlay in the sampled frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/8027892-review.jpg"
+    },
+    "preCompressionBundledSHA256": "3fef229714ef6994b44be24c2f7fb7aee025a837b36b0deb449f8526df19632e",
+    "coverSHA256": "8fe03016277ba42e54df2f9578973436e43a66a8013569d9b1a8053b0fed7353",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 5135608,
+      "afterBytes": 2609897,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3543,25 +3927,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-night-crew.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-night-crew.jpg",
     "originalSHA256": "fefa270851c8c88b5c4a0533610863e07b2150d1aeed7e5374e07f857c69c028",
-    "bundledSHA256": "8fa26a3f2fca283d9ec26cc658012b518de77242b59adb8a209eed09a3de4f21",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "8599464a30152a3d387b15267b020a1be0542f5f282c310fb69de3203a9d6ec2",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 7.1,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
           "avg_frame_rate": "50/1",
-          "nb_frames": "711",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "711"
         }
       ],
       "format": {
-        "duration": "14.220000",
-        "size": "6534194"
-      }
+        "duration": "14.22",
+        "size": "4221104"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 711,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3590,6 +3979,15 @@
       ],
       "notes": "A small crew dances hip-hop under colored light. No readable overlay in the sampled frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/8688884-review.jpg"
+    },
+    "preCompressionBundledSHA256": "8fa26a3f2fca283d9ec26cc658012b518de77242b59adb8a209eed09a3de4f21",
+    "coverSHA256": "118a7ba95a732344b63b75b75961f04305092113a1fbc59a4d576fb17d71e354",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 6534194,
+      "afterBytes": 4221104,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3607,25 +4005,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-street-tango.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-street-tango.jpg",
     "originalSHA256": "7774b3d971d8916f102e390319369d5efb776e3fcfaa847d6a654509659c6446",
-    "bundledSHA256": "6afbb352c93672acc27ba5255b8b90e689eb00b94215d0e32f9acc6b1d3e4f83",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "af282f90854daad46282e176fad49817b88ec6bb80ab74de0d5027df816b38aa",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 6.6,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 720,
           "height": 1280,
           "avg_frame_rate": "30000/1001",
-          "nb_frames": "792",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "792"
         }
       ],
       "format": {
-        "duration": "26.426400",
-        "size": "5153273"
-      }
+        "duration": "26.4264",
+        "size": "2762602"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 792,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3654,6 +4057,15 @@
       ],
       "notes": "A couple dances tango on a city street. Sampled frames show sky, buildings and the dancers, without a readable sign.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/13521639-review.jpg"
+    },
+    "preCompressionBundledSHA256": "6afbb352c93672acc27ba5255b8b90e689eb00b94215d0e32f9acc6b1d3e4f83",
+    "coverSHA256": "c01824783c43334c632cf03a010f0cc259a55412c8df56aae799f1a2da1873c0",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 5153273,
+      "afterBytes": 2762602,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3671,25 +4083,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-loft-session.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-loft-session.jpg",
     "originalSHA256": "b2307f47fd552630ce78b90d6963f105aff9f7bf3d06c03721656cfd462c009d",
-    "bundledSHA256": "85e5465a9a3a371d51342c5ce017fdbbae34d2e9ab010cabcce05d9e2c25904b",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "0fb43f6003f9caaa4f1de87ece8890652b1140c1dca90f964398f1ccaa93fb0e",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 1.1,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 674,
           "avg_frame_rate": "25/1",
-          "nb_frames": "531",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "531"
         }
       ],
       "format": {
-        "duration": "21.240000",
-        "size": "3388583"
-      }
+        "duration": "21.24",
+        "size": "1717720"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 531,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3718,6 +4135,15 @@
       ],
       "notes": "Woman dances hip-hop alone in a bright loft. No readable overlay in the sampled frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/10264579-review.jpg"
+    },
+    "preCompressionBundledSHA256": "85e5465a9a3a371d51342c5ce017fdbbae34d2e9ab010cabcce05d9e2c25904b",
+    "coverSHA256": "335241b832d044765ef2759ea06d3c84302f61f7f7b7c972ffe7bebd19446b0c",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3388583,
+      "afterBytes": 1717720,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3735,25 +4161,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-loft-partners.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-loft-partners.jpg",
     "originalSHA256": "82c180144c19da095dca9d7f97a3856f493a5bfc8238328e129237e1cc55728c",
-    "bundledSHA256": "9eb0ab4115e63224c629ac517642588d20d436bd2cbc067b3506a5f51d549f0b",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "83059285aedc3a836e3f190da2a2e64c7f77e14b16011808cf30181655e99ac2",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 6.8,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 674,
           "avg_frame_rate": "25/1",
-          "nb_frames": "683",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "683"
         }
       ],
       "format": {
-        "duration": "27.320000",
-        "size": "3771468"
-      }
+        "duration": "27.32",
+        "size": "2043721"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 683,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3782,6 +4213,15 @@
       ],
       "notes": "Two women dance hip-hop together in the same loft. No readable overlay in the sampled frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/10264810-review.jpg"
+    },
+    "preCompressionBundledSHA256": "9eb0ab4115e63224c629ac517642588d20d436bd2cbc067b3506a5f51d549f0b",
+    "coverSHA256": "5092b974b101809ab8781a79593f24c0e8a45741b83a931cfb3218ae5858db48",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3771468,
+      "afterBytes": 2043721,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3799,25 +4239,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-salsa-floor.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-salsa-floor.jpg",
     "originalSHA256": "3b070abe88fb92fdb03fa34691c146e49becc7d05ddf3731d5019200293f804f",
-    "bundledSHA256": "419565fbe4f64e7e99c606282c91afaf6f51247f57ece81a25f877e04904c532",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "9f239af3c76e2070872f242955e42f53b8ca05ab9079b221e9adca6eb0d27dd1",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 8.6,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
           "avg_frame_rate": "24000/1001",
-          "nb_frames": "411",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "411"
         }
       ],
       "format": {
-        "duration": "17.142000",
-        "size": "6907453"
-      }
+        "duration": "17.142125",
+        "size": "3658727"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 411,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3846,6 +4291,15 @@
       ],
       "notes": "Couples dance salsa on a club floor. The sampled frames stay on feet and bodies, without a readable sign.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/19851286-review.jpg"
+    },
+    "preCompressionBundledSHA256": "419565fbe4f64e7e99c606282c91afaf6f51247f57ece81a25f877e04904c532",
+    "coverSHA256": "35809c2760525d4d1246e4ad3e0aa0b6a2f96aa690b30bdcf22bd294326bdf2a",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 6907453,
+      "afterBytes": 3658727,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3863,25 +4317,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-trio-count.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-trio-count.jpg",
     "originalSHA256": "ab11fb70f1601ea1c2179397a54279684d4d65b4cc0703c3d16f2ef273a6c5bf",
-    "bundledSHA256": "fd177b04a4955bbf18fb543b18c12f0daf78c9d9ded49b13c097edef25121f11",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "83b778c262c85ce771a4066aaa99b2aba08161e6671871816e395860e36cc2ae",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 1.2,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
           "avg_frame_rate": "25/1",
-          "nb_frames": "120",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "120"
         }
       ],
       "format": {
-        "duration": "4.800000",
-        "size": "1003213"
-      }
+        "duration": "4.8",
+        "size": "625278"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 120,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3910,6 +4369,15 @@
       ],
       "notes": "Three women dance a short studio phrase in white tops. No readable overlay in the sampled frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/3873074-review.jpg"
+    },
+    "preCompressionBundledSHA256": "fd177b04a4955bbf18fb543b18c12f0daf78c9d9ded49b13c097edef25121f11",
+    "coverSHA256": "d5a241b4acbb1317a48d5edd5053d24be2e03c63be56b234cb8044c3d6f3ae09",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 1003213,
+      "afterBytes": 625278,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3927,25 +4395,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-lifted-arms.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-lifted-arms.jpg",
     "originalSHA256": "7258674c0363e189f18baaa8e820c1232ffec178e7a4a989624302bc77972a86",
-    "bundledSHA256": "382a4ee681896edfc2b28a07e15eebeb612408d8951e3a5f8db9ece60e00b2b7",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "ffa748273464930537e90d595ca174db60d386e644d033f6626a506168810fd7",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 9.7,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
           "avg_frame_rate": "30000/1001",
-          "nb_frames": "1161",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "1161"
         }
       ],
       "format": {
-        "duration": "38.738700",
-        "size": "3205533"
-      }
+        "duration": "38.7387",
+        "size": "1939247"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 1161,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -3974,6 +4447,15 @@
       ],
       "notes": "A group reaches and turns together in a dark studio. No readable overlay in the sampled frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/6939802-review.jpg"
+    },
+    "preCompressionBundledSHA256": "382a4ee681896edfc2b28a07e15eebeb612408d8951e3a5f8db9ece60e00b2b7",
+    "coverSHA256": "cd33fc0800e9fb59ccc8b5a26a9ef57c22a9927bc2f318a298d63bb0228aa1a1",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3205533,
+      "afterBytes": 1939247,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -3991,25 +4473,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-warm-room.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-warm-room.jpg",
     "originalSHA256": "198322c9c5f59123eb03e569ac27ab1bf9bfdcda713320a4324ffe65ff793e4b",
-    "bundledSHA256": "4083308ae5ae98a47b8f782d7381c80d994f79336ed707d7e0afbbda47bb1c6b",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "44118007f95110021316d8ab600e55430b500c7dbd34c28af5725136e70a871e",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 1.0,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 960,
           "avg_frame_rate": "25/1",
-          "nb_frames": "513",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "513"
         }
       ],
       "format": {
-        "duration": "20.520000",
-        "size": "9141030"
-      }
+        "duration": "20.52",
+        "size": "3802292"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 513,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -4038,6 +4525,15 @@
       ],
       "notes": "Women dance in a warm studio. Sampled frames include close movement and no readable overlay.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/7324086-review.jpg"
+    },
+    "preCompressionBundledSHA256": "4083308ae5ae98a47b8f782d7381c80d994f79336ed707d7e0afbbda47bb1c6b",
+    "coverSHA256": "78b00ecd22cdf604702ae3437f98570b328c27a95a065cf2c8c18350bd351846",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 9141030,
+      "afterBytes": 3802292,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -4055,25 +4551,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-cypher-night.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-cypher-night.jpg",
     "originalSHA256": "a4c18d4f9b8c1471752485c3557a09cc05719cd83d99a3a05cdb88dab6a82af5",
-    "bundledSHA256": "35d6145b2910d119d279a5c3688f5b402ea9ce3a3ac275cf8ff1f8c3f00ed553",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "18bdcf021d4644c3dd747eff802e0a16e636c7b11b09b9471ddf5a60e7ec3474",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 3.5,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
           "avg_frame_rate": "25/1",
-          "nb_frames": "349",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "349"
         }
       ],
       "format": {
-        "duration": "13.960000",
-        "size": "3744064"
-      }
+        "duration": "13.96",
+        "size": "1900704"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 349,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -4102,6 +4603,15 @@
       ],
       "notes": "A hip-hop cypher under a spotlight. One shirt reads WHATEVER in English. No other readable overlay.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/7405378-review.jpg"
+    },
+    "preCompressionBundledSHA256": "35d6145b2910d119d279a5c3688f5b402ea9ce3a3ac275cf8ff1f8c3f00ed553",
+    "coverSHA256": "83cbf61df87b366b345859c341277557bc092c7ebda55573e79f3355d2e5b00e",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3744064,
+      "afterBytes": 1900704,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -4119,25 +4629,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-hoodie-phrase.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-hoodie-phrase.jpg",
     "originalSHA256": "43c044f343115bfce80aa77e0af8d117527bc6e8e678a795e474e91e08bbb82a",
-    "bundledSHA256": "ea08ddacc9fd3106c7e5a9bae6b9ad94c0cbcb0ea5723bf84b3e63beb1e90e9e",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "4bb53ca91d6e74cbcacfff8ada03f9bad02897576cda79734a64c495588a5d94",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 2.4,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 674,
           "avg_frame_rate": "25/1",
-          "nb_frames": "236",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "236"
         }
       ],
       "format": {
-        "duration": "9.440000",
-        "size": "430345"
-      }
+        "duration": "9.44",
+        "size": "266360"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 236,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -4166,6 +4681,15 @@
       ],
       "notes": "Two people dance a contemporary phrase in hoodies. No readable overlay in the sampled frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/7569650-review.jpg"
+    },
+    "preCompressionBundledSHA256": "ea08ddacc9fd3106c7e5a9bae6b9ad94c0cbcb0ea5723bf84b3e63beb1e90e9e",
+    "coverSHA256": "b7eb19f82af460681f262e9fd32d8b373e9b0b6a796de152941417f124e65382",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 430345,
+      "afterBytes": 266360,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -4183,25 +4707,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-mural-phrase.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-mural-phrase.jpg",
     "originalSHA256": "f5152a6853f63e443ba50ffd39fe3786534a89888091702307c6e0574ebd8d9c",
-    "bundledSHA256": "4284c23b5d6da274d83d7ad12b41cdbd002ca3c590a732dcff074e2008adebb2",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "20c0e142be4da26b42582d06e27437a886c6276415dbdb405edeb271f28f563f",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 4.7,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
           "avg_frame_rate": "24/1",
-          "nb_frames": "455",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "455"
         }
       ],
       "format": {
         "duration": "18.958333",
-        "size": "2773072"
-      }
+        "size": "1392132"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 455,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -4230,6 +4759,15 @@
       ],
       "notes": "Two women dance a partnered phrase in front of a mural. No readable overlay in the sampled frames.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/7667010-review.jpg"
+    },
+    "preCompressionBundledSHA256": "4284c23b5d6da274d83d7ad12b41cdbd002ca3c590a732dcff074e2008adebb2",
+    "coverSHA256": "369019191bbf908330d40a5ab6952ed9499b38f72c26b2436fd0db2cf9b68d79",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 2773072,
+      "afterBytes": 1392132,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -4247,25 +4785,30 @@
     "bundledPath": "Teto/Resources/DanceMedia/dance-mosaic-steps.mp4",
     "coverPath": "Teto/Resources/DanceMedia/dance-mosaic-steps.jpg",
     "originalSHA256": "55e48ab736f3204ed9fd06358aadbac37d7da44793782578586290997fd21f9a",
-    "bundledSHA256": "59d7298281e9a7f5d0d7af1bca4d168bb179631545f43372ac3ae8899fdf2f38",
-    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes.",
+    "bundledSHA256": "4595339c09a858e0e1989e982468007a07190d155e42b86f35914cc3c7a60fe9",
+    "modifications": "H.264, CRF 25, preset fast, maximum dimension 1280px with preserved aspect ratio (even dimensions), yuv420p, no audio, faststart. Original timing and frame rate retained; no speed changes. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "coverSecond": 3.1,
     "metadata": {
       "streams": [
         {
-          "codec_name": "h264",
+          "codec_name": "hevc",
           "codec_type": "video",
+          "codec_tag_string": "hvc1",
           "width": 1280,
           "height": 720,
           "avg_frame_rate": "25/1",
-          "nb_frames": "310",
-          "pix_fmt": "yuv420p"
+          "nb_frames": "310"
         }
       ],
       "format": {
-        "duration": "12.400000",
-        "size": "3353388"
-      }
+        "duration": "12.4",
+        "size": "1957614"
+      },
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "fullDecode": "passed",
+      "frames": 310,
+      "maxTimestampDriftSeconds": 0.0
     },
     "originalMetadata": {
       "streams": [
@@ -4294,6 +4837,15 @@
       ],
       "notes": "A couple dances beside a pictorial mosaic. Sampled frames do not show a readable word.",
       "contactSheet": "Design/SourceMedia/Review-2026-10-21/8249626-review.jpg"
+    },
+    "preCompressionBundledSHA256": "59d7298281e9a7f5d0d7af1bca4d168bb179631545f43372ac3ae8899fdf2f38",
+    "coverSHA256": "8dce1bb6768dc0e3fafce70bb55b298d84a83d7f8fade1730f6a12604ef64387",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 3353388,
+      "afterBytes": 1957614,
+      "method": "HEVC hvc1, libx265 fast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -4313,14 +4865,14 @@
     "bundledPath": "Teto/Resources/DanceMedia/phrase-film-hiphop.mp4",
     "coverPath": "Teto/Resources/DanceMedia/phrase-film-hiphop.jpg",
     "originalSHA256": "fcf1c17c79e64f5a7b4cf2e56afaf96a4f774afec2c8ccae49a01345fb983901",
-    "bundledSHA256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
-    "coverSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
+    "bundledSHA256": "821f5fe6a8dc45ccef4daae8d4be21c79460a3448615ff9e73ce60cc39cecc04",
+    "coverSHA256": "2ae4bdd75ab71543d683eeb391882663ced4f3b4a9d2afa548adac6c9292ed75",
     "sourceRangeSeconds": [
       49.0,
       385.64
     ],
     "coverSourceSecond": 120,
-    "modifications": "Opening montage, sponsorship and closing promotion removed. Full five-part technique lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "modifications": "Opening montage, sponsorship and closing promotion removed. Full five-part technique lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "audio": "English instruction; checked against source English captions.",
     "metadata": {
       "asset": "phrase-film-hiphop",
@@ -4328,10 +4880,14 @@
       "width": 1280,
       "height": 720,
       "fps": "24000/1001",
-      "bytes": 33168897,
-      "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
-      "coverSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
-      "fullDecode": "passed"
+      "bytes": 18275013,
+      "sha256": "821f5fe6a8dc45ccef4daae8d4be21c79460a3448615ff9e73ce60cc39cecc04",
+      "coverSHA256": "2ae4bdd75ab71543d683eeb391882663ced4f3b4a9d2afa548adac6c9292ed75",
+      "fullDecode": "passed",
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "frames": 8072,
+      "maxTimestampDriftSeconds": 0.0
     },
     "category": "dance",
     "visualReview": {
@@ -4357,7 +4913,7 @@
         0,
         336.669667
       ],
-      "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+      "sha256": "821f5fe6a8dc45ccef4daae8d4be21c79460a3448615ff9e73ce60cc39cecc04",
       "review": "Complete film inspected at 1 s with source English captions. Slow lifts, sweeps, landings and instruction pauses annotated at their runtime positions; source trim starts at 49 s."
     },
     "practicePlayback": {
@@ -4369,8 +4925,16 @@
       ],
       "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
       "wholeLesson": "Complete source timeline including instruction, once",
-      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
       "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    },
+    "preCompressionBundledSHA256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 33168897,
+      "afterBytes": 18275013,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -4390,14 +4954,14 @@
     "bundledPath": "Teto/Resources/DanceMedia/phrase-film-reach.mp4",
     "coverPath": "Teto/Resources/DanceMedia/phrase-film-reach.jpg",
     "originalSHA256": "f3c75c122035f4baadbd55e17b28ebbfc343ef75754fedf2d212ababd0a97a91",
-    "bundledSHA256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+    "bundledSHA256": "e1637a40ef1cd2fe55932e05a9602a2293628577fc0a0882fe9aefc10a03c93b",
     "coverSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
     "sourceRangeSeconds": [
       0,
       26.773292
     ],
     "coverSourceSecond": 10,
-    "modifications": "Complete original phrase retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "modifications": "Complete original phrase retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "audio": "Silent original audio track. Complete observational-learning phrase; no spoken instruction added.",
     "metadata": {
       "asset": "phrase-film-reach",
@@ -4405,10 +4969,14 @@
       "width": 1280,
       "height": 720,
       "fps": "25/1",
-      "bytes": 2156303,
-      "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+      "bytes": 495827,
+      "sha256": "e1637a40ef1cd2fe55932e05a9602a2293628577fc0a0882fe9aefc10a03c93b",
       "coverSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
-      "fullDecode": "passed"
+      "fullDecode": "passed",
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "frames": 667,
+      "maxTimestampDriftSeconds": 0.0
     },
     "category": "dance",
     "visualReview": {
@@ -4439,7 +5007,7 @@
         0,
         26.773292
       ],
-      "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+      "sha256": "e1637a40ef1cd2fe55932e05a9602a2293628577fc0a0882fe9aefc10a03c93b",
       "review": "Complete film inspected at 0.5 s; movement changes annotated separately from held balances. No musical beat grid."
     },
     "practicePlayback": {
@@ -4451,8 +5019,16 @@
       ],
       "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
       "wholeLesson": "Complete source timeline including instruction, once",
-      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
       "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    },
+    "preCompressionBundledSHA256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 2156303,
+      "afterBytes": 495827,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -4472,14 +5048,14 @@
     "bundledPath": "Teto/Resources/DanceMedia/phrase-film-rehearsal.mp4",
     "coverPath": "Teto/Resources/DanceMedia/phrase-film-rehearsal.jpg",
     "originalSHA256": "9cd17182c34c3ac5adaf3451ca0745f65fa76be068f0e88881a7442f24b92cd0",
-    "bundledSHA256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+    "bundledSHA256": "b4ca617248f6dd20f71af954bd92a1dc322d7b9f40acaf9609b66434bc97c95b",
     "coverSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
     "sourceRangeSeconds": [
       0,
       202.919184
     ],
     "coverSourceSecond": 15,
-    "modifications": "Complete original lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "modifications": "Complete original lesson retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "audio": "English instruction and spoken counts at three tempos; original captions explicitly state no music is used.",
     "metadata": {
       "asset": "phrase-film-rehearsal",
@@ -4487,10 +5063,14 @@
       "width": 1280,
       "height": 720,
       "fps": "60/1",
-      "bytes": 15091737,
-      "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+      "bytes": 7127109,
+      "sha256": "b4ca617248f6dd20f71af954bd92a1dc322d7b9f40acaf9609b66434bc97c95b",
       "coverSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
-      "fullDecode": "passed"
+      "fullDecode": "passed",
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "frames": 12172,
+      "maxTimestampDriftSeconds": 0.0
     },
     "category": "dance",
     "visualReview": {
@@ -4516,7 +5096,7 @@
         0,
         202.919002
       ],
-      "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+      "sha256": "b4ca617248f6dd20f71af954bd92a1dc322d7b9f40acaf9609b66434bc97c95b",
       "review": "Complete film inspected at 2 s; the three drills use source spoken-count/step/hold timestamps. Caption timing is approximate, not frame-accurate. Pickup and teaching speech remain instruction cues."
     },
     "practicePlayback": {
@@ -4528,8 +5108,16 @@
       ],
       "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
       "wholeLesson": "Complete source timeline including instruction, once",
-      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
       "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    },
+    "preCompressionBundledSHA256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 15091737,
+      "afterBytes": 7127109,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -4549,25 +5137,29 @@
     "bundledPath": "Teto/Resources/DanceMedia/phrase-film-groove.mp4",
     "coverPath": "Teto/Resources/DanceMedia/phrase-film-groove.jpg",
     "originalSHA256": "6edec9727ee34a383459ed7e548d8db0a11c749e82e13fb23035a7e9fede5b9c",
-    "bundledSHA256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+    "bundledSHA256": "c68d41d909ecb71841edbc9d5c39a2e6af7adc8cb18970aacbffaa3002554592",
     "coverSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
     "sourceRangeSeconds": [
       12,
       157
     ],
     "coverSourceSecond": 78,
-    "modifications": "Opening montage and closing contact card removed. Main Farmer breakdown, variations and final practice retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "modifications": "Opening montage and closing contact card removed. Main Farmer breakdown, variations and final practice retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "audio": "Original English instruction audio retained, with English step labels. Source seconds 12-67 checked using local automatic transcription; not a word-perfect transcript.",
     "metadata": {
       "asset": "phrase-film-groove",
-      "duration": 145.011,
+      "duration": 145.011533,
       "width": 1280,
       "height": 720,
       "fps": "30000/1001",
-      "bytes": 27672017,
-      "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+      "bytes": 12176656,
+      "sha256": "c68d41d909ecb71841edbc9d5c39a2e6af7adc8cb18970aacbffaa3002554592",
       "coverSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
-      "fullDecode": "passed"
+      "fullDecode": "passed",
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "frames": 4346,
+      "maxTimestampDriftSeconds": 0.0
     },
     "category": "dance",
     "visualReview": {
@@ -4593,7 +5185,7 @@
         0,
         145.011
       ],
-      "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+      "sha256": "c68d41d909ecb71841edbc9d5c39a2e6af7adc8cb18970aacbffaa3002554592",
       "review": "Complete film inspected at 2 s, continuous drills at 0.5 s, speech checked against the English hop/stamp calls. Each repeat has an explicit runtime onset, including closeups and final freestyle."
     },
     "practicePlayback": {
@@ -4605,8 +5197,16 @@
       ],
       "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
       "wholeLesson": "Complete source timeline including instruction, once",
-      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
       "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    },
+    "preCompressionBundledSHA256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 27672017,
+      "afterBytes": 12176656,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -4626,14 +5226,14 @@
     "bundledPath": "Teto/Resources/DanceMedia/phrase-film-street.mp4",
     "coverPath": "Teto/Resources/DanceMedia/phrase-film-street.jpg",
     "originalSHA256": "9499ece2fe32fa1770d1f36267bd2d6ae2cd1b599ebdb5c97b56cf5b4d7ab796",
-    "bundledSHA256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+    "bundledSHA256": "64ab28c3619020ea08890e78200aed9a1fddc95e42af088471afad929b441c68",
     "coverSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
     "sourceRangeSeconds": [
       27,
       94
     ],
     "coverSourceSecond": 53,
-    "modifications": "Opening montage, picture-in-picture and closing promotion removed. Main six-step breakdown and continuous repetitions retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "modifications": "Opening montage, picture-in-picture and closing promotion removed. Main six-step breakdown and continuous repetitions retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart; original 0.033-second start offset retained by timestamp-preserving remux.",
     "audio": "No audio in the licensed Wikimedia revision; English captions and numbers teach the six steps.",
     "metadata": {
       "asset": "phrase-film-street",
@@ -4641,10 +5241,14 @@
       "width": 640,
       "height": 360,
       "fps": "30000/1001",
-      "bytes": 2041870,
-      "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+      "bytes": 1071531,
+      "sha256": "64ab28c3619020ea08890e78200aed9a1fddc95e42af088471afad929b441c68",
       "coverSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
-      "fullDecode": "passed"
+      "fullDecode": "passed",
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "frames": 2007,
+      "maxTimestampDriftSeconds": 0.0
     },
     "category": "dance",
     "visualReview": {
@@ -4671,7 +5275,7 @@
         0,
         66.9669
       ],
-      "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+      "sha256": "64ab28c3619020ea08890e78200aed9a1fddc95e42af088471afad929b441c68",
       "review": "Complete film inspected at 1 s; rapid middle passage inspected at 0.25 s. Numbered steps follow the visible 1-6 labels, with no extra steps inserted to make an eight."
     },
     "practicePlayback": {
@@ -4683,8 +5287,16 @@
       ],
       "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
       "wholeLesson": "Complete source timeline including instruction, once",
-      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
       "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    },
+    "preCompressionBundledSHA256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 2041870,
+      "afterBytes": 1071531,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart; original 0.033-second start offset retained by timestamp-preserving remux"
     }
   },
   {
@@ -4704,14 +5316,14 @@
     "bundledPath": "Teto/Resources/DanceMedia/phrase-film-ballet.mp4",
     "coverPath": "Teto/Resources/DanceMedia/phrase-film-ballet.jpg",
     "originalSHA256": "dcd08e680336dc9ab4a9ebdbec1755187429be89955d61eca27723cee0803d6d",
-    "bundledSHA256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
-    "coverSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
+    "bundledSHA256": "65808ee5a63b608ce3647df0cbdfcdddb8d1083b4eba7d350e8957c2ecc6b712",
+    "coverSHA256": "ab311b3c1409c2257454463bc0942063f5b51e23a27f5b07f42d9ad18bd89862",
     "sourceRangeSeconds": [
       0,
       755.391565
     ],
     "coverSourceSecond": 240,
-    "modifications": "Complete slow walkthrough; original speed preserved. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "modifications": "Complete slow walkthrough; original speed preserved. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "audio": "Original English walkthrough audio retained. Source seconds 12-67 checked using local automatic transcription; no publisher captions are available and the automatic transcript is not word-perfect.",
     "metadata": {
       "asset": "phrase-film-ballet",
@@ -4719,10 +5331,14 @@
       "width": 406,
       "height": 720,
       "fps": "60000/1001",
-      "bytes": 62667620,
-      "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
-      "coverSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
-      "fullDecode": "passed"
+      "bytes": 30566503,
+      "sha256": "65808ee5a63b608ce3647df0cbdfcdddb8d1083b4eba7d350e8957c2ecc6b712",
+      "coverSHA256": "ab311b3c1409c2257454463bc0942063f5b51e23a27f5b07f42d9ad18bd89862",
+      "fullDecode": "passed",
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "frames": 45271,
+      "maxTimestampDriftSeconds": 0.0
     },
     "category": "dance",
     "visualReview": {
@@ -4748,7 +5364,7 @@
         0,
         755.390998
       ],
-      "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+      "sha256": "65808ee5a63b608ce3647df0cbdfcdddb8d1083b4eba7d350e8957c2ecc6b712",
       "review": "Complete slow walkthrough inspected at 2 s. Plain movement descriptions are used where the teacher walks spatial patterns. Long spoken placement explanations are separate. No 8-beat musical meter is imposed on this waltz."
     },
     "practicePlayback": {
@@ -4760,8 +5376,16 @@
       ],
       "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
       "wholeLesson": "Complete source timeline including instruction, once",
-      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
       "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    },
+    "preCompressionBundledSHA256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 62667620,
+      "afterBytes": 30566503,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   },
   {
@@ -4781,14 +5405,14 @@
     "bundledPath": "Teto/Resources/DanceMedia/phrase-film-jazz.mp4",
     "coverPath": "Teto/Resources/DanceMedia/phrase-film-jazz.jpg",
     "originalSHA256": "94e04d2b87164f024261b2525b6160617f610398badf7edb1aa9c0b859054c4c",
-    "bundledSHA256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
-    "coverSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
+    "bundledSHA256": "26ee3bc0a50bb4a3b20bc0a7b34661fcc517f6ee340146146238ca2f07bc9eff",
+    "coverSHA256": "79dd8ebccc8f6df694a8585af9d53343cba726fb34e64ac28da7443a5d53837f",
     "sourceRangeSeconds": [
       70,
       481
     ],
     "coverSourceSecond": 130,
-    "modifications": "Channel introduction and closing promotion removed; all four steps and final combined routine retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained.",
+    "modifications": "Channel introduction and closing promotion removed; all four steps and final combined routine retained. H.264 CRF 24, AAC where audio exists, yuv420p, faststart. Original aspect ratio and frame rate retained. Runtime compression on 2026-10-23 supersedes earlier runtime encoding settings: HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart.",
     "audio": "English breakdown and a complete follow-along sequence; source English captions checked.",
     "metadata": {
       "asset": "phrase-film-jazz",
@@ -4796,10 +5420,14 @@
       "width": 1280,
       "height": 720,
       "fps": "24/1",
-      "bytes": 45520736,
-      "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
-      "coverSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
-      "fullDecode": "passed"
+      "bytes": 21491654,
+      "sha256": "26ee3bc0a50bb4a3b20bc0a7b34661fcc517f6ee340146146238ca2f07bc9eff",
+      "coverSHA256": "79dd8ebccc8f6df694a8585af9d53343cba726fb34e64ac28da7443a5d53837f",
+      "fullDecode": "passed",
+      "codec": "hevc",
+      "codecTag": "hvc1",
+      "frames": 9864,
+      "maxTimestampDriftSeconds": 0.0
     },
     "category": "dance",
     "visualReview": {
@@ -4825,7 +5453,7 @@
         0,
         411.0
       ],
-      "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+      "sha256": "26ee3bc0a50bb4a3b20bc0a7b34661fcc517f6ee340146146238ca2f07bc9eff",
       "review": "Complete film inspected at 2 s with English source captions; final combined routine inspected at 0.5 s. Individual steps/hip shifts and held teaching positions are timed; section cards and explanations do not count as actions."
     },
     "practicePlayback": {
@@ -4837,8 +5465,16 @@
       ],
       "sectionLoop": "Action intervals only; instruction gaps skipped; partial final section retains actual count",
       "wholeLesson": "Complete source timeline including instruction, once",
-      "mediaBytes": "Unchanged; slowdown is a user-selected playback setting",
+      "mediaBytes": "Runtime HEVC compression on 2026-10-23; all video presentation timestamps and compressed audio payload preserved. User-selected slowdown remains a playback setting.",
       "verification": "Static inspection only; slow playback, synchronization, seeking and loops remain unverified on iOS"
+    },
+    "preCompressionBundledSHA256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
+    "runtimeCompression": {
+      "date": "2026-10-23",
+      "report": "Design/MediaOptimization/2026-10-23/manifest.json",
+      "beforeBytes": 45520736,
+      "afterBytes": 21491654,
+      "method": "HEVC hvc1, libx265 veryfast CRF 28, original dimensions/frame timing; audio stream copied; faststart"
     }
   }
 ]

@@ -28,7 +28,9 @@ workflows:
           cd "$CM_BUILD_DIR"
           test -d "$XCODE_PROJECT"
           test -f "$XCODE_PROJECT/xcshareddata/xcschemes/$XCODE_SCHEME.xcscheme"
-          grep -Fq "PRODUCT_BUNDLE_IDENTIFIER = \"$BUNDLE_ID\";" \
+          grep -Fq \
+            -e "PRODUCT_BUNDLE_IDENTIFIER = \"$BUNDLE_ID\";" \
+            -e "PRODUCT_BUNDLE_IDENTIFIER = $BUNDLE_ID;" \
             "$XCODE_PROJECT/project.pbxproj"
 
       - name: Download bundled dance videos

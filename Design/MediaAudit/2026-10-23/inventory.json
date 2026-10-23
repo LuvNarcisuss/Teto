@@ -1377,5 +1377,6 @@
       "path": "Teto/Resources/DanceMedia/phrase-film-street.mp4",
       "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea"
     }
-  ]
+  ],
+  "status": "Historical inventory captured before runtime compression on 2026-10-23. Byte hashes and byte-duplicate results below describe that revision. Current runtime bytes, hashes and verification: Design/MediaOptimization/2026-10-23/manifest.json."
 }

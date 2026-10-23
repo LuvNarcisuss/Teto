@@ -36,9 +36,9 @@
       "runtime": [
         "Teto/Resources/Assets.xcassets/TetoEntryDance.imageset/TetoEntryDance.png"
       ],
-      "processing": "sips proportional resize to 1000 x 1000; generated alpha preserved",
+      "processing": "sips proportional resize to 1000 x 1000; generated alpha preserved; runtime PNG palette optimization on 2026-10-23, quality 85-95; same dimensions and transparency; see Design/MediaOptimization/2026-10-23/manifest.json.",
       "sha256": {
-        "Teto/Resources/Assets.xcassets/TetoEntryDance.imageset/TetoEntryDance.png": "f7f5834bb2bd778f909427bc5dd8fed2bcdf16c75487238a23a108d6d907ce65"
+        "Teto/Resources/Assets.xcassets/TetoEntryDance.imageset/TetoEntryDance.png": "1feaea5e0648cc59d45e084600ffd535823e11509d4f558a10ebb4f0229e2e67"
       }
     }
   ],

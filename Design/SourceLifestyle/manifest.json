@@ -39,7 +39,15 @@
       "download": "https://images.pexels.com/photos/6926599/pexels-photo-6926599.jpeg?auto=compress&cs=tinysrgb&w=1000",
       "sha256": "a40129aabcd6587053d736675d4265ce1b97b33863b6ee90ab1c4f9e3a8cbecc",
       "downloaded": "2026-10-20",
-      "license": "https://www.pexels.com/license/"
+      "license": "https://www.pexels.com/license/",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/LifestyleStudioPractice.imageset/LifestyleStudioPractice.jpg",
+          "sha256": "cd197e3300d59d791912deccaa54eb9b31ecf34b368137e395e82d7047bd7a80",
+          "bytes": 88614,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "LifestyleDanceRehearsal",
@@ -49,7 +57,15 @@
       "download": "https://images.pexels.com/photos/6926533/pexels-photo-6926533.jpeg?auto=compress&cs=tinysrgb&w=1000",
       "sha256": "8ae69a22ed1521e984804cd39071fc682242b4a973b58c7d2d6b28debd0522db",
       "downloaded": "2026-10-20",
-      "license": "https://www.pexels.com/license/"
+      "license": "https://www.pexels.com/license/",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/LifestyleDanceRehearsal.imageset/LifestyleDanceRehearsal.jpg",
+          "sha256": "5867d99f07363008f93958e4c08d1d44ae9b60bd3f19c500d04cf04efca464b0",
+          "bytes": 86250,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "LifestyleBalletShoes",
@@ -81,5 +97,6 @@
       "downloaded": "2026-10-20",
       "license": "https://www.pexels.com/license/"
     }
-  ]
+  ],
+  "compressionNote": "2026-10-23: source/download sha256 fields and original files are retained; runtimeCompression records identify the compressed app copies."
 }

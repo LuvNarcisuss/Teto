@@ -10,7 +10,15 @@
       "download": "https://images.pexels.com/photos/7969810/pexels-photo-7969810.jpeg?auto=compress&cs=tinysrgb&w=1400",
       "sha256": "d61f0cec15a2d31913d32559e9aa22fd1f7aa81a40de5ebebbed63b0c8f5977c",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-21"
+      "downloaded": "2026-10-21",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverHipHop.imageset/RoomCoverHipHop.jpg",
+          "sha256": "f04cc106f83d5fc6b9fa5dc11b7f2a78a7d272bf10a501dfdb111c7d496fb9bb",
+          "bytes": 146475,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverKPop",
@@ -21,7 +29,15 @@
       "download": "https://images.pexels.com/photos/32189609/pexels-photo-32189609.jpeg?auto=compress&cs=tinysrgb&w=1400",
       "sha256": "9e49e9d4e88385006823f83f9bca2d0b39218204b70d07abba7d14c64a6c4f2b",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-21"
+      "downloaded": "2026-10-21",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverKPop.imageset/RoomCoverKPop.jpg",
+          "sha256": "46b2cbc459392e2a0b81b983c8ef44dc8387f2a3d62930570c2a0b99052cb079",
+          "bytes": 265213,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverJazz",
@@ -32,7 +48,15 @@
       "download": "https://images.pexels.com/photos/10275097/pexels-photo-10275097.jpeg?auto=compress&cs=tinysrgb&w=1400",
       "sha256": "e8e443cd18cc4697ec2cd1231f62fd1c999792f22404cd58479acf4371117acb",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-21"
+      "downloaded": "2026-10-21",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverJazz.imageset/RoomCoverJazz.jpg",
+          "sha256": "34c5c0d6fd712931b0c5e8e37bc6009f21cd5acc8ac12a0bae9a0194eee9c5db",
+          "bytes": 262220,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverFreestyle",
@@ -43,7 +67,15 @@
       "download": "https://images.pexels.com/photos/32434252/pexels-photo-32434252.jpeg?auto=compress&cs=tinysrgb&w=1400",
       "sha256": "ca903c4676519b642823c0682707db431407ada1c4af39d3d2ed5642027971e0",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-21"
+      "downloaded": "2026-10-21",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverFreestyle.imageset/RoomCoverFreestyle.jpg",
+          "sha256": "d69a0df6eb28fa59219cd2b2a18eee68b9a18066e781713eefbcdb4f169022cb",
+          "bytes": 176099,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverCamera",
@@ -54,7 +86,15 @@
       "download": "https://images.pexels.com/photos/10275132/pexels-photo-10275132.jpeg?auto=compress&cs=tinysrgb&w=1400",
       "sha256": "430b1ece7994ccff6390c207001dd55b2a87b801c7a793b582864dc6fa85fe4a",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-21"
+      "downloaded": "2026-10-21",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverCamera.imageset/RoomCoverCamera.jpg",
+          "sha256": "da6d0e998f749019c61afd42906c1306c96585952e458e0d6ff5f68ee073a969",
+          "bytes": 104275,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverBallet",
@@ -65,7 +105,15 @@
       "download": "https://images.pexels.com/photos/5154371/pexels-photo-5154371.jpeg?auto=compress&cs=tinysrgb&w=1400",
       "sha256": "a8dd2d40c1502eb3da7c1865f62c871fa13ab3a43634d30242d7798fb5fc7618",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-21"
+      "downloaded": "2026-10-21",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverBallet.imageset/RoomCoverBallet.jpg",
+          "sha256": "29376b26f164dc4b0462cea891dfda5452d35394834e776bc2c30b37310f69d3",
+          "bytes": 92375,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverHouse",
@@ -76,7 +124,15 @@
       "download": "https://images.pexels.com/photos/8853876/pexels-photo-8853876.jpeg?auto=compress&cs=tinysrgb&w=1400",
       "sha256": "dc1d66248700b8ab3f671ffcfc914cc80dc2c4ac1d6ebafe1612e192b9db86be",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-21"
+      "downloaded": "2026-10-21",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverHouse.imageset/RoomCoverHouse.jpg",
+          "sha256": "2dadca19fae7bdf34c95d8c49901c2c61e6adcd38b13bdda88d0e5a4f6110821",
+          "bytes": 107443,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverPractice",
@@ -87,7 +143,15 @@
       "download": "https://images.pexels.com/photos/5150447/pexels-photo-5150447.jpeg?auto=compress&cs=tinysrgb&w=1400",
       "sha256": "933dc3e5f22acc8833645a252f0807485a8b0c362723241b2ec6ede4a72f07bd",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-21"
+      "downloaded": "2026-10-21",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverPractice.imageset/RoomCoverPractice.jpg",
+          "sha256": "c0d782bfb56af171208dd51ca1f8247678341153d3241e480ed62d390063f4e2",
+          "bytes": 164844,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverDraft1",
@@ -99,7 +163,15 @@
       "sha256": "4eb2cb13c4fef97e599ccb511b346c988a7ed4cec341420d69b64e362bc4edc1",
       "license": "https://www.pexels.com/license/",
       "downloaded": "2026-10-21",
-      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page."
+      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page.",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft1.imageset/RoomCoverDraft1.jpg",
+          "sha256": "ef0c8ac4768d6b8f98d4a1f5602ecf252217f9a38df6f0c85d76a0bf2acf227a",
+          "bytes": 20355,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverDraft2",
@@ -111,7 +183,15 @@
       "sha256": "12fbe45d537d304bd77b09c270dba5d948aba6ee00d3222e8cc1eb7ddb353896",
       "license": "https://www.pexels.com/license/",
       "downloaded": "2026-10-21",
-      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page."
+      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page.",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft2.imageset/RoomCoverDraft2.jpg",
+          "sha256": "ffb05b615d4783ed2a93637920b19036ba0fbfce633de7109ffc070984d57a67",
+          "bytes": 34571,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverDraft3",
@@ -123,7 +203,15 @@
       "sha256": "bc831a64a3734e1df5f96d529e8d8ac3c333a04473ced2f05224a35e9b8658a5",
       "license": "https://www.pexels.com/license/",
       "downloaded": "2026-10-21",
-      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page."
+      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page.",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft3.imageset/RoomCoverDraft3.jpg",
+          "sha256": "6be64a2ad7b93dc8345f657dab3699f9d9f5e903907f197c4973fe4cb3193bbf",
+          "bytes": 64351,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "asset": "RoomCoverDraft4",
@@ -135,7 +223,16 @@
       "sha256": "85d531d8bdc27d46d912eb556a58a4c7b0432cc2064e0631c864a313811a0689",
       "license": "https://www.pexels.com/license/",
       "downloaded": "2026-10-21",
-      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page."
+      "notes": "Used only when a room saved on this device has no built-in cover. Author was not confirmed from the photo page.",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/RoomCoverDraft4.imageset/RoomCoverDraft4.jpg",
+          "sha256": "eb495c2b59e7f1be5a1d03ef26342780ff6662fcb8041f6a4b80fa6c7e225536",
+          "bytes": 71108,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     }
-  ]
+  ],
+  "compressionNote": "2026-10-23: source/download sha256 fields and original files are retained; runtimeCompression records identify the compressed app copies."
 }

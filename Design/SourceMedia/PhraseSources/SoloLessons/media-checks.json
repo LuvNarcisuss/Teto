@@ -5,10 +5,14 @@
     "width": 1280,
     "height": 720,
     "fps": "24000/1001",
-    "bytes": 33168897,
-    "sha256": "708ebbf1ca514a0eeb0a6369812df5d4b817a4f132c92792ed52ca17f713ea6e",
-    "coverSHA256": "d9632054eb234c753ae08ee18c9eddee1d9504ed45697e74b5429502e4c901c4",
-    "fullDecode": "passed"
+    "bytes": 18275013,
+    "sha256": "821f5fe6a8dc45ccef4daae8d4be21c79460a3448615ff9e73ce60cc39cecc04",
+    "coverSHA256": "2ae4bdd75ab71543d683eeb391882663ced4f3b4a9d2afa548adac6c9292ed75",
+    "fullDecode": "passed",
+    "codec": "hevc",
+    "codecTag": "hvc1",
+    "frames": 8072,
+    "maxTimestampDriftSeconds": 0.0
   },
   {
     "asset": "phrase-film-reach",
@@ -16,10 +20,14 @@
     "width": 1280,
     "height": 720,
     "fps": "25/1",
-    "bytes": 2156303,
-    "sha256": "ab2ba5180b06aa9d4ad44ec9cb818d7c47d128cf465fd0797b2b9eabdbf92796",
+    "bytes": 495827,
+    "sha256": "e1637a40ef1cd2fe55932e05a9602a2293628577fc0a0882fe9aefc10a03c93b",
     "coverSHA256": "a178d59461371efcfeea825f82d9b2125603a97e9bc04f68ef0a49429f8ddd22",
-    "fullDecode": "passed"
+    "fullDecode": "passed",
+    "codec": "hevc",
+    "codecTag": "hvc1",
+    "frames": 667,
+    "maxTimestampDriftSeconds": 0.0
   },
   {
     "asset": "phrase-film-rehearsal",
@@ -27,21 +35,29 @@
     "width": 1280,
     "height": 720,
     "fps": "60/1",
-    "bytes": 15091737,
-    "sha256": "3698d88a294fd9b78bbb692f7ed2d874cfcf4f9794e4e2b0f705b42563f8e090",
+    "bytes": 7127109,
+    "sha256": "b4ca617248f6dd20f71af954bd92a1dc322d7b9f40acaf9609b66434bc97c95b",
     "coverSHA256": "a971a23f1ee6012a14cfbedfdebbc69ded2201437f36cb03db2f57b53ce36e76",
-    "fullDecode": "passed"
+    "fullDecode": "passed",
+    "codec": "hevc",
+    "codecTag": "hvc1",
+    "frames": 12172,
+    "maxTimestampDriftSeconds": 0.0
   },
   {
     "asset": "phrase-film-groove",
-    "duration": 145.011,
+    "duration": 145.011533,
     "width": 1280,
     "height": 720,
     "fps": "30000/1001",
-    "bytes": 27672017,
-    "sha256": "446b832d9a59434e7fcc60aae80fc9db64163c3679281ad33a51c754c2da0876",
+    "bytes": 12176656,
+    "sha256": "c68d41d909ecb71841edbc9d5c39a2e6af7adc8cb18970aacbffaa3002554592",
     "coverSHA256": "172b26fc00777ff895476d92ac53fa00b196aef474d105c9bf8c7e600fec6f02",
-    "fullDecode": "passed"
+    "fullDecode": "passed",
+    "codec": "hevc",
+    "codecTag": "hvc1",
+    "frames": 4346,
+    "maxTimestampDriftSeconds": 0.0
   },
   {
     "asset": "phrase-film-street",
@@ -49,10 +65,14 @@
     "width": 640,
     "height": 360,
     "fps": "30000/1001",
-    "bytes": 2041870,
-    "sha256": "a4b603a494f2478cb493ee5d671879e95183883e8eb800ff3537edd39823fbea",
+    "bytes": 1071531,
+    "sha256": "64ab28c3619020ea08890e78200aed9a1fddc95e42af088471afad929b441c68",
     "coverSHA256": "82a1cc2dab4effe4282cf2160125ab9594e25d52b54f33fbfbcfc90156da4fe1",
-    "fullDecode": "passed"
+    "fullDecode": "passed",
+    "codec": "hevc",
+    "codecTag": "hvc1",
+    "frames": 2007,
+    "maxTimestampDriftSeconds": 0.0
   },
   {
     "asset": "phrase-film-ballet",
@@ -60,10 +80,14 @@
     "width": 406,
     "height": 720,
     "fps": "60000/1001",
-    "bytes": 62667620,
-    "sha256": "3e2ecd855a80b5e4ca580b52cb3ae8ac1dcea7db879ad7f28bebf8565d7102e6",
-    "coverSHA256": "27df24fc3bc451873ad5a938c94469c6486c4cb37dccb7a3608b6bfece9cc19d",
-    "fullDecode": "passed"
+    "bytes": 30566503,
+    "sha256": "65808ee5a63b608ce3647df0cbdfcdddb8d1083b4eba7d350e8957c2ecc6b712",
+    "coverSHA256": "ab311b3c1409c2257454463bc0942063f5b51e23a27f5b07f42d9ad18bd89862",
+    "fullDecode": "passed",
+    "codec": "hevc",
+    "codecTag": "hvc1",
+    "frames": 45271,
+    "maxTimestampDriftSeconds": 0.0
   },
   {
     "asset": "phrase-film-jazz",
@@ -71,9 +95,13 @@
     "width": 1280,
     "height": 720,
     "fps": "24/1",
-    "bytes": 45520736,
-    "sha256": "01df0ace40a767d396b505c9fc8e46d43b68062e83a0a718a103534a88733d41",
-    "coverSHA256": "3980afec213ea89b546687f793f7c062984df88df1e273eb619dc458517edba6",
-    "fullDecode": "passed"
+    "bytes": 21491654,
+    "sha256": "26ee3bc0a50bb4a3b20bc0a7b34661fcc517f6ee340146146238ca2f07bc9eff",
+    "coverSHA256": "79dd8ebccc8f6df694a8585af9d53343cba726fb34e64ac28da7443a5d53837f",
+    "fullDecode": "passed",
+    "codec": "hevc",
+    "codecTag": "hvc1",
+    "frames": 9864,
+    "maxTimestampDriftSeconds": 0.0
   }
 ]

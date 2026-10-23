@@ -3,11 +3,11 @@
   "source": "User attachment codex-clipboard-d79247e3-e222-426d-aaeb-cdb91f5c67f6.png",
   "original": "Teto-user-original.png",
   "generation": "None. Use the user-provided logo unchanged.",
-  "processing": "TetoMark and TetoWordmark are byte-identical copies. AppIcon is a lossless RGB export; the fully opaque alpha channel is omitted, and every RGB pixel is unchanged. No crop, redraw, recoloring or resampling. UIKit applies view corner clipping only.",
+  "processing": "Original user artwork retained. AppIcon omits the fully opaque alpha channel. Runtime PNGs losslessly optimized on 2026-10-23; all decoded RGBA pixels match their pre-compression versions. No crop, redraw, recoloring or resampling. UIKit applies view corner clipping only. Earlier byte-identical runtime-copy wording is superseded; original source file is unchanged.",
   "targets": {
-    "Teto/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png": "6159f26afd0649d3d68bea31667bed66ce0df0818549a683b07a375a3a27a340",
-    "Teto/Resources/Assets.xcassets/TetoMark.imageset/TetoMark.png": "d8182acadfd3d287d83bcc190e00c0851a24af243cdf26526cad6f376845120a",
-    "Teto/Resources/Assets.xcassets/TetoWordmark.imageset/TetoWordmark.png": "d8182acadfd3d287d83bcc190e00c0851a24af243cdf26526cad6f376845120a"
+    "Teto/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png": "1790e1a0a24603210782adb334794c6080fe46c5a5c8c9db116c02a596c96e5a",
+    "Teto/Resources/Assets.xcassets/TetoMark.imageset/TetoMark.png": "562ee9b06a339fab51154a3dfb48d9978231f9f47426d7210e32214f2bd66309",
+    "Teto/Resources/Assets.xcassets/TetoWordmark.imageset/TetoWordmark.png": "562ee9b06a339fab51154a3dfb48d9978231f9f47426d7210e32214f2bd66309"
   },
   "originalSHA256": "d8182acadfd3d287d83bcc190e00c0851a24af243cdf26526cad6f376845120a"
 }

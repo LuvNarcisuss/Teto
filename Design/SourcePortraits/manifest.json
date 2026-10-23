@@ -10,7 +10,15 @@
       "file": "Portrait1.jpg",
       "sha256": "5a12718d3b1a41fd4989b427488b4ecf45927aa12e6db503b84943974821f47c",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-20"
+      "downloaded": "2026-10-20",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/Portrait1.imageset/Portrait1.jpg",
+          "sha256": "861ba0ad7aa233759e1fd2fefe945f671cd61c9268614c7ba77f3bebea4a8dc3",
+          "bytes": 123823,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "id": "1681010",
@@ -21,7 +29,15 @@
       "file": "Portrait2.jpg",
       "sha256": "6de1e994c747995676debcd99ba820732dfc5c13006375bd7cbe57e50adcbb14",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-20"
+      "downloaded": "2026-10-20",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/Portrait2.imageset/Portrait2.jpg",
+          "sha256": "1c5b4394677b2c54ba830e4eb08f157c66ae2ab39224aaee7ac12b759f9092dd",
+          "bytes": 110378,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "id": "2362887",
@@ -32,7 +48,15 @@
       "file": "Portrait3.jpg",
       "sha256": "e17bd5fb325a9e6b28d8984f071969fa4a407a3aded06c7918d34fbf91918b89",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-20"
+      "downloaded": "2026-10-20",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/Portrait3.imageset/Portrait3.jpg",
+          "sha256": "771c939322b2b2e62ba152f8cc2d301fd809f08e0e4096085660dcbba53f8e6e",
+          "bytes": 44072,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "id": "12311528",
@@ -43,7 +67,15 @@
       "file": "Portrait4.jpg",
       "sha256": "33311f9738912c8728f9508c6f79035f40b73c79f98710029da903b5ca37d516",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-20"
+      "downloaded": "2026-10-20",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/Portrait4.imageset/Portrait4.jpg",
+          "sha256": "51e8c2f2d6c35cb3873f09b436baccc80a9bbbee1e499e4887789128e56506f5",
+          "bytes": 27100,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "id": "18307117",
@@ -54,7 +86,15 @@
       "file": "Portrait5.jpg",
       "sha256": "8e2cede333dfdf7fccffa65aeebd9c3a6e96e55c726432ff402d7567f6e218e2",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-20"
+      "downloaded": "2026-10-20",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/Portrait5.imageset/Portrait5.jpg",
+          "sha256": "be970d1e569f332fe2929d456a562566d2747d00dba44d9ff7129a79aca532a5",
+          "bytes": 27481,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "id": "18272416",
@@ -65,7 +105,15 @@
       "file": "Portrait6.jpg",
       "sha256": "9dca18de78ff8477df9a6f3fadfbaeca9434992fc3ec45712f0e55aff84954a2",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-20"
+      "downloaded": "2026-10-20",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/Portrait6.imageset/Portrait6.jpg",
+          "sha256": "d074e83354359c746247e4b9e07662a69a5da369ec96fb0c956ef2e7bfc5c640",
+          "bytes": 84128,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "id": "4591714",
@@ -76,7 +124,15 @@
       "file": "Portrait7.jpg",
       "sha256": "76aa7fef20fc77a993afed61a3af187ac87113eea42524f52517ece47792e2ef",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-20"
+      "downloaded": "2026-10-20",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/Portrait7.imageset/Portrait7.jpg",
+          "sha256": "940b842fd0bf2cfd7b6cc95f1d547e72ca0ab2f040b8267f4aceb1e355f53641",
+          "bytes": 116758,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     },
     {
       "id": "7400021",
@@ -87,7 +143,15 @@
       "file": "Portrait8.jpg",
       "sha256": "2d7de4c894549dcf731c06e7d101d5e1a101b86c2a8a5c40779897979882944c",
       "license": "https://www.pexels.com/license/",
-      "downloaded": "2026-10-20"
+      "downloaded": "2026-10-20",
+      "runtimeCompression": [
+        {
+          "path": "Teto/Resources/Assets.xcassets/Portrait8.imageset/Portrait8.jpg",
+          "sha256": "63e34fbe4eeb34bc26eadb8d354b3cce34955e0c24cd9f251371af1601bb828e",
+          "bytes": 31065,
+          "report": "Design/MediaOptimization/2026-10-23/manifest.json"
+        }
+      ]
     }
   ],
   "added20261021": [
@@ -967,5 +1031,6 @@
       "visualReview": "Inspected real photograph and compared with existing portraits/covers. No visible text or duplicate image found.",
       "notes": "Independent photographic account artwork. The pictured person is not the credited filmmaker or an app member; no endorsement is implied."
     }
-  ]
+  ],
+  "compressionNote": "2026-10-23: source/download sha256 fields and original files are retained; runtimeCompression records identify the compressed app copies."
 }
