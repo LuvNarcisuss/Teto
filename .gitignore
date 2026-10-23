@@ -3,6 +3,8 @@ DerivedData/
 build/
 *.xcuserstate
 xcuserdata/
+# Shared schemes are required by CI, even when globally ignored on this machine.
+!Teto.xcodeproj/xcshareddata/xcschemes/*.xcscheme
 *.xcarchive
 *.ipa
 

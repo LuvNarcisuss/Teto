@@ -26,12 +26,23 @@ workflows:
         script: |
           set -euo pipefail
           cd "$CM_BUILD_DIR"
-          test -d "$XCODE_PROJECT"
-          test -f "$XCODE_PROJECT/xcshareddata/xcschemes/$XCODE_SCHEME.xcscheme"
-          grep -Fq \
+          if [[ ! -f "$XCODE_PROJECT/project.pbxproj" ]]; then
+            echo "ERROR: Missing $XCODE_PROJECT/project.pbxproj in $CM_BUILD_DIR." >&2
+            exit 1
+          fi
+          SCHEME_PATH="$XCODE_PROJECT/xcshareddata/xcschemes/$XCODE_SCHEME.xcscheme"
+          if [[ ! -f "$SCHEME_PATH" ]]; then
+            echo "ERROR: Missing shared scheme: $SCHEME_PATH. Commit this file to Git." >&2
+            exit 1
+          fi
+          if ! grep -Fq \
             -e "PRODUCT_BUNDLE_IDENTIFIER = \"$BUNDLE_ID\";" \
             -e "PRODUCT_BUNDLE_IDENTIFIER = $BUNDLE_ID;" \
-            "$XCODE_PROJECT/project.pbxproj"
+            "$XCODE_PROJECT/project.pbxproj"; then
+            echo "ERROR: Bundle ID $BUNDLE_ID was not found in $XCODE_PROJECT/project.pbxproj." >&2
+            exit 1
+          fi
+          echo "Verified $XCODE_PROJECT, shared scheme $XCODE_SCHEME and bundle ID $BUNDLE_ID."
 
       - name: Download bundled dance videos
         script: |

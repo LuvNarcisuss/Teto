@@ -1,5 +1,9 @@
 > Current UI architecture (2026-10-20): UIKit + Swift. See [UIKit migration](uikit-migration.md) for current source entry points, generated icons, service boundaries and unverified items. Earlier SwiftUI file inventories below are historical and have been superseded.
 
+## 2026-10-23 — Codemagic missing shared scheme
+
+The first configuration check failed because `Teto.xcodeproj/xcshareddata/xcschemes/teto.xcscheme` existed locally but was excluded from Git by a machine-wide `*.xcscheme` ignore rule. The previous local-only check missed this omission. Replaying the check against the committed project files reproduced exit code 1 at the shared-scheme check. The shared scheme is now included in the repository, with a repository ignore exception to keep it tracked. The preflight now prints specific errors for a missing project, missing shared scheme or mismatched Bundle ID. Validation uses the committed/staged project snapshot and static scheme-target references; no compilation, app execution, simulator, tests or cloud build was performed. Subsequent signing, archive and App Store delivery remain unverified.
+
 ## 2026-10-23 — Runtime media compression
 
 Runtime videos and images now total 191,984,945 bytes, down from 374,632,718 bytes (48.7%). All 46 videos use HEVC/hvc1 with the original dimensions, frame counts and presentation timestamps; existing audio payloads and packet timing are unchanged. Of 340 images, 302 became smaller and 38 retained their bytes. All 177 protected logo/icon assets retain identical decoded RGBA pixels. Design originals, catalog identities and practice cues remain unchanged. Earlier H.264 runtime and byte-identical logo-copy descriptions are superseded. Full media decoding, representative visual comparisons and static source/metadata checks only; no app build, app execution, simulator, tests or measured IPA size. See [runtime media compression](runtime-media-compression.md).
